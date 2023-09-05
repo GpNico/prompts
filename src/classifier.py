@@ -2,7 +2,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import os
-from sklearn.linear_model import LinearRegression, LogisticRegression
+from sklearn.linear_model import LogisticRegression
 import torch
 from torchmetrics.classification import BinaryStatScores
 import tqdm
@@ -16,6 +16,7 @@ class PromptClassifier:
                  model_name: str,
                  tokenizer,
                  device: str,
+                 batch_size: int,
                  cls: str):
         """
             Args:
@@ -23,12 +24,11 @@ class PromptClassifier:
                                           and AutoPrompt
                 tokenizer (HuggingFace tokenizer) 
                 device (str) useful for NLL & Perplexity and training a linear classifier.
-                cls (str) which classifier to use. Use only last nll, use NN, linear regression, etc.
+                cls (str) which classifier to use. Use only last nll, use NN, logistic regression, etc.
         """
         assert cls in ['last_nll', 
                        'last_perplexity',
                        'linear_nn',
-                       'linear_reg',
                        'logistic_reg']
         self.cls = cls
         
@@ -41,6 +41,7 @@ class PromptClassifier:
         self.model_name = model_name
         self.tokenizer = tokenizer
         self.metric = BinaryStatScores()
+        self.batch_size = batch_size
         
         # Useful 
         self.token2id = {} # The idea is that when tokenizing ##s for example (which is a token)
@@ -97,13 +98,90 @@ class PromptClassifier:
             )
         )
         plt.close()
+        return list(thresholds), fprs, tprs
     
-    def chose_best_threshold(self):
+    def chose_best_threshold(self, 
+                             dataset,
+                             tpr_coeff: float = 0.5) -> None:
         """
             Compute ROC Curve and set self.threshold
             to optimal one.
+            
+            The choice of a threshold depends on the importance of TPR and 
+            FPR classification problem. For example, if your classifier will 
+            decide which criminal suspects will receive a death sentence, 
+            false positives are very bad (innocents will be killed!). Thus 
+            you would choose a threshold that yields a low FPR while keeping 
+            a reasonable TPR (so you actually catch some true criminals). If 
+            there is no external concern about low TPR or high FPR, one option 
+            is to weight them equally by choosing the threshold that maximizes: 
+            TPR - FPR
+            
+            This is why we have tpr_coeff from 0 to 1. Equal importance for TPR and FPR
+            is tpr_coeff = 0.5
+            tpr_coeff * TPR - (1 - tpr_coeff) * FPR
+            
+            tpr_coeff = 1 -> more importance on TPR (high SENSITIVITY)
+            tpr_coeff = 0 -> more importance on - FPR, we want the smallest
+                             FPR possible (high SPECIFICITY) 
+.
         """
-        pass
+        thresholds, fprs, tprs = self.compute_roc_curve(dataset = dataset)
+        optimal_value = - np.inf
+        for k, thresh in enumerate(thresholds):
+            val = tpr_coeff * tprs[k] * (1 - tpr_coeff) * fprs[k]
+            if optimal_value < val:
+                self.threshold = thresh
+                self.tpr = tprs[k]
+                self.fpr = fprs[k]
+                optimal_value = val
+                
+        print(f"Optimal Threshold: {np.round(self.threshold, 3)}; \
+                TP Rate: {np.round(self.tpr, 3)}; \
+                FP Rate: {np.round(self.fpr, 3)}")
+        
+    def compute_prompt_proportion(self, n_tokens: int, n_eval: int) -> None:
+        """
+            We sample prompts of size n_tokens
+            and run them through the classifier.
+            This will give a proportion of prompts.
+            
+            Args:
+                n_tokens (int)
+                n_eval (int) number of prompts we will evaluate
+        """
+        
+        def promptIdsGen(max = 0):
+            n = 0
+            while n < max:
+                ids = np.random.choice(
+                            self.tokenizer.vocab_size, # I don't like that we can't skip special_tokens
+                            (self.batch_size,n_tokens), 
+                            replace = True
+                            )
+                yield torch.tensor(
+                        np.concatenate(
+                            (self.tokenizer.cls_token_id * np.ones(self.batch_size)[:,None], 
+                            ids, 
+                            self.tokenizer.sep_token_id * np.ones(self.batch_size)[:,None]), 
+                            axis = 1
+                            ),
+                        dtype = torch.long
+                        )
+                n+=1
+                
+        num_prompts = 0.
+        num_total_eval = 0.
+        for prompt_tok in tqdm.tqdm(promptIdsGen(max = n_eval), total = n_eval):
+            preds = self.predict(prompt_tok)
+            num_prompts += preds.sum().item()
+            num_total_eval += preds.shape[0] # a priori useless as the total will be n_eval*batch_size
+                                             # but you know...
+            
+        print(f"Classified {num_total_eval} Random Tokens Sequences.")
+        print(f"TP Rate: {np.round(self.tpr, 3)}; \
+                FP Rate: {np.round(self.fpr, 3)}")
+        print("Prompt Proportion Found: ", np.round(num_prompts/num_total_eval, 4))
     
     def train(self, dataset) -> None:
         """
@@ -122,10 +200,8 @@ class PromptClassifier:
             
             print("last_nll_mean ", self.last_nll_mean)
             return
-        elif self.cls in ['linear_reg', 'logistic_reg']:
-            if self.cls == 'linear_reg':
-                self.reg = LinearRegression()
-            elif self.cls == 'logistic_reg':
+        elif self.cls in ['logistic_reg']:
+            if self.cls == 'logistic_reg':
                 self.reg = LogisticRegression()
                 
             input_ids0 = dataset['0']
@@ -139,7 +215,7 @@ class PromptClassifier:
                            torch.ones(input_ids1.shape[0])))
             
             self.reg = self.reg.fit( X.numpy(), y.numpy() )
-            print("Linear Regression Training R^2: ", self.reg.score(X,y))
+            print("Logistic Regression Training R^2: ", self.reg.score(X,y))
         
         return
     
@@ -151,7 +227,7 @@ class PromptClassifier:
             Compute tp, fp, etc...
         """
         
-        if self.cls in ['last_nll', 'last_perplexity', 'linear_reg', 'logistic_reg']:
+        if self.cls in ['last_nll', 'last_perplexity', 'logistic_reg']:
             # non-prompt
             preds0 = self.predict(input_ids = dataset['0']) # shape (DS)
             targets0 = torch.zeros_like(preds0)
@@ -167,8 +243,6 @@ class PromptClassifier:
             # metrics
             res = self.metric(preds, targets)
             return {"tp": res[0].item(), "fp": res[1].item(), "tn": res[2].item(), "fn": res[3].item()}
-            
-        pass
     
     def predict(self, 
                 input_ids: torch.Tensor) -> torch.Tensor:
@@ -188,15 +262,7 @@ class PromptClassifier:
             elif self.cls == 'last_perplexity':
                 preds[torch.where( res['perplexity'][:,-2] < (1 - self.threshold)*self.last_nll_mean )[0]] = 1
             return preds
-        
-        elif self.cls == 'linear_reg':
-            
-            res = self._compute_nll_perplexity(input_ids = input_ids)
-            
-            preds = self.reg.predict( res['nll'][:,1:-1].numpy() )
-            
-            return 1.*(torch.tensor(preds) >= self.threshold)
-        
+
         elif self.cls == 'logistic_reg':
             
             res = self._compute_nll_perplexity(input_ids = input_ids)
@@ -204,9 +270,6 @@ class PromptClassifier:
             preds = self.reg.predict_proba( res['nll'][:,1:-1].numpy() )
             
             return 1.*(torch.tensor(preds) >= self.threshold)
-        
-        
-        pass
     
     def _compute_nll_perplexity(self, input_ids: torch.Tensor) -> dict:
         """

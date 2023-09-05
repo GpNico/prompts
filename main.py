@@ -68,6 +68,10 @@ if __name__ == '__main__':
     args = parser.parse_args()
     
     
+    if not('bert' in args.model_name):
+        raise Exception('Be careful mate, there is a lot of mask_token, sep_token references \
+                        which will be a pain to solve!')
+    
     ### Device, Model, Tokenizer ###
     
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -201,7 +205,8 @@ if __name__ == '__main__':
                             model_name = args.model_name,
                             tokenizer = tokenizer,
                             device = device,
-                            cls = args.cls
+                            cls = args.cls,
+                            batch_size = args.batch_size
                         )
         
         # Compute NLLs
@@ -211,14 +216,17 @@ if __name__ == '__main__':
         random_prompts_tok = cls.tokenize(random_prompts_list)
         autoprompt_tok = cls.tokenize(autoprompt_list)
         
-        if args.cls in ['last_nll', 'last_perplexity', 'linear_reg', 'logistic_reg']:
+        if args.cls in ['last_nll', 'last_perplexity', 'logistic_reg']:
             dataset = {'0': random_prompts_tok,
                        '1': autoprompt_tok}
             cls.train(dataset = dataset)
             
-        cls.compute_roc_curve(dataset = dataset)   
+        cls.chose_best_threshold(dataset = dataset)   
         
-        exit(0)
+        cls.compute_prompt_proportion(
+            n_tokens=args.n_tokens,
+            n_eval = 20
+            )
     
     ### Plot & Save Results ###
     
