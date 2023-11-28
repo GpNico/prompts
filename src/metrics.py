@@ -305,7 +305,7 @@ class MetricsWrapper:
             scores['P@100'] += ((labels_ids[:,1:2] == ids[:,:100]).any(axis = 1) * filter).sum().item()
             
             #scores['P@100'] += float(label_id in ids[0, :100])
-
+            
             total_eval += filter.sum().item() # count only the relevanrt rows
             
             relas_and_scores['rela'] += relas.to_list()
@@ -384,7 +384,7 @@ class MetricsWrapper:
         # Clustering
         true_labels = np.array([0]*embeds1.shape[0] + [1]*embeds2.shape[0])
         
-        kmeans = KMeans(n_clusters = 2, n_init="auto").fit(embeds_pca)
+        kmeans = KMeans(n_clusters = 2).fit(embeds_pca)
         kmeans_completeness = completeness_score(true_labels, kmeans.labels_)
         kmeans_homogeneity = homogeneity_score(true_labels, kmeans.labels_)
         

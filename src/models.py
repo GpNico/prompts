@@ -3,7 +3,7 @@
 
 import torch
 import torch.nn as nn
-from transformers import AutoConfig, AutoModelWithLMHead
+from transformers import AutoConfig, AutoModelForMaskedLM
 
 
 class ModelWrapper(nn.Module):
@@ -25,7 +25,7 @@ class ModelWrapper(nn.Module):
         
         # For now 
         config = AutoConfig.from_pretrained(model_name)
-        self.model = AutoModelWithLMHead.from_pretrained(model_name).to(device)
+        self.model = AutoModelForMaskedLM.from_pretrained(model_name).to(device)
         self.model.eval()
         
         
