@@ -1,0 +1,39 @@
+{"index":9,"relation":"P138","template":"[X] is vernoemd naar [Y]."}
+{"index":13,"relation":"P101","template":"[X] werkt op het gebied van [Y]."}
+{"index":41,"relation":"P495","template":"[X] is gemaakt in [Y]."}
+{"index":1,"relation":"P20","template":"[X] stierf in [Y]."}
+{"index":48,"relation":"place_of_death","template":"[X] stierf in [Y]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (geboren [Y])."}
+{"index":35,"relation":"P1303","template":"[X] speelt [Y]."}
+{"index":23,"relation":"P178","template":"[X] is ontwikkeld door [Y]."}
+{"index":27,"relation":"P108","template":"[X] werkt voor [Y]."}
+{"index":36,"relation":"P127","template":"[X] is eigendom van [Y]."}
+{"index":21,"relation":"P407","template":"[X] is geschreven in [Y]."}
+{"index":43,"relation":"P36","template":"Het kapitaal van [X] is [Y]."}
+{"index":39,"relation":"P1001","template":"[X] is een juridische term in [Y]."}
+{"index":18,"relation":"P530","template":"[X] onderhoudt diplomatieke betrekkingen met [Y]."}
+{"index":33,"relation":"P937","template":"[X] werkte vroeger in [Y]."}
+{"index":37,"relation":"P103","template":"De moedertaal van [X] is [Y]."}
+{"index":0,"relation":"P19","template":"[X] is geboren in [Y]."}
+{"index":40,"relation":"P31","template":"[X] is een [Y]."}
+{"index":24,"relation":"P1376","template":"[X] is de hoofdstad van [Y]."}
+{"index":2,"relation":"P279","template":"[X] is een subklasse van [Y]."}
+{"index":38,"relation":"P190","template":"[X] en [Y] zijn zustersteden."}
+{"index":17,"relation":"P102","template":"[X] is lid van de [Y] politieke partij."}
+{"index":12,"relation":"P463","template":"[X] is lid van [Y]."}
+{"index":5,"relation":"P166","template":"[X] kreeg de [Y]."}
+{"index":22,"relation":"P30","template":"[X] bevindt zich in [Y]."}
+{"index":4,"relation":"P413","template":"[X] speelt in de [Y] -positie."}
+{"index":29,"relation":"P17","template":"[X] bevindt zich in [Y]."}
+{"index":16,"relation":"P527","template":"[X] bestaat uit [Y]."}
+{"index":34,"relation":"P140","template":"[X] is aangesloten bij de [Y] religie."}
+{"index":42,"relation":"P159","template":"Het hoofdkantoor van [X] bevindt zich in [Y]."}
+{"index":44,"relation":"P740","template":"[X] is opgericht in [Y]."}
+{"index":3,"relation":"P37","template":"De offici\u00eble taal van [X] is [Y]."}
+{"index":32,"relation":"P276","template":"[X] bevindt zich in [Y]."}
+{"index":10,"relation":"P364","template":"De oorspronkelijke taal van [X] is [Y]."}
+{"index":19,"relation":"P176","template":"[X] wordt geproduceerd door [Y]."}
+{"index":31,"relation":"P264","template":"[X] wordt vertegenwoordigd door muzieklabel [Y]."}
+{"index":20,"relation":"P27","template":"[X] is [Y] burger."}
+{"index":8,"relation":"P47","template":"[X] deelt de grens met [Y]."}
+{"index":26,"relation":"P1412","template":"[X] communiceerde vroeger in [Y]."}

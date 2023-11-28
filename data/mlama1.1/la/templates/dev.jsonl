@@ -1,0 +1,10 @@
+{"index":3,"relation":"P37","template":"Officialis lingua est [X] autem [Y]."}
+{"index":23,"relation":"P178","template":"[X] est developed per [Y]."}
+{"index":14,"relation":"P1923","template":"[Y] participes quod [X]."}
+{"index":11,"relation":"P54","template":"[X] Cum plays [Y]."}
+{"index":48,"relation":"place_of_death","template":"[X] mortuus apud [Y]."}
+{"index":41,"relation":"P495","template":"[X] creatus in [Y]."}
+{"index":27,"relation":"P108","template":"[X] operatur ad [Y]."}
+{"index":8,"relation":"P47","template":"[X] Cum shares terminus [Y]."}
+{"index":47,"relation":"place_of_birth","template":"[X] natus est [Y]."}
+{"index":19,"relation":"P176","template":"[X] produci sit [Y]."}

@@ -31,10 +31,22 @@ class ModelWrapper(nn.Module):
         
     def forward(self,
                 input_ids: torch.Tensor = None, 
-                attention_mask: torch.Tensor = None):
+                attention_mask: torch.Tensor = None) -> torch.Tensor:
         
         if self.model_type == 'bert':
             logits = self.model(input_ids = input_ids,
                                 attention_mask = attention_mask).logits
             
         return logits
+    
+    def embedding(self,
+                  input_ids: torch.Tensor = None, 
+                  attention_mask: torch.Tensor = None) -> torch.Tensor:
+        
+        if self.model_type == 'bert':
+            outputs = self.model.bert(
+                                input_ids = input_ids,
+                                attention_mask = attention_mask
+                                )
+            
+        return outputs

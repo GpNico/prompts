@@ -1,0 +1,10 @@
+{"index":18,"relation":"P530","template":"[X] maintains diplomatic relations with [Y] ."}
+{"index":48,"relation":"place_of_death","template":"[X] died in [Y] ."}
+{"index":9,"relation":"P138","template":"[X] is named after [Y] ."}
+{"index":1,"relation":"P20","template":"[X] died in [Y] ."}
+{"index":24,"relation":"P1376","template":"[X] is the capital of [Y] ."}
+{"index":29,"relation":"P17","template":"[X] is located in [Y] ."}
+{"index":4,"relation":"P413","template":"[X] plays in [Y] position ."}
+{"index":35,"relation":"P1303","template":"[X] plays [Y] ."}
+{"index":46,"relation":"date_of_birth","template":"[X] (born [Y])."}
+{"index":38,"relation":"P190","template":"[X] and [Y] are twin cities ."}

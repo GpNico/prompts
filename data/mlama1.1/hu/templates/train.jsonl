@@ -1,0 +1,39 @@
+{"index":39,"relation":"P1001","template":"[X] jogi kifejez\u00e9s az [Y] -ben."}
+{"index":20,"relation":"P27","template":"[X] [Y] \u00e1llampolg\u00e1r."}
+{"index":15,"relation":"P106","template":"[X] szakma szerint [Y]."}
+{"index":44,"relation":"P740","template":"[X] -\u00e9t [Y] -ben alap\u00edtott\u00e1k."}
+{"index":21,"relation":"P407","template":"[X] -\u00e9t [Y] -ben \u00edrt\u00e1k."}
+{"index":46,"relation":"date_of_birth","template":"[X] (sz\u00fcletett [Y])."}
+{"index":3,"relation":"P37","template":"A [X] hivatalos nyelve [Y]."}
+{"index":18,"relation":"P530","template":"[X] diplom\u00e1ciai kapcsolatot tart fenn az [Y] -val."}
+{"index":2,"relation":"P279","template":"[X] az [Y] aloszt\u00e1lya."}
+{"index":38,"relation":"P190","template":"[X] \u00e9s [Y] ikerv\u00e1rosok."}
+{"index":41,"relation":"P495","template":"[X] j\u00f6tt l\u00e9tre az [Y] -ban."}
+{"index":26,"relation":"P1412","template":"[X] az [Y] nyelven t\u00f6rt\u00e9n\u0151 kommunik\u00e1ci\u00f3hoz haszn\u00e1lt."}
+{"index":9,"relation":"P138","template":"[X] elnevez\u00e9se [Y]."}
+{"index":19,"relation":"P176","template":"[X] -et [Y] \u00e1ll\u00edtja el\u0151."}
+{"index":1,"relation":"P20","template":"[X] [Y] -ben halt meg."}
+{"index":14,"relation":"P1923","template":"[Y] r\u00e9szt vett a [X] -ben."}
+{"index":36,"relation":"P127","template":"A [X] tulajdonosa az [Y]."}
+{"index":31,"relation":"P264","template":"[X] az [Y] zenei c\u00edmke k\u00e9pviseli."}
+{"index":35,"relation":"P1303","template":"[X] j\u00e1tszik [Y]."}
+{"index":45,"relation":"P361","template":"[X] az [Y] r\u00e9sze."}
+{"index":42,"relation":"P159","template":"[X] sz\u00e9khelye [Y] -ben tal\u00e1lhat\u00f3."}
+{"index":16,"relation":"P527","template":"[X] jelent\u00e9se [Y]."}
+{"index":43,"relation":"P36","template":"[X] f\u0151v\u00e1rosa [Y]."}
+{"index":6,"relation":"P449","template":"[X] -\u00e9t eredetileg [Y] -on adt\u00e1k."}
+{"index":34,"relation":"P140","template":"[X] kapcsol\u00f3dik az [Y] vall\u00e1shoz."}
+{"index":22,"relation":"P30","template":"[X] az [Y] -ban tal\u00e1lhat\u00f3."}
+{"index":33,"relation":"P937","template":"[X] szokott dolgozni [Y] -ben."}
+{"index":13,"relation":"P101","template":"[X] az [Y] ter\u00fclet\u00e9n m\u0171k\u00f6dik."}
+{"index":27,"relation":"P108","template":"[X] az [Y] sz\u00e1m\u00e1ra m\u0171k\u00f6dik."}
+{"index":11,"relation":"P54","template":"[X] az [Y] -val j\u00e1tszik."}
+{"index":12,"relation":"P463","template":"[X] az [Y] tagja."}
+{"index":48,"relation":"place_of_death","template":"[X] [Y] -ben halt meg."}
+{"index":5,"relation":"P166","template":"Az [X] az [Y] lett."}
+{"index":17,"relation":"P102","template":"[X] az [Y] politikai p\u00e1rt tagja."}
+{"index":8,"relation":"P47","template":"[X] megosztja a hat\u00e1r\u00e1t az [Y] -nel."}
+{"index":24,"relation":"P1376","template":"[X] az [Y] f\u0151v\u00e1rosa."}
+{"index":32,"relation":"P276","template":"[X] az [Y] -ban tal\u00e1lhat\u00f3."}
+{"index":7,"relation":"P69","template":"[X] az [Y] Egyetemen tanult."}
+{"index":0,"relation":"P19","template":"[X] [Y] -ben sz\u00fcletett."}

@@ -1,0 +1,39 @@
+{"index":28,"relation":"P136","template":"[X] \u064a\u0639\u0632\u0641 \u0645\u0648\u0633\u064a\u0642\u0649 [Y]."}
+{"index":29,"relation":"P17","template":"\u064a\u0642\u0639 [X] \u0641\u064a [Y]."}
+{"index":27,"relation":"P108","template":"[X] \u064a\u0639\u0645\u0644 \u0645\u0639 [Y]."}
+{"index":33,"relation":"P937","template":"[X] \u0643\u0627\u0646 \u064a\u0639\u0645\u0644 \u0641\u064a [Y]."}
+{"index":10,"relation":"P364","template":"\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0623\u0635\u0644\u064a\u0629 \u0644\u0640 [X] \u0647\u064a [Y]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (\u0648\u0644\u062f [Y])."}
+{"index":23,"relation":"P178","template":"\u062a\u0645 \u062a\u0637\u0648\u064a\u0631 [X] \u0628\u0648\u0627\u0633\u0637\u0629 [Y]."}
+{"index":31,"relation":"P264","template":"[X] \u064a\u0645\u062b\u0644\u0647\u0627 \u0627\u0644\u0639\u0644\u0627\u0645\u0629 \u0627\u0644\u0645\u0648\u0633\u064a\u0642\u064a\u0629 [Y]."}
+{"index":32,"relation":"P276","template":"\u064a\u0642\u0639 [X] \u0641\u064a [Y]."}
+{"index":7,"relation":"P69","template":"[X] \u062a\u0644\u0642\u0649 \u062a\u0639\u0644\u064a\u0645\u0647 \u0641\u064a \u062c\u0627\u0645\u0639\u0629 [Y]."}
+{"index":36,"relation":"P127","template":"[X] \u0645\u0644\u0643 [Y]."}
+{"index":16,"relation":"P527","template":"\u064a\u062a\u0643\u0648\u0646 [X] \u0645\u0646 [Y]."}
+{"index":2,"relation":"P279","template":"[X] \u0647\u064a \u0641\u0626\u0629 \u0641\u0631\u0639\u064a\u0629 \u0645\u0646 [Y]."}
+{"index":47,"relation":"place_of_birth","template":"[X] \u0648\u0644\u062f \u0641\u064a [Y]."}
+{"index":15,"relation":"P106","template":"[X] \u0647\u064a [Y] \u062d\u0633\u0628 \u0627\u0644\u0645\u0647\u0646\u0629."}
+{"index":9,"relation":"P138","template":"\u062a\u0645 \u062a\u0633\u0645\u064a\u0629 [X] \u0628\u0627\u0633\u0645 [Y]."}
+{"index":19,"relation":"P176","template":"\u064a\u062a\u0645 \u0625\u0646\u062a\u0627\u062c [X] \u0628\u0648\u0627\u0633\u0637\u0629 [Y]."}
+{"index":42,"relation":"P159","template":"\u064a\u0642\u0639 \u0627\u0644\u0645\u0642\u0631 \u0627\u0644\u0631\u0626\u064a\u0633\u064a \u0644\u0640 [X] \u0641\u064a [Y]."}
+{"index":4,"relation":"P413","template":"\u064a\u0644\u0639\u0628 [X] \u0641\u064a \u0645\u0648\u0636\u0639 [Y]."}
+{"index":39,"relation":"P1001","template":"[X] \u0647\u0648 \u0645\u0635\u0637\u0644\u062d \u0642\u0627\u0646\u0648\u0646\u064a \u0641\u064a [Y]."}
+{"index":37,"relation":"P103","template":"\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0623\u0635\u0644\u064a\u0629 \u0644\u0640 [X] \u0647\u064a [Y]."}
+{"index":41,"relation":"P495","template":"\u062a\u0645 \u0625\u0646\u0634\u0627\u0621 [X] \u0641\u064a [Y]."}
+{"index":12,"relation":"P463","template":"[X] \u0639\u0636\u0648 \u0641\u064a [Y]."}
+{"index":0,"relation":"P19","template":"\u0648\u0644\u062f [X] \u0641\u064a [Y]."}
+{"index":30,"relation":"P39","template":"[X] \u0644\u0647\u0627 \u0645\u0631\u0643\u0632 [Y]."}
+{"index":38,"relation":"P190","template":"[X] \u0648 [Y] \u0645\u062f\u064a\u0646\u062a\u0627\u0646 \u062a\u0648\u0623\u0645\u062a\u0627\u0646."}
+{"index":6,"relation":"P449","template":"\u062a\u0645 \u0628\u062b [X] \u0641\u064a \u0627\u0644\u0623\u0635\u0644 \u0639\u0644\u0649 [Y]."}
+{"index":24,"relation":"P1376","template":"[X] \u0647\u064a \u0639\u0627\u0635\u0645\u0629 [Y]."}
+{"index":48,"relation":"place_of_death","template":"\u0645\u0627\u062a [X] \u0641\u064a [Y]."}
+{"index":40,"relation":"P31","template":"[X] \u0647\u064a [Y]."}
+{"index":20,"relation":"P27","template":"[X] \u0645\u0648\u0627\u0637\u0646 [Y]."}
+{"index":3,"relation":"P37","template":"\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0631\u0633\u0645\u064a\u0629 \u0644\u0640 [X] \u0647\u064a [Y]."}
+{"index":1,"relation":"P20","template":"\u062a\u0648\u0641\u064a [X] \u0641\u064a [Y]."}
+{"index":17,"relation":"P102","template":"[X] \u0639\u0636\u0648 \u0641\u064a \u0627\u0644\u062d\u0632\u0628 \u0627\u0644\u0633\u064a\u0627\u0633\u064a [Y]."}
+{"index":8,"relation":"P47","template":"[X] \u062a\u0634\u062a\u0631\u0643 \u0641\u064a \u0627\u0644\u062d\u062f\u0648\u062f \u0645\u0639 [Y]."}
+{"index":13,"relation":"P101","template":"[X] \u064a\u0639\u0645\u0644 \u0641\u064a \u0645\u062c\u0627\u0644 [Y]."}
+{"index":26,"relation":"P1412","template":"\u064a\u0633\u062a\u062e\u062f\u0645 [X] \u0644\u0644\u062a\u0648\u0627\u0635\u0644 \u0641\u064a [Y]."}
+{"index":21,"relation":"P407","template":"\u062a\u0645 \u0643\u062a\u0627\u0628\u0629 [X] \u0641\u064a [Y]."}
+{"index":11,"relation":"P54","template":"\u064a\u0644\u0639\u0628 [X] \u0645\u0639 [Y]."}

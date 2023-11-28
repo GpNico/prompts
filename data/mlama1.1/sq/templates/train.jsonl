@@ -1,0 +1,39 @@
+{"index":19,"relation":"P176","template":"[X] prodhohet nga [Y]."}
+{"index":32,"relation":"P276","template":"[X] ndodhet n\u00eb [Y]."}
+{"index":14,"relation":"P1923","template":"[Y] mori pjes\u00eb n\u00eb [X]."}
+{"index":26,"relation":"P1412","template":"[X] p\u00ebrdoret p\u00ebr t\u00eb komunikuar n\u00eb [Y]."}
+{"index":40,"relation":"P31","template":"[X] \u00ebsht\u00eb nj\u00eb [Y]."}
+{"index":10,"relation":"P364","template":"Gjuha origjinale e [X] \u00ebsht\u00eb [Y]."}
+{"index":17,"relation":"P102","template":"[X] \u00ebsht\u00eb an\u00ebtar i partis\u00eb [Y] politike."}
+{"index":1,"relation":"P20","template":"[X] vdiq n\u00eb [Y]."}
+{"index":39,"relation":"P1001","template":"[X] \u00ebsht\u00eb nj\u00eb term juridik n\u00eb [Y]."}
+{"index":3,"relation":"P37","template":"Gjuha zyrtare e [X] \u00ebsht\u00eb [Y]."}
+{"index":5,"relation":"P166","template":"[X] iu dha [Y]."}
+{"index":31,"relation":"P264","template":"[X] p\u00ebrfaq\u00ebsohet nga etiketa muzikore [Y]."}
+{"index":33,"relation":"P937","template":"[X] m\u00eb par\u00eb punonte n\u00eb [Y]."}
+{"index":4,"relation":"P413","template":"[X] luan n\u00eb pozicionin [Y]."}
+{"index":38,"relation":"P190","template":"[X] dhe [Y] jan\u00eb qytete binjake."}
+{"index":6,"relation":"P449","template":"[X] u transmetua fillimisht n\u00eb [Y]."}
+{"index":13,"relation":"P101","template":"[X] punon n\u00eb fush\u00ebn e [Y]."}
+{"index":7,"relation":"P69","template":"[X] ishte arsimuar n\u00eb Universitetin e [Y]."}
+{"index":9,"relation":"P138","template":"[X] \u00ebsht\u00eb em\u00ebruar pas [Y]."}
+{"index":23,"relation":"P178","template":"[X] \u00ebsht\u00eb zhvilluar nga [Y]."}
+{"index":21,"relation":"P407","template":"[X] u shkrua n\u00eb [Y]."}
+{"index":41,"relation":"P495","template":"[X] u krijua n\u00eb [Y]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (i lindur [Y])."}
+{"index":11,"relation":"P54","template":"[X] luan me [Y]."}
+{"index":25,"relation":"P131","template":"[X] ndodhet n\u00eb [Y]."}
+{"index":15,"relation":"P106","template":"[X] \u00ebsht\u00eb nj\u00eb [Y] me profesion."}
+{"index":2,"relation":"P279","template":"[X] \u00ebsht\u00eb nj\u00eb n\u00ebnklas\u00eb e [Y]."}
+{"index":12,"relation":"P463","template":"[X] \u00ebsht\u00eb an\u00ebtar i [Y]."}
+{"index":20,"relation":"P27","template":"[X] \u00ebsht\u00eb [Y] qytetar."}
+{"index":42,"relation":"P159","template":"Selia e [X] \u00ebsht\u00eb n\u00eb [Y]."}
+{"index":44,"relation":"P740","template":"[X] u themelua n\u00eb [Y]."}
+{"index":35,"relation":"P1303","template":"[X] luan [Y]."}
+{"index":0,"relation":"P19","template":"[X] lindi n\u00eb [Y]."}
+{"index":45,"relation":"P361","template":"[X] \u00ebsht\u00eb pjes\u00eb e [Y]."}
+{"index":18,"relation":"P530","template":"[X] mban marr\u00ebdh\u00ebnie diplomatike me [Y]."}
+{"index":36,"relation":"P127","template":"[X] \u00ebsht\u00eb n\u00eb pron\u00ebsi t\u00eb [Y]."}
+{"index":30,"relation":"P39","template":"[X] ka pozicionin e [Y]."}
+{"index":28,"relation":"P136","template":"[X] interpreton [Y] muzik\u00eb."}
+{"index":27,"relation":"P108","template":"[X] punon p\u00ebr [Y]."}

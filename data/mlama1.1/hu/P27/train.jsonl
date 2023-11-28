@@ -1,0 +1,371 @@
+{"index":115,"sub_uri":"Q4711036","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Albert Prefontaine","lineid":242,"uuid":"eed42021-08e0-4feb-97bf-38f5168bfdf0"}
+{"index":357,"sub_uri":"Q814440","obj_uri":"Q222","obj_label":"Alb\u00e1nia","sub_label":"Behar Shtylla","lineid":730,"uuid":"74cf2cee-9860-4bc9-a1d9-c7c4882f8366"}
+{"index":325,"sub_uri":"Q210069","obj_uri":"Q1036","obj_label":"Uganda","sub_label":"Milton Obote","lineid":646,"uuid":"7ef961df-017a-43a7-bdd2-6fc97aea4960"}
+{"index":413,"sub_uri":"Q152260","obj_uri":"Q35","obj_label":"D\u00e1nia","sub_label":"D\u00e1niai Alexandra brit kir\u00e1lyn\u00e9","lineid":851,"uuid":"f908f57f-d647-4f86-8a28-461e120f5ee5"}
+{"index":214,"sub_uri":"Q6809571","obj_uri":"Q43","obj_label":"T\u00f6r\u00f6korsz\u00e1g","sub_label":"Mehmet Ali Aybar","lineid":431,"uuid":"2e629042-4cf0-40f0-a214-2b60bedb9142"}
+{"index":384,"sub_uri":"Q5432","obj_uri":"Q29","obj_label":"Spanyolorsz\u00e1g","sub_label":"Francisco Jos\u00e9 de Goya y Lucientes","lineid":790,"uuid":"ca53048c-9450-42cd-ac08-f868bf4de5b6"}
+{"index":346,"sub_uri":"Q312280","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Alain Corneau","lineid":703,"uuid":"fbc7ea58-ed24-45be-9ae7-5ac99f5d90d6"}
+{"index":212,"sub_uri":"Q456077","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Kumiko Ogura","lineid":428,"uuid":"105fd60a-c96b-49b2-b9d0-1cd2480e0865"}
+{"index":80,"sub_uri":"Q7436908","obj_uri":"Q408","obj_label":"Ausztr\u00e1lia","sub_label":"Scott Morrison","lineid":162,"uuid":"cbc5499e-e2cf-49c8-abfc-52dde16f9f59"}
+{"index":77,"sub_uri":"Q705966","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Yohann Diniz","lineid":158,"uuid":"3771e267-52d3-41f4-b4d5-a2cfe9856e7e"}
+{"index":284,"sub_uri":"Q1319237","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Ikki Kajiwara","lineid":568,"uuid":"a3401185-45a0-46d0-b78d-4833da1a586a"}
+{"index":327,"sub_uri":"Q2002136","obj_uri":"Q218","obj_label":"Rom\u00e1nia","sub_label":"Gheorghe Cantacuzino","lineid":653,"uuid":"543809c7-2816-4480-9bfa-83e64f9c8fe2"}
+{"index":12,"sub_uri":"Q7426","obj_uri":"Q801","obj_label":"Izrael","sub_label":"Ada Jonat","lineid":18,"uuid":"2a248259-234b-47c8-bd3e-7bf5f55b8bb7"}
+{"index":11,"sub_uri":"Q740244","obj_uri":"Q35","obj_label":"D\u00e1nia","sub_label":"Thomas Bo Larsen","lineid":16,"uuid":"2de1881f-2c04-4bc4-abd6-221c8ee8449c"}
+{"index":87,"sub_uri":"Q287027","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Sola Aoi","lineid":179,"uuid":"bff77c8f-e9eb-41fd-8924-99c5e99be42c"}
+{"index":246,"sub_uri":"Q7207","obj_uri":"Q179876","obj_label":"Angol Kir\u00e1lys\u00e1g","sub_label":"I. Erzs\u00e9bet","lineid":499,"uuid":"0182355e-c5d4-484a-b07c-1420c5b1e0f1"}
+{"index":351,"sub_uri":"Q5525036","obj_uri":"Q928","obj_label":"F\u00fcl\u00f6p-szigetek","sub_label":"Gary Estrada","lineid":714,"uuid":"36ad3c0d-60d3-436d-b898-fdf931964b19"}
+{"index":409,"sub_uri":"Q585987","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Antoine Danchet","lineid":845,"uuid":"1e70418a-1d21-4c68-97f6-aeb1b0cb72bb"}
+{"index":460,"sub_uri":"Q523592","obj_uri":"Q35","obj_label":"D\u00e1nia","sub_label":"Paul Hammerich","lineid":957,"uuid":"682f14fe-f5f5-4ece-9ee5-ee0d8fda1c5b"}
+{"index":445,"sub_uri":"Q981447","obj_uri":"Q31","obj_label":"Belgium","sub_label":"Jean-Pierre Van Rossem","lineid":932,"uuid":"2ed7891a-32fc-493f-8f9a-8f02335ce5d7"}
+{"index":82,"sub_uri":"Q240136","obj_uri":"Q414","obj_label":"Argent\u00edna","sub_label":"Norma Aleandro","lineid":167,"uuid":"ee5c7be8-d6c5-44b0-a789-32202c1f34cd"}
+{"index":297,"sub_uri":"Q236507","obj_uri":"Q801","obj_label":"Izrael","sub_label":"Linor Abargil","lineid":592,"uuid":"9757070e-b251-4507-a636-34636f7b2b65"}
+{"index":441,"sub_uri":"Q80956","obj_uri":"Q34","obj_label":"Sv\u00e9dorsz\u00e1g","sub_label":"Svante August Arrhenius","lineid":925,"uuid":"3435484f-ed86-42c6-b9fe-79c84df92beb"}
+{"index":312,"sub_uri":"Q3179676","obj_uri":"Q27","obj_label":"\u00cdrorsz\u00e1g","sub_label":"Joanne King","lineid":622,"uuid":"64838cd8-e755-40db-8ff0-a27826e21812"}
+{"index":21,"sub_uri":"Q36174","obj_uri":"Q29","obj_label":"Spanyolorsz\u00e1g","sub_label":"II. K\u00e1roly spanyol kir\u00e1ly","lineid":40,"uuid":"18cd5689-48b6-444b-8d61-7b146651b161"}
+{"index":378,"sub_uri":"Q926616","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Martinez de Pasqually","lineid":779,"uuid":"f38e7830-97f2-4956-8e85-5ece0b27c60d"}
+{"index":252,"sub_uri":"Q2427665","obj_uri":"Q414","obj_label":"Argent\u00edna","sub_label":"Brenda Asnicar","lineid":507,"uuid":"27707743-84ee-468f-9b99-f563eefa32c3"}
+{"index":134,"sub_uri":"Q231023","obj_uri":"Q40","obj_label":"Ausztria","sub_label":"Andrea Fischbacher","lineid":283,"uuid":"d1a27986-4f77-4c90-abe5-51260ca81a8c"}
+{"index":92,"sub_uri":"Q36014","obj_uri":"Q881","obj_label":"Vietn\u00e1m","sub_label":"Ho Si Minh","lineid":190,"uuid":"97a4e2a3-2089-478c-8680-518f5d8c527e"}
+{"index":204,"sub_uri":"Q5811","obj_uri":"Q38","obj_label":"Olaszorsz\u00e1g","sub_label":"Masaccio","lineid":406,"uuid":"857e244e-5f52-4785-b258-923eef340006"}
+{"index":293,"sub_uri":"Q183492","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Margaret Atwood","lineid":585,"uuid":"0ae3d79c-6d1b-4f8f-83ae-b0aaca72d180"}
+{"index":319,"sub_uri":"Q90514","obj_uri":"Q40","obj_label":"Ausztria","sub_label":"Susan Denberg","lineid":636,"uuid":"6fee114a-0e01-4c11-9e07-e281c1122f83"}
+{"index":168,"sub_uri":"Q14945623","obj_uri":"Q179876","obj_label":"Angol Kir\u00e1lys\u00e1g","sub_label":"Nicholas Hyde","lineid":347,"uuid":"a1ef59a0-8951-4424-99a0-cf2c82b8695c"}
+{"index":13,"sub_uri":"Q371331","obj_uri":"Q736","obj_label":"Ecuador","sub_label":"Arturo Rodas","lineid":21,"uuid":"0f3b8ef4-14f0-4b00-87e5-8e4164916202"}
+{"index":59,"sub_uri":"Q2978302","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Claude d'Annebault","lineid":115,"uuid":"531e97c0-7b74-4ebb-977f-44ebb255f1a2"}
+{"index":248,"sub_uri":"Q177320","obj_uri":"Q711","obj_label":"Mong\u00f3lia","sub_label":"H\u00fcleg\u00fc ilh\u00e1n","lineid":501,"uuid":"831eeeca-c790-4c3f-a729-41f9ecbcc56d"}
+{"index":176,"sub_uri":"Q718411","obj_uri":"Q31","obj_label":"Belgium","sub_label":"Kevin Pauwels","lineid":359,"uuid":"b753df3f-fe59-4a6e-9488-5f4b48c40e66"}
+{"index":20,"sub_uri":"Q251210","obj_uri":"Q29","obj_label":"Spanyolorsz\u00e1g","sub_label":"Rosario Flores","lineid":37,"uuid":"8ed25b51-4b08-42a1-852c-1daae1424dda"}
+{"index":5,"sub_uri":"Q434670","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Woodrow Lloyd","lineid":8,"uuid":"466841b3-fed5-4e88-ad0c-617cd06c6b3b"}
+{"index":262,"sub_uri":"Q232214","obj_uri":"Q96","obj_label":"Mexik\u00f3","sub_label":"Julieta Venegas","lineid":523,"uuid":"11577185-e126-4f27-a1ff-6facf971ab9c"}
+{"index":448,"sub_uri":"Q3545632","obj_uri":"Q27","obj_label":"\u00cdrorsz\u00e1g","sub_label":"Austin Currie","lineid":941,"uuid":"3dde0cfd-d95f-4913-8413-7be76c02781d"}
+{"index":96,"sub_uri":"Q57863","obj_uri":"Q232","obj_label":"Kazahszt\u00e1n","sub_label":"Serik Ajmetov","lineid":197,"uuid":"6748a8e9-b648-4161-a077-33343848ced8"}
+{"index":414,"sub_uri":"Q491134","obj_uri":"Q20","obj_label":"Norv\u00e9gia","sub_label":"Anders Lange","lineid":854,"uuid":"34ef8d47-2854-435d-8e64-cfe1510b2e1f"}
+{"index":298,"sub_uri":"Q450229","obj_uri":"Q843","obj_label":"Pakiszt\u00e1n","sub_label":"Aly Khan herceg","lineid":594,"uuid":"1301b5e2-5bee-47d6-87e8-3e848a918950"}
+{"index":452,"sub_uri":"Q2863336","obj_uri":"Q790","obj_label":"Haiti","sub_label":"Arnold Antonin","lineid":947,"uuid":"78767f63-48c5-4c17-80d2-b0dfde1d57a7"}
+{"index":177,"sub_uri":"Q963307","obj_uri":"Q96","obj_label":"Mexik\u00f3","sub_label":"Miguel Barbachano","lineid":360,"uuid":"52601683-f1c3-44e9-a285-e3f494173aab"}
+{"index":131,"sub_uri":"Q456481","obj_uri":"Q34","obj_label":"Sv\u00e9dorsz\u00e1g","sub_label":"Eva Henning","lineid":278,"uuid":"7d7801dd-f1d8-4de1-8dc8-fca422ca3641"}
+{"index":272,"sub_uri":"Q966694","obj_uri":"Q35","obj_label":"D\u00e1nia","sub_label":"Mark Strudal","lineid":541,"uuid":"f0188b70-5590-4fab-ac3a-598ebcfa46c2"}
+{"index":38,"sub_uri":"Q861003","obj_uri":"Q733","obj_label":"Paraguay","sub_label":"Eduardo Schaerer","lineid":78,"uuid":"df583a60-e9a8-40f4-a65a-cff765960ee3"}
+{"index":281,"sub_uri":"Q453007","obj_uri":"Q739","obj_label":"Kolumbia","sub_label":"Santiago Botero","lineid":561,"uuid":"aa3b0e3a-18eb-4243-87c2-93cbb30e5e1b"}
+{"index":278,"sub_uri":"Q253640","obj_uri":"Q34","obj_label":"Sv\u00e9dorsz\u00e1g","sub_label":"Maud Olofsson","lineid":553,"uuid":"7a807314-0067-442e-af3f-2a0e20b4cc88"}
+{"index":361,"sub_uri":"Q117448","obj_uri":"Q39","obj_label":"Sv\u00e1jc","sub_label":"Luigi Snozzi","lineid":736,"uuid":"e497a946-8d58-4bdc-8053-a3a8e0b7105f"}
+{"index":132,"sub_uri":"Q924545","obj_uri":"Q36","obj_label":"Lengyelorsz\u00e1g","sub_label":"Jean de Reszke","lineid":279,"uuid":"69802844-51e8-43b0-a70d-5c73a949248f"}
+{"index":434,"sub_uri":"Q741623","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Hiroshi Teshigahara","lineid":909,"uuid":"c894b8c4-68d4-44ab-8493-66a9544868c2"}
+{"index":147,"sub_uri":"Q2159676","obj_uri":"Q96","obj_label":"Mexik\u00f3","sub_label":"Bernardo Reyes garza","lineid":308,"uuid":"9f5d9605-d3f4-42e1-bb76-c47a8fb1d498"}
+{"index":15,"sub_uri":"Q846086","obj_uri":"Q96","obj_label":"Mexik\u00f3","sub_label":"Marlene Favela","lineid":30,"uuid":"fdbba4bd-7e89-4295-a92f-ad6cbf0cf777"}
+{"index":173,"sub_uri":"Q362136","obj_uri":"Q214","obj_label":"Szlov\u00e1kia","sub_label":"Peter Velits","lineid":355,"uuid":"29a320d3-7f51-4890-bfe6-3acceee5fc0f"}
+{"index":303,"sub_uri":"Q310439","obj_uri":"Q179876","obj_label":"Angol Kir\u00e1lys\u00e1g","sub_label":"George Fox","lineid":601,"uuid":"80ffe00f-1b03-4c8c-b4c8-3efcd14b7fd6"}
+{"index":403,"sub_uri":"Q3045927","obj_uri":"Q790","obj_label":"Haiti","sub_label":"Robert Malval","lineid":831,"uuid":"a854a01b-a3f8-4bc4-96b9-78873e2f3104"}
+{"index":428,"sub_uri":"Q4913680","obj_uri":"Q668","obj_label":"India","sub_label":"Bimal Jalan","lineid":887,"uuid":"e3b8d305-3294-4199-ba10-54d437225d7e"}
+{"index":386,"sub_uri":"Q57306","obj_uri":"Q41470","obj_label":"Kurdiszt\u00e1n","sub_label":"Dzsal\u00e1l Talab\u00e1ni","lineid":795,"uuid":"7a47754f-a722-4d39-a8af-598e002bb515"}
+{"index":291,"sub_uri":"Q4992193","obj_uri":"Q35","obj_label":"D\u00e1nia","sub_label":"Kristian Levring","lineid":583,"uuid":"73016721-5139-4b6c-8788-792e21d9d4d3"}
+{"index":50,"sub_uri":"Q266827","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Mathieu Bodmer","lineid":97,"uuid":"0a3a5508-9c26-4992-8c86-533d64e73c3e"}
+{"index":17,"sub_uri":"Q921021","obj_uri":"Q222","obj_label":"Alb\u00e1nia","sub_label":"Leka Zogu","lineid":32,"uuid":"260e1a7f-fa26-4159-924f-761f0748d8e1"}
+{"index":169,"sub_uri":"Q714039","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Matsukata Masayoshi","lineid":350,"uuid":"0457c36a-2978-41d9-b71e-fbae6594685d"}
+{"index":130,"sub_uri":"Q1445724","obj_uri":"Q179876","obj_label":"Angol Kir\u00e1lys\u00e1g","sub_label":"Thomas Wentworth, 1st Baron Wentworth","lineid":276,"uuid":"75997540-dfc8-4892-a97b-9fef49afefa3"}
+{"index":410,"sub_uri":"Q2620543","obj_uri":"Q117","obj_label":"Gh\u00e1na","sub_label":"Abubakari Yakubu","lineid":847,"uuid":"4077d31c-3771-4168-bb23-ecead9157f5f"}
+{"index":415,"sub_uri":"Q311442","obj_uri":"Q183","obj_label":"N\u00e9metorsz\u00e1g","sub_label":"Lajos Ferdin\u00e1nd porosz herceg","lineid":855,"uuid":"7379f87f-4498-4cb1-9edc-26e3b20de128"}
+{"index":324,"sub_uri":"Q2260745","obj_uri":"Q117","obj_label":"Gh\u00e1na","sub_label":"Augustine Ahinful","lineid":643,"uuid":"c914ab87-380f-4e3e-8784-6089d249de55"}
+{"index":392,"sub_uri":"Q57806","obj_uri":"Q41","obj_label":"G\u00f6r\u00f6gorsz\u00e1g","sub_label":"Antonis Samar\u00e1s","lineid":813,"uuid":"da500660-97da-49fd-85db-da91e810b819"}
+{"index":402,"sub_uri":"Q170071","obj_uri":"Q183","obj_label":"N\u00e9metorsz\u00e1g","sub_label":"Josef Albers","lineid":830,"uuid":"01444491-7a4f-4f20-9320-7702ae6dd38c"}
+{"index":193,"sub_uri":"Q975642","obj_uri":"Q928","obj_label":"F\u00fcl\u00f6p-szigetek","sub_label":"Jose de Venecia","lineid":389,"uuid":"721427a3-8b2e-4adb-ae10-5b57abff8e46"}
+{"index":436,"sub_uri":"Q609626","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Larbi Benbarek","lineid":916,"uuid":"9245f334-ac84-4d34-91d0-f50080eaf53a"}
+{"index":454,"sub_uri":"Q2086655","obj_uri":"Q36","obj_label":"Lengyelorsz\u00e1g","sub_label":"Jan Dydak","lineid":950,"uuid":"0cc078c3-e28e-418d-8094-130bbde89011"}
+{"index":453,"sub_uri":"Q128686","obj_uri":"Q16","obj_label":"Kanada","sub_label":"John Sparrow David Thompson","lineid":949,"uuid":"4f86e51b-5b05-4246-af14-88c8e0509daa"}
+{"index":81,"sub_uri":"Q599840","obj_uri":"Q28","obj_label":"Magyarorsz\u00e1g","sub_label":"Trauner S\u00e1ndor","lineid":166,"uuid":"7f65bbf7-4666-49e6-aadb-d6c6586f3681"}
+{"index":333,"sub_uri":"Q1566859","obj_uri":"Q79","obj_label":"Egyiptom","sub_label":"Habib el-Adly","lineid":670,"uuid":"6ea6742a-3c51-4247-8574-a4be2d8b4def"}
+{"index":219,"sub_uri":"Q3247240","obj_uri":"Q27","obj_label":"\u00cdrorsz\u00e1g","sub_label":"John Mitchel","lineid":440,"uuid":"69bf16d1-f1cf-40be-b824-6bc779d92b57"}
+{"index":425,"sub_uri":"Q312391","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Philippe Leclerc de Hauteclocque","lineid":882,"uuid":"deeb5382-bfb9-4a66-b456-2827f3d13347"}
+{"index":189,"sub_uri":"Q131581","obj_uri":"Q179876","obj_label":"Angol Kir\u00e1lys\u00e1g","sub_label":"V. Henrik angol kir\u00e1ly","lineid":381,"uuid":"bf6b8877-fb32-47e1-b8cb-a0463fbae49b"}
+{"index":200,"sub_uri":"Q1340699","obj_uri":"Q212","obj_label":"Ukrajna","sub_label":"Viktor Mihajlovics Pincsuk","lineid":400,"uuid":"e05ee4c5-4bf0-41d0-9861-f41b48e5adfa"}
+{"index":417,"sub_uri":"Q137727","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Tojoda Szakicsi","lineid":861,"uuid":"16af2cea-c098-4509-8dd2-0568844e8898"}
+{"index":286,"sub_uri":"Q1260","obj_uri":"Q40","obj_label":"Ausztria","sub_label":"Kurt Waldheim","lineid":574,"uuid":"46ff44f7-ee62-4fb6-8b8f-9dcdbd427252"}
+{"index":442,"sub_uri":"Q6064863","obj_uri":"Q668","obj_label":"India","sub_label":"Rabi Ray","lineid":927,"uuid":"0a36ceaf-db75-48a1-bb1a-fbdc7d434723"}
+{"index":121,"sub_uri":"Q5562800","obj_uri":"Q27","obj_label":"\u00cdrorsz\u00e1g","sub_label":"Meiert Avis","lineid":255,"uuid":"94a89f1b-6b8a-4962-a0f8-27a2e842ddd5"}
+{"index":39,"sub_uri":"Q983533","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Jean Bobet","lineid":80,"uuid":"aae58537-b4fd-4237-a483-93e7fa37f009"}
+{"index":224,"sub_uri":"Q76606","obj_uri":"Q183","obj_label":"N\u00e9metorsz\u00e1g","sub_label":"Carl Bosch","lineid":446,"uuid":"6609e76a-2ab3-4cfb-b6a9-b898661cf5d1"}
+{"index":231,"sub_uri":"Q267010","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Tomoko Kawase","lineid":464,"uuid":"a26275da-8d9c-4f8e-8a59-bccfe4b6fc0d"}
+{"index":56,"sub_uri":"Q5081998","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Charles Rhodes Smith","lineid":109,"uuid":"808541dc-00af-48ba-ba19-2c1ad430f374"}
+{"index":70,"sub_uri":"Q66008","obj_uri":"Q183","obj_label":"N\u00e9metorsz\u00e1g","sub_label":"Edelgard Bulmahn","lineid":139,"uuid":"73130104-9c00-4b49-b463-f7658704fa25"}
+{"index":237,"sub_uri":"Q2045095","obj_uri":"Q668","obj_label":"India","sub_label":"Shanta Kumar","lineid":481,"uuid":"b8a49a71-4f97-4dcd-9f67-1263f7fffc63"}
+{"index":444,"sub_uri":"Q298581","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Jules Janssen","lineid":931,"uuid":"3ff71987-6fad-42ab-9dd7-b8fa0fb91c3d"}
+{"index":158,"sub_uri":"Q240386","obj_uri":"Q33","obj_label":"Finnorsz\u00e1g","sub_label":"Katri Helena","lineid":328,"uuid":"289883ac-b6c7-40c1-9d5a-c36a90d6c9ec"}
+{"index":112,"sub_uri":"Q962765","obj_uri":"Q948","obj_label":"Tun\u00e9zia","sub_label":"Tarak Ben Ammar","lineid":231,"uuid":"aae5df05-55fc-4ce3-b7be-6288e1614e74"}
+{"index":64,"sub_uri":"Q1957965","obj_uri":"Q212","obj_label":"Ukrajna","sub_label":"Mykola Tomenko","lineid":127,"uuid":"5d30ffe0-0fd9-480c-bf8a-de851d7de535"}
+{"index":74,"sub_uri":"Q39444","obj_uri":"Q155","obj_label":"Braz\u00edlia","sub_label":"Ronaldinho","lineid":148,"uuid":"34681c55-829a-4ff9-83ec-279bd60fa563"}
+{"index":129,"sub_uri":"Q75845","obj_uri":"Q183","obj_label":"N\u00e9metorsz\u00e1g","sub_label":"Friedrich Bessel","lineid":272,"uuid":"e6534605-dcaa-4479-ba66-19f7e84982c4"}
+{"index":311,"sub_uri":"Q440472","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Sachiko Kobayashi","lineid":616,"uuid":"398e04af-a5df-4345-a40e-65e7e12b75a3"}
+{"index":208,"sub_uri":"Q472310","obj_uri":"Q865","obj_label":"K\u00ednai K\u00f6zt\u00e1rsas\u00e1g","sub_label":"Frank Hsieh","lineid":419,"uuid":"7f460d7c-070e-4e6a-b1e8-2994427162de"}
+{"index":223,"sub_uri":"Q553819","obj_uri":"Q35","obj_label":"D\u00e1nia","sub_label":"Gabriel Axel","lineid":444,"uuid":"fa97fed1-b8bd-49c0-9b11-3b0931a5ae61"}
+{"index":128,"sub_uri":"Q3374242","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Peggy Nash","lineid":265,"uuid":"5047ca62-1246-4c12-a2e0-1311f8a64025"}
+{"index":349,"sub_uri":"Q381794","obj_uri":"Q31","obj_label":"Belgium","sub_label":"Gert Steegmans","lineid":712,"uuid":"8aa76e7d-0699-447c-9434-9c69c0842078"}
+{"index":296,"sub_uri":"Q312553","obj_uri":"Q668","obj_label":"India","sub_label":"Nathuram Godsze","lineid":591,"uuid":"efa546ce-9b10-4781-87df-b1f8eca6568f"}
+{"index":27,"sub_uri":"Q704197","obj_uri":"Q219","obj_label":"Bulg\u00e1ria","sub_label":"Lyuben Berov","lineid":53,"uuid":"a0475f89-4b74-4b6d-b9e9-7ad9ac6ab29e"}
+{"index":228,"sub_uri":"Q975465","obj_uri":"Q408","obj_label":"Ausztr\u00e1lia","sub_label":"Nikki Webster","lineid":454,"uuid":"a25309ca-2b8f-4010-b50e-a097e324b4fe"}
+{"index":135,"sub_uri":"Q7228701","obj_uri":"Q668","obj_label":"India","sub_label":"Poonam Sinha","lineid":284,"uuid":"60c4d19e-5b6f-4f79-a91b-4d7990dd0086"}
+{"index":316,"sub_uri":"Q2678115","obj_uri":"Q33","obj_label":"Finnorsz\u00e1g","sub_label":"Elastinen","lineid":629,"uuid":"a6bf5937-dd36-4289-a95b-42db43cb8077"}
+{"index":25,"sub_uri":"Q704326","obj_uri":"Q212","obj_label":"Ukrajna","sub_label":"Borys Kolesnikov","lineid":48,"uuid":"a1cf74e5-867f-47b3-9677-22b610fd4342"}
+{"index":68,"sub_uri":"Q555578","obj_uri":"Q96","obj_label":"Mexik\u00f3","sub_label":"Roberto G\u00f3mez Bola\u00f1os","lineid":133,"uuid":"92ba8723-6a3a-4d5a-ada7-1f9951441e87"}
+{"index":334,"sub_uri":"Q3189630","obj_uri":"Q790","obj_label":"Haiti","sub_label":"Julien Raimond","lineid":672,"uuid":"8fbd58ed-2290-4613-92e2-4588ee89b7bc"}
+{"index":213,"sub_uri":"Q118936","obj_uri":"Q29","obj_label":"Spanyolorsz\u00e1g","sub_label":"Rafael Alberti","lineid":429,"uuid":"7dc67076-8003-420f-8ac5-49727d93e631"}
+{"index":178,"sub_uri":"Q450347","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Urata Takesi","lineid":361,"uuid":"bf13b59e-3e6c-4b4d-b247-39269e1887f3"}
+{"index":400,"sub_uri":"Q151312","obj_uri":"Q35","obj_label":"D\u00e1nia","sub_label":"IX. Frigyes d\u00e1n kir\u00e1ly","lineid":828,"uuid":"d91d9c60-4d33-4d0a-af72-9b0126dff9e5"}
+{"index":221,"sub_uri":"Q52926","obj_uri":"Q34","obj_label":"Sv\u00e9dorsz\u00e1g","sub_label":"I. Oszk\u00e1r sv\u00e9d kir\u00e1ly","lineid":442,"uuid":"52032e04-eb06-4953-88b4-9b369db338cc"}
+{"index":455,"sub_uri":"Q587408","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Gabriel-Marie Garrone","lineid":951,"uuid":"88083d91-6dfa-4761-b1b2-139da675f2aa"}
+{"index":164,"sub_uri":"Q3291011","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Maria Mourani","lineid":342,"uuid":"54327522-9dc3-499e-afad-8aeafb5ef968"}
+{"index":318,"sub_uri":"Q470023","obj_uri":"Q35","obj_label":"D\u00e1nia","sub_label":"Helle Virkner","lineid":635,"uuid":"0a8006a4-cf85-4b93-a7e7-6d3f6c1bfec5"}
+{"index":227,"sub_uri":"Q969726","obj_uri":"Q38","obj_label":"Olaszorsz\u00e1g","sub_label":"Massimiliano Fuksas","lineid":453,"uuid":"df10258e-5626-4231-abd6-850ffc5d5c28"}
+{"index":370,"sub_uri":"Q724074","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Florent Brard","lineid":758,"uuid":"1ac81fdb-3f2e-42fa-a262-29e6cae5801b"}
+{"index":37,"sub_uri":"Q312827","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Fumihiko Maki","lineid":72,"uuid":"345403dc-8c80-45cc-af91-5920325c92d7"}
+{"index":352,"sub_uri":"Q6248253","obj_uri":"Q408","obj_label":"Ausztr\u00e1lia","sub_label":"John McPherson","lineid":715,"uuid":"55d28168-232f-40b5-8928-b9e34d98c044"}
+{"index":207,"sub_uri":"Q229383","obj_uri":"Q399","obj_label":"\u00d6rm\u00e9nyorsz\u00e1g","sub_label":"Sirusho","lineid":415,"uuid":"b18b31fe-df1e-4afa-8f7b-a5daab9a3e0b"}
+{"index":187,"sub_uri":"Q162306","obj_uri":"Q837","obj_label":"Nep\u00e1l","sub_label":"Birendra nep\u00e1li kir\u00e1ly","lineid":378,"uuid":"22193033-5500-4406-900d-0e0ef554614c"}
+{"index":194,"sub_uri":"Q5660580","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Harold Edward Winch","lineid":390,"uuid":"5dbed17b-2db8-4d97-9bf8-a7f78f6e290b"}
+{"index":348,"sub_uri":"Q160349","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"VI. K\u00e1roly francia kir\u00e1ly","lineid":708,"uuid":"d04246d2-e7bc-426b-b7e9-789b9cafad90"}
+{"index":102,"sub_uri":"Q1679677","obj_uri":"Q36","obj_label":"Lengyelorsz\u00e1g","sub_label":"Jakub Kubicki","lineid":211,"uuid":"324d709f-b03f-41cf-8217-39feb8e6aa5c"}
+{"index":226,"sub_uri":"Q354695","obj_uri":"Q1033","obj_label":"Nig\u00e9ria","sub_label":"Yakubu Gowon","lineid":451,"uuid":"376b6817-9c63-457b-a7e2-2de0cfe187f3"}
+{"index":438,"sub_uri":"Q2651052","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Harumi Inoue","lineid":920,"uuid":"a7fe8d7f-18ab-420c-a075-e2b64867fe87"}
+{"index":449,"sub_uri":"Q442280","obj_uri":"Q408","obj_label":"Ausztr\u00e1lia","sub_label":"Lara Giddings","lineid":942,"uuid":"713d63c7-9d56-42e4-a3f1-3b346364cb0a"}
+{"index":241,"sub_uri":"Q1851465","obj_uri":"Q31","obj_label":"Belgium","sub_label":"Yves Sente","lineid":490,"uuid":"ed4de463-0dca-4938-872d-1b4ce4a78f61"}
+{"index":254,"sub_uri":"Q5424044","obj_uri":"Q20","obj_label":"Norv\u00e9gia","sub_label":"F.S. Platou","lineid":509,"uuid":"0deca52d-6c05-4b65-b393-5e13aae96ca9"}
+{"index":289,"sub_uri":"Q530187","obj_uri":"Q35","obj_label":"D\u00e1nia","sub_label":"Nina van Pallandt","lineid":578,"uuid":"6ab0c203-eb1f-451d-a639-287104818be2"}
+{"index":427,"sub_uri":"Q350744","obj_uri":"Q801","obj_label":"Izrael","sub_label":"Iser Har'el","lineid":884,"uuid":"3ef31a81-efd0-44d8-8e2e-32f703f2859c"}
+{"index":141,"sub_uri":"Q64164","obj_uri":"Q34","obj_label":"Sv\u00e9dorsz\u00e1g","sub_label":"Lisa Ekdahl","lineid":299,"uuid":"c91bb770-8e70-48db-803b-ade1932bb5a2"}
+{"index":57,"sub_uri":"Q237002","obj_uri":"Q96","obj_label":"Mexik\u00f3","sub_label":"Ana Gabriela Guevara","lineid":110,"uuid":"6c8a2595-5fb7-41d5-9ac3-0add5810e886"}
+{"index":332,"sub_uri":"Q65989","obj_uri":"Q40","obj_label":"Ausztria","sub_label":"Wolfgang Pauli","lineid":669,"uuid":"662885ee-bb12-4e1d-bfa1-f6a5370b8f0c"}
+{"index":186,"sub_uri":"Q521817","obj_uri":"Q159","obj_label":"Oroszorsz\u00e1g","sub_label":"Jan Alekszandrovics Nyepomnyascsij","lineid":377,"uuid":"94cada86-1026-4d2f-8d7c-9b09520563bc"}
+{"index":107,"sub_uri":"Q3356974","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Oscar Drouin","lineid":219,"uuid":"690f3810-7095-4adf-9e67-ea39f8ec3542"}
+{"index":422,"sub_uri":"Q521729","obj_uri":"Q1041","obj_label":"Szeneg\u00e1l","sub_label":"Cheikh Anta Diop","lineid":874,"uuid":"bcfcbb22-a9ac-40fa-aef9-9a113dba59f4"}
+{"index":389,"sub_uri":"Q3065693","obj_uri":"Q29","obj_label":"Spanyolorsz\u00e1g","sub_label":"Lucas de Tuy","lineid":805,"uuid":"07349b19-457d-4362-a1ca-ffa7d3af19ff"}
+{"index":273,"sub_uri":"Q5858604","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Stephen Low","lineid":548,"uuid":"3aaf4aa4-5107-4e7c-9d8d-433c5d797eaf"}
+{"index":405,"sub_uri":"Q260947","obj_uri":"Q38","obj_label":"Olaszorsz\u00e1g","sub_label":"Giorgia","lineid":840,"uuid":"86b5e877-7c84-421d-befe-84b74efeef15"}
+{"index":175,"sub_uri":"Q117096","obj_uri":"Q928","obj_label":"F\u00fcl\u00f6p-szigetek","sub_label":"Ram\u00f3n Magsaysay","lineid":357,"uuid":"862a2dbb-6cd8-4800-bca2-9048a053692f"}
+{"index":377,"sub_uri":"Q57360","obj_uri":"Q846","obj_label":"Katar","sub_label":"Hamad ibn Hal\u00edfa \u00c1l T\u00e1ni","lineid":778,"uuid":"d0cdbd0e-c199-4db7-a6b8-da21817d778c"}
+{"index":1,"sub_uri":"Q3573865","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Yves Mirande","lineid":1,"uuid":"9f7f59e2-aac4-4952-9600-87e21904a3a2"}
+{"index":251,"sub_uri":"Q3177152","obj_uri":"Q41","obj_label":"G\u00f6r\u00f6gorsz\u00e1g","sub_label":"Tzeni Karezi","lineid":506,"uuid":"04f12daf-6b43-4760-a3eb-41f78f8a2159"}
+{"index":330,"sub_uri":"Q948042","obj_uri":"Q211","obj_label":"Lettorsz\u00e1g","sub_label":"Aleksejs Saramotins","lineid":665,"uuid":"4044cbd4-3e96-4c9b-8e41-1e3bbdae2bb4"}
+{"index":58,"sub_uri":"Q40722","obj_uri":"Q155","obj_label":"Braz\u00edlia","sub_label":"Dilma Rousseff","lineid":113,"uuid":"4ba84e9b-828d-4fdb-858f-9a38a151d6b6"}
+{"index":359,"sub_uri":"Q4895636","obj_uri":"Q408","obj_label":"Ausztr\u00e1lia","sub_label":"Bertie Johnston","lineid":734,"uuid":"9799eb16-ef32-448a-8193-2950375b31ab"}
+{"index":14,"sub_uri":"Q615","obj_uri":"Q414","obj_label":"Argent\u00edna","sub_label":"Lionel Messi","lineid":23,"uuid":"4d58dc55-f3ae-435c-b024-05788571e2fb"}
+{"index":179,"sub_uri":"Q471087","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Patrick Fiori","lineid":362,"uuid":"e8d201e0-c254-4807-997d-80780f0dbaf0"}
+{"index":217,"sub_uri":"Q981256","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Alexandre Astruc","lineid":438,"uuid":"8cca8285-7ab4-4d3f-b3c2-fbb090b2a32d"}
+{"index":218,"sub_uri":"Q315565","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Kiichi Miyazawa","lineid":439,"uuid":"40c3c716-b323-4a20-b629-6d7bf7d77fd3"}
+{"index":88,"sub_uri":"Q339232","obj_uri":"Q869","obj_label":"Thaif\u00f6ld","sub_label":"Rangsit Prayurasakdi","lineid":180,"uuid":"c4bcf7d4-0581-4b79-9f25-dffe404a95c0"}
+{"index":60,"sub_uri":"Q4133638","obj_uri":"Q36","obj_label":"Lengyelorsz\u00e1g","sub_label":"Juliusz Gardan","lineid":116,"uuid":"84c41afb-e1ed-43bf-8da6-a430fd2bdd47"}
+{"index":55,"sub_uri":"Q1264222","obj_uri":"Q218","obj_label":"Rom\u00e1nia","sub_label":"Duiliu Zamfirescu","lineid":106,"uuid":"0d41d049-74f0-44b1-a749-1547d29e8f9c"}
+{"index":443,"sub_uri":"Q47904","obj_uri":"Q38","obj_label":"Olaszorsz\u00e1g","sub_label":"Mario Monti","lineid":930,"uuid":"47d32796-a898-44bb-a851-53e7b6a8b70e"}
+{"index":153,"sub_uri":"Q457089","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Audrey Fleurot","lineid":317,"uuid":"c01c1b18-c73b-480d-bc8b-b67d27bc62b2"}
+{"index":335,"sub_uri":"Q6219328","obj_uri":"Q16","obj_label":"Kanada","sub_label":"John Archibald Maharg","lineid":675,"uuid":"7518dd0f-53c3-49c3-9c78-35bc735f8877"}
+{"index":148,"sub_uri":"Q319321","obj_uri":"Q41","obj_label":"G\u00f6r\u00f6gorsz\u00e1g","sub_label":"Georgiosz Papanikolaou","lineid":311,"uuid":"3dfb322c-142c-4665-8d62-27e8ad638661"}
+{"index":172,"sub_uri":"Q738635","obj_uri":"Q40","obj_label":"Ausztria","sub_label":"Kurt Schuschnigg","lineid":354,"uuid":"8afa40ed-07c8-4d3d-a06b-c8b45b89dd09"}
+{"index":6,"sub_uri":"Q2993602","obj_uri":"Q1033","obj_label":"Nig\u00e9ria","sub_label":"Namadi Sambo","lineid":9,"uuid":"0c0786c0-6285-41ca-a88b-f1cd0bbc155f"}
+{"index":419,"sub_uri":"Q55636","obj_uri":"Q29","obj_label":"Spanyolorsz\u00e1g","sub_label":"Miguel Hidalgo y Costilla","lineid":864,"uuid":"9502e591-5ba9-45e1-9262-dcdbd1f25859"}
+{"index":304,"sub_uri":"Q639579","obj_uri":"Q183","obj_label":"N\u00e9metorsz\u00e1g","sub_label":"Egid Quirin Asam","lineid":602,"uuid":"90002135-bb13-4c98-a9fa-223a4234527f"}
+{"index":259,"sub_uri":"Q16016122","obj_uri":"Q39","obj_label":"Sv\u00e1jc","sub_label":"Karl Enderlin","lineid":517,"uuid":"11b889e0-84d5-489a-8c09-a4627b8450cf"}
+{"index":238,"sub_uri":"Q554730","obj_uri":"Q218","obj_label":"Rom\u00e1nia","sub_label":"Dimitrie Sturdza","lineid":483,"uuid":"cf3fd44e-a082-4a5f-8319-75292d48a6b6"}
+{"index":185,"sub_uri":"Q140074","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Zadoc Kahn","lineid":375,"uuid":"0fcf1a29-7696-4070-83e5-3cdb7da3af42"}
+{"index":34,"sub_uri":"Q1343721","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Satoshi Tsumabuki","lineid":68,"uuid":"e79d9f7a-66f7-4c7d-bdcb-26537f10caa7"}
+{"index":280,"sub_uri":"Q19281444","obj_uri":"Q217","obj_label":"Moldova","sub_label":"Chiril Gaburici","lineid":556,"uuid":"e5a39450-a61e-4bb1-b059-23510426ac05"}
+{"index":399,"sub_uri":"Q3155643","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Izzy Asper","lineid":827,"uuid":"1d6ba3ac-e629-411f-83d4-18605bebe886"}
+{"index":356,"sub_uri":"Q711801","obj_uri":"Q179876","obj_label":"Angol Kir\u00e1lys\u00e1g","sub_label":"Art\u00far walesi herceg","lineid":728,"uuid":"0107acf8-634b-4346-b418-73fac9b8274d"}
+{"index":242,"sub_uri":"Q706445","obj_uri":"Q34","obj_label":"Sv\u00e9dorsz\u00e1g","sub_label":"Sven Delblanc","lineid":491,"uuid":"4e5d1401-a76a-4eb5-b37b-8bf5dba995db"}
+{"index":122,"sub_uri":"Q327414","obj_uri":"Q262","obj_label":"Alg\u00e9ria","sub_label":"Rabah Bitat","lineid":256,"uuid":"0713e87b-14e0-477e-959e-a468b7993720"}
+{"index":463,"sub_uri":"Q1522599","obj_uri":"Q38","obj_label":"Olaszorsz\u00e1g","sub_label":"Gianni Ferrio","lineid":963,"uuid":"06540168-7fa8-46b5-a953-cf9236586678"}
+{"index":196,"sub_uri":"Q2478524","obj_uri":"Q20","obj_label":"Norv\u00e9gia","sub_label":"Gunnar Thoresen","lineid":393,"uuid":"f1c86ae9-aa6c-40c4-b0ca-2e7920c6b765"}
+{"index":387,"sub_uri":"Q236630","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Marcel Pagnol","lineid":801,"uuid":"356f1e80-ba11-4254-a4ae-dabd8c87b604"}
+{"index":215,"sub_uri":"Q6122010","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Jag Bhaduria","lineid":432,"uuid":"903dfb99-cdfb-4cd7-b769-2eb3e33d0e35"}
+{"index":310,"sub_uri":"Q1216039","obj_uri":"Q155","obj_label":"Braz\u00edlia","sub_label":"Coelho Neto","lineid":615,"uuid":"a20628c7-cae9-40cd-9c77-29f855257ca7"}
+{"index":202,"sub_uri":"Q1117059","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Dominic Seiterle","lineid":404,"uuid":"ac35debe-3d04-4f24-adce-63c4e821a3f7"}
+{"index":62,"sub_uri":"Q5303717","obj_uri":"Q219","obj_label":"Bulg\u00e1ria","sub_label":"Doychin Vasilev","lineid":122,"uuid":"4e4c6442-545b-46df-aa8c-1cc523d4d986"}
+{"index":461,"sub_uri":"Q314006","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Guy Mollet","lineid":958,"uuid":"609cdb29-37dc-479f-a847-80c792522041"}
+{"index":301,"sub_uri":"Q357116","obj_uri":"Q796","obj_label":"Irak","sub_label":"Adil Abdul-Mahdi","lineid":599,"uuid":"7d9d41bb-f631-4b05-92e9-a4527bcb6cdf"}
+{"index":3,"sub_uri":"Q242691","obj_uri":"Q35","obj_label":"D\u00e1nia","sub_label":"Erzs\u00e9bet d\u00e1n hercegn\u0151","lineid":3,"uuid":"7c2a4ef4-0a59-4d98-bc41-b68353c58691"}
+{"index":457,"sub_uri":"Q62206","obj_uri":"Q183","obj_label":"N\u00e9metorsz\u00e1g","sub_label":"Egon Bahr","lineid":954,"uuid":"a5ec28bb-1176-4147-85e1-6ddd17cd86e8"}
+{"index":435,"sub_uri":"Q281640","obj_uri":"Q55","obj_label":"Hollandia","sub_label":"Rutger Jan Schimmelpenninck","lineid":911,"uuid":"6ca07396-771c-49e1-b586-d915ae4451af"}
+{"index":99,"sub_uri":"Q2723448","obj_uri":"Q843","obj_label":"Pakiszt\u00e1n","sub_label":"Qazi Hussain Ahmad","lineid":200,"uuid":"00edcf9d-4b5b-47b2-9ac2-2398578088b5"}
+{"index":93,"sub_uri":"Q7916641","obj_uri":"Q217","obj_label":"Moldova","sub_label":"Vasile Stati","lineid":191,"uuid":"369582b0-a800-4708-9e98-281b1c7862fa"}
+{"index":220,"sub_uri":"Q462124","obj_uri":"Q31","obj_label":"Belgium","sub_label":"Blanche Delacroix","lineid":441,"uuid":"af6dfd03-eec6-422a-986b-db9edb739f62"}
+{"index":265,"sub_uri":"Q1235967","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Canterburyi Szent \u00d6d\u00f6n","lineid":527,"uuid":"70968b18-3320-4cc3-b005-81fa8f5daa08"}
+{"index":424,"sub_uri":"Q956953","obj_uri":"Q218","obj_label":"Rom\u00e1nia","sub_label":"Manolache Costache Epureanu","lineid":880,"uuid":"2de5fecf-1cb9-4bf7-a6e8-7b7c0ef62d76"}
+{"index":257,"sub_uri":"Q257713","obj_uri":"Q212","obj_label":"Ukrajna","sub_label":"Viktorija Olekszandrivna Szemerenko","lineid":515,"uuid":"3272cb42-e8f3-47cf-ba0a-6ee65be1b225"}
+{"index":411,"sub_uri":"Q313153","obj_uri":"Q20","obj_label":"Norv\u00e9gia","sub_label":"V. Haakon norv\u00e9g kir\u00e1ly","lineid":848,"uuid":"4293ed0f-584a-42da-bf44-a3fa5eca30ee"}
+{"index":397,"sub_uri":"Q779006","obj_uri":"Q222","obj_label":"Alb\u00e1nia","sub_label":"Maliq Bushati","lineid":823,"uuid":"ed2ca81e-09c0-48b4-965f-b89d755e22c2"}
+{"index":300,"sub_uri":"Q257881","obj_uri":"Q35","obj_label":"D\u00e1nia","sub_label":"Ritt Bjerregaard","lineid":598,"uuid":"fcce2192-f30f-4171-831f-998fab2afbd7"}
+{"index":243,"sub_uri":"Q318940","obj_uri":"Q211","obj_label":"Lettorsz\u00e1g","sub_label":"Andris Piebalgs","lineid":492,"uuid":"616392b2-adfd-4770-a946-cf4f3ea76890"}
+{"index":432,"sub_uri":"Q3911","obj_uri":"Q31","obj_label":"Belgium","sub_label":"II. Albert belga kir\u00e1ly","lineid":902,"uuid":"b7bdaa47-db3e-45cc-9baf-c4de02c8765d"}
+{"index":197,"sub_uri":"Q171897","obj_uri":"Q38","obj_label":"Olaszorsz\u00e1g","sub_label":"Felice Bonetto","lineid":394,"uuid":"a2b851eb-a976-46e1-9f4b-ada2ec2f6f5c"}
+{"index":127,"sub_uri":"Q30755","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Auguste Rodin","lineid":262,"uuid":"58f880c5-d66c-4612-a49c-c4222c4718a6"}
+{"index":322,"sub_uri":"Q2750","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Bourvil","lineid":641,"uuid":"8d18514b-1f7f-4c0e-95e2-9988fd931db5"}
+{"index":350,"sub_uri":"Q363392","obj_uri":"Q822","obj_label":"Libanon","sub_label":"Michel Aoun","lineid":713,"uuid":"dc24eaf7-2ea6-4bc0-b67d-260082008949"}
+{"index":205,"sub_uri":"Q1703440","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Paul Duchesnay","lineid":410,"uuid":"bca7bf8c-54b7-4000-b4f5-52521c854a2f"}
+{"index":285,"sub_uri":"Q4714679","obj_uri":"Q96","obj_label":"Mexik\u00f3","sub_label":"Alex Sirvent","lineid":570,"uuid":"64e27897-6124-4fd2-9ff5-9419e0940401"}
+{"index":264,"sub_uri":"Q5257826","obj_uri":"Q252","obj_label":"Indon\u00e9zia","sub_label":"Rizal Nurdin","lineid":526,"uuid":"19ef2917-7435-4395-8ab6-c7c27d831310"}
+{"index":347,"sub_uri":"Q907625","obj_uri":"Q739","obj_label":"Kolumbia","sub_label":"Jorge Enrique Abello","lineid":707,"uuid":"f5f32406-c8dd-42a0-9d68-ceb57a3e081f"}
+{"index":225,"sub_uri":"Q8013121","obj_uri":"Q16","obj_label":"Kanada","sub_label":"William Ivens","lineid":450,"uuid":"18d8ff3d-9f09-40cd-8a57-3d13c84dc2e9"}
+{"index":458,"sub_uri":"Q581376","obj_uri":"Q35","obj_label":"D\u00e1nia","sub_label":"Ole Ritter","lineid":955,"uuid":"7d9a64a4-265f-4dd7-ab7d-1cdbb60c2d68"}
+{"index":49,"sub_uri":"Q702651","obj_uri":"Q214","obj_label":"Szlov\u00e1kia","sub_label":"Rudolf Viest","lineid":95,"uuid":"80c3843b-c2ab-4ec5-a9b6-bd90c5b1c1a2"}
+{"index":321,"sub_uri":"Q1075854","obj_uri":"Q766","obj_label":"Jamaica","sub_label":"Tommy McCook","lineid":638,"uuid":"56012a21-573c-4436-a33a-c0ae0fefc2b2"}
+{"index":65,"sub_uri":"Q339785","obj_uri":"Q96","obj_label":"Mexik\u00f3","sub_label":"Imanol Landeta","lineid":129,"uuid":"58fe4ddf-01dd-412e-81d0-bbc30ffbc1be"}
+{"index":391,"sub_uri":"Q730344","obj_uri":"Q28","obj_label":"Magyarorsz\u00e1g","sub_label":"Cs\u00e1ky J\u00f3zsef","lineid":810,"uuid":"6cf076e9-5fa3-4ed2-9ee0-0cfe7ae388f8"}
+{"index":430,"sub_uri":"Q56189","obj_uri":"Q34","obj_label":"Sv\u00e9dorsz\u00e1g","sub_label":"Lise Meitner","lineid":896,"uuid":"c5a62baa-6119-48ea-bef8-2a3604eeebef"}
+{"index":253,"sub_uri":"Q49746","obj_uri":"Q31","obj_label":"Belgium","sub_label":"Michel de Ghelderode","lineid":508,"uuid":"ce47f60f-5672-4b43-a7f8-8c483be54ac2"}
+{"index":195,"sub_uri":"Q378839","obj_uri":"Q36","obj_label":"Lengyelorsz\u00e1g","sub_label":"David Janowski","lineid":391,"uuid":"cd136010-3c29-4c1c-bf8e-a34065e11748"}
+{"index":156,"sub_uri":"Q359300","obj_uri":"Q796","obj_label":"Irak","sub_label":"Jawad al-Bulani","lineid":324,"uuid":"5d122822-a433-4786-b9ed-2c0164d47943"}
+{"index":416,"sub_uri":"Q557665","obj_uri":"Q28","obj_label":"Magyarorsz\u00e1g","sub_label":"Kasztner Rezs\u0151","lineid":860,"uuid":"7bcb053e-8f59-4c18-a78c-438281e553cb"}
+{"index":150,"sub_uri":"Q774937","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Araki Kae","lineid":313,"uuid":"d8dbe6e3-c5ec-4d4c-b69c-e3c00c2a7d62"}
+{"index":247,"sub_uri":"Q708887","obj_uri":"Q408","obj_label":"Ausztr\u00e1lia","sub_label":"Arthur Calwell","lineid":500,"uuid":"0d0c067c-987e-4196-b409-98a2300dce38"}
+{"index":16,"sub_uri":"Q4665485","obj_uri":"Q833","obj_label":"Malajzia","sub_label":"Abdul Khalid Ibrahim","lineid":31,"uuid":"596ac057-3602-46b9-8bc2-be92a93f718e"}
+{"index":40,"sub_uri":"Q2918453","obj_uri":"Q218","obj_label":"Rom\u00e1nia","sub_label":"Ioan Dragalina","lineid":81,"uuid":"ed78e417-5de5-44d9-ae74-124feeec4ef1"}
+{"index":8,"sub_uri":"Q1265605","obj_uri":"Q179876","obj_label":"Angol Kir\u00e1lys\u00e1g","sub_label":"Humphrey Stafford, Buckingham hercege","lineid":13,"uuid":"e409281a-91d5-4eea-a3d0-def3f8ec7884"}
+{"index":63,"sub_uri":"Q72205","obj_uri":"Q183","obj_label":"N\u00e9metorsz\u00e1g","sub_label":"Albrecht Weber","lineid":125,"uuid":"6fbb8142-f6c4-47e1-a24f-802c50000c2a"}
+{"index":209,"sub_uri":"Q208258","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"France Gall","lineid":420,"uuid":"34382014-402a-48bf-a305-a6192294a38e"}
+{"index":376,"sub_uri":"Q126188","obj_uri":"Q179876","obj_label":"Angol Kir\u00e1lys\u00e1g","sub_label":"II. Jakab angol kir\u00e1ly","lineid":777,"uuid":"e2c0e5f8-d753-40d6-b78b-e2cad222d1d4"}
+{"index":32,"sub_uri":"Q311548","obj_uri":"Q408","obj_label":"Ausztr\u00e1lia","sub_label":"Arthur Phillip","lineid":64,"uuid":"4aedbf0e-3f23-45a5-9726-f60614cb2f34"}
+{"index":222,"sub_uri":"Q381700","obj_uri":"Q41","obj_label":"G\u00f6r\u00f6gorsz\u00e1g","sub_label":"P\u00e1l g\u00f6r\u00f6g koronaherceg","lineid":443,"uuid":"1c3849d7-0b05-4acc-b45c-0844bc83ce48"}
+{"index":358,"sub_uri":"Q3362531","obj_uri":"Q31","obj_label":"Belgium","sub_label":"Pierre Daye","lineid":731,"uuid":"0f1dc1ed-2dba-4967-a27d-e09cde79dba7"}
+{"index":341,"sub_uri":"Q2821694","obj_uri":"Q794","obj_label":"Ir\u00e1n","sub_label":"Abolfazl Jalili","lineid":686,"uuid":"a0a938bb-e3c4-4b1e-bf8a-de2afea5bb58"}
+{"index":110,"sub_uri":"Q6211786","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Joe Peschisolido","lineid":228,"uuid":"1f196939-8070-4cd7-bf0a-76ca67491e0b"}
+{"index":191,"sub_uri":"Q268099","obj_uri":"Q38","obj_label":"Olaszorsz\u00e1g","sub_label":"Veronica Lario","lineid":384,"uuid":"ec87a858-91c6-4314-9f38-8de5a0884f2d"}
+{"index":188,"sub_uri":"Q75866","obj_uri":"Q183","obj_label":"N\u00e9metorsz\u00e1g","sub_label":"Rudolf He\u00df","lineid":380,"uuid":"4822207a-d718-4858-90ed-ca751f278408"}
+{"index":354,"sub_uri":"Q106807","obj_uri":"Q20","obj_label":"Norv\u00e9gia","sub_label":"Magnus Carlsen","lineid":721,"uuid":"66645aee-438e-4706-99af-7a718579ed28"}
+{"index":245,"sub_uri":"Q2590074","obj_uri":"Q43","obj_label":"T\u00f6r\u00f6korsz\u00e1g","sub_label":"T\u00f6r\u00f6korsz\u00e1gi \u00f6rm\u00e9nyek","lineid":498,"uuid":"b8935b73-134f-4d17-b3be-a4fcf2d8b1b1"}
+{"index":67,"sub_uri":"Q3056848","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Ernest Blanc","lineid":132,"uuid":"5c5f1c46-41b6-4a34-812f-1b552402855b"}
+{"index":233,"sub_uri":"Q61917","obj_uri":"Q38","obj_label":"Olaszorsz\u00e1g","sub_label":"Giorgio Pantano","lineid":468,"uuid":"f75c0b28-8ef7-4f51-9794-f7b9e78a70ca"}
+{"index":338,"sub_uri":"Q340257","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Achille Valenciennes","lineid":680,"uuid":"5fcc79ab-14fc-4c5a-96d7-545208d9c40d"}
+{"index":111,"sub_uri":"Q555056","obj_uri":"Q38","obj_label":"Olaszorsz\u00e1g","sub_label":"Ermete Zacconi","lineid":230,"uuid":"900b85bf-09f8-4cb6-acb7-c2d4293a55fa"}
+{"index":250,"sub_uri":"Q260037","obj_uri":"Q40","obj_label":"Ausztria","sub_label":"Alfred Gusenbauer","lineid":505,"uuid":"f1949f5c-c90d-4a0c-92d1-407742806cf7"}
+{"index":95,"sub_uri":"Q3524528","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Thierry St-Cyr","lineid":196,"uuid":"f5a2749c-88f3-4211-9a4a-b14b00b785a4"}
+{"index":283,"sub_uri":"Q57760","obj_uri":"Q183","obj_label":"N\u00e9metorsz\u00e1g","sub_label":"Colmar von der Goltz","lineid":567,"uuid":"76595f7b-a3c5-481d-b460-f711029c971a"}
+{"index":437,"sub_uri":"Q913585","obj_uri":"Q822","obj_label":"Libanon","sub_label":"Nassib Lahoud","lineid":918,"uuid":"a592b6b8-13f2-4287-94d7-8ccf81df2f37"}
+{"index":390,"sub_uri":"Q444876","obj_uri":"Q33","obj_label":"Finnorsz\u00e1g","sub_label":"Paavo Haavikko","lineid":809,"uuid":"a47f6120-d97b-4b90-afe7-b5f345673e23"}
+{"index":157,"sub_uri":"Q24682","obj_uri":"Q794","obj_label":"Ir\u00e1n","sub_label":"Sadeq Larijani","lineid":326,"uuid":"6cabf1dd-d913-44e7-a795-0a32c9da47fa"}
+{"index":45,"sub_uri":"Q508672","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Henriette Caillaux","lineid":89,"uuid":"256b277f-4695-4752-b9e3-e96f25f0b612"}
+{"index":192,"sub_uri":"Q44580","obj_uri":"Q183","obj_label":"N\u00e9metorsz\u00e1g","sub_label":"Richard Sorge","lineid":385,"uuid":"70e627d3-0e75-49e1-abed-a053b6de85a0"}
+{"index":53,"sub_uri":"Q782976","obj_uri":"Q222","obj_label":"Alb\u00e1nia","sub_label":"Avni Rustemi","lineid":103,"uuid":"1d122283-035c-4213-b0b8-1df798d76e85"}
+{"index":44,"sub_uri":"Q167345","obj_uri":"Q20","obj_label":"Norv\u00e9gia","sub_label":"Jens Evensen","lineid":88,"uuid":"f372a606-438f-4d3c-bb3e-1320eeff09b7"}
+{"index":292,"sub_uri":"Q27351","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Senkichi Taniguchi","lineid":584,"uuid":"e714c1de-0675-4fb3-b1de-284255068ef0"}
+{"index":373,"sub_uri":"Q1343174","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Albert Mathiez","lineid":769,"uuid":"6ab871f6-e6e3-4b8e-8b82-52aff29fc220"}
+{"index":288,"sub_uri":"Q241577","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Marguerite Broquedis","lineid":577,"uuid":"bfc825b1-d5af-4662-be99-12296582bfd4"}
+{"index":201,"sub_uri":"Q103114","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Michel Houellebecq","lineid":403,"uuid":"0cafd68a-63bc-4a79-8478-c143b880c85a"}
+{"index":23,"sub_uri":"Q6438483","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Kristy Sargeant","lineid":45,"uuid":"76e23406-17cf-40d3-b367-bb4de74642dd"}
+{"index":261,"sub_uri":"Q85171","obj_uri":"Q40","obj_label":"Ausztria","sub_label":"Lukas Ligeti","lineid":521,"uuid":"ce9d30d9-bda4-408a-b351-b465d7f84e50"}
+{"index":372,"sub_uri":"Q318142","obj_uri":"Q179876","obj_label":"Angol Kir\u00e1lys\u00e1g","sub_label":"Godwin de Wessex","lineid":761,"uuid":"3dc28cc6-78de-495f-ac15-e87271fdc6f5"}
+{"index":260,"sub_uri":"Q234890","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Emmanuelle Seigner","lineid":519,"uuid":"b6d87d91-112b-4d2c-97b9-ffa89e94b1f9"}
+{"index":85,"sub_uri":"Q490934","obj_uri":"Q20","obj_label":"Norv\u00e9gia","sub_label":"Anders Fannemel","lineid":172,"uuid":"8ea43565-d0ec-4d7e-8267-ed39077821ed"}
+{"index":329,"sub_uri":"Q905203","obj_uri":"Q34","obj_label":"Sv\u00e9dorsz\u00e1g","sub_label":"Pugh Rogefeldt","lineid":659,"uuid":"bebb188b-2847-47c7-82e6-a4905b94685d"}
+{"index":152,"sub_uri":"Q4926016","obj_uri":"Q222","obj_label":"Alb\u00e1nia","sub_label":"Blendi Nallbani","lineid":316,"uuid":"b1b0df10-41aa-4320-9fd1-4e19de5dfe38"}
+{"index":343,"sub_uri":"Q3045120","obj_uri":"Q35","obj_label":"D\u00e1nia","sub_label":"Ferdinand Meldahl","lineid":689,"uuid":"fbea0ee3-a3e6-4766-a9d8-a6460a536eb5"}
+{"index":26,"sub_uri":"Q532364","obj_uri":"Q819","obj_label":"Laosz","sub_label":"Pagnafangum lanszangi kir\u00e1ly","lineid":52,"uuid":"42d95d83-27fa-4e15-bbc7-4c327797b47d"}
+{"index":431,"sub_uri":"Q2438043","obj_uri":"Q419","obj_label":"Peru","sub_label":"Heddy Honigmann","lineid":900,"uuid":"9df9b65c-6726-47f5-b7f4-c3ff32ed9eb1"}
+{"index":159,"sub_uri":"Q1469032","obj_uri":"Q794","obj_label":"Ir\u00e1n","sub_label":"Mohsen Mirdamadi","lineid":330,"uuid":"bc51c92e-8160-49f9-b755-766a68dd61cf"}
+{"index":426,"sub_uri":"Q7789372","obj_uri":"Q179876","obj_label":"Angol Kir\u00e1lys\u00e1g","sub_label":"Thomas Erle","lineid":883,"uuid":"bc8557aa-5bdb-49f7-9520-f51295020a2b"}
+{"index":314,"sub_uri":"Q3560452","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Violette Verdy","lineid":625,"uuid":"08b63042-91f8-4038-a7dc-984a9c81e437"}
+{"index":295,"sub_uri":"Q719821","obj_uri":"Q419","obj_label":"Peru","sub_label":"Luis Llosa","lineid":589,"uuid":"19488cb1-198c-4fd0-8673-b36156bc7d1e"}
+{"index":19,"sub_uri":"Q123014","obj_uri":"Q39","obj_label":"Sv\u00e1jc","sub_label":"Alfred Werner","lineid":34,"uuid":"eebf5da1-db8e-4d7a-b7be-4848a01d2017"}
+{"index":393,"sub_uri":"Q1637195","obj_uri":"Q38","obj_label":"Olaszorsz\u00e1g","sub_label":"Simone Vagnozzi","lineid":815,"uuid":"1bf58c63-2d24-4419-ac7f-ca963e6eadb5"}
+{"index":2,"sub_uri":"Q761368","obj_uri":"Q191","obj_label":"\u00c9sztorsz\u00e1g","sub_label":"August Gailit","lineid":2,"uuid":"0860516a-c7b3-4536-9fce-cbf96f03f665"}
+{"index":406,"sub_uri":"Q1383923","obj_uri":"Q20","obj_label":"Norv\u00e9gia","sub_label":"Tor Endresen","lineid":841,"uuid":"09aef925-8544-4180-bf15-31f444f47088"}
+{"index":31,"sub_uri":"Q314490","obj_uri":"Q35","obj_label":"D\u00e1nia","sub_label":"III. Gorm d\u00e1n kir\u00e1ly","lineid":62,"uuid":"5c5ae1eb-a56c-4f3d-a17f-fbceff3612de"}
+{"index":123,"sub_uri":"Q3291896","obj_uri":"Q222","obj_label":"Alb\u00e1nia","sub_label":"Gjin Progoni","lineid":257,"uuid":"fdeb163b-e472-436a-96cc-b312209acb44"}
+{"index":258,"sub_uri":"Q478425","obj_uri":"Q766","obj_label":"Jamaica","sub_label":"George William Gordon","lineid":516,"uuid":"c2bc9603-57dc-42a8-814a-c52d2ea79497"}
+{"index":78,"sub_uri":"Q707446","obj_uri":"Q408","obj_label":"Ausztr\u00e1lia","sub_label":"Rick Springfield","lineid":160,"uuid":"30ecfb7b-32b7-4406-96a1-f48557cc771d"}
+{"index":83,"sub_uri":"Q1556889","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Stockwell Day","lineid":169,"uuid":"8bdc76e7-2f1d-4bc1-9ba8-67d276139621"}
+{"index":380,"sub_uri":"Q1682029","obj_uri":"Q36","obj_label":"Lengyelorsz\u00e1g","sub_label":"Jan Machulski","lineid":781,"uuid":"1b82a460-bdff-498c-99ab-f345dfec1f11"}
+{"index":268,"sub_uri":"Q1920626","obj_uri":"Q179876","obj_label":"Angol Kir\u00e1lys\u00e1g","sub_label":"Thomas Cecil, 1st Earl of Exeter","lineid":531,"uuid":"f18d9a0a-a270-403a-9816-799b975bfbda"}
+{"index":336,"sub_uri":"Q519902","obj_uri":"Q29","obj_label":"Spanyolorsz\u00e1g","sub_label":"Mateo Gil","lineid":678,"uuid":"a2940a55-06c9-4621-ad84-bc73be21f0e6"}
+{"index":305,"sub_uri":"Q505362","obj_uri":"Q38","obj_label":"Olaszorsz\u00e1g","sub_label":"Francesco Calogero","lineid":603,"uuid":"2429ba2f-0a0b-43be-bcc8-1c961b9a71dc"}
+{"index":144,"sub_uri":"Q2610217","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Scott Frandsen","lineid":303,"uuid":"6779be71-3d03-4a2d-82b7-68740f6d251d"}
+{"index":106,"sub_uri":"Q1139734","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Tojokava Ecusi","lineid":218,"uuid":"9de9dca4-c837-4f23-9e5e-a749d8ce75f5"}
+{"index":240,"sub_uri":"Q741430","obj_uri":"Q35","obj_label":"D\u00e1nia","sub_label":"Herman Wilhelm Bissen","lineid":489,"uuid":"e9713723-75bb-4580-ac9c-bdbbae01a08c"}
+{"index":94,"sub_uri":"Q3181141","obj_uri":"Q16","obj_label":"Kanada","sub_label":"John Buchanan","lineid":192,"uuid":"e67b5f9e-fc5a-46f8-aac5-f8b8509deb4a"}
+{"index":423,"sub_uri":"Q58586","obj_uri":"Q183","obj_label":"N\u00e9metorsz\u00e1g","sub_label":"Edmund Husserl","lineid":878,"uuid":"44f51652-9a78-494c-b815-9fb06531063f"}
+{"index":379,"sub_uri":"Q268696","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Catherine de Rambouillet","lineid":780,"uuid":"3967467a-d64a-4478-894c-4b814256cc50"}
+{"index":320,"sub_uri":"Q350698","obj_uri":"Q31","obj_label":"Belgium","sub_label":"Lucien Van Impe","lineid":637,"uuid":"4186c168-c4cf-4ec5-908c-8b9e43f1ed02"}
+{"index":249,"sub_uri":"Q299211","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Pierre Cardin","lineid":502,"uuid":"74324bad-afd0-49c7-b096-a1c8c246b131"}
+{"index":181,"sub_uri":"Q314355","obj_uri":"Q1032","obj_label":"Niger","sub_label":"Hamani Diori","lineid":367,"uuid":"ed6f7a76-a245-4015-ad25-b631c048984c"}
+{"index":270,"sub_uri":"Q3356874","obj_uri":"Q41","obj_label":"G\u00f6r\u00f6gorsz\u00e1g","sub_label":"Or\u00e9sztisz L\u00e1szkosz","lineid":539,"uuid":"7f018a05-37ea-4080-bf62-f20314c69e41"}
+{"index":4,"sub_uri":"Q504815","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Noriyasu Hirata","lineid":7,"uuid":"6983dac3-a9c5-4d91-bd2a-72884e5e8a49"}
+{"index":451,"sub_uri":"Q973580","obj_uri":"Q39","obj_label":"Sv\u00e1jc","sub_label":"Dieter Moebius","lineid":946,"uuid":"14a1f2f2-4127-4237-b2f8-c60c3b2157ee"}
+{"index":236,"sub_uri":"Q179266","obj_uri":"Q668","obj_label":"India","sub_label":"Jiddu Krishnamurti","lineid":478,"uuid":"885ff777-8831-4961-b550-b0805538326b"}
+{"index":54,"sub_uri":"Q2026020","obj_uri":"Q34","obj_label":"Sv\u00e9dorsz\u00e1g","sub_label":"Andreas Carlsson","lineid":105,"uuid":"df5a98a5-4068-4b98-9b0f-75f60e075a41"}
+{"index":160,"sub_uri":"Q655661","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"David Le Lay","lineid":332,"uuid":"4352f9b0-e952-477d-8bd4-5f00a9edaf74"}
+{"index":114,"sub_uri":"Q1270441","obj_uri":"Q27","obj_label":"\u00cdrorsz\u00e1g","sub_label":"Robert Erskine Childers","lineid":236,"uuid":"d752bf78-4208-48a9-a447-a7148d9300d8"}
+{"index":420,"sub_uri":"Q704155","obj_uri":"Q889","obj_label":"Afganiszt\u00e1n","sub_label":"Arsala Rahmani Daulat","lineid":865,"uuid":"6faf9d21-b7e1-478a-aa4c-a38e3ef645b6"}
+{"index":340,"sub_uri":"Q3594364","obj_uri":"Q801","obj_label":"Izrael","sub_label":"Zeev Rechter","lineid":684,"uuid":"8d0dae5f-1475-4a93-a298-d53de97b3286"}
+{"index":66,"sub_uri":"Q6323816","obj_uri":"Q668","obj_label":"India","sub_label":"K. R. Gowri Amma","lineid":130,"uuid":"44c757ea-9d66-4a07-ab4c-613717a112ee"}
+{"index":118,"sub_uri":"Q503355","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Igor Markevitch","lineid":247,"uuid":"6f660c76-1bcc-4412-9fed-64fb2d45acb5"}
+{"index":381,"sub_uri":"Q737866","obj_uri":"Q38","obj_label":"Olaszorsz\u00e1g","sub_label":"Marco Mengoni","lineid":783,"uuid":"11aa8586-1367-4e39-a786-2dbb20fef6b2"}
+{"index":276,"sub_uri":"Q2021551","obj_uri":"Q419","obj_label":"Peru","sub_label":"Domingo Nieto","lineid":551,"uuid":"118f719f-ff90-45cb-a376-a058800c7623"}
+{"index":86,"sub_uri":"Q444747","obj_uri":"Q34","obj_label":"Sv\u00e9dorsz\u00e1g","sub_label":"Maria Wetterstrand","lineid":173,"uuid":"d8595b14-bfbb-4f84-a034-414720e5d7ea"}
+{"index":36,"sub_uri":"Q444685","obj_uri":"Q27","obj_label":"\u00cdrorsz\u00e1g","sub_label":"Joan Burton","lineid":71,"uuid":"132d01ef-718f-4165-a145-38f50f5fb26e"}
+{"index":166,"sub_uri":"Q725482","obj_uri":"Q668","obj_label":"India","sub_label":"Ashim Ahluwalia","lineid":345,"uuid":"7ee99670-6349-4919-bb94-7da1b72af241"}
+{"index":337,"sub_uri":"Q104574","obj_uri":"Q183","obj_label":"N\u00e9metorsz\u00e1g","sub_label":"Max Kade","lineid":679,"uuid":"d22dc5a2-eda9-41d7-96f8-aaa8bf443d09"}
+{"index":287,"sub_uri":"Q505947","obj_uri":"Q96","obj_label":"Mexik\u00f3","sub_label":"Adriana Fonseca","lineid":575,"uuid":"42d7987e-4074-4d85-9867-a8153fb35fb7"}
+{"index":317,"sub_uri":"Q3405010","obj_uri":"Q155","obj_label":"Braz\u00edlia","sub_label":"Maria Adelaide Amaral","lineid":632,"uuid":"107a4b68-4713-4b96-ab72-35f925931642"}
+{"index":371,"sub_uri":"Q443342","obj_uri":"Q36","obj_label":"Lengyelorsz\u00e1g","sub_label":"Marcin Libicki","lineid":760,"uuid":"b0ff0df7-81e7-4cc4-929a-28b927f00f19"}
+{"index":313,"sub_uri":"Q2528692","obj_uri":"Q414","obj_label":"Argent\u00edna","sub_label":"Juan Lavalle","lineid":623,"uuid":"5a79c7e8-9686-4284-97ee-16f385c2c4e6"}
+{"index":18,"sub_uri":"Q22530","obj_uri":"Q39","obj_label":"Sv\u00e1jc","sub_label":"Auguste-Henri Forel","lineid":33,"uuid":"ca76f73a-ded4-4253-9a18-712141ec756e"}
+{"index":267,"sub_uri":"Q262589","obj_uri":"Q115","obj_label":"Eti\u00f3pia","sub_label":"II. Tevodrosz eti\u00f3p cs\u00e1sz\u00e1r","lineid":530,"uuid":"863ed845-470f-47cb-b558-ded948311e31"}
+{"index":404,"sub_uri":"Q1196321","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Nakata Jaszutaka","lineid":832,"uuid":"a8941e90-731d-4f70-945d-58c08476c183"}
+{"index":450,"sub_uri":"Q984291","obj_uri":"Q215","obj_label":"Szlov\u00e9nia","sub_label":"Sergej Kraigher","lineid":945,"uuid":"93939965-55a6-441e-bfc8-a244876a4cd7"}
+{"index":72,"sub_uri":"Q57182","obj_uri":"Q183","obj_label":"N\u00e9metorsz\u00e1g","sub_label":"Friedrich Hebbel","lineid":141,"uuid":"32541add-cbf1-4264-b4cd-317b722db1b2"}
+{"index":216,"sub_uri":"Q237160","obj_uri":"Q414","obj_label":"Argent\u00edna","sub_label":"Bernardo Houssay","lineid":436,"uuid":"4460e55a-0719-4afa-a4c6-204414e3f0a0"}
+{"index":125,"sub_uri":"Q887907","obj_uri":"Q739","obj_label":"Kolumbia","sub_label":"Rafael Reyes Prieto","lineid":260,"uuid":"0132e8ab-4354-4f51-8223-ff0a6fa28682"}
+{"index":98,"sub_uri":"Q312489","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Alain Robert","lineid":199,"uuid":"480fb89c-669a-452c-8c24-3eb4d8495323"}
+{"index":234,"sub_uri":"Q873858","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Yoko Moriguchi","lineid":471,"uuid":"fbca38c0-2680-4726-9230-9e2d7d513374"}
+{"index":456,"sub_uri":"Q960204","obj_uri":"Q414","obj_label":"Argent\u00edna","sub_label":"Adabel Guerrero","lineid":952,"uuid":"86e580e8-2bc0-4477-a883-a6a6f2009c87"}
+{"index":375,"sub_uri":"Q358213","obj_uri":"Q20","obj_label":"Norv\u00e9gia","sub_label":"Thorleif Haug","lineid":775,"uuid":"2f9aec9a-fdde-4ad5-8dea-2f13d7b01160"}
+{"index":235,"sub_uri":"Q1258656","obj_uri":"Q41","obj_label":"G\u00f6r\u00f6gorsz\u00e1g","sub_label":"Petros Vulgaris","lineid":477,"uuid":"1d8c8974-2450-4e47-b557-4abb6247e053"}
+{"index":28,"sub_uri":"Q1877051","obj_uri":"Q408","obj_label":"Ausztr\u00e1lia","sub_label":"Luke Hemsworth","lineid":54,"uuid":"c2240dc6-b51a-47cb-84bd-61f0fa94bb84"}
+{"index":374,"sub_uri":"Q310152","obj_uri":"Q34","obj_label":"Sv\u00e9dorsz\u00e1g","sub_label":"IX. Erik sv\u00e9d kir\u00e1ly","lineid":773,"uuid":"4856df6d-0949-4cdc-89b6-95891e5e21a6"}
+{"index":33,"sub_uri":"Q681465","obj_uri":"Q183","obj_label":"N\u00e9metorsz\u00e1g","sub_label":"Johann Aegidius Bach","lineid":65,"uuid":"228011e6-4777-48b5-9505-4bcaf50823df"}
+{"index":388,"sub_uri":"Q238688","obj_uri":"Q155","obj_label":"Braz\u00edlia","sub_label":"Floriano Peixoto","lineid":802,"uuid":"eb0be65e-8c72-48b0-9f60-8ad3dffda34d"}
+{"index":22,"sub_uri":"Q3529084","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Timothy Anglin","lineid":42,"uuid":"f2b344a1-e3d5-405d-b5d1-1d3665678a6d"}
+{"index":210,"sub_uri":"Q666890","obj_uri":"Q31","obj_label":"Belgium","sub_label":"Henri de Man","lineid":425,"uuid":"7a9c5f29-621e-421f-89ff-847c775d13d1"}
+{"index":360,"sub_uri":"Q7677360","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Takashi Nakamura","lineid":735,"uuid":"49a224a3-e491-474c-b494-c848cf22b110"}
+{"index":167,"sub_uri":"Q238769","obj_uri":"Q183","obj_label":"N\u00e9metorsz\u00e1g","sub_label":"Isabell Werth","lineid":346,"uuid":"97a663df-5134-4760-9cfd-1e2ab49993a9"}
+{"index":139,"sub_uri":"Q205278","obj_uri":"Q408","obj_label":"Ausztr\u00e1lia","sub_label":"Dominic Purcell","lineid":295,"uuid":"70e39e83-eff5-4619-97ea-1e90969ef505"}
+{"index":41,"sub_uri":"Q4685169","obj_uri":"Q408","obj_label":"Ausztr\u00e1lia","sub_label":"Adrian Knox","lineid":82,"uuid":"01a2ce4e-e7f4-407f-8088-6a9a37af6138"}
+{"index":282,"sub_uri":"Q7363600","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Ron Cantelon","lineid":564,"uuid":"c9d39316-bbaa-4686-9a1a-bf9b77e000a5"}
+{"index":339,"sub_uri":"Q1173721","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"David Benyamine","lineid":681,"uuid":"589930f8-2595-4bb3-8d47-fdf786497e70"}
+{"index":101,"sub_uri":"Q630371","obj_uri":"Q41","obj_label":"G\u00f6r\u00f6gorsz\u00e1g","sub_label":"Zs\u00f3fia g\u00f6r\u00f6g hercegn\u0151","lineid":209,"uuid":"ef07f802-1106-4b8d-b391-fc44641fc85d"}
+{"index":151,"sub_uri":"Q382919","obj_uri":"Q155","obj_label":"Braz\u00edlia","sub_label":"Manuel Ferraz de Campos Sales","lineid":314,"uuid":"ad3bea35-cbe0-4275-ba05-94d6e1363b8d"}
+{"index":155,"sub_uri":"Q974540","obj_uri":"Q408","obj_label":"Ausztr\u00e1lia","sub_label":"William Hovell","lineid":323,"uuid":"2affd720-1bf8-46f9-b990-6cf0826e4240"}
+{"index":369,"sub_uri":"Q4714498","obj_uri":"Q414","obj_label":"Argent\u00edna","sub_label":"Alejandro Bustillo","lineid":756,"uuid":"169bfbf1-34ba-4361-980b-1b9caddd06bf"}
+{"index":105,"sub_uri":"Q2722933","obj_uri":"Q668","obj_label":"India","sub_label":"Sunidhi Chauhan","lineid":216,"uuid":"7fc3b4eb-f36b-4fe5-bd45-5fef2436eb59"}
+{"index":323,"sub_uri":"Q7270304","obj_uri":"Q227","obj_label":"Azerbajdzs\u00e1n","sub_label":"F\u0259rid M\u0259mm\u0259dov","lineid":642,"uuid":"00da473d-7c60-471d-a115-7216b3780d77"}
+{"index":408,"sub_uri":"Q7631751","obj_uri":"Q668","obj_label":"India","sub_label":"Subodh Kant Sahay","lineid":844,"uuid":"c2e5c787-609d-49b6-90ed-7f1ca9712c5e"}
+{"index":275,"sub_uri":"Q3300415","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Henri Maurice Berteaux","lineid":550,"uuid":"979a1a45-b641-4bfe-9e0c-5cb216d657a4"}
+{"index":97,"sub_uri":"Q4717151","obj_uri":"Q408","obj_label":"Ausztr\u00e1lia","sub_label":"Alex Hawke","lineid":198,"uuid":"a4426c73-0a4c-4093-a649-ba00a8d2a8f3"}
+{"index":396,"sub_uri":"Q47683","obj_uri":"Q38","obj_label":"Olaszorsz\u00e1g","sub_label":"Beppe Grillo","lineid":822,"uuid":"bca5ed9d-0943-4987-8bfd-391de69d096d"}
+{"index":198,"sub_uri":"Q91417","obj_uri":"Q183","obj_label":"N\u00e9metorsz\u00e1g","sub_label":"Henry Villard","lineid":395,"uuid":"86f2240a-69da-4c6b-8036-a8a5b12ed939"}
+{"index":382,"sub_uri":"Q1393679","obj_uri":"Q252","obj_label":"Indon\u00e9zia","sub_label":"Hendrawan","lineid":785,"uuid":"01bc0ad9-cb60-44ff-ae37-a1567edd8ea1"}
+{"index":385,"sub_uri":"Q650343","obj_uri":"Q35","obj_label":"D\u00e1nia","sub_label":"Lars Paaske","lineid":794,"uuid":"559dcc9b-247f-4302-a573-b399ba7e58c5"}
+{"index":345,"sub_uri":"Q7246501","obj_uri":"Q668","obj_label":"India","sub_label":"Priyanandanan","lineid":696,"uuid":"3cc65b96-7562-4629-a8f9-aad54f7644b1"}
+{"index":180,"sub_uri":"Q2035589","obj_uri":"Q34","obj_label":"Sv\u00e9dorsz\u00e1g","sub_label":"Sven Wollter","lineid":364,"uuid":"44f7cf0c-de4e-4644-b530-48d5ab28f232"}
+{"index":7,"sub_uri":"Q1388459","obj_uri":"Q408","obj_label":"Ausztr\u00e1lia","sub_label":"Herbert Vere Evatt","lineid":12,"uuid":"8be6756b-40a3-43b9-a745-c8ecae92af25"}
+{"index":89,"sub_uri":"Q1378325","obj_uri":"Q96","obj_label":"Mexik\u00f3","sub_label":"Juan O'Gorman","lineid":184,"uuid":"b7b2e32b-4bdb-4a32-ad4d-eafa35224b27"}
+{"index":263,"sub_uri":"Q740643","obj_uri":"Q20","obj_label":"Norv\u00e9gia","sub_label":"Bent Hamer","lineid":524,"uuid":"920623dd-39e4-4b80-a6a3-6b15aba12af8"}
+{"index":117,"sub_uri":"Q6354410","obj_uri":"Q668","obj_label":"India","sub_label":"Kalraj Mishra","lineid":246,"uuid":"e5a118c1-f5b6-4647-8d39-1a37bd414261"}
+{"index":309,"sub_uri":"Q2020488","obj_uri":"Q843","obj_label":"Pakiszt\u00e1n","sub_label":"Bapsi Sidhwa","lineid":614,"uuid":"b8797c27-8905-49b4-b650-390ccac5b6bd"}
+{"index":446,"sub_uri":"Q3369338","obj_uri":"Q954","obj_label":"Zimbabwe","sub_label":"Patrick Chinamasa","lineid":934,"uuid":"a3fcd39e-5213-484c-b61a-db1e0dea4e3e"}
+{"index":35,"sub_uri":"Q1155256","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Yuki Uchida","lineid":70,"uuid":"8c2cd745-77c3-48fc-9197-b9b4b7a66596"}
+{"index":163,"sub_uri":"Q6174332","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Jeff Leal","lineid":339,"uuid":"be1479af-b931-4406-92ed-cdb9aaf7f150"}
+{"index":170,"sub_uri":"Q464305","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Desireless","lineid":351,"uuid":"36079527-4d93-4c3b-a795-d55d836c4008"}
+{"index":407,"sub_uri":"Q234921","obj_uri":"Q34","obj_label":"Sv\u00e9dorsz\u00e1g","sub_label":"Bibi Andersson","lineid":842,"uuid":"5bf2c72e-f95b-44de-ba12-3d8353769f5e"}
+{"index":140,"sub_uri":"Q154041","obj_uri":"Q20","obj_label":"Norv\u00e9gia","sub_label":"II. Frigyes d\u00e1n kir\u00e1ly","lineid":296,"uuid":"8eae7c23-d762-4d0a-96f2-8adbc2734355"}
+{"index":0,"sub_uri":"Q169846","obj_uri":"Q155","obj_label":"Braz\u00edlia","sub_label":"Rubens Barrichello","lineid":0,"uuid":"ef2872e2-4703-49fa-8bee-98dced547227"}
+{"index":383,"sub_uri":"Q734808","obj_uri":"Q37","obj_label":"Litv\u00e1nia","sub_label":"Bronislovas Lubys","lineid":786,"uuid":"d46b43b4-79eb-42cc-b809-dd94bff6aa99"}
+{"index":328,"sub_uri":"Q1192899","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Simamija Eiko","lineid":654,"uuid":"d7c59987-a1c3-4273-96df-1a749d23fb3a"}
+{"index":315,"sub_uri":"Q349836","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Scott Brison","lineid":627,"uuid":"7f43b380-0b3a-49ed-821c-8c9a2dfcafdf"}
+{"index":366,"sub_uri":"Q3164205","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Jean-Baptiste Lamy","lineid":750,"uuid":"27e4b4eb-4e02-4d55-8763-7c1310a47524"}
+{"index":9,"sub_uri":"Q177310","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Borisz Vasziljevics Szpasszkij","lineid":14,"uuid":"07bd7aaf-e596-4c6e-a9f6-028795c83117"}
+{"index":84,"sub_uri":"Q438601","obj_uri":"Q1028","obj_label":"Marokk\u00f3","sub_label":"I. Idr\u00edsz idr\u00edszida im\u00e1m","lineid":170,"uuid":"dd6c7ab2-a4c6-46b2-8160-9e79b4fc0bfe"}
+{"index":326,"sub_uri":"Q447340","obj_uri":"Q34","obj_label":"Sv\u00e9dorsz\u00e1g","sub_label":"Henrik Zetterberg","lineid":651,"uuid":"24558153-14c2-451c-938a-7adee0e94f3e"}
+{"index":165,"sub_uri":"Q313698","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Daniel Powter","lineid":344,"uuid":"f06805d7-6bca-4a46-ace0-67f0636ca3e5"}
+{"index":232,"sub_uri":"Q1193372","obj_uri":"Q17","obj_label":"Jap\u00e1n","sub_label":"Kanna Arihara","lineid":466,"uuid":"91767e91-9402-4b78-bd23-ca7c1242116d"}
+{"index":142,"sub_uri":"Q5879","obj_uri":"Q1794","obj_label":"Frankfurt am Main","sub_label":"Johann Wolfgang von Goethe","lineid":300,"uuid":"cf08faa6-8934-49cd-8bf3-839bf2cee516"}
+{"index":29,"sub_uri":"Q5488785","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Frank Oberle, Sr.","lineid":56,"uuid":"e1d57682-c6c5-4392-9bc4-a8e797c866a9"}
+{"index":136,"sub_uri":"Q11987","obj_uri":"Q155","obj_label":"Braz\u00edlia","sub_label":"Assis Chateaubriand","lineid":287,"uuid":"8a234008-9a5c-49f7-a896-524b75c6b9c5"}
+{"index":274,"sub_uri":"Q6550125","obj_uri":"Q865","obj_label":"K\u00ednai K\u00f6zt\u00e1rsas\u00e1g","sub_label":"Lin Yang-kang","lineid":549,"uuid":"acd33963-5b01-403b-bd43-2fbce8fa46fc"}

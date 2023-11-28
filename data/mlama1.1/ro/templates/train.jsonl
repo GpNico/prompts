@@ -1,0 +1,39 @@
+{"index":12,"relation":"P463","template":"[X] este membru al [Y]."}
+{"index":14,"relation":"P1923","template":"[Y] a participat la [X]."}
+{"index":10,"relation":"P364","template":"Limba original\u0103 a lui [X] este [Y]."}
+{"index":31,"relation":"P264","template":"[X] este reprezentat de eticheta muzical\u0103 [Y]."}
+{"index":8,"relation":"P47","template":"[X] \u00eemparte grani\u021ba cu [Y]."}
+{"index":5,"relation":"P166","template":"[X] a primit premiul [Y]."}
+{"index":28,"relation":"P136","template":"[X] c\u00e2nt\u0103 muzic\u0103 [Y]."}
+{"index":26,"relation":"P1412","template":"[X] folosit pentru a comunica \u00een [Y]."}
+{"index":1,"relation":"P20","template":"[X] a murit \u00een [Y]."}
+{"index":43,"relation":"P36","template":"Capitala lui [X] este [Y]."}
+{"index":37,"relation":"P103","template":"Limba matern\u0103 a lui [X] este [Y]."}
+{"index":13,"relation":"P101","template":"[X] func\u021bioneaz\u0103 \u00een domeniul [Y]."}
+{"index":34,"relation":"P140","template":"[X] este afiliat cu religia [Y]."}
+{"index":23,"relation":"P178","template":"[X] este dezvoltat de [Y]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (n\u0103scut [Y])."}
+{"index":33,"relation":"P937","template":"[X] lucra \u00een [Y]."}
+{"index":16,"relation":"P527","template":"[X] este format din [Y]."}
+{"index":17,"relation":"P102","template":"[X] este membru al partidului politic [Y]."}
+{"index":36,"relation":"P127","template":"[X] este de\u021binut\u0103 de [Y]."}
+{"index":32,"relation":"P276","template":"[X] este localizat \u00een [Y]."}
+{"index":30,"relation":"P39","template":"[X] are pozi\u021bia [Y]."}
+{"index":20,"relation":"P27","template":"[X] este [Y] cet\u0103\u021bean."}
+{"index":7,"relation":"P69","template":"[X] a fost educat la Universitatea din [Y]."}
+{"index":27,"relation":"P108","template":"[X] func\u021bioneaz\u0103 pentru [Y]."}
+{"index":44,"relation":"P740","template":"[X] a fost fondat\u0103 \u00een [Y]."}
+{"index":47,"relation":"place_of_birth","template":"[X] s-a n\u0103scut \u00een [Y]."}
+{"index":38,"relation":"P190","template":"[X] \u0219i [Y] sunt ora\u0219e gemene."}
+{"index":22,"relation":"P30","template":"[X] este localizat \u00een [Y]."}
+{"index":15,"relation":"P106","template":"[X] este un [Y] de profesie."}
+{"index":4,"relation":"P413","template":"[X] joac\u0103 \u00een pozi\u021bia [Y]."}
+{"index":19,"relation":"P176","template":"[X] este produs de [Y]."}
+{"index":40,"relation":"P31","template":"[X] este un [Y]."}
+{"index":29,"relation":"P17","template":"[X] este localizat \u00een [Y]."}
+{"index":6,"relation":"P449","template":"[X] a fost ini\u021bial difuzat pe [Y]."}
+{"index":0,"relation":"P19","template":"[X] s-a n\u0103scut \u00een [Y]."}
+{"index":3,"relation":"P37","template":"Limba oficial\u0103 a lui [X] este [Y]."}
+{"index":48,"relation":"place_of_death","template":"[X] a murit \u00een [Y]."}
+{"index":24,"relation":"P1376","template":"[X] este capitala lui [Y]."}
+{"index":18,"relation":"P530","template":"[X] men\u021bine rela\u021bii diplomatice cu [Y]."}

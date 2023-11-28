@@ -1,0 +1,39 @@
+{"index":7,"relation":"P69","template":"[X] [Y] \u09ac\u09bf\u09b6\u09cd\u09ac\u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09af\u09bc\u09c7 \u09b6\u09bf\u0995\u09cd\u09b7\u09bf\u09a4 \u099b\u09bf\u09b2\u09c7\u09a8\u0964"}
+{"index":0,"relation":"P19","template":"[X] \u099c\u09a8\u09cd\u09ae \u09b9\u09af\u09bc\u09c7\u099b\u09bf\u09b2 [Y] \u09a4\u09c7\u0964"}
+{"index":4,"relation":"P413","template":"[X] [Y] \u0985\u09ac\u09b8\u09cd\u09a5\u09be\u09a8\u09c7 \u0996\u09c7\u09b2\u09c7\u0964"}
+{"index":34,"relation":"P140","template":"[X] [Y] \u09a7\u09b0\u09cd\u09ae\u09c7\u09b0 \u09b8\u09be\u09a5\u09c7 \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09bf\u09a4\u0964"}
+{"index":46,"relation":"date_of_birth","template":"[X] (\u099c\u09a8\u09cd\u09ae [Y])\u0964"}
+{"index":5,"relation":"P166","template":"[X] \u09b8\u09ae\u09cd\u09ae\u09be\u09a8\u09bf\u09a4 \u0995\u09b0\u09be \u09b9\u09af\u09bc [Y]\u0964"}
+{"index":23,"relation":"P178","template":"[X] [Y] \u09a6\u09cd\u09ac\u09be\u09b0\u09be \u09ac\u09bf\u0995\u09be\u09b6\u09bf\u09a4\u0964"}
+{"index":32,"relation":"P276","template":"[X] [Y] \u098f \u0985\u09ac\u09b8\u09cd\u09a5\u09bf\u09a4\u0964"}
+{"index":8,"relation":"P47","template":"[X] [Y] \u098f\u09b0 \u09b8\u09be\u09a5\u09c7 \u09b8\u09c0\u09ae\u09be\u09a8\u09be \u09ad\u09be\u0997 \u0995\u09b0\u09c7 \u09a6\u09c7\u09af\u09bc\u0964"}
+{"index":37,"relation":"P103","template":"[X] \u098f\u09b0 \u09b8\u09cd\u09a5\u09be\u09a8\u09c0\u09af\u09bc \u09ad\u09be\u09b7\u09be \u09b9'\u09b2 [Y]\u0964"}
+{"index":43,"relation":"P36","template":"[X] \u098f\u09b0 \u09b0\u09be\u099c\u09a7\u09be\u09a8\u09c0 \u09b9\u09b2 [Y]\u0964"}
+{"index":12,"relation":"P463","template":"[X] [Y] \u098f\u09b0 \u098f\u0995\u099c\u09a8 \u09b8\u09a6\u09b8\u09cd\u09af\u0964"}
+{"index":6,"relation":"P449","template":"[X] \u09ae\u09c2\u09b2\u09a4 [Y] \u09a4\u09c7 \u09aa\u09cd\u09b0\u099a\u09be\u09b0\u09bf\u09a4 \u09b9\u09af\u09bc\u09c7\u099b\u09bf\u09b2\u0964"}
+{"index":24,"relation":"P1376","template":"[X] \u09b9'\u09b2 [Y] \u098f\u09b0 \u09b0\u09be\u099c\u09a7\u09be\u09a8\u09c0\u0964"}
+{"index":47,"relation":"place_of_birth","template":"[X] \u099c\u09a8\u09cd\u09ae \u09b9\u09af\u09bc\u09c7\u099b\u09bf\u09b2 [Y] \u09a4\u09c7\u0964"}
+{"index":45,"relation":"P361","template":"[X] [Y] \u098f\u09b0 \u098f\u0995\u099f\u09bf \u0985\u0982\u09b6\u0964"}
+{"index":36,"relation":"P127","template":"[X] \u098f\u09b0 \u09ae\u09be\u09b2\u09bf\u0995\u09be\u09a8\u09be [Y]\u0964"}
+{"index":27,"relation":"P108","template":"[X] [Y] \u098f\u09b0 \u099c\u09a8\u09cd\u09af \u0995\u09be\u099c \u0995\u09b0\u09c7\u0964"}
+{"index":11,"relation":"P54","template":"[X] [Y] \u098f\u09b0 \u09b8\u09be\u09a5\u09c7 \u0996\u09c7\u09b2\u09c7\u0964"}
+{"index":1,"relation":"P20","template":"[X] [Y] -\u098f \u09ae\u09be\u09b0\u09be \u0997\u09bf\u09af\u09bc\u09c7\u099b\u09bf\u09b2\u09c7\u09a8\u0964"}
+{"index":40,"relation":"P31","template":"[X] \u098f\u0995\u099f\u09bf [Y]\u0964"}
+{"index":20,"relation":"P27","template":"[X] \u09b9'\u09b2 [Y] \u09a8\u09be\u0997\u09b0\u09bf\u0995\u0964"}
+{"index":25,"relation":"P131","template":"[X] [Y] \u098f \u0985\u09ac\u09b8\u09cd\u09a5\u09bf\u09a4\u0964"}
+{"index":9,"relation":"P138","template":"[X] \u098f\u09b0 \u09a8\u09be\u09ae\u0995\u09b0\u09a3 \u0995\u09b0\u09be \u09b9\u09af\u09bc\u09c7\u099b\u09c7 [Y]\u0964"}
+{"index":31,"relation":"P264","template":"[X] \u09b8\u0999\u09cd\u0997\u09c0\u09a4 \u09b2\u09c7\u09ac\u09c7\u09b2 \u09a6\u09cd\u09ac\u09be\u09b0\u09be \u09aa\u09cd\u09b0\u09a4\u09bf\u09a8\u09bf\u09a7\u09bf\u09a4\u09cd\u09ac \u0995\u09b0\u09be \u09b9\u09af\u09bc [Y]\u0964"}
+{"index":44,"relation":"P740","template":"[X] \u09aa\u09cd\u09b0\u09a4\u09bf\u09b7\u09cd\u09a0\u09bf\u09a4 \u09b9\u09af\u09bc\u09c7\u099b\u09bf\u09b2 [Y] \u09a4\u09c7\u0964"}
+{"index":28,"relation":"P136","template":"[X] [Y] \u09b8\u0982\u0997\u09c0\u09a4 \u09ac\u09be\u099c\u09be\u09af\u09bc\u0964"}
+{"index":39,"relation":"P1001","template":"[X] [Y] \u098f\u09b0 \u098f\u0995\u099f\u09bf \u0986\u0987\u09a8\u09c0 \u09b6\u09ac\u09cd\u09a6\u0964"}
+{"index":35,"relation":"P1303","template":"[X] \u0996\u09c7\u09b2\u09c7 [Y]\u0964"}
+{"index":13,"relation":"P101","template":"[X] [Y] \u098f\u09b0 \u0995\u09cd\u09b7\u09c7\u09a4\u09cd\u09b0\u09c7 \u0995\u09be\u099c \u0995\u09b0\u09c7\u0964"}
+{"index":29,"relation":"P17","template":"[X] [Y] \u098f \u0985\u09ac\u09b8\u09cd\u09a5\u09bf\u09a4\u0964"}
+{"index":22,"relation":"P30","template":"[X] [Y] \u098f \u0985\u09ac\u09b8\u09cd\u09a5\u09bf\u09a4\u0964"}
+{"index":15,"relation":"P106","template":"[X] \u09aa\u09c7\u09b6\u09be\u09af\u09bc \u098f\u0995\u099f\u09bf [Y]\u0964"}
+{"index":48,"relation":"place_of_death","template":"[X] [Y] -\u098f \u09ae\u09be\u09b0\u09be \u0997\u09bf\u09af\u09bc\u09c7\u099b\u09bf\u09b2\u09c7\u09a8\u0964"}
+{"index":21,"relation":"P407","template":"[X] \u09b2\u09bf\u0996\u09c7\u099b\u09bf\u09b2\u09c7\u09a8 [Y]\u0964"}
+{"index":42,"relation":"P159","template":"[X] \u098f\u09b0 \u09b8\u09a6\u09b0 \u09a6\u09ab\u09a4\u09b0 [Y] \u098f\u0964"}
+{"index":14,"relation":"P1923","template":"[Y] [X] \u098f \u0985\u0982\u09b6 \u09a8\u09bf\u09af\u09bc\u09c7\u099b\u09bf\u09b2\u0964"}
+{"index":33,"relation":"P937","template":"[X] [Y] \u098f \u0995\u09be\u099c \u0995\u09b0\u09a4\u09c7\u09a8\u0964"}
+{"index":17,"relation":"P102","template":"[X] [Y] \u09b0\u09be\u099c\u09a8\u09c8\u09a4\u09bf\u0995 \u09a6\u09b2\u09c7\u09b0 \u09b8\u09a6\u09b8\u09cd\u09af is"}

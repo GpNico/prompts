@@ -1,0 +1,39 @@
+{"index":26,"relation":"P1412","template":"[X] solia comunicar-se en [Y]."}
+{"index":41,"relation":"P495","template":"[X] es va crear a [Y]."}
+{"index":38,"relation":"P190","template":"[X] i [Y] s\u00f3n ciutats bessones."}
+{"index":3,"relation":"P37","template":"La llengua oficial de [X] \u00e9s [Y]."}
+{"index":2,"relation":"P279","template":"[X] \u00e9s una subclasse de [Y]."}
+{"index":24,"relation":"P1376","template":"[X] \u00e9s la capital de [Y]."}
+{"index":22,"relation":"P30","template":"[X] est\u00e0 situat a [Y]."}
+{"index":7,"relation":"P69","template":"[X] es va educar a la Universitat de [Y]."}
+{"index":30,"relation":"P39","template":"[X] t\u00e9 la posici\u00f3 de [Y]."}
+{"index":5,"relation":"P166","template":"[X] va rebre el premi [Y]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (nascut [Y])."}
+{"index":35,"relation":"P1303","template":"[X] juga [Y]."}
+{"index":4,"relation":"P413","template":"[X] juga en la posici\u00f3 [Y]."}
+{"index":33,"relation":"P937","template":"[X] solia funcionar en [Y]."}
+{"index":27,"relation":"P108","template":"[X] funciona per a [Y]."}
+{"index":19,"relation":"P176","template":"[X] \u00e9s produ\u00eft per [Y]."}
+{"index":8,"relation":"P47","template":"[X] comparteix frontera amb [Y]."}
+{"index":21,"relation":"P407","template":"[X] es va escriure a [Y]."}
+{"index":23,"relation":"P178","template":"[X] est\u00e0 desenvolupat per [Y]."}
+{"index":36,"relation":"P127","template":"[X] \u00e9s propietat de [Y]."}
+{"index":14,"relation":"P1923","template":"[Y] va participar a la [X]."}
+{"index":47,"relation":"place_of_birth","template":"[X] va n\u00e9ixer a [Y]."}
+{"index":6,"relation":"P449","template":"[X] es va publicar originalment a [Y]."}
+{"index":11,"relation":"P54","template":"[X] juga amb [Y]."}
+{"index":42,"relation":"P159","template":"La seu de [X] est\u00e0 a [Y]."}
+{"index":12,"relation":"P463","template":"[X] \u00e9s membre de [Y]."}
+{"index":48,"relation":"place_of_death","template":"[X] va morir a [Y]."}
+{"index":1,"relation":"P20","template":"[X] va morir a [Y]."}
+{"index":31,"relation":"P264","template":"[X] es representa amb el segell musical [Y]."}
+{"index":9,"relation":"P138","template":"[X] rep el nom de [Y]."}
+{"index":25,"relation":"P131","template":"[X] est\u00e0 situat a [Y]."}
+{"index":28,"relation":"P136","template":"[X] toca m\u00fasica [Y]."}
+{"index":15,"relation":"P106","template":"[X] \u00e9s un [Y] de professi\u00f3."}
+{"index":43,"relation":"P36","template":"La capital de [X] \u00e9s [Y]."}
+{"index":39,"relation":"P1001","template":"[X] \u00e9s un terme legal en [Y]."}
+{"index":37,"relation":"P103","template":"La llengua nativa de [X] \u00e9s [Y]."}
+{"index":10,"relation":"P364","template":"La llengua original de [X] \u00e9s [Y]."}
+{"index":45,"relation":"P361","template":"[X] forma part de [Y]."}
+{"index":29,"relation":"P17","template":"[X] est\u00e0 situat a [Y]."}

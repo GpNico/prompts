@@ -1,0 +1,10 @@
+{"index":38,"relation":"P190","template":"[X] \u0438 [Y] \u0441\u0443 \u0433\u0440\u0430\u0434\u043e\u0432\u0438 \u0431\u043b\u0438\u0437\u0430\u043d\u0446\u0438."}
+{"index":46,"relation":"date_of_birth","template":"[X] (\u0440\u043e\u0452\u0435\u043d\u043e [Y])."}
+{"index":7,"relation":"P69","template":"[X] \u0441\u0435 \u0448\u043a\u043e\u043b\u043e\u0432\u0430\u043e \u043d\u0430 \u0423\u043d\u0438\u0432\u0435\u0440\u0437\u0438\u0442\u0435\u0442\u0443 [Y]."}
+{"index":40,"relation":"P31","template":"[X] \u0458\u0435 [Y]."}
+{"index":36,"relation":"P127","template":"[X] \u0458\u0435 \u0443 \u0432\u043b\u0430\u0441\u043d\u0438\u0448\u0442\u0432\u0443 [Y]."}
+{"index":43,"relation":"P36","template":"\u0413\u043b\u0430\u0432\u043d\u0438 \u0433\u0440\u0430\u0434 [X] \u0458\u0435 [Y]."}
+{"index":22,"relation":"P30","template":"[X] \u0441\u0435 \u043d\u0430\u043b\u0430\u0437\u0438 \u0443 [Y]."}
+{"index":20,"relation":"P27","template":"[X] \u0458\u0435 [Y] \u0433\u0440\u0430\u0452\u0430\u043d\u0438\u043d."}
+{"index":8,"relation":"P47","template":"[X] \u0434\u0435\u043b\u0438 \u0433\u0440\u0430\u043d\u0438\u0446\u0443 \u0441\u0430 [Y]."}
+{"index":42,"relation":"P159","template":"\u0421\u0458\u0435\u0434\u0438\u0448\u0442\u0435 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0458\u0435 [X] \u0458\u0435 \u0443 [Y]."}

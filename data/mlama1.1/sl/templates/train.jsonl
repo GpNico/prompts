@@ -1,0 +1,39 @@
+{"index":47,"relation":"place_of_birth","template":"[X] se je rodil v [Y]."}
+{"index":8,"relation":"P47","template":"[X] deli mejo z [Y]."}
+{"index":14,"relation":"P1923","template":"[Y] je sodeloval v [X]."}
+{"index":41,"relation":"P495","template":"[X] je bil ustvarjen v [Y]."}
+{"index":32,"relation":"P276","template":"[X] se nahaja v [Y]."}
+{"index":13,"relation":"P101","template":"[X] deluje na podro\u010dju [Y]."}
+{"index":7,"relation":"P69","template":"[X] se je izobra\u017eeval na univerzi v [Y]."}
+{"index":2,"relation":"P279","template":"[X] je podrazred [Y]."}
+{"index":35,"relation":"P1303","template":"[X] predvaja [Y]."}
+{"index":30,"relation":"P39","template":"[X] ima polo\u017eaj [Y]."}
+{"index":34,"relation":"P140","template":"[X] je povezan z religijo [Y]."}
+{"index":16,"relation":"P527","template":"[X] je sestavljen iz [Y]."}
+{"index":39,"relation":"P1001","template":"[X] je pravni izraz v [Y]."}
+{"index":44,"relation":"P740","template":"[X] je bil ustanovljen v [Y]."}
+{"index":33,"relation":"P937","template":"[X], ki je neko\u010d deloval v [Y]."}
+{"index":4,"relation":"P413","template":"[X] se igra v polo\u017eaju [Y]."}
+{"index":37,"relation":"P103","template":"Doma\u010di jezik [X] je [Y]."}
+{"index":11,"relation":"P54","template":"[X] se igra z [Y]."}
+{"index":21,"relation":"P407","template":"[X] je bil napisan v [Y]."}
+{"index":6,"relation":"P449","template":"[X] je bil prvotno predvajan na [Y]."}
+{"index":0,"relation":"P19","template":"[X] se je rodil v mestu [Y]."}
+{"index":23,"relation":"P178","template":"[X] je razvil [Y]."}
+{"index":15,"relation":"P106","template":"[X] je po poklicu [Y]."}
+{"index":45,"relation":"P361","template":"[X] je del [Y]."}
+{"index":25,"relation":"P131","template":"[X] se nahaja v [Y]."}
+{"index":40,"relation":"P31","template":"[X] je [Y]."}
+{"index":22,"relation":"P30","template":"[X] se nahaja v [Y]."}
+{"index":5,"relation":"P166","template":"[X] je prejel [Y]."}
+{"index":9,"relation":"P138","template":"[X] je poimenovan po [Y]."}
+{"index":36,"relation":"P127","template":"[X] je last [Y]."}
+{"index":27,"relation":"P108","template":"[X] deluje za [Y]."}
+{"index":19,"relation":"P176","template":"[X] proizvaja [Y]."}
+{"index":38,"relation":"P190","template":"[X] in [Y] sta mesti dvoj\u010dka."}
+{"index":10,"relation":"P364","template":"Izvirni jezik [X] je [Y]."}
+{"index":3,"relation":"P37","template":"Uradni jezik [X] je [Y]."}
+{"index":29,"relation":"P17","template":"[X] se nahaja v [Y]."}
+{"index":48,"relation":"place_of_death","template":"[X] je umrl v [Y]."}
+{"index":43,"relation":"P36","template":"Kapital [X] je [Y]."}
+{"index":42,"relation":"P159","template":"Sede\u017e podjetja [X] je v [Y]."}

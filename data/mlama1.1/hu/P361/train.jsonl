@@ -1,0 +1,394 @@
+{"index":410,"sub_uri":"Q166530","obj_uri":"Q11412","obj_label":"gravit\u00e1ci\u00f3","sub_label":"Kozmikus sebess\u00e9gek","lineid":723,"uuid":"799234f5-bd50-4ad5-82f4-ed887d5ca8c4"}
+{"index":10,"sub_uri":"Q3238261","obj_uri":"Q34740","obj_label":"nemzets\u00e9g","sub_label":"alnemzets\u00e9g","lineid":11,"uuid":"90ee3bfc-a3ad-4b0e-96e1-e73cb368b98a"}
+{"index":76,"sub_uri":"Q49","obj_uri":"Q828","obj_label":"Amerika","sub_label":"\u00c9szak-Amerika","lineid":93,"uuid":"a82cc74c-863e-45a3-aba8-daee12f13235"}
+{"index":257,"sub_uri":"Q206732","obj_uri":"Q152","obj_label":"halak","sub_label":"\u00dasz\u00f3h\u00f3lyag","lineid":372,"uuid":"08073f30-21a9-4e4e-aaca-05f58565b7f5"}
+{"index":488,"sub_uri":"Q42250","obj_uri":"Q1069","obj_label":"geol\u00f3gia","sub_label":"Hidrol\u00f3gia","lineid":922,"uuid":"8d39ae96-a696-48ce-9a7e-bb71c089ed6b"}
+{"index":465,"sub_uri":"Q312930","obj_uri":"Q5456","obj_label":"Andok","sub_label":"Copahue","lineid":869,"uuid":"0742d90e-4bb8-421f-84b9-a73331eedc0b"}
+{"index":336,"sub_uri":"Q165838","obj_uri":"Q413","obj_label":"fizika","sub_label":"Limnol\u00f3gia","lineid":549,"uuid":"f222e226-9801-48f7-a96d-35adc8206eea"}
+{"index":55,"sub_uri":"Q19786","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"\u00d3sz\u00f6vets\u00e9g","lineid":62,"uuid":"de96293b-52c5-424d-9a0d-1adbbecad650"}
+{"index":36,"sub_uri":"Q8087","obj_uri":"Q395","obj_label":"matematika","sub_label":"geometria","lineid":39,"uuid":"401f01e2-c9e2-4b74-9510-e03175fd99b5"}
+{"index":194,"sub_uri":"Q166530","obj_uri":"Q40218","obj_label":"\u0171reszk\u00f6z","sub_label":"Kozmikus sebess\u00e9gek","lineid":261,"uuid":"5b7972bf-ecd4-483c-9470-0f0983fde1a7"}
+{"index":313,"sub_uri":"Q186380","obj_uri":"Q7020","obj_label":"genom","sub_label":"autosz\u00f3ma","lineid":505,"uuid":"e65ee122-7000-475b-a270-9dac64c0d2fa"}
+{"index":63,"sub_uri":"Q243545","obj_uri":"Q2329","obj_label":"k\u00e9mia","sub_label":"Magk\u00e9mia","lineid":76,"uuid":"3a445e03-3157-437d-b845-16c7dc97b6ca"}
+{"index":154,"sub_uri":"Q11282","obj_uri":"Q318","obj_label":"galaxis","sub_label":"H II r\u00e9gi\u00f3","lineid":205,"uuid":"9e8e6ca7-a66c-4570-9c9a-f8747e80efca"}
+{"index":491,"sub_uri":"Q589504","obj_uri":"Q429165","obj_label":"A1-es aut\u00f3p\u00e1lya (Horv\u00e1torsz\u00e1g)","sub_label":"Mala Kapela alag\u00fat","lineid":929,"uuid":"2e9a58f9-0e94-4e8f-a76d-eaa25bfcfd90"}
+{"index":401,"sub_uri":"Q482853","obj_uri":"Q7881","obj_label":"csontv\u00e1z","sub_label":"gerinc","lineid":704,"uuid":"017f436f-e474-43d6-bfa3-74b0ca89e2e4"}
+{"index":362,"sub_uri":"Q215138","obj_uri":"Q5456","obj_label":"Andok","sub_label":"Cerro Chalt\u00e9n","lineid":610,"uuid":"694a7706-ad82-4482-9782-faa982ae2977"}
+{"index":317,"sub_uri":"Q26383","obj_uri":"Q413","obj_label":"fizika","sub_label":"atomfizika","lineid":511,"uuid":"e906727a-67e8-4fcd-999e-e7f93dec600e"}
+{"index":209,"sub_uri":"Q509284","obj_uri":"Q95","obj_label":"Google","sub_label":"G Suite","lineid":282,"uuid":"678c5b89-a265-41c8-8840-0f36a1f76dab"}
+{"index":35,"sub_uri":"Q7150","obj_uri":"Q420","obj_label":"biol\u00f3gia","sub_label":"\u00f6kol\u00f3gia","lineid":38,"uuid":"2d0964ae-2e01-49ed-b017-db694583d053"}
+{"index":355,"sub_uri":"Q189445","obj_uri":"Q7174","obj_label":"demokr\u00e1cia","sub_label":"k\u00e9tkamar\u00e1s t\u00f6rv\u00e9nyhoz\u00e1s","lineid":588,"uuid":"05133a66-0345-412a-930f-626f0f811f6f"}
+{"index":66,"sub_uri":"Q18362","obj_uri":"Q413","obj_label":"fizika","sub_label":"elm\u00e9leti fizika","lineid":81,"uuid":"0a5b0aa1-a548-41ed-afdd-5181dcee7994"}
+{"index":128,"sub_uri":"Q422713","obj_uri":"Q5456","obj_label":"Andok","sub_label":"Licancabur","lineid":161,"uuid":"2ac9da9a-b6fb-4fde-a3cf-ef603001058e"}
+{"index":414,"sub_uri":"Q42372","obj_uri":"Q318","obj_label":"galaxis","sub_label":"Csillagk\u00f6d","lineid":735,"uuid":"136629ad-4a9f-4052-9af3-4d16009b191a"}
+{"index":19,"sub_uri":"Q233836","obj_uri":"Q5456","obj_label":"Andok","sub_label":"Ojos del Salado","lineid":21,"uuid":"fa6614a6-0999-41a1-a38b-c9d23c551eb5"}
+{"index":340,"sub_uri":"Q32635","obj_uri":"Q75","obj_label":"internet","sub_label":"tartom\u00e1nyn\u00e9v","lineid":560,"uuid":"965c6781-797a-497a-a76a-5174f89f5e64"}
+{"index":135,"sub_uri":"Q499312","obj_uri":"Q45805","obj_label":"Jura","sub_label":"K\u00e9s\u0151 jura","lineid":172,"uuid":"dd1512c7-fe85-424b-8069-a23791fa143b"}
+{"index":24,"sub_uri":"Q42614","obj_uri":"Q34990","obj_label":"T\u00f3ra","sub_label":"M\u00f3zes \u00f6t\u00f6dik k\u00f6nyve","lineid":26,"uuid":"50f3fc96-3eab-476f-b58e-4b567fee4a5a"}
+{"index":219,"sub_uri":"Q2001305","obj_uri":"Q289","obj_label":"telev\u00edzi\u00f3","sub_label":"telev\u00edzi\u00f3csatorna","lineid":294,"uuid":"6149d7b6-7653-440c-a3e8-ca64abb9c8f2"}
+{"index":20,"sub_uri":"Q263686","obj_uri":"Q46","obj_label":"Eur\u00f3pa","sub_label":"D\u00e9lkelet-Eur\u00f3pa","lineid":22,"uuid":"38c8b65a-ad3f-4d6a-a5f5-69b432f94d6d"}
+{"index":421,"sub_uri":"Q131640","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"Neh\u00e9mi\u00e1s k\u00f6nyve","lineid":749,"uuid":"18258190-3292-471c-bc1c-de8a9ce43731"}
+{"index":463,"sub_uri":"Q164587","obj_uri":"Q128781","obj_label":"Wehrmacht","sub_label":"Orosz Felszabad\u00edt\u00e1si Hadsereg","lineid":860,"uuid":"9e333569-ec2c-4bc5-bb02-a21a5c1f3623"}
+{"index":482,"sub_uri":"Q906336","obj_uri":"Q5456","obj_label":"Andok","sub_label":"Mercedario","lineid":911,"uuid":"680a2e01-82ff-4414-8410-b1159d5f3430"}
+{"index":474,"sub_uri":"Q374727","obj_uri":"Q9633","obj_label":"Nyak","sub_label":"Tark\u00f3","lineid":892,"uuid":"d6985ee3-c972-407d-8795-8df2778bec0d"}
+{"index":437,"sub_uri":"Q83353","obj_uri":"Q1069","obj_label":"geol\u00f3gia","sub_label":"\u00e1sv\u00e1nytan","lineid":777,"uuid":"02a2611f-b118-414f-bfc5-9849c6ac0476"}
+{"index":91,"sub_uri":"Q183","obj_uri":"Q7184","obj_label":"\u00c9szak-atlanti Szerz\u0151d\u00e9s Szervezete","sub_label":"N\u00e9metorsz\u00e1g","lineid":112,"uuid":"bc06c075-6738-499e-8286-d9e4be5ea475"}
+{"index":176,"sub_uri":"Q4579","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"A p\u00e9ldabesz\u00e9dek k\u00f6nyve","lineid":232,"uuid":"28219b4a-bc7a-4ab9-8d49-fc7ceee3224e"}
+{"index":48,"sub_uri":"Q7430","obj_uri":"Q7020","obj_label":"genom","sub_label":"dezoxiribonukleinsav","lineid":54,"uuid":"e9f97f76-b264-4476-b4cb-7a73de24126e"}
+{"index":242,"sub_uri":"Q188193","obj_uri":"Q7239","obj_label":"\u00e9l\u0151l\u00e9ny","sub_label":"szervrendszer","lineid":348,"uuid":"9585c505-d8dd-4600-ac1b-5d538c64231c"}
+{"index":262,"sub_uri":"Q1450662","obj_uri":"Q142","obj_label":"Franciaorsz\u00e1g","sub_label":"Franciaorsz\u00e1g korm\u00e1nya","lineid":378,"uuid":"9ad8caa1-1d39-4c94-ba87-71c694eeee51"}
+{"index":108,"sub_uri":"Q212938","obj_uri":"Q1218","obj_label":"Jeruzs\u00e1lem","sub_label":"Kelet-Jeruzs\u00e1lem","lineid":136,"uuid":"dc028930-0322-4ac6-bce2-65c8eb76654a"}
+{"index":429,"sub_uri":"Q1196371","obj_uri":"Q8087","obj_label":"geometria","sub_label":"Transzform\u00e1ci\u00f3","lineid":768,"uuid":"3a055bc3-4944-49ff-b5e3-4ab80cac6b53"}
+{"index":116,"sub_uri":"Q47398","obj_uri":"Q8134","obj_label":"k\u00f6zgazdas\u00e1gtan","sub_label":"gazdas\u00e1gt\u00f6rt\u00e9net","lineid":147,"uuid":"7825ceb3-4e4d-4e60-ac36-1da3120ea514"}
+{"index":270,"sub_uri":"Q840773","obj_uri":"Q12796","obj_label":"t\u0171zfegyver","sub_label":"Cs\u0151sz\u00e1jf\u00e9k","lineid":396,"uuid":"004a7924-3497-45ef-938d-0d906fd94483"}
+{"index":331,"sub_uri":"Q26336","obj_uri":"Q413","obj_label":"fizika","sub_label":"Elektrosztatika","lineid":537,"uuid":"303b841c-1878-4160-9532-2faa6ee673f5"}
+{"index":416,"sub_uri":"Q3358","obj_uri":"Q456","obj_label":"Lyon","sub_label":"Lyon 6. ker\u00fclete","lineid":740,"uuid":"cec75473-b4c1-4551-af8b-d7669579efcc"}
+{"index":230,"sub_uri":"Q11165","obj_uri":"Q2329","obj_label":"k\u00e9mia","sub_label":"szervetlen k\u00e9mia","lineid":318,"uuid":"a7dca426-4433-42ec-a4c4-9d85d2ef6549"}
+{"index":29,"sub_uri":"Q35323","obj_uri":"Q62928","obj_label":"Szemita","sub_label":"arab","lineid":32,"uuid":"9393f42b-4510-410a-b9a5-602884a640e4"}
+{"index":72,"sub_uri":"Q179289","obj_uri":"Q8078","obj_label":"logika","sub_label":"oks\u00e1g","lineid":87,"uuid":"4eb25184-c3e4-44d2-875a-cb441c623703"}
+{"index":109,"sub_uri":"Q660910","obj_uri":"Q521","obj_label":"\u00e9lettan","sub_label":"neurofiziol\u00f3gia","lineid":137,"uuid":"4943825b-bb34-47cf-9d22-116fbd626e3e"}
+{"index":186,"sub_uri":"Q160453","obj_uri":"Q9158","obj_label":"e-mail","sub_label":"Simple Mail Transfer Protocol","lineid":243,"uuid":"0a9ceb53-13d2-45c8-b542-2bfe88298585"}
+{"index":136,"sub_uri":"Q752187","obj_uri":"Q44626","obj_label":"kr\u00e9ta","sub_label":"Kora kr\u00e9ta","lineid":174,"uuid":"cd2d1363-f5e6-4b93-94e6-ac489bc86e72"}
+{"index":185,"sub_uri":"Q161272","obj_uri":"Q9418","obj_label":"pszichol\u00f3gia","sub_label":"szoci\u00e1lpszichol\u00f3gia","lineid":242,"uuid":"04469a93-3ed4-45fe-af4d-d8d11ade8572"}
+{"index":415,"sub_uri":"Q3360","obj_uri":"Q456","obj_label":"Lyon","sub_label":"Lyon 7. ker\u00fclete","lineid":736,"uuid":"c723929b-ac48-4bcd-9323-bdc8ba62c0a9"}
+{"index":329,"sub_uri":"Q4577","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"J\u00f3b k\u00f6nyve","lineid":534,"uuid":"efa9023c-c2a8-4124-9542-25183ab9aa4b"}
+{"index":346,"sub_uri":"Q213283","obj_uri":"Q1889","obj_label":"diplom\u00e1cia","sub_label":"diplom\u00e1ciai misszi\u00f3","lineid":569,"uuid":"a3b5ec3a-5de1-410e-8683-6728d045408b"}
+{"index":78,"sub_uri":"Q14579","obj_uri":"Q388","obj_label":"Linux","sub_label":"Linux kernel","lineid":95,"uuid":"228ef4f4-2fe7-4010-a789-e730f6c725ff"}
+{"index":69,"sub_uri":"Q9184","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"M\u00f3zes els\u0151 k\u00f6nyve","lineid":84,"uuid":"1060335a-99dc-4f15-9c25-703d8f5df601"}
+{"index":283,"sub_uri":"Q4834844","obj_uri":"Q9531","obj_label":"BBC","sub_label":"BBC Manchester","lineid":424,"uuid":"554d1f1f-a40c-4588-9799-220b5bddaf1e"}
+{"index":298,"sub_uri":"Q189940","obj_uri":"Q11442","obj_label":"ker\u00e9kp\u00e1r","sub_label":"ker\u00e9kp\u00e1rl\u00e1nc","lineid":458,"uuid":"b2d0d8ce-ced6-45c9-b7d8-a8ce86afa966"}
+{"index":3,"sub_uri":"Q431","obj_uri":"Q420","obj_label":"biol\u00f3gia","sub_label":"zool\u00f3gia","lineid":3,"uuid":"76a5dbfa-425b-43c3-88ed-2f5226745240"}
+{"index":193,"sub_uri":"Q6150784","obj_uri":"Q185968","obj_label":"Carmen","sub_label":"Torre\u00e1dor-dal","lineid":258,"uuid":"abf6d545-18c1-4d77-8765-e3aa8a85d8cf"}
+{"index":468,"sub_uri":"Q5051825","obj_uri":"Q395","obj_label":"matematika","sub_label":"kategorifik\u00e1ci\u00f3","lineid":881,"uuid":"8cb84e11-5071-4626-9a27-6a932bac2d41"}
+{"index":423,"sub_uri":"Q16648","obj_uri":"Q1286","obj_label":"Alpok","sub_label":"Monte San Giorgio","lineid":754,"uuid":"7276c2a3-6651-4a96-952a-b05e9d8aff35"}
+{"index":149,"sub_uri":"Q560583","obj_uri":"Q1860","obj_label":"angol","sub_label":"angol nyelvtan","lineid":197,"uuid":"5f56f59a-6ef8-44f0-b430-01d5f7e7d013"}
+{"index":104,"sub_uri":"Q623","obj_uri":"Q11427","obj_label":"ac\u00e9l","sub_label":"sz\u00e9n","lineid":130,"uuid":"21922b17-fb56-4f98-b772-bdbc1410a9b7"}
+{"index":332,"sub_uri":"Q774","obj_uri":"Q828","obj_label":"Amerika","sub_label":"Guatemala","lineid":539,"uuid":"f3abaefd-d6e2-4139-9012-2b5875865a6f"}
+{"index":16,"sub_uri":"Q1555938","obj_uri":"Q2","obj_label":"F\u00f6ld","sub_label":"Antarktisz","lineid":18,"uuid":"bc928c9c-187a-4484-8535-a172b55b68fd"}
+{"index":167,"sub_uri":"Q181476","obj_uri":"Q5456","obj_label":"Andok","sub_label":"Cotopaxi","lineid":222,"uuid":"a6001490-0fcf-4ce8-902c-6c79bbe8b177"}
+{"index":117,"sub_uri":"Q83353","obj_uri":"Q2329","obj_label":"k\u00e9mia","sub_label":"\u00e1sv\u00e1nytan","lineid":148,"uuid":"42b85dd1-f9c3-443c-88a6-24b0b1de608b"}
+{"index":267,"sub_uri":"Q842402","obj_uri":"Q9089","obj_label":"hinduizmus","sub_label":"Hindu templom","lineid":388,"uuid":"bfda5de4-03d4-4a55-ac89-56bc2bc43030"}
+{"index":62,"sub_uri":"Q18","obj_uri":"Q828","obj_label":"Amerika","sub_label":"D\u00e9l-Amerika","lineid":74,"uuid":"77879f0f-a331-4c9b-af65-243090bf1c9f"}
+{"index":356,"sub_uri":"Q126804","obj_uri":"Q51614","obj_label":"Anat\u00f3lia","sub_label":"Erciyes Da\u011f\u0131","lineid":591,"uuid":"b2fd1735-8d23-4c71-a0aa-b867ba6de7b1"}
+{"index":459,"sub_uri":"Q243684","obj_uri":"Q12546","obj_label":"keresztes h\u00e1bor\u00fak","sub_label":"Nyolcadik keresztes hadj\u00e1rat","lineid":841,"uuid":"f0ce1340-6a95-454e-a071-1193bb0b54ba"}
+{"index":328,"sub_uri":"Q276183","obj_uri":"Q34178","obj_label":"teol\u00f3gia","sub_label":"Teodicea","lineid":532,"uuid":"81808853-6c9c-4d3a-9b2c-c8443e7f6939"}
+{"index":118,"sub_uri":"Q83353","obj_uri":"Q413","obj_label":"fizika","sub_label":"\u00e1sv\u00e1nytan","lineid":149,"uuid":"eb795c59-642f-426c-889c-6f4d342f3450"}
+{"index":106,"sub_uri":"Q11351","obj_uri":"Q2329","obj_label":"k\u00e9mia","sub_label":"szerves k\u00e9mia","lineid":133,"uuid":"bfdfb989-0737-49e3-a499-a4a31b2f747c"}
+{"index":254,"sub_uri":"Q52106","obj_uri":"Q1071","obj_label":"f\u00f6ldrajztudom\u00e1ny","sub_label":"biogeogr\u00e1fia","lineid":369,"uuid":"a05e944b-f1b1-4359-be60-eaf359f55f26"}
+{"index":65,"sub_uri":"Q3203","obj_uri":"Q319","obj_label":"Jupiter","sub_label":"Galilei-holdak","lineid":78,"uuid":"d279b363-ad79-42a1-ac86-4e8de216869a"}
+{"index":479,"sub_uri":"Q128593","obj_uri":"Q5891","obj_label":"filoz\u00f3fia","sub_label":"reinkarn\u00e1ci\u00f3","lineid":903,"uuid":"5c2f771b-88d6-4c29-a48d-d9fce97d4e56"}
+{"index":2,"sub_uri":"Q3606845","obj_uri":"Q11451","obj_label":"mez\u0151gazdas\u00e1g","sub_label":"mez\u0151gazdas\u00e1g-tudom\u00e1ny","lineid":2,"uuid":"7b24c9ba-5640-4e4e-a454-4293a39e3e7c"}
+{"index":484,"sub_uri":"Q184876","obj_uri":"Q413","obj_label":"fizika","sub_label":"vonatkoztat\u00e1si rendszer","lineid":917,"uuid":"481dd75b-df8c-461f-ac62-5f15cc1abc9f"}
+{"index":81,"sub_uri":"Q83169","obj_uri":"Q2","obj_label":"F\u00f6ld","sub_label":"Hidroszf\u00e9ra","lineid":101,"uuid":"7ad6a34e-8d1a-477f-b48e-c12bb1754bdd"}
+{"index":4,"sub_uri":"Q48","obj_uri":"Q2","obj_label":"F\u00f6ld","sub_label":"\u00c1zsia","lineid":5,"uuid":"1bdb9dec-8887-4405-86f3-0fa9a0a2d609"}
+{"index":147,"sub_uri":"Q161798","obj_uri":"Q11442","obj_label":"ker\u00e9kp\u00e1r","sub_label":"ker\u00e9kp\u00e1rker\u00e9k","lineid":190,"uuid":"cc30e9c7-c7d7-40d3-bdbe-2a2f8438a28c"}
+{"index":58,"sub_uri":"Q93259","obj_uri":"Q664609","obj_label":"Karib-t\u00e9rs\u00e9g","sub_label":"Kis-Antill\u00e1k","lineid":68,"uuid":"29705384-fb9b-4a97-91e6-57f8e2452df7"}
+{"index":450,"sub_uri":"Q190769","obj_uri":"Q37748","obj_label":"kromosz\u00f3ma","sub_label":"sejtk\u00f6zpont","lineid":812,"uuid":"8a1d46ea-139c-4cda-8719-17504ea59e0d"}
+{"index":393,"sub_uri":"Q169342","obj_uri":"Q7364","obj_label":"szem","sub_label":"receh\u00e1rtya","lineid":688,"uuid":"5f54d4e6-b73f-45de-851d-9e54b502ff02"}
+{"index":8,"sub_uri":"Q822050","obj_uri":"Q1073","obj_label":"agy","sub_label":"feh\u00e9r\u00e1llom\u00e1ny","lineid":9,"uuid":"258410c2-72e8-41e5-b69f-f1a574f30cbe"}
+{"index":15,"sub_uri":"Q9441","obj_uri":"Q748","obj_label":"buddhizmus","sub_label":"Gautama Sziddh\u00e1rtha","lineid":17,"uuid":"612ed5e3-fbd3-48dc-a226-d1d424c9ea81"}
+{"index":206,"sub_uri":"Q81851","obj_uri":"Q57821","obj_label":"er\u0151d\u00edtm\u00e9ny","sub_label":"b\u00e1stya","lineid":276,"uuid":"fcb4637f-578c-4949-ae0f-43199e5e3d5e"}
+{"index":64,"sub_uri":"Q81103","obj_uri":"Q64418","obj_label":"t\u00fcz\u00e9rs\u00e9g","sub_label":"\u00c1gy\u00fa","lineid":77,"uuid":"3571a256-0d1e-4f57-a4a7-2d7dddfa00bf"}
+{"index":261,"sub_uri":"Q27468","obj_uri":"Q46","obj_label":"Eur\u00f3pa","sub_label":"Kelet-Eur\u00f3pa","lineid":376,"uuid":"e9feadf0-c627-4257-9b3a-ccd7706f4e4c"}
+{"index":95,"sub_uri":"Q106016","obj_uri":"Q7239","obj_label":"\u00e9l\u0151l\u00e9ny","sub_label":"genot\u00edpus","lineid":116,"uuid":"dd5b31cd-4e13-476b-9fce-df9b654af1eb"}
+{"index":207,"sub_uri":"Q80290","obj_uri":"Q956","obj_label":"Peking","sub_label":"Tiltott V\u00e1ros","lineid":277,"uuid":"60ca1601-afeb-4705-ae9e-ce94811f9840"}
+{"index":224,"sub_uri":"Q185080","obj_uri":"Q1073","obj_label":"agy","sub_label":"k\u00f6z\u00e9pagy","lineid":307,"uuid":"1dc3170f-1880-4555-afc0-5070ad99ed43"}
+{"index":26,"sub_uri":"Q42989","obj_uri":"Q395","obj_label":"matematika","sub_label":"topol\u00f3gia","lineid":29,"uuid":"1f28b7fe-0310-48ba-8562-2de86b46c568"}
+{"index":373,"sub_uri":"Q170980","obj_uri":"Q4989906","obj_label":"eml\u00e9km\u0171","sub_label":"obeliszk","lineid":637,"uuid":"946cbcd9-4ba2-44cd-a5c2-6f7d9075c832"}
+{"index":352,"sub_uri":"Q11661","obj_uri":"Q7075","obj_label":"k\u00f6nyvt\u00e1r","sub_label":"inform\u00e1ci\u00f3s technol\u00f3gia","lineid":580,"uuid":"19895e79-c17f-4add-95f6-28d9a162b07c"}
+{"index":268,"sub_uri":"Q3968","obj_uri":"Q395","obj_label":"matematika","sub_label":"algebra","lineid":392,"uuid":"3a4592a9-0974-4105-ab04-6edcbcd10161"}
+{"index":320,"sub_uri":"Q1140046","obj_uri":"Q395","obj_label":"matematika","sub_label":"matematikai jel\u00f6l\u00e9srendszer","lineid":517,"uuid":"7b7bee39-e2f2-4dfa-b8bc-23bbdc85c24f"}
+{"index":292,"sub_uri":"Q180592","obj_uri":"Q5891","obj_label":"filoz\u00f3fia","sub_label":"t\u00e1rsadalomfiloz\u00f3fia","lineid":442,"uuid":"9714aea2-4817-466f-bc07-97947871933e"}
+{"index":1,"sub_uri":"Q11205","obj_uri":"Q395","obj_label":"matematika","sub_label":"Sz\u00e1mtan","lineid":1,"uuid":"213c6b73-0fa3-43a3-96a6-a3a42cf36691"}
+{"index":146,"sub_uri":"Q7953","obj_uri":"Q748","obj_label":"buddhizmus","sub_label":"Zen","lineid":189,"uuid":"7f2d2b99-4b31-46db-ae69-6f64f0735ec3"}
+{"index":156,"sub_uri":"Q81392","obj_uri":"Q395","obj_label":"matematika","sub_label":"Frakt\u00e1l","lineid":208,"uuid":"36c36dac-1169-4933-88b4-0898f1b3c774"}
+{"index":385,"sub_uri":"Q11387","obj_uri":"Q318","obj_label":"galaxis","sub_label":"ny\u00edlthalmaz","lineid":668,"uuid":"cef402d6-7f3b-408e-9519-9a541098c9c8"}
+{"index":432,"sub_uri":"Q933185","obj_uri":"Q11299","obj_label":"Manhattan","sub_label":"U Thant-sziget","lineid":771,"uuid":"db939e54-cda5-4641-9c33-fae06bf17710"}
+{"index":211,"sub_uri":"Q7100","obj_uri":"Q420","obj_label":"biol\u00f3gia","sub_label":"biofizika","lineid":284,"uuid":"009dbbd7-8bf9-48b2-9c21-2ffebdf5ed81"}
+{"index":386,"sub_uri":"Q223693","obj_uri":"Q5043","obj_label":"kereszt\u00e9nys\u00e9g","sub_label":"egyh\u00e1ztan","lineid":669,"uuid":"1ac5265c-f452-48c4-bfbc-9e43d55a8583"}
+{"index":183,"sub_uri":"Q11475","obj_uri":"Q413","obj_label":"fizika","sub_label":"V\u00e1kuum","lineid":240,"uuid":"14ae1f7c-097b-42e9-b64b-f62f32ff6dfb"}
+{"index":457,"sub_uri":"Q51617","obj_uri":"Q5043","obj_label":"kereszt\u00e9nys\u00e9g","sub_label":"Kereszt\u00e9ny egyh\u00e1zi napt\u00e1r","lineid":836,"uuid":"5e2f3670-c6b8-447d-abb5-194aa72f8dc6"}
+{"index":378,"sub_uri":"Q500054","obj_uri":"Q45805","obj_label":"Jura","sub_label":"K\u00f6z\u00e9ps\u0151 jura","lineid":653,"uuid":"b03bed08-9046-489f-9536-25ec61c4fc41"}
+{"index":454,"sub_uri":"Q171448","obj_uri":"Q160342","obj_label":"vas\u00fati p\u00e1lya","sub_label":"\u00dat\u00e1tj\u00e1r\u00f3","lineid":818,"uuid":"a42901d0-70a9-4694-8ac8-b268308864d0"}
+{"index":145,"sub_uri":"Q209534","obj_uri":"Q9734","obj_label":"szimf\u00f3nia","sub_label":"Scherzo","lineid":188,"uuid":"2ba4e4f4-f35f-4399-8528-46c537bee2e0"}
+{"index":241,"sub_uri":"Q6500960","obj_uri":"Q2","obj_label":"F\u00f6ld","sub_label":"F\u00f6ldi m\u00e1gneses mez\u0151","lineid":346,"uuid":"b0cd3003-c842-4545-b6fe-014fa1f62994"}
+{"index":324,"sub_uri":"Q127213","obj_uri":"Q11451","obj_label":"mez\u0151gazdas\u00e1g","sub_label":"Fa\u00e1pol\u00e1s","lineid":526,"uuid":"975f04a0-194f-4296-ae91-cd4b0e44bf37"}
+{"index":420,"sub_uri":"Q179760","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"Habakkuk k\u00f6nyve","lineid":745,"uuid":"dd547b8f-fbbb-43fe-a1cf-4be93eec382a"}
+{"index":228,"sub_uri":"Q27433","obj_uri":"Q15","obj_label":"Afrika","sub_label":"K\u00f6z\u00e9p-Afrika","lineid":316,"uuid":"bcbe59df-fc66-4460-b51a-ecc79a4f2c38"}
+{"index":316,"sub_uri":"Q108543","obj_uri":"Q1990792","obj_label":"Alien-tetral\u00f3gia","sub_label":"A v\u00e9gs\u0151 megold\u00e1s: Hal\u00e1l","lineid":510,"uuid":"7df358cc-e493-4f5d-bae2-41b4f8d9ad1c"}
+{"index":413,"sub_uri":"Q243462","obj_uri":"Q12483","obj_label":"statisztika","sub_label":"Kh\u00ed-n\u00e9gyzet eloszl\u00e1s","lineid":731,"uuid":"acc289d3-33ce-43b5-9603-8889696a4ca9"}
+{"index":99,"sub_uri":"Q145903","obj_uri":"Q23498","obj_label":"r\u00e9g\u00e9szet","sub_label":"egyiptol\u00f3gia","lineid":121,"uuid":"6bfd1a72-b006-4256-a149-1e1afcf839ee"}
+{"index":174,"sub_uri":"Q7205","obj_uri":"Q420","obj_label":"biol\u00f3gia","sub_label":"\u0151sl\u00e9nytan","lineid":230,"uuid":"038b26aa-823e-4945-a69b-1bfee2145369"}
+{"index":245,"sub_uri":"Q1162282","obj_uri":"Q49845","obj_label":"posta","sub_label":"postafi\u00f3k","lineid":352,"uuid":"bee1eb34-1cc1-4e62-894b-3fe800a0735c"}
+{"index":377,"sub_uri":"Q45045","obj_uri":"Q413","obj_label":"fizika","sub_label":"Szimul\u00e1ci\u00f3","lineid":652,"uuid":"26e0122c-48cd-4a1a-9e1d-5233d1cc5f81"}
+{"index":171,"sub_uri":"Q14620","obj_uri":"Q413","obj_label":"fizika","sub_label":"optika","lineid":226,"uuid":"504c694e-0cc5-4a28-b023-d38dd266448e"}
+{"index":100,"sub_uri":"Q234953","obj_uri":"Q9089","obj_label":"hinduizmus","sub_label":"Saivizmus","lineid":122,"uuid":"d9b015aa-e3a8-48b6-bea2-95ab154d6e01"}
+{"index":431,"sub_uri":"Q131230","obj_uri":"Q68740","obj_label":"Hawaii","sub_label":"Mauna Kea","lineid":770,"uuid":"1297679e-0478-4c67-989d-5e2bc3bd378d"}
+{"index":41,"sub_uri":"Q30185","obj_uri":"Q15284","obj_label":"k\u00f6zs\u00e9g","sub_label":"polg\u00e1rmester","lineid":46,"uuid":"91aa0e4b-4f3c-4ae5-bc44-dd9b7b0f3075"}
+{"index":40,"sub_uri":"Q132959","obj_uri":"Q15","obj_label":"Afrika","sub_label":"Fekete-Afrika","lineid":45,"uuid":"46c6aac8-6033-431e-b5b1-e517ad2920c1"}
+{"index":114,"sub_uri":"Q41490","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"M\u00f3zes harmadik k\u00f6nyve","lineid":143,"uuid":"d9b8ac22-0997-4d2e-9506-031328e4166f"}
+{"index":150,"sub_uri":"Q83481","obj_uri":"Q4130","obj_label":"p\u00e1lya","sub_label":"Apszispont","lineid":198,"uuid":"f0e85b58-93f9-4400-85e7-4b4914dfa34e"}
+{"index":162,"sub_uri":"Q193793","obj_uri":"Q9121","obj_label":"atom","sub_label":"elektronh\u00e9j","lineid":217,"uuid":"17d2b518-5854-4d65-98b7-48b543226d29"}
+{"index":453,"sub_uri":"Q431603","obj_uri":"Q187117","obj_label":"lobbiz\u00e1s","sub_label":"\u00e9rdekcsoport","lineid":816,"uuid":"9347e320-293f-4688-a33a-eba03419363a"}
+{"index":426,"sub_uri":"Q179807","obj_uri":"Q5891","obj_label":"filoz\u00f3fia","sub_label":"Aszk\u00e9zis","lineid":761,"uuid":"acd5bd38-20a0-408d-b6dc-15ba6148d949"}
+{"index":60,"sub_uri":"Q8201","obj_uri":"Q7850","obj_label":"k\u00ednai","sub_label":"k\u00ednai \u00edr\u00e1s","lineid":70,"uuid":"223bcb76-3995-44f5-9cbe-bf2af5e8809d"}
+{"index":383,"sub_uri":"Q297672","obj_uri":"Q420","obj_label":"biol\u00f3gia","sub_label":"bor\u00e1szat","lineid":666,"uuid":"b9311fd8-d6d3-4d18-98a8-4f6c57426391"}
+{"index":200,"sub_uri":"Q166936","obj_uri":"Q9158","obj_label":"e-mail","sub_label":"IMAP","lineid":267,"uuid":"10d7a5fa-6815-4c21-810d-86ccb67332a8"}
+{"index":321,"sub_uri":"Q380344","obj_uri":"Q12483","obj_label":"statisztika","sub_label":"le\u00edr\u00f3 statisztika","lineid":519,"uuid":"ba452886-fef1-41f3-9dd6-1783c2a4028a"}
+{"index":148,"sub_uri":"Q257418","obj_uri":"Q41207","obj_label":"\u00e9rme","sub_label":"el\u0151lap","lineid":195,"uuid":"b3bdc8da-e6ab-4cda-b182-7007e7967036"}
+{"index":107,"sub_uri":"Q145780","obj_uri":"Q9268","obj_label":"zsid\u00f3 vall\u00e1s","sub_label":"Holt-tengeri tekercsek","lineid":135,"uuid":"1447f041-665c-4165-93d8-68407a5949ea"}
+{"index":101,"sub_uri":"Q132265","obj_uri":"Q748","obj_label":"buddhizmus","sub_label":"Th\u00e9rav\u00e1da","lineid":123,"uuid":"20389d08-00a2-4519-84ab-aeb653fb70af"}
+{"index":6,"sub_uri":"Q27275","obj_uri":"Q48","obj_label":"\u00c1zsia","sub_label":"K\u00f6z\u00e9p-\u00c1zsia","lineid":7,"uuid":"ee7a848a-de8e-47be-b803-6f66e982fb83"}
+{"index":112,"sub_uri":"Q4252992","obj_uri":"Q413","obj_label":"fizika","sub_label":"l\u00e9zertudom\u00e1ny","lineid":140,"uuid":"4080b8f9-e4eb-4549-a4ba-86bdc91a2a2a"}
+{"index":59,"sub_uri":"Q217413","obj_uri":"Q395","obj_label":"matematika","sub_label":"kateg\u00f3riaelm\u00e9let","lineid":69,"uuid":"f7a20944-50d3-41ac-87b9-df38f4ddf32f"}
+{"index":215,"sub_uri":"Q7214750","obj_uri":"Q395","obj_label":"matematika","sub_label":"alapm\u0171veletek","lineid":290,"uuid":"7d231784-de86-4d4e-a5a3-7de70375ccd2"}
+{"index":125,"sub_uri":"Q35395","obj_uri":"Q8162","obj_label":"nyelv\u00e9szet","sub_label":"fonetika","lineid":157,"uuid":"63b402be-fd82-4124-b03f-00ee73701bf4"}
+{"index":44,"sub_uri":"Q7094","obj_uri":"Q2329","obj_label":"k\u00e9mia","sub_label":"biok\u00e9mia","lineid":49,"uuid":"dfd65f5d-2255-4bc4-8498-2ef419f17d18"}
+{"index":366,"sub_uri":"Q499194","obj_uri":"Q20716","obj_label":"Samsung","sub_label":"Samsung C&T","lineid":623,"uuid":"5cbc3953-3680-43fe-9f83-7b68e2282a60"}
+{"index":411,"sub_uri":"Q49718","obj_uri":"Q44167","obj_label":"motor","sub_label":"Forgatty\u00fas tengely","lineid":727,"uuid":"c3211094-8874-4b32-979c-c74721bf76ff"}
+{"index":110,"sub_uri":"Q80962","obj_uri":"Q11451","obj_label":"mez\u0151gazdas\u00e1g","sub_label":"\u00e1llatteny\u00e9szt\u00e9s","lineid":138,"uuid":"212f5892-901e-4d29-80b5-170489640c7a"}
+{"index":28,"sub_uri":"Q186350","obj_uri":"Q37090","obj_label":"Szenth\u00e1roms\u00e1g","sub_label":"Atyaisten","lineid":31,"uuid":"ce5be762-384c-4ecd-8174-de26db97c841"}
+{"index":301,"sub_uri":"Q8793","obj_uri":"Q66","obj_label":"Boeing","sub_label":"Boeing Commercial Airplanes","lineid":465,"uuid":"9cc681be-4143-44bf-b994-4ebc0b568a26"}
+{"index":119,"sub_uri":"Q14052","obj_uri":"Q5456","obj_label":"Andok","sub_label":"Sangay","lineid":150,"uuid":"8b981a04-0234-4492-8b50-ce7cd5da7af1"}
+{"index":133,"sub_uri":"Q595718","obj_uri":"Q8355","obj_label":"heged\u0171","sub_label":"Paganini-verseny","lineid":170,"uuid":"2acc42fd-bd67-4edd-ae62-e3f48a6f174e"}
+{"index":105,"sub_uri":"Q11708","obj_uri":"Q48","obj_label":"\u00c1zsia","sub_label":"D\u00e9lkelet-\u00c1zsia","lineid":131,"uuid":"89f88f35-00d7-4828-b177-3855a68b7dc3"}
+{"index":412,"sub_uri":"Q501778","obj_uri":"Q8162","obj_label":"nyelv\u00e9szet","sub_label":"ford\u00edt\u00e1studom\u00e1ny","lineid":729,"uuid":"d0226279-c65a-4f41-a582-bb39b0162bff"}
+{"index":350,"sub_uri":"Q25624","obj_uri":"Q40763","obj_label":"mag","sub_label":"Endospermium","lineid":576,"uuid":"df6381fc-b841-4ae2-a2c3-af9ae6af4753"}
+{"index":460,"sub_uri":"Q745328","obj_uri":"Q12483","obj_label":"statisztika","sub_label":"matematikai statisztika","lineid":843,"uuid":"c3a050ac-80e5-4bd7-9347-babf0f4c9d57"}
+{"index":157,"sub_uri":"Q16295","obj_uri":"Q13147","obj_label":"koponya","sub_label":"homlokcsont","lineid":210,"uuid":"ce2d0e9a-12ab-4fae-af9d-6632e15ea7b8"}
+{"index":425,"sub_uri":"Q131737","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"T\u00f3bi\u00e1s k\u00f6nyve","lineid":759,"uuid":"ba82f357-5c0c-40b5-ba0c-03b6149bf12a"}
+{"index":111,"sub_uri":"Q151701","obj_uri":"Q128781","obj_label":"Wehrmacht","sub_label":"Kriegsmarine","lineid":139,"uuid":"72591887-79c6-4b11-aba8-1ead4c5bd1bc"}
+{"index":371,"sub_uri":"Q202771","obj_uri":"Q7020","obj_label":"genom","sub_label":"Y kromosz\u00f3ma","lineid":631,"uuid":"88d6d1de-8a8d-4610-b469-27e93a70a4ac"}
+{"index":43,"sub_uri":"Q614304","obj_uri":"Q11190","obj_label":"orvostudom\u00e1ny","sub_label":"gy\u00f3gyszer\u00e9szet","lineid":48,"uuid":"bb0dc78f-ba5b-4a9b-b892-42707206d6e4"}
+{"index":303,"sub_uri":"Q614304","obj_uri":"Q420","obj_label":"biol\u00f3gia","sub_label":"gy\u00f3gyszer\u00e9szet","lineid":474,"uuid":"98179299-1681-4419-a43c-80b79468bc66"}
+{"index":430,"sub_uri":"Q297672","obj_uri":"Q2329","obj_label":"k\u00e9mia","sub_label":"bor\u00e1szat","lineid":769,"uuid":"f79e51b6-608a-451d-a341-78996898cc0f"}
+{"index":278,"sub_uri":"Q5840","obj_uri":"Q7857","obj_label":"WC","sub_label":"WC-pap\u00edr","lineid":416,"uuid":"0bad3ef7-864a-49bd-81a9-4cd9b7e93fb3"}
+{"index":155,"sub_uri":"Q847618","obj_uri":"Q748","obj_label":"buddhizmus","sub_label":"k\u00ednai buddhizmus","lineid":206,"uuid":"14921438-abe3-4a0d-b5ac-8a6c97968401"}
+{"index":259,"sub_uri":"Q131072","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"A pr\u00e9dik\u00e1tor k\u00f6nyve","lineid":374,"uuid":"4c8baa8b-0158-468f-8cca-0dc9c6f8f261"}
+{"index":318,"sub_uri":"Q1641276","obj_uri":"Q5456","obj_label":"Andok","sub_label":"Quilotoa","lineid":513,"uuid":"5953fa83-9466-46d1-9f94-0419e9bdd028"}
+{"index":417,"sub_uri":"Q9121","obj_uri":"Q11369","obj_label":"molekula","sub_label":"atom","lineid":741,"uuid":"a20e4515-86ed-4896-9fc9-ce8f0ffb748f"}
+{"index":165,"sub_uri":"Q82042","obj_uri":"Q8162","obj_label":"nyelv\u00e9szet","sub_label":"sz\u00f3faj","lineid":220,"uuid":"cbb20744-4711-4352-925b-3797a562852b"}
+{"index":31,"sub_uri":"Q649907","obj_uri":"Q3392","obj_label":"N\u00edlus","sub_label":"Katarakta","lineid":34,"uuid":"a7b04ba2-682e-4d35-bd2a-3c89095d49c1"}
+{"index":418,"sub_uri":"Q364881","obj_uri":"Q184386","obj_label":"Yes","sub_label":"Trevor Rabin","lineid":743,"uuid":"b456c4d4-02fa-4226-8f28-81a7a9d5654f"}
+{"index":274,"sub_uri":"Q4027615","obj_uri":"Q336","obj_label":"tudom\u00e1ny","sub_label":"informatika","lineid":406,"uuid":"fe8950a3-569e-41dc-bdc7-11dd9ac66478"}
+{"index":0,"sub_uri":"Q771405","obj_uri":"Q48","obj_label":"\u00c1zsia","sub_label":"D\u00e9l-\u00c1zsia","lineid":0,"uuid":"97eb3b1f-7b09-4b81-a9d1-bdfb1ef64d43"}
+{"index":250,"sub_uri":"Q39739","obj_uri":"Q5456","obj_label":"Andok","sub_label":"Aconcagua","lineid":361,"uuid":"e6ee81a3-df78-4a18-9c09-69f3febafaec"}
+{"index":189,"sub_uri":"Q83944","obj_uri":"Q23404","obj_label":"antropol\u00f3gia","sub_label":"emberr\u00e9 v\u00e1l\u00e1s","lineid":253,"uuid":"7c1f642c-274e-42fe-a8c6-6259cdde9f69"}
+{"index":311,"sub_uri":"Q83659","obj_uri":"Q34374","obj_label":"Kr\u00e9ta","sub_label":"Pszilor\u00edtisz-hegy","lineid":499,"uuid":"899cb561-5fbb-4881-9c7b-ccf50ccc850e"}
+{"index":466,"sub_uri":"Q43099","obj_uri":"Q34990","obj_label":"T\u00f3ra","sub_label":"M\u00f3zes negyedik k\u00f6nyve","lineid":877,"uuid":"a3aa3e6f-63e0-49c6-a54b-9b2b5d0501c7"}
+{"index":51,"sub_uri":"Q68947","obj_uri":"Q7432","obj_label":"faj","sub_label":"alfaj","lineid":58,"uuid":"0a95ada7-0c94-4d74-8108-6e3f5470d58b"}
+{"index":218,"sub_uri":"Q50641","obj_uri":"Q735","obj_label":"m\u0171v\u00e9szet","sub_label":"a m\u0171v\u00e9szet t\u00f6rt\u00e9nete","lineid":293,"uuid":"9cc6a136-c350-4b3d-bfc6-70e9e290d711"}
+{"index":246,"sub_uri":"Q190581","obj_uri":"Q4116214","obj_label":"Sz\u00e1mvitel","sub_label":"Sz\u00e1mla","lineid":354,"uuid":"6860ac77-4c0b-436f-b35a-c2d14454f85d"}
+{"index":170,"sub_uri":"Q39061","obj_uri":"Q2","obj_label":"F\u00f6ld","sub_label":"\u00c9szaki f\u00e9lg\u00f6mb","lineid":225,"uuid":"9cf22e70-28e8-41b7-b22e-fc70b946a067"}
+{"index":86,"sub_uri":"Q110079","obj_uri":"Q718","obj_label":"sakk","sub_label":"sakkt\u00e1bla","lineid":106,"uuid":"bac7d70d-1775-4c62-8001-c8ac07742482"}
+{"index":134,"sub_uri":"Q150907","obj_uri":"Q980","obj_label":"Bajororsz\u00e1g","sub_label":"Frankf\u00f6ld","lineid":171,"uuid":"265e469a-3901-4de6-af28-ce9356ce4b59"}
+{"index":39,"sub_uri":"Q265868","obj_uri":"Q7881","obj_label":"csontv\u00e1z","sub_label":"csont","lineid":44,"uuid":"50ca67e5-9eab-42a4-baeb-36ca30126e00"}
+{"index":182,"sub_uri":"Q27449","obj_uri":"Q46","obj_label":"Eur\u00f3pa","sub_label":"D\u00e9l-Eur\u00f3pa","lineid":239,"uuid":"1b4ea40b-bbf1-480c-af00-857cadca5ca1"}
+{"index":190,"sub_uri":"Q36192","obj_uri":"Q309","obj_label":"t\u00f6rt\u00e9nelem","sub_label":"folkl\u00f3r","lineid":254,"uuid":"21707882-7dbd-4ad8-b1e4-94c6f761b483"}
+{"index":164,"sub_uri":"Q178999","obj_uri":"Q9620","obj_label":"ideg","sub_label":"axon","lineid":219,"uuid":"5810ed92-a1db-46ee-baa1-63c4ff7c52c4"}
+{"index":376,"sub_uri":"Q12483","obj_uri":"Q395","obj_label":"matematika","sub_label":"statisztika","lineid":649,"uuid":"5776bc0c-91c0-4132-a80a-94c8446ea0e8"}
+{"index":349,"sub_uri":"Q715396","obj_uri":"Q413","obj_label":"fizika","sub_label":"szil\u00e1rdtestfizika","lineid":575,"uuid":"52a029c8-c32e-41d0-85b9-a9ae2283da48"}
+{"index":42,"sub_uri":"Q184590","obj_uri":"Q1248784","obj_label":"rep\u00fcl\u0151t\u00e9r","sub_label":"Fut\u00f3p\u00e1lya","lineid":47,"uuid":"87faf022-646d-4764-a3f4-e402d8fc8e17"}
+{"index":92,"sub_uri":"Q35","obj_uri":"Q21195","obj_label":"Skandin\u00e1via","sub_label":"D\u00e1nia","lineid":113,"uuid":"6e5e31e8-0a8a-46ff-a9d8-78692c0bcf33"}
+{"index":32,"sub_uri":"Q178498","obj_uri":"Q9089","obj_label":"hinduizmus","sub_label":"Ahimsza","lineid":35,"uuid":"19809c9b-9a01-429a-9942-651952d34670"}
+{"index":227,"sub_uri":"Q18366","obj_uri":"Q413","obj_label":"fizika","sub_label":"k\u00eds\u00e9rleti fizika","lineid":315,"uuid":"cefebeb1-371b-436b-a0d3-469efbc3811c"}
+{"index":481,"sub_uri":"Q1192782","obj_uri":"Q6138961","obj_label":"SL","sub_label":"L bonyolults\u00e1gi oszt\u00e1ly","lineid":909,"uuid":"9e581d84-ff43-4aa4-9f86-a52b6d8df66d"}
+{"index":236,"sub_uri":"Q51662","obj_uri":"Q12546","obj_label":"keresztes h\u00e1bor\u00fak","sub_label":"Litv\u00e1niai teuton keresztes-hadj\u00e1ratok","lineid":330,"uuid":"5bded2f5-5aa5-4953-9fcb-21f4fe4cf5a0"}
+{"index":448,"sub_uri":"Q932510","obj_uri":"Q40821","obj_label":"seb\u00e9szet","sub_label":"\u00c1ltal\u00e1nos seb\u00e9szet","lineid":806,"uuid":"e5fcb8cb-ff92-46d4-a2f3-ef0b5e8e1eb7"}
+{"index":288,"sub_uri":"Q163393","obj_uri":"Q9158","obj_label":"e-mail","sub_label":"POP3","lineid":435,"uuid":"b897b232-9f3e-481c-98e9-f3fce0838ced"}
+{"index":73,"sub_uri":"Q128011","obj_uri":"Q664609","obj_label":"Karib-t\u00e9rs\u00e9g","sub_label":"Nagy-Antill\u00e1k","lineid":89,"uuid":"b08e7cbf-d52b-49c0-8ea9-6f88186bee9f"}
+{"index":237,"sub_uri":"Q323461","obj_uri":"Q131746","obj_label":"parf\u00fcm","sub_label":"P\u00e9zsma","lineid":339,"uuid":"e734724d-d8d9-4d12-ba48-a1def4543a89"}
+{"index":347,"sub_uri":"Q47680","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"J\u00f3zsu\u00e9 k\u00f6nyve","lineid":570,"uuid":"865a22a2-40ab-4f7b-bbe7-197533aa3693"}
+{"index":367,"sub_uri":"Q185020","obj_uri":"Q12483","obj_label":"statisztika","sub_label":"Hisztogram","lineid":624,"uuid":"0e35ba9a-e6b9-449c-9a68-d35a2dfbe7e9"}
+{"index":326,"sub_uri":"Q178390","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"Ez\u00e9kiel k\u00f6nyve","lineid":528,"uuid":"cf147a96-73e7-4149-8b4d-65d7ca79e396"}
+{"index":127,"sub_uri":"Q7218","obj_uri":"Q2329","obj_label":"k\u00e9mia","sub_label":"toxikol\u00f3gia","lineid":159,"uuid":"13a6a213-01a7-40dd-acf4-d7c923e7ef01"}
+{"index":248,"sub_uri":"Q1421211","obj_uri":"Q9418","obj_label":"pszichol\u00f3gia","sub_label":"m\u00e9diapszichol\u00f3gia","lineid":357,"uuid":"d0ad5e5d-3734-469c-81a7-0287ad654a08"}
+{"index":260,"sub_uri":"Q466797","obj_uri":"Q9350","obj_label":"J\u00f3ga","sub_label":"\u00c1szana","lineid":375,"uuid":"c1739680-4c39-4d87-9a46-408b1071d000"}
+{"index":9,"sub_uri":"Q18813","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"\u00dajsz\u00f6vets\u00e9g","lineid":10,"uuid":"fd12207c-87f3-4821-9ad1-6223de23a650"}
+{"index":299,"sub_uri":"Q305026","obj_uri":"Q11442","obj_label":"ker\u00e9kp\u00e1r","sub_label":"ker\u00e9kp\u00e1rped\u00e1l","lineid":459,"uuid":"4b09a275-7f61-46a5-b90a-21d801114481"}
+{"index":451,"sub_uri":"Q911907","obj_uri":"Q8087","obj_label":"geometria","sub_label":"s\u00edkok sz\u00f6ge","lineid":813,"uuid":"7976b5de-db22-4602-80b9-e9a294de5e0c"}
+{"index":238,"sub_uri":"Q1321978","obj_uri":"Q8162","obj_label":"nyelv\u00e9szet","sub_label":"normat\u00edv nyelv\u00e9szet","lineid":343,"uuid":"aada9acc-d30d-4c20-a891-ad8b2ac7efea"}
+{"index":487,"sub_uri":"Q724","obj_uri":"Q771","obj_label":"Massachusetts","sub_label":"Maine","lineid":920,"uuid":"a468efd5-e093-49ee-a189-7ac48cfe4deb"}
+{"index":388,"sub_uri":"Q291004","obj_uri":"Q189","obj_label":"Izland","sub_label":"Izlandi-felf\u00f6ld","lineid":673,"uuid":"c46d6c6d-bfc6-4600-ab16-99b94d186814"}
+{"index":46,"sub_uri":"Q27496","obj_uri":"Q46","obj_label":"Eur\u00f3pa","sub_label":"Nyugat-Eur\u00f3pa","lineid":51,"uuid":"4e63ffe1-a096-479e-9d89-6945b901c522"}
+{"index":54,"sub_uri":"Q178819","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"J\u00f3n\u00e1s k\u00f6nyve","lineid":61,"uuid":"08971af6-23cc-4334-b305-c9c00db06a87"}
+{"index":243,"sub_uri":"Q191657","obj_uri":"Q192249","obj_label":"nyereg","sub_label":"Kengyel","lineid":349,"uuid":"bc670a65-04e7-4ed3-b476-0dd2572400a2"}
+{"index":71,"sub_uri":"Q284451","obj_uri":"Q131036","obj_label":"szcientol\u00f3gia","sub_label":"Dianetika","lineid":86,"uuid":"a17e6938-6d30-49a5-8d1c-3a95b1569339"}
+{"index":455,"sub_uri":"Q181620","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"S\u00e1muel els\u0151 \u00e9s m\u00e1sodik k\u00f6nyve","lineid":823,"uuid":"6f6ddc2c-34a7-4215-bc92-b762035fb5d5"}
+{"index":280,"sub_uri":"Q345194","obj_uri":"Q9091","obj_label":"belarusz","sub_label":"\u0141acinka \u00e1b\u00e9c\u00e9","lineid":419,"uuid":"b2ac749f-2f5a-4222-8bbc-3cc23684748a"}
+{"index":441,"sub_uri":"Q207857","obj_uri":"Q38311","obj_label":"morfol\u00f3gia","sub_label":"flexi\u00f3","lineid":786,"uuid":"8d30b0d0-70a0-4b4c-930d-f3b1b7d34d12"}
+{"index":302,"sub_uri":"Q1193832","obj_uri":"Q395","obj_label":"matematika","sub_label":"el\u0151jel","lineid":466,"uuid":"63d2d4c9-3540-4854-bfcc-26731be169de"}
+{"index":354,"sub_uri":"Q248770","obj_uri":"Q5456","obj_label":"Andok","sub_label":"Reventador","lineid":583,"uuid":"74b5f3ac-0a5f-487b-ab52-1ae0b64188d9"}
+{"index":334,"sub_uri":"Q1129466","obj_uri":"Q8162","obj_label":"nyelv\u00e9szet","sub_label":"Diskurzuselemz\u00e9s","lineid":543,"uuid":"1e7408ac-5e93-4b07-a051-44bac218adc8"}
+{"index":390,"sub_uri":"Q3337","obj_uri":"Q456","obj_label":"Lyon","sub_label":"Lyon 1. ker\u00fclete","lineid":678,"uuid":"e3242d79-5043-495c-a0e2-a6ffcd84b1ee"}
+{"index":406,"sub_uri":"Q299232","obj_uri":"Q23413","obj_label":"v\u00e1r","sub_label":"v\u00e9d\u0151folyos\u00f3","lineid":714,"uuid":"9d2ff0d1-d5f2-4623-913a-21be8eb4b5f2"}
+{"index":395,"sub_uri":"Q742216","obj_uri":"Q5456","obj_label":"Andok","sub_label":"Pichincha","lineid":690,"uuid":"758741b6-4cc0-4822-826e-425708444990"}
+{"index":131,"sub_uri":"Q84133","obj_uri":"Q1072","obj_label":"sz\u00edv","sub_label":"miokardium","lineid":167,"uuid":"5c9ff322-c350-413e-a4b7-c25cef4333b5"}
+{"index":369,"sub_uri":"Q205084","obj_uri":"Q395","obj_label":"matematika","sub_label":"sz\u00e1m\u00edt\u00e1si bonyolults\u00e1gelm\u00e9let","lineid":626,"uuid":"ad87c7ef-6356-4f75-9a74-39ff2669d28e"}
+{"index":492,"sub_uri":"Q1075162","obj_uri":"Q5456","obj_label":"Andok","sub_label":"Ubinas","lineid":930,"uuid":"18375068-21bc-49d7-8a35-02a95e5ec613"}
+{"index":240,"sub_uri":"Q1073","obj_uri":"Q23640","obj_label":"fej","sub_label":"agy","lineid":345,"uuid":"9c606e21-c93a-49e1-9912-1535dafe3b48"}
+{"index":404,"sub_uri":"Q573498","obj_uri":"Q1653","obj_label":"Duna","sub_label":"Dunakanyar","lineid":707,"uuid":"c4da8550-733e-42a0-bbd6-4ca3317adcf3"}
+{"index":400,"sub_uri":"Q4886","obj_uri":"Q68947","obj_label":"alfaj","sub_label":"n\u00f6v\u00e9nyfajta","lineid":702,"uuid":"2ab5ad62-8152-488f-be50-bdfb250f8e5b"}
+{"index":249,"sub_uri":"Q29182","obj_uri":"Q177826","obj_label":"egyh\u00e1zi vezet\u0151","sub_label":"p\u00fcsp\u00f6k","lineid":360,"uuid":"9b6e440f-b5e2-45af-94ce-9461ec304837"}
+{"index":160,"sub_uri":"Q81197","obj_uri":"Q413","obj_label":"fizika","sub_label":"magfizika","lineid":215,"uuid":"76c9b9d1-4426-4165-9ad2-413f8cc68fcf"}
+{"index":470,"sub_uri":"Q772938","obj_uri":"Q284860","obj_label":"Janet.","sub_label":"Any Time, Any Place","lineid":883,"uuid":"eca31c48-2967-4792-b2a9-2743ce7f6091"}
+{"index":475,"sub_uri":"Q181497","obj_uri":"Q290","obj_label":"nem","sub_label":"Nemi k\u00e9talak\u00fas\u00e1g","lineid":897,"uuid":"c1f54a80-a829-469f-9dfd-e87a993a68cf"}
+{"index":192,"sub_uri":"Q182228","obj_uri":"Q1073","obj_label":"agy","sub_label":"agyt\u00f6rzs","lineid":257,"uuid":"1c3f9c46-b14a-49d9-8954-8a3994998f7a"}
+{"index":83,"sub_uri":"Q207551","obj_uri":"Q7187","obj_label":"g\u00e9n","sub_label":"Intron","lineid":103,"uuid":"508fda1d-14e1-4670-894b-a70ef8982717"}
+{"index":152,"sub_uri":"Q29171","obj_uri":"Q37726","obj_label":"sz\u00e1razf\u00f6ldi hader\u0151","sub_label":"gyalogs\u00e1g","lineid":203,"uuid":"708e0138-0713-44ea-92e7-4a78a5680113"}
+{"index":113,"sub_uri":"Q2564009","obj_uri":"Q128781","obj_label":"Wehrmacht","sub_label":"Luftwaffe","lineid":142,"uuid":"8c3c398b-8eef-4eae-89fd-ad392efcab9d"}
+{"index":87,"sub_uri":"Q35","obj_uri":"Q46","obj_label":"Eur\u00f3pa","sub_label":"D\u00e1nia","lineid":107,"uuid":"fc3a4fff-8b24-4031-97cc-f31ae8754e2c"}
+{"index":139,"sub_uri":"Q1077518","obj_uri":"Q4116214","obj_label":"Sz\u00e1mvitel","sub_label":"k\u00f6lts\u00e9ggazd\u00e1lkod\u00e1s","lineid":180,"uuid":"5dbbe859-51ab-4648-9387-58f6e0216a63"}
+{"index":286,"sub_uri":"Q174647","obj_uri":"Q15807","obj_label":"l\u00e1bfej","sub_label":"Sarok","lineid":431,"uuid":"6a7920b8-d09d-4e12-a68d-d4ce8a6d7a18"}
+{"index":45,"sub_uri":"Q7094","obj_uri":"Q420","obj_label":"biol\u00f3gia","sub_label":"biok\u00e9mia","lineid":50,"uuid":"0ea359bc-ab0b-46cd-b992-44f760857959"}
+{"index":256,"sub_uri":"Q212721","obj_uri":"Q13147","obj_label":"koponya","sub_label":"k\u00f6nnycsont","lineid":371,"uuid":"5b629c27-df8c-4d40-a43f-c597d2993724"}
+{"index":120,"sub_uri":"Q765822","obj_uri":"Q23498","obj_label":"r\u00e9g\u00e9szet","sub_label":"V\u00edz alatti r\u00e9g\u00e9szet","lineid":151,"uuid":"f981b4b9-c0e4-4f28-886c-0b9f536e9901"}
+{"index":408,"sub_uri":"Q3354","obj_uri":"Q456","obj_label":"Lyon","sub_label":"Lyon V. ker\u00fclete","lineid":717,"uuid":"1373aac7-99c8-4ae6-ad96-78867e99a4df"}
+{"index":191,"sub_uri":"Q27293","obj_uri":"Q48","obj_label":"\u00c1zsia","sub_label":"D\u00e9lnyugat-\u00c1zsia","lineid":256,"uuid":"106df594-e982-49cb-97db-fb6095874e96"}
+{"index":397,"sub_uri":"Q201410","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"Deuterokanonikus k\u00f6nyvek","lineid":694,"uuid":"eeb66570-60fb-43fb-b02e-2fd9fc2c1103"}
+{"index":428,"sub_uri":"Q13426339","obj_uri":"Q48493","obj_label":"iOS","sub_label":"iOS 7","lineid":767,"uuid":"a095a026-0b30-4090-9ba5-e290972dfdbe"}
+{"index":212,"sub_uri":"Q63817","obj_uri":"Q1286","obj_label":"Alpok","sub_label":"Keleti-Alpok","lineid":286,"uuid":"1aa3f785-54c7-422d-8e36-b081598d0db4"}
+{"index":323,"sub_uri":"Q51656","obj_uri":"Q12546","obj_label":"keresztes h\u00e1bor\u00fak","sub_label":"Negyedik keresztes h\u00e1bor\u00fa","lineid":524,"uuid":"3a9cf833-4667-4007-beae-a2b444dc34e2"}
+{"index":97,"sub_uri":"Q80083","obj_uri":"Q336","obj_label":"tudom\u00e1ny","sub_label":"b\u00f6lcs\u00e9szettudom\u00e1ny","lineid":118,"uuid":"9850e5ec-030d-45f5-8b57-68065cf85784"}
+{"index":265,"sub_uri":"Q1941","obj_uri":"Q313","obj_label":"V\u00e9nusz","sub_label":"V\u00e9nusz l\u00e9gk\u00f6re","lineid":385,"uuid":"1f345919-7042-409a-9958-366f0a31b2d9"}
+{"index":75,"sub_uri":"Q15281614","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Xbox","lineid":92,"uuid":"f502fca7-a185-4658-af68-632378d9f0c4"}
+{"index":263,"sub_uri":"Q4224666","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"A kir\u00e1lyok els\u0151 \u00e9s m\u00e1sodik k\u00f6nyve","lineid":379,"uuid":"ebbb1d99-7f1a-43e2-8907-923e59a1e7d1"}
+{"index":284,"sub_uri":"Q16973176","obj_uri":"Q48493","obj_label":"iOS","sub_label":"iOS 8","lineid":427,"uuid":"22550950-cd25-495f-8693-4cfac607c28b"}
+{"index":180,"sub_uri":"Q41064","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"A zsolt\u00e1rok k\u00f6nyve","lineid":237,"uuid":"634c9854-88e1-4d36-aa55-60fc227fd0c8"}
+{"index":392,"sub_uri":"Q158260","obj_uri":"Q128781","obj_label":"Wehrmacht","sub_label":"K\u00f6z\u00e9p Hadseregcsoport","lineid":681,"uuid":"cd2a5eac-0f41-4fe3-90d9-afea2034e3b1"}
+{"index":17,"sub_uri":"Q41228","obj_uri":"Q2","obj_label":"F\u00f6ld","sub_label":"D\u00e9li f\u00e9lg\u00f6mb","lineid":19,"uuid":"64f7d9ed-9d39-46b1-b6cc-e801fb40bccb"}
+{"index":486,"sub_uri":"Q513656","obj_uri":"Q413","obj_label":"fizika","sub_label":"T\u00f6lt\u00e9st\u00fckr\u00f6z\u00e9s","lineid":919,"uuid":"25accabf-d510-4edd-aa4f-c918bb7aaef2"}
+{"index":173,"sub_uri":"Q7100","obj_uri":"Q413","obj_label":"fizika","sub_label":"biofizika","lineid":229,"uuid":"c3f459b4-9e07-48ca-98e6-152bb380e191"}
+{"index":25,"sub_uri":"Q15","obj_uri":"Q2","obj_label":"F\u00f6ld","sub_label":"Afrika","lineid":27,"uuid":"4dae6b57-0f65-47b7-b33f-0289a50190b5"}
+{"index":264,"sub_uri":"Q4834855","obj_uri":"Q9531","obj_label":"BBC","sub_label":"BBC Music","lineid":382,"uuid":"3252490a-0319-4c3f-9292-0eb70352062a"}
+{"index":272,"sub_uri":"Q49447","obj_uri":"Q5891","obj_label":"filoz\u00f3fia","sub_label":"vil\u00e1gn\u00e9zet","lineid":400,"uuid":"dc29353c-1c72-4b65-ae3e-8b4902b9ecae"}
+{"index":266,"sub_uri":"Q126842","obj_uri":"Q5891","obj_label":"filoz\u00f3fia","sub_label":"jogfiloz\u00f3fia","lineid":387,"uuid":"244da8b3-24c0-4314-997a-7c882d80d57b"}
+{"index":285,"sub_uri":"Q193814","obj_uri":"Q748","obj_label":"buddhizmus","sub_label":"H\u00ednaj\u00e1na","lineid":429,"uuid":"7acc004c-9ab4-476a-b05b-1e47028bc050"}
+{"index":204,"sub_uri":"Q338924","obj_uri":"Q1073","obj_label":"agy","sub_label":"Amigdala","lineid":273,"uuid":"813b5f1e-8fb7-40ad-b78e-bee969da9ce9"}
+{"index":247,"sub_uri":"Q521","obj_uri":"Q420","obj_label":"biol\u00f3gia","sub_label":"\u00e9lettan","lineid":356,"uuid":"0b118454-45a3-4453-9fd4-bcc2e32ab13c"}
+{"index":197,"sub_uri":"Q484761","obj_uri":"Q5891","obj_label":"filoz\u00f3fia","sub_label":"Nyelvfiloz\u00f3fia","lineid":264,"uuid":"928f102a-51cb-4d5a-abf9-294b533f32d3"}
+{"index":30,"sub_uri":"Q192907","obj_uri":"Q4116214","obj_label":"Sz\u00e1mvitel","sub_label":"\u00e9ves besz\u00e1mol\u00f3","lineid":33,"uuid":"8208cbdb-b3f8-40c3-becc-88b0f73abbcb"}
+{"index":143,"sub_uri":"Q213156","obj_uri":"Q735","obj_label":"m\u0171v\u00e9szet","sub_label":"performansz","lineid":184,"uuid":"8bc4a6da-6c52-449b-85cf-fdb9ccf4565f"}
+{"index":409,"sub_uri":"Q235062","obj_uri":"Q5456","obj_label":"Andok","sub_label":"Galeras","lineid":721,"uuid":"ad000f25-4de0-4ea3-8196-5615162e45c6"}
+{"index":214,"sub_uri":"Q180987","obj_uri":"Q748","obj_label":"buddhizmus","sub_label":"Szt\u00fapa","lineid":288,"uuid":"888dc850-b962-4ef1-bbcc-ae3a0dbdf407"}
+{"index":166,"sub_uri":"Q14082","obj_uri":"Q5456","obj_label":"Andok","sub_label":"Antisana","lineid":221,"uuid":"e4c3b474-aff7-472d-bfe8-51a37e9f6720"}
+{"index":90,"sub_uri":"Q150907","obj_uri":"Q1199","obj_label":"Hessen","sub_label":"Frankf\u00f6ld","lineid":111,"uuid":"0cdfce3b-873e-4d05-817c-d4cc57ddb7b9"}
+{"index":102,"sub_uri":"Q841645","obj_uri":"Q75","obj_label":"internet","sub_label":"internettelev\u00edzi\u00f3","lineid":126,"uuid":"fcac3b3f-b332-42ee-90ba-e1691068a6d6"}
+{"index":37,"sub_uri":"Q159943","obj_uri":"Q395","obj_label":"matematika","sub_label":"Absztrakt algebra","lineid":40,"uuid":"dad25986-4170-4297-a517-f80cd900ea81"}
+{"index":172,"sub_uri":"Q8183","obj_uri":"Q8162","obj_label":"nyelv\u00e9szet","sub_label":"fon\u00e9ma","lineid":228,"uuid":"87fa1df3-f643-4feb-8f35-b8647cd17877"}
+{"index":405,"sub_uri":"Q41217","obj_uri":"Q413","obj_label":"fizika","sub_label":"mechanika","lineid":708,"uuid":"614758eb-6b8b-4e8d-afa6-c9ec1a5d4990"}
+{"index":11,"sub_uri":"Q246672","obj_uri":"Q395","obj_label":"matematika","sub_label":"matematikai objektum","lineid":13,"uuid":"c9f41064-f5e8-469e-bad2-3697d674f5e2"}
+{"index":380,"sub_uri":"Q101965","obj_uri":"Q336","obj_label":"tudom\u00e1ny","sub_label":"k\u00eds\u00e9rlet","lineid":656,"uuid":"fb31297b-1a6b-4343-a761-d5e4e8b5dce5"}
+{"index":96,"sub_uri":"Q234262","obj_uri":"Q428","obj_label":"Kor\u00e1n","sub_label":"Sz\u00fara","lineid":117,"uuid":"37088056-8d88-4876-bc99-8fd92dd98755"}
+{"index":477,"sub_uri":"Q216593","obj_uri":"Q18869","obj_label":"Kauk\u00e1zus","sub_label":"Kis-Kauk\u00e1zus","lineid":900,"uuid":"ed2f677a-070c-4f64-b984-24b40b786b17"}
+{"index":195,"sub_uri":"Q212803","obj_uri":"Q42989","obj_label":"topol\u00f3gia","sub_label":"algebrai topol\u00f3gia","lineid":262,"uuid":"d2bbbe9a-f91f-4f4d-a2bd-e7633b0b1c7e"}
+{"index":306,"sub_uri":"Q81915","obj_uri":"Q2329","obj_label":"k\u00e9mia","sub_label":"allotr\u00f3pia","lineid":483,"uuid":"ddbd51e5-c27f-4d4a-8e7d-86139285396a"}
+{"index":312,"sub_uri":"Q211439","obj_uri":"Q11451","obj_label":"mez\u0151gazdas\u00e1g","sub_label":"takarm\u00e1ny","lineid":502,"uuid":"2bd328b3-41dc-4448-8efa-ce9592d00c97"}
+{"index":56,"sub_uri":"Q185387","obj_uri":"Q7174","obj_label":"demokr\u00e1cia","sub_label":"v\u00e1laszt\u00f3jog","lineid":64,"uuid":"2d8a62e1-1e53-4a94-bec3-7cd7214a3bce"}
+{"index":300,"sub_uri":"Q18","obj_uri":"Q2","obj_label":"F\u00f6ld","sub_label":"D\u00e9l-Amerika","lineid":464,"uuid":"87a53d11-6af4-44ea-8b43-946544eca9c7"}
+{"index":13,"sub_uri":"Q83296","obj_uri":"Q2","obj_label":"F\u00f6ld","sub_label":"litoszf\u00e9ra","lineid":15,"uuid":"f64ae487-7f4c-4f16-ad47-04d7a468cbde"}
+{"index":49,"sub_uri":"Q161272","obj_uri":"Q21201","obj_label":"szociol\u00f3gia","sub_label":"szoci\u00e1lpszichol\u00f3gia","lineid":56,"uuid":"0c2be786-51a1-4d5b-ae84-e8d75997691a"}
+{"index":129,"sub_uri":"Q614304","obj_uri":"Q2329","obj_label":"k\u00e9mia","sub_label":"gy\u00f3gyszer\u00e9szet","lineid":163,"uuid":"50e7c1a6-ad30-466c-b976-afc8ee6f54fb"}
+{"index":447,"sub_uri":"Q237632","obj_uri":"Q13147","obj_label":"koponya","sub_label":"Sz\u00e1jpadcsont","lineid":801,"uuid":"a70e59d1-a889-40f5-863c-03df47e342f5"}
+{"index":444,"sub_uri":"Q220821","obj_uri":"Q21201","obj_label":"szociol\u00f3gia","sub_label":"Vizu\u00e1lis szociol\u00f3gia","lineid":795,"uuid":"e3dc9f5f-210c-45f0-9ad9-6e1228168c0b"}
+{"index":159,"sub_uri":"Q207011","obj_uri":"Q420","obj_label":"biol\u00f3gia","sub_label":"idegtudom\u00e1ny","lineid":214,"uuid":"56af894c-0174-4c03-9965-e11191888f14"}
+{"index":295,"sub_uri":"Q82811","obj_uri":"Q413","obj_label":"fizika","sub_label":"akusztika","lineid":451,"uuid":"91232d63-f7ab-4151-b735-903c80a75b3e"}
+{"index":339,"sub_uri":"Q131635","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"Esdr\u00e1s k\u00f6nyve","lineid":559,"uuid":"249f025f-efce-4cc3-bc91-0a3f7f91d905"}
+{"index":61,"sub_uri":"Q7141","obj_uri":"Q420","obj_label":"biol\u00f3gia","sub_label":"sejtbiol\u00f3gia","lineid":71,"uuid":"c31b09bb-0cf1-4115-a104-e6c671ef61ba"}
+{"index":440,"sub_uri":"Q930752","obj_uri":"Q11190","obj_label":"orvostudom\u00e1ny","sub_label":"orvosi szakter\u00fclet","lineid":783,"uuid":"981ea0c0-0a7a-40da-84b6-671432321673"}
+{"index":462,"sub_uri":"Q42240","obj_uri":"Q336","obj_label":"tudom\u00e1ny","sub_label":"kutat\u00e1s","lineid":853,"uuid":"c163a912-6ce5-440c-a302-670e6caf535a"}
+{"index":226,"sub_uri":"Q180937","obj_uri":"Q8748","obj_label":"alb\u00e1n","sub_label":"toszk alb\u00e1n nyelv","lineid":313,"uuid":"7c96063b-bf9d-4cda-a7f1-4cfce5a2dabf"}
+{"index":198,"sub_uri":"Q13632","obj_uri":"Q318","obj_label":"galaxis","sub_label":"planet\u00e1ris k\u00f6d","lineid":265,"uuid":"6497b2f7-e727-47d2-afbe-ba369826d16a"}
+{"index":403,"sub_uri":"Q573044","obj_uri":"Q7184","obj_label":"\u00c9szak-atlanti Szerz\u0151d\u00e9s Szervezete","sub_label":"NATO Reag\u00e1l\u00f3 Er\u0151","lineid":706,"uuid":"beaa34ef-d5a2-4bbc-9041-9fd5f2ee1941"}
+{"index":94,"sub_uri":"Q8091","obj_uri":"Q8162","obj_label":"nyelv\u00e9szet","sub_label":"nyelvtan","lineid":115,"uuid":"600ed5c3-12cb-4a3f-8b25-fb349a7779b8"}
+{"index":294,"sub_uri":"Q188913","obj_uri":"Q11451","obj_label":"mez\u0151gazdas\u00e1g","sub_label":"\u00fcltetv\u00e9ny","lineid":444,"uuid":"7d5cdf72-6ea8-4996-920e-d54b02e9766a"}
+{"index":34,"sub_uri":"Q7202","obj_uri":"Q420","obj_label":"biol\u00f3gia","sub_label":"Molekul\u00e1ris biol\u00f3gia","lineid":37,"uuid":"576dffea-a110-4a1d-acb9-d6a79dccee8c"}
+{"index":89,"sub_uri":"Q37302","obj_uri":"Q37090","obj_label":"Szenth\u00e1roms\u00e1g","sub_label":"Szentl\u00e9lek","lineid":109,"uuid":"fa92c0b2-d953-4a30-8771-5e007e822eb7"}
+{"index":21,"sub_uri":"Q338199","obj_uri":"Q44626","obj_label":"kr\u00e9ta","sub_label":"K\u00e9s\u0151 kr\u00e9ta","lineid":23,"uuid":"919a7d2f-4827-42dc-9695-ba4cf1ef4488"}
+{"index":387,"sub_uri":"Q2539","obj_uri":"Q12483","obj_label":"statisztika","sub_label":"g\u00e9pi tanul\u00e1s","lineid":672,"uuid":"c44b3b39-3677-4c1d-8ed4-20def2f219b9"}
+{"index":158,"sub_uri":"Q504930","obj_uri":"Q506","obj_label":"vir\u00e1g","sub_label":"Vir\u00e1gtakar\u00f3","lineid":212,"uuid":"dbc455a6-ace6-4910-9a81-d110d1e8b507"}
+{"index":365,"sub_uri":"Q4874481","obj_uri":"Q12483","obj_label":"statisztika","sub_label":"Bayesi\u00e1nus statisztika","lineid":619,"uuid":"46d76e4b-c265-4648-8be9-71977c3b7bb8"}
+{"index":434,"sub_uri":"Q250","obj_uri":"Q68","obj_label":"sz\u00e1m\u00edt\u00f3g\u00e9p","sub_label":"billenty\u0171zet","lineid":773,"uuid":"44d5d2ad-d320-40ba-8038-9d8985c1f6b8"}
+{"index":452,"sub_uri":"Q4116214","obj_uri":"Q43015","obj_label":"p\u00e9nz\u00fcgy","sub_label":"Sz\u00e1mvitel","lineid":815,"uuid":"f1580d92-7201-45ad-86c1-2200a5d31844"}
+{"index":364,"sub_uri":"Q2724242","obj_uri":"Q1073","obj_label":"agy","sub_label":"nagyagylebeny","lineid":614,"uuid":"6e0ffcf2-45f4-4832-bc60-16f80cadafce"}
+{"index":277,"sub_uri":"Q177409","obj_uri":"Q8087","obj_label":"geometria","sub_label":"Projekt\u00edv geometria","lineid":412,"uuid":"207a1bef-d541-4b7f-a2a8-b771b8fb1423"}
+{"index":338,"sub_uri":"Q7922","obj_uri":"Q8434","obj_label":"oktat\u00e1s","sub_label":"pedag\u00f3gia","lineid":558,"uuid":"198ff890-70fe-4fbe-8aa6-e44a22e0902d"}
+{"index":353,"sub_uri":"Q326835","obj_uri":"Q366791","obj_label":"k\u00edv\u00e1ncsis\u00e1g","sub_label":"Call Me Maybe","lineid":582,"uuid":"9459f4c2-b380-4e1b-a2cf-52d52d59047d"}
+{"index":307,"sub_uri":"Q624080","obj_uri":"Q20716","obj_label":"Samsung","sub_label":"Samsung Life Insurance","lineid":485,"uuid":"5ee56384-63e6-46cb-8c16-1c4a594420b5"}
+{"index":85,"sub_uri":"Q16990","obj_uri":"Q1460","obj_label":"Szic\u00edlia","sub_label":"Etna","lineid":105,"uuid":"9c8da4ba-8de4-4319-9a32-be3d50dc7aa0"}
+{"index":142,"sub_uri":"Q44424","obj_uri":"Q11369","obj_label":"molekula","sub_label":"K\u00e9miai k\u00f6t\u00e9s","lineid":183,"uuid":"c3f68e5d-7a9f-4f5b-9d47-ab29c4e737b4"}
+{"index":456,"sub_uri":"Q35395","obj_uri":"Q420","obj_label":"biol\u00f3gia","sub_label":"fonetika","lineid":834,"uuid":"f202059f-800f-437b-bd57-c701711f11b0"}
+{"index":357,"sub_uri":"Q26","obj_uri":"Q22890","obj_label":"\u00cdr-sziget","sub_label":"\u00c9szak-\u00cdrorsz\u00e1g","lineid":593,"uuid":"1127ec9e-f795-465e-b2ff-ecfebc9171f1"}
+{"index":335,"sub_uri":"Q165838","obj_uri":"Q2329","obj_label":"k\u00e9mia","sub_label":"Limnol\u00f3gia","lineid":548,"uuid":"9b4df1c0-4593-4ab8-bddb-bcec7ccd7b41"}
+{"index":23,"sub_uri":"Q41490","obj_uri":"Q34990","obj_label":"T\u00f3ra","sub_label":"M\u00f3zes harmadik k\u00f6nyve","lineid":25,"uuid":"f68e3e8f-4519-4be8-a7a9-1a90d2aa276e"}
+{"index":464,"sub_uri":"Q1498222","obj_uri":"Q40821","obj_label":"seb\u00e9szet","sub_label":"\u00e9rseb\u00e9szet","lineid":867,"uuid":"005fc865-c33f-4e69-bdc3-8b61e9f7769b"}
+{"index":7,"sub_uri":"Q192625","obj_uri":"Q8162","obj_label":"nyelv\u00e9szet","sub_label":"Nyelvtipol\u00f3gia","lineid":8,"uuid":"08bf23cf-77a8-4697-9215-080d77ccda9c"}
+{"index":399,"sub_uri":"Q486839","obj_uri":"Q35749","obj_label":"parlament","sub_label":"orsz\u00e1ggy\u0171l\u00e9si k\u00e9pvisel\u0151","lineid":699,"uuid":"c6f0504d-63f3-4d85-809c-87d7666b97f5"}
+{"index":181,"sub_uri":"Q35054","obj_uri":"Q49845","obj_label":"posta","sub_label":"postahivatal","lineid":238,"uuid":"a9f6207b-7b9a-46c0-b69c-fb07d7e913a9"}
+{"index":231,"sub_uri":"Q502029","obj_uri":"Q748","obj_label":"buddhizmus","sub_label":"bodhi","lineid":320,"uuid":"9a8e8f7e-1d14-4689-859e-09967b771860"}
+{"index":480,"sub_uri":"Q131222","obj_uri":"Q395","obj_label":"matematika","sub_label":"Inform\u00e1ci\u00f3elm\u00e9let","lineid":906,"uuid":"b9628223-643e-4bd6-bc44-df7398e74dff"}
+{"index":276,"sub_uri":"Q3344","obj_uri":"Q456","obj_label":"Lyon","sub_label":"Lyon 2. ker\u00fclete","lineid":410,"uuid":"6a810923-e0f1-4eb7-8efd-14d16932df2d"}
+{"index":258,"sub_uri":"Q60195","obj_uri":"Q5891","obj_label":"filoz\u00f3fia","sub_label":"szemiotika","lineid":373,"uuid":"21325482-b84c-4075-8bde-0a27bf074314"}
+{"index":368,"sub_uri":"Q184663","obj_uri":"Q5891","obj_label":"filoz\u00f3fia","sub_label":"K\u00ednai filoz\u00f3fia","lineid":625,"uuid":"e35c6341-f537-4b46-8a02-451d353a5195"}
+{"index":220,"sub_uri":"Q673203","obj_uri":"Q58","obj_label":"h\u00edmvessz\u0151","sub_label":"Fityma","lineid":297,"uuid":"cdc01f5b-7586-4f7b-b2c6-f2d7a6b5b79a"}
+{"index":273,"sub_uri":"Q130695","obj_uri":"Q9089","obj_label":"hinduizmus","sub_label":"indiai kasztrendszer","lineid":404,"uuid":"d04a290d-7eaa-477a-954b-c86dc8aac5a1"}
+{"index":130,"sub_uri":"Q879146","obj_uri":"Q5043","obj_label":"kereszt\u00e9nys\u00e9g","sub_label":"kereszt\u00e9ny egyh\u00e1z","lineid":166,"uuid":"97eccc75-4cd2-43ad-99f0-291f737d5612"}
+{"index":361,"sub_uri":"Q1161370","obj_uri":"Q183061","obj_label":"oromzat","sub_label":"Oromfal","lineid":607,"uuid":"982e7f61-9069-486a-891e-17c1714e8d78"}
+{"index":449,"sub_uri":"Q177719","obj_uri":"Q11190","obj_label":"orvostudom\u00e1ny","sub_label":"orvosi diagn\u00f3zis","lineid":807,"uuid":"66b02bf1-2f52-496b-b051-c542b4400637"}
+{"index":315,"sub_uri":"Q79749","obj_uri":"Q7873","obj_label":"V\u00e9r","sub_label":"V\u00e9rplazma","lineid":509,"uuid":"4afda900-6a21-48b5-a381-43aea16b0596"}
+{"index":333,"sub_uri":"Q81009","obj_uri":"Q11024","obj_label":"kommunik\u00e1ci\u00f3","sub_label":"Sz\u00f3noklattan","lineid":542,"uuid":"564f13f3-5f68-4e09-8a36-99088a7614bf"}
+{"index":199,"sub_uri":"Q14663","obj_uri":"Q11368","obj_label":"Unix","sub_label":"Unix rendszerh\u00e9j","lineid":266,"uuid":"41638538-9b0a-4792-b986-55a596e62264"}
+{"index":381,"sub_uri":"Q1575434","obj_uri":"Q95","obj_label":"Google","sub_label":"Metaweb","lineid":661,"uuid":"f13e3c68-64ee-4917-bce0-ad7698e6d713"}
+{"index":233,"sub_uri":"Q839954","obj_uri":"Q23498","obj_label":"r\u00e9g\u00e9szet","sub_label":"r\u00e9g\u00e9szeti lel\u0151hely","lineid":322,"uuid":"a14705b5-7b34-4636-8516-47f2d7d9cfe0"}
+{"index":177,"sub_uri":"Q188403","obj_uri":"Q2329","obj_label":"k\u00e9mia","sub_label":"Kvantumk\u00e9mia","lineid":233,"uuid":"5ac0c936-e27a-4c8d-94f9-52b929720230"}
+{"index":141,"sub_uri":"Q15218776","obj_uri":"Q40821","obj_label":"seb\u00e9szet","sub_label":"Ortop\u00e9dia","lineid":182,"uuid":"49d1e9bc-e8fb-4f37-96a5-3c59e463d8f3"}
+{"index":137,"sub_uri":"Q48362","obj_uri":"Q748","obj_label":"buddhizmus","sub_label":"Mah\u00e1j\u00e1na","lineid":176,"uuid":"b72ee758-1572-4a15-ac01-b0a05f6337f0"}
+{"index":382,"sub_uri":"Q184395","obj_uri":"Q165","obj_label":"tenger","sub_label":"Tengerv\u00edz","lineid":664,"uuid":"f14fba53-b3e6-4efc-9d46-9536e20f7914"}
+{"index":79,"sub_uri":"Q840400","obj_uri":"Q420","obj_label":"biol\u00f3gia","sub_label":"evol\u00faci\u00f3biol\u00f3gia","lineid":98,"uuid":"233cb4e6-9e47-4fb4-a70c-914234d30d10"}
+{"index":424,"sub_uri":"Q165192","obj_uri":"Q21195","obj_label":"Skandin\u00e1via","sub_label":"sv\u00e9dek","lineid":755,"uuid":"da1095ab-990f-4cd5-98cf-86881fa9631d"}
+{"index":427,"sub_uri":"Q305208","obj_uri":"Q40218","obj_label":"\u0171reszk\u00f6z","sub_label":"Radioizot\u00f3pos termoelektromos gener\u00e1tor","lineid":763,"uuid":"391f4ef7-6490-406d-85fe-151d55d3f7db"}
+{"index":363,"sub_uri":"Q177719","obj_uri":"Q9418","obj_label":"pszichol\u00f3gia","sub_label":"orvosi diagn\u00f3zis","lineid":612,"uuid":"0fed1f96-7e78-471a-838b-71883b686267"}
+{"index":293,"sub_uri":"Q284787","obj_uri":"Q45805","obj_label":"Jura","sub_label":"Kora jura","lineid":443,"uuid":"cde7bcc8-be46-4a06-9866-88b82979abfe"}
+{"index":343,"sub_uri":"Q174769","obj_uri":"Q46970","obj_label":"l\u00e9git\u00e1rsas\u00e1g","sub_label":"United Airlines","lineid":565,"uuid":"accae8d9-d048-492c-b6f5-c37b3953687e"}
+{"index":223,"sub_uri":"Q48356","obj_uri":"Q32815","obj_label":"mecset","sub_label":"Minaret","lineid":303,"uuid":"2ca099fd-d400-4ef9-8c3c-72ffcefde00a"}
+{"index":122,"sub_uri":"Q190057","obj_uri":"Q1057","obj_label":"anyagcsere","sub_label":"Katabolizmus","lineid":153,"uuid":"02fec33e-cbe2-4ef0-af11-3f144a55ebeb"}
+{"index":208,"sub_uri":"Q11923","obj_uri":"Q150","obj_label":"francia","sub_label":"Francia nyelvtan","lineid":281,"uuid":"0034b7a7-6012-4028-a5ff-82474947fbbf"}
+{"index":77,"sub_uri":"Q948","obj_uri":"Q15","obj_label":"Afrika","sub_label":"Tun\u00e9zia","lineid":94,"uuid":"a0157764-16c6-4db2-bfc7-91b8856ee8b2"}
+{"index":471,"sub_uri":"Q898127","obj_uri":"Q284860","obj_label":"Janet.","sub_label":"You Want This","lineid":884,"uuid":"8378f2c8-51f1-4d2f-a25c-2c68733b7ae9"}
+{"index":489,"sub_uri":"Q12130","obj_uri":"Q327","obj_label":"Bretagne","sub_label":"Bretagne","lineid":923,"uuid":"c925f1db-11a7-460f-87de-7d611907ae0c"}
+{"index":438,"sub_uri":"Q3230","obj_uri":"Q2","obj_label":"F\u00f6ld","sub_label":"a F\u00f6ld l\u00e9gk\u00f6re","lineid":779,"uuid":"388a88b3-c219-42cc-a133-322c7e577c81"}
+{"index":50,"sub_uri":"Q161953","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"A kr\u00f3nik\u00e1k els\u0151 \u00e9s m\u00e1sodik k\u00f6nyve","lineid":57,"uuid":"fd852e63-2f1e-435e-ad97-f42d0c785567"}
+{"index":341,"sub_uri":"Q286452","obj_uri":"Q40821","obj_label":"seb\u00e9szet","sub_label":"K\u00e9zseb\u00e9szet","lineid":563,"uuid":"83fc6f60-3752-48b6-89ae-f6c8f2d9a2ff"}
+{"index":88,"sub_uri":"Q37437","obj_uri":"Q8162","obj_label":"nyelv\u00e9szet","sub_label":"szintaxis","lineid":108,"uuid":"71d9d669-8358-446f-a583-3e83ebf076fa"}
+{"index":216,"sub_uri":"Q912807","obj_uri":"Q12140","obj_label":"gy\u00f3gyszer","sub_label":"Hat\u00f3anyag","lineid":291,"uuid":"33b84572-0c51-4fdc-bb0c-f27ac6202b09"}
+{"index":476,"sub_uri":"Q486986","obj_uri":"Q18869","obj_label":"Kauk\u00e1zus","sub_label":"Nagy-Kauk\u00e1zus","lineid":899,"uuid":"ebafed81-64ca-415e-bb91-c8a68a0cb6e6"}
+{"index":282,"sub_uri":"Q185057","obj_uri":"Q37748","obj_label":"kromosz\u00f3ma","sub_label":"telomer","lineid":422,"uuid":"6bc06239-548e-49dc-8367-304b0605d862"}
+{"index":103,"sub_uri":"Q794","obj_uri":"Q48","obj_label":"\u00c1zsia","sub_label":"Ir\u00e1n","lineid":127,"uuid":"c1467628-6340-418d-961c-41151d70ce98"}
+{"index":342,"sub_uri":"Q26728","obj_uri":"Q5456","obj_label":"Andok","sub_label":"Sierra Nevada de Santa Marta","lineid":564,"uuid":"c82ddae1-f421-43b3-9940-f0e6ba08d5d6"}
+{"index":304,"sub_uri":"Q11276","obj_uri":"Q318","obj_label":"galaxis","sub_label":"g\u00f6mbhalmaz","lineid":477,"uuid":"60178a2a-e853-419e-9c1d-a38b7ebfeffb"}
+{"index":327,"sub_uri":"Q52139","obj_uri":"Q413","obj_label":"fizika","sub_label":"Klimatol\u00f3gia","lineid":530,"uuid":"a31e1c39-41dd-494a-be3a-7e8a9c666395"}
+{"index":473,"sub_uri":"Q51675","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"Malaki\u00e1s k\u00f6nyve","lineid":890,"uuid":"e155c127-a648-4149-b489-5d450964fceb"}
+{"index":67,"sub_uri":"Q27827","obj_uri":"Q5043","obj_label":"kereszt\u00e9nys\u00e9g","sub_label":"krisztadelfi\u00e1nusok","lineid":82,"uuid":"60c143e0-162e-4891-b945-42252a1cbf76"}
+{"index":314,"sub_uri":"Q41291","obj_uri":"Q40218","obj_label":"\u0171reszk\u00f6z","sub_label":"rak\u00e9ta","lineid":508,"uuid":"c9989f63-b2f1-46d9-aeef-5323b6c15e30"}
+{"index":394,"sub_uri":"Q3348","obj_uri":"Q456","obj_label":"Lyon","sub_label":"Lyon 3. ker\u00fclete","lineid":689,"uuid":"89cc1e20-ca0a-478c-8b1b-b725c3974442"}
+{"index":443,"sub_uri":"Q168845","obj_uri":"Q318","obj_label":"galaxis","sub_label":"csillaghalmaz","lineid":793,"uuid":"ed360bf4-6c72-4bc2-85dc-e90638893462"}
+{"index":175,"sub_uri":"Q186115","obj_uri":"Q90","obj_label":"P\u00e1rizs","sub_label":"Montmartre","lineid":231,"uuid":"102da63e-34a1-4d6b-9612-60d12ba2b14e"}
+{"index":255,"sub_uri":"Q321249","obj_uri":"Q8162","obj_label":"nyelv\u00e9szet","sub_label":"alkalmazott nyelv\u00e9szet","lineid":370,"uuid":"df07d8df-db80-4255-b96b-76d616d0f373"}
+{"index":52,"sub_uri":"Q131068","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"Eszter k\u00f6nyve","lineid":59,"uuid":"97521e77-948f-45fc-ba34-653c81cf9929"}
+{"index":38,"sub_uri":"Q183","obj_uri":"Q46","obj_label":"Eur\u00f3pa","sub_label":"N\u00e9metorsz\u00e1g","lineid":43,"uuid":"095046c7-4475-4159-b96d-996d29bf0d94"}
+{"index":419,"sub_uri":"Q979507","obj_uri":"Q9089","obj_label":"hinduizmus","sub_label":"Hindu panteon","lineid":744,"uuid":"f979ca74-379f-4272-8ef5-bdaa6b97a795"}
+{"index":330,"sub_uri":"Q489328","obj_uri":"Q413","obj_label":"fizika","sub_label":"molekulafizika","lineid":536,"uuid":"b3419987-9cd0-4f98-9ad0-2b68651a25bf"}
+{"index":322,"sub_uri":"Q840850","obj_uri":"Q177777","obj_label":"Logisztika","sub_label":"Sz\u00e1ll\u00edtm\u00e1nyoz\u00e1s","lineid":523,"uuid":"53cd6112-768f-477c-b5ff-2db908771642"}
+{"index":132,"sub_uri":"Q175002","obj_uri":"Q9418","obj_label":"pszichol\u00f3gia","sub_label":"Fejl\u0151d\u00e9sl\u00e9lektan","lineid":168,"uuid":"d198f74d-7dbe-4020-87f6-8a300ec368c4"}
+{"index":169,"sub_uri":"Q178076","obj_uri":"Q1845","obj_label":"Biblia","sub_label":"Mike\u00e1s k\u00f6nyve","lineid":224,"uuid":"cebefd35-86b8-48fd-be9d-f123ee5165df"}
+{"index":126,"sub_uri":"Q327358","obj_uri":"Q8162","obj_label":"nyelv\u00e9szet","sub_label":"sz\u00f3alkot\u00e1s","lineid":158,"uuid":"0c4d364c-04cc-4ad4-8a87-ea3bb3ce3385"}
+{"index":344,"sub_uri":"Q156075","obj_uri":"Q13147","obj_label":"koponya","sub_label":"Orbitale","lineid":566,"uuid":"c8939529-01e6-4c5e-a6ef-a1378c41b992"}
+{"index":252,"sub_uri":"Q133080","obj_uri":"Q11024","obj_label":"kommunik\u00e1ci\u00f3","sub_label":"k\u00f6z\u00f6ns\u00e9gkapcsolatok","lineid":366,"uuid":"669ee255-e780-48b5-8242-d7890d41f3ab"}
+{"index":375,"sub_uri":"Q165838","obj_uri":"Q420","obj_label":"biol\u00f3gia","sub_label":"Limnol\u00f3gia","lineid":646,"uuid":"bc2056f0-7da5-4c08-a9d4-323514d4a592"}
+{"index":93,"sub_uri":"Q134783","obj_uri":"Q1069","obj_label":"geol\u00f3gia","sub_label":"r\u00e9tegtan","lineid":114,"uuid":"1599dc67-f142-4053-9e22-e268e9a25f7a"}
+{"index":74,"sub_uri":"Q9184","obj_uri":"Q34990","obj_label":"T\u00f3ra","sub_label":"M\u00f3zes els\u0151 k\u00f6nyve","lineid":91,"uuid":"b3b10269-1d6b-4288-a6b9-5faf0200b788"}
+{"index":57,"sub_uri":"Q1432908","obj_uri":"Q7184","obj_label":"\u00c9szak-atlanti Szerz\u0151d\u00e9s Szervezete","sub_label":"Sz\u00f6vets\u00e9ges Er\u0151k Eur\u00f3pai F\u0151parancsnoks\u00e1ga","lineid":67,"uuid":"2c298af9-7372-433c-9050-a651eb191420"}
+{"index":396,"sub_uri":"Q182895","obj_uri":"Q13147","obj_label":"koponya","sub_label":"Fels\u0151 \u00e1llcsont","lineid":691,"uuid":"797ee000-c20c-41d3-ab5a-a157429e6bd8"}
+{"index":359,"sub_uri":"Q146491","obj_uri":"Q7748","obj_label":"jog","sub_label":"b\u00fcntet\u0151jog","lineid":600,"uuid":"ded304c9-f20a-401c-a0c2-143139d9a9b9"}
+{"index":5,"sub_uri":"Q8366","obj_uri":"Q395","obj_label":"matematika","sub_label":"algoritmus","lineid":6,"uuid":"57d237a5-8190-44d7-bdbd-56151a87eb36"}
+{"index":201,"sub_uri":"Q48324","obj_uri":"Q9465","obj_label":"etika","sub_label":"Erk\u00f6lcs","lineid":269,"uuid":"61437d95-6a01-4e0f-a416-52666da73d2f"}

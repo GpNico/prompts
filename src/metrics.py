@@ -1,9 +1,15 @@
 
 import numpy as np
 import pandas as pd
+from scipy.stats import pearsonr
+from sklearn.decomposition import PCA
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics.cluster import completeness_score, homogeneity_score
+from sklearn.cluster import SpectralClustering, KMeans
 import torch
 import tqdm
 
+from src.utils import get_template_from_lama
 
 
 class MetricsWrapper:
@@ -134,12 +140,74 @@ class MetricsWrapper:
             else:
                 tokens[pos_y] = '[MASK]'
 
-        return {'nll': full_nlls, 
+        return {'nll': full_nlls, # [Dataset Length, L]
                 'perplexity': full_perplexities, 
                 'tokens': {'pos_x': pos_x,
                            'pos_y': pos_y,
                            'tokens': tokens}}
-    
+        
+    def compute_embeddings(self,
+                           df: pd.core.frame.DataFrame = None,
+                           prompt_list: list = None,
+                           pooling: str = 'avg',
+                           **kwargs):
+        """
+            Compute embeddings of prompts from df.
+            
+            rk: for now always remove instantiation of [X] and [Y].
+        
+        """
+        
+        if prompt_list is not None:
+            sentences = prompt_list
+        else:
+            templates = get_template_from_lama(df = df)
+            sentences = list(templates.values())
+        
+        if kwargs['autoprompt']:
+            # Tokenize
+            input_ids = [
+                        torch.tensor(
+                            [self.token2id['[CLS]']] + [self.token2id[token] for token in sentence.split(' ')] + [self.token2id['[SEP]']] \
+                            )
+                        for sentence in sentences
+                        ]
+            input_ids = torch.vstack(input_ids)
+            attention_mask = torch.ones_like(input_ids)
+            inputs = {'input_ids': input_ids,
+                    'attention_mask': attention_mask}
+        else:
+            inputs = self.tokenizer(sentences,
+                            return_tensors = 'pt',
+                            padding = True)
+
+        print("Inputs shape: ", inputs['input_ids'].shape)
+        with torch.no_grad():
+            outputs = self.model.embedding(
+                                input_ids = inputs['input_ids'].to(self.device),
+                                attention_mask = inputs['attention_mask'].to(self.device)
+                                )
+        _embeds = outputs.last_hidden_state.cpu() * inputs['attention_mask'][:,:,None]
+        # Keeping [CLS] & [SEP]
+
+        if pooling == 'avg':
+            embeds = _embeds.mean(axis = 1)
+        elif pooling == 'sum':
+            embeds = _embeds.sum(axis = 1)
+        else:
+            raise Exception('Check pooling.')
+        
+        print("Embeddings shape ", embeds.shape)
+        # rela to embedding dict can be useful
+        
+        if prompt_list is not None:
+            rela2embed = None
+        else:
+            rela2embed = {k: v for k, v in zip(templates.keys(), embeds)}
+        
+        return embeds, rela2embed
+        
+            
     
     def evaluate_on_lama(self, 
                          dataset, 
@@ -152,6 +220,13 @@ class MetricsWrapper:
                   'P@20': 0,
                   'P@100': 0}
 
+        relas_and_scores = {'rela': [],
+                            'filter': [],
+                            'P@1': [],
+                            'P@5': [],
+                            'P@20': [],
+                            'P@100': []}
+
         num_eval = kwargs['num_eval'] if kwargs['num_eval'] != -1 else len(dataset)
 
         total_eval = 0
@@ -162,6 +237,15 @@ class MetricsWrapper:
             obj_surfaces = elems['obj_surface'] # [Y]
             templates = elems['template']
             relas = elems['predicate_id']
+            
+            # /!\ Removing the dot leads to a huge drop in perf /!\
+            templates = [
+                            self.shuffle_template(
+                                            template = template,
+                                            shuffle = kwargs['shuffle']
+                            ) \
+                            for template in templates
+                        ]
 
             # Create and tokenize template
  
@@ -223,10 +307,126 @@ class MetricsWrapper:
             #scores['P@100'] += float(label_id in ids[0, :100])
 
             total_eval += filter.sum().item() # count only the relevanrt rows
+            
+            relas_and_scores['rela'] += relas.to_list()
+            relas_and_scores['filter'] += (1.*filter).tolist()
+            relas_and_scores['P@1'] += (1.* (labels_ids[:,1:2] == ids[:,:1]).any(axis = 1) * filter).tolist()
+            relas_and_scores['P@5'] += (1.* (labels_ids[:,1:2] == ids[:,:5]).any(axis = 1) * filter).tolist()
+            relas_and_scores['P@20'] += (1.* (labels_ids[:,1:2] == ids[:,:20]).any(axis = 1) * filter).tolist()
+            relas_and_scores['P@100'] += (1.* (labels_ids[:,1:2] == ids[:,:100]).any(axis = 1) * filter).tolist()
+            
+        relas_and_scores = pd.DataFrame(data = relas_and_scores) 
 
         print(f"Total Number of Evaluations: {total_eval} (dropped {num_eval - total_eval})")
         
-        return {k: v/total_eval for k,v in scores.items()}
+        return {k: v/total_eval for k,v in scores.items()}, self.compute_lama_scores_by_rela(relas_and_scores)
+    
+    
+    def compute_embeddings_analysis(self, 
+                                    embeds1: torch.Tensor, 
+                                    embeds2: torch.Tensor,
+                                    embeds3: torch.Tensor = None) -> dict:
+        """
+            Compute several metrics on embeds1 and embeds2 and return
+            them in a dict.
+            
+            Metrics include:
+                - cosine similarity
+                - PCA then linear correlation & cosine similarity
+                - distances matrix (via euclidian & cosine similarity)
+                - MDS based on those matrices
+                - t-SNE then V-measure, linear correlation, cosine similarity
+                
+            Args:
+                embeds1 (torch.Tensor) shape [N prompts, model embedding size]
+                embeds2 (torch.Tensor) shape [N prompts, model embedding size]
+        
+        """
+        assert embeds1.shape[0] <= embeds2.shape[0]
+        
+        results = {}
+        
+        ### Cosine Similarity ###
+        
+        cos = torch.nn.CosineSimilarity(dim=1, eps=1e-6)
+        
+        sims = cos(embeds1, embeds2[:embeds1.shape[0]])
+        
+        results['cosim raw'] = sims
+        results['cosim avg'] = sims.mean().item()
+        results['cosim max'] = sims.max().item()
+        
+        print(f"\tCosine Sim - avg: {np.round(results['cosim avg'],3)}; max: {np.round(results['cosim max'],3)}")
+        
+        
+        ### PCA ###
+        
+        if embeds3 is not None:
+            pass
+        else:
+            full_embeds = np.concatenate(
+                                    (embeds1.numpy(), 
+                                    embeds2.numpy()), 
+                                    axis = 0
+                                    )
+        
+        pca = PCA(n_components=2)
+        embeds_pca = pca.fit_transform(full_embeds) # Shape [2*(N prompts), 2]
+        
+        reg = LinearRegression().fit(embeds_pca[:embeds1.shape[0]], embeds_pca[embeds1.shape[0]:2*embeds1.shape[0]])
+        # R²
+        reg_score = reg.score(embeds_pca[:embeds1.shape[0]], embeds_pca[embeds1.shape[0]:2*embeds1.shape[0]])
+        # Pearson 
+        pearson = pearsonr(
+                        embeds_pca[:embeds1.shape[0]].flatten(), 
+                        embeds_pca[embeds1.shape[0]:2*embeds1.shape[0]].flatten()
+                        )
+        # Clustering
+        true_labels = np.array([0]*embeds1.shape[0] + [1]*embeds2.shape[0])
+        
+        kmeans = KMeans(n_clusters = 2, n_init="auto").fit(embeds_pca)
+        kmeans_completeness = completeness_score(true_labels, kmeans.labels_)
+        kmeans_homogeneity = homogeneity_score(true_labels, kmeans.labels_)
+        
+        spectral = SpectralClustering(n_clusters=2, assign_labels='discretize').fit(embeds_pca)
+        spectral_completeness = completeness_score(true_labels, kmeans.labels_)
+        spectral_homogeneity = homogeneity_score(true_labels, kmeans.labels_)
+        
+        # Store Results
+        results['pca R2'] = reg_score
+        results['pca 1-corr'] = (pearson.statistic, pearson.pvalue)
+        results['pca kmeans completeness'] = kmeans_completeness
+        results['pca kmeans homogeneity'] = kmeans_homogeneity
+        results['pca spectral completeness'] = spectral_completeness
+        results['pca spectral homogeneity'] = spectral_homogeneity
+        results['pca embeds1'] = embeds_pca[:embeds1.shape[0]]
+        results['pca embeds2'] = embeds_pca[embeds1.shape[0]:]
+        
+        # Print
+        print(f"\tPCA - R²: {np.round(results['pca R2'],3)}; 1-corr: {np.round(results['pca 1-corr'][0])} (p = {np.round(results['pca 1-corr'][1])})")
+        print(f"\tPCA Clustering\
+                \n\t\tKMeans - completeness: {np.round(results['pca kmeans completeness'],3)}; homogeneity {np.round(results['pca kmeans homogeneity'],3)}\
+                \n\t\tSpectral - completeness: {np.round(results['pca spectral completeness'],3)}; homogeneity {np.round(results['pca spectral homogeneity'],3)}")
+        
+        ### Representational Similarities Analysis ###
+        # TBD
+        
+        sim_mat = []
+        cos = torch.nn.CosineSimilarity(dim=0, eps=1e-6)
+        for i in range(embeds1.shape[0]):
+            row = []
+            for j in range(embeds1.shape[0]):
+                sim = cos(embeds1[i], embeds1[j])
+                row.append(sim)
+            sim_mat.append(row)
+        sim_mat = np.array(sim_mat)
+            
+        #print(sim_mat.shape)
+        #print(sim_mat)
+        #exit(0)
+        
+        return results
+    
             
     def compute_perplexity(self, probs: torch.Tensor) -> torch.Tensor:
         """
@@ -241,12 +441,16 @@ class MetricsWrapper:
     
     def get_encodings(self, 
                       templates: list,
-                      sub_surfaces: list,
-                      obj_surfaces: list,
-                      autoprompt: bool,
-                      method: int):
+                      sub_surfaces: list = None,
+                      obj_surfaces: list = None,
+                      autoprompt: bool = False,
+                      method: int = 1):
         
-        ##### DEAL with ' .' ?
+        ##### DEAL with ' .' ? 
+        # Removing ' .' hurts a lot the model performances
+        # Might need a flag to remove or not the ' .'
+        # For perplexity computation it doesn't matters as we reveal
+        # context from left to right...
         templates = [template.replace(' .', '') for template in templates]
         
         # Masks
@@ -343,3 +547,55 @@ class MetricsWrapper:
                 h.append(1)
         h[0] = 0
         return torch.tensor(h)
+    
+    def compute_lama_scores_by_rela(self,
+                                    raw_relas_and_scores: dict) -> dict:
+        """
+        
+        """
+        
+        relas = list(set(raw_relas_and_scores['rela']))
+        
+        scores = {}
+        for rela in relas:
+            _scores = {}
+            df = raw_relas_and_scores[(raw_relas_and_scores['rela'] == rela) & (raw_relas_and_scores['filter'] == 1) ]
+            _scores['P@1'] = df['P@1'].sum()/len(df)
+            _scores['P@5'] = df['P@5'].sum()/len(df)
+            _scores['P@20'] = df['P@20'].sum()/len(df)
+            _scores['P@100'] = df['P@100'].sum()/len(df)
+            scores[rela] = _scores
+        
+        return scores
+    
+    def shuffle_template(self, 
+                         template: str, 
+                         shuffle: bool = False,
+                         method: int = 2) -> str:
+        """
+            Args:
+                template (str) str of the form "tok ... tok [X] tok tok ... tok [Y] tok ... tok".
+                               We could try different method:
+                                (i) shuffle everything
+                                (ii) keep [X] and [Y] in place
+                                /!\ [Y] is not always last...
+                shuffle (bool) whether or not we apply a shuffling operation.         
+        """
+        if shuffle:
+            words = template.split(' ')[:-1]
+            if method == 1:
+                # Let's only focus on (i) for now
+                np.random.shuffle(words)
+                return ' '.join(words) + ' .'
+            elif method == 2:
+                x_pos = words.index('[X]')
+                y_pos = words.index('[Y]')
+                words.remove('[X]')
+                words.remove('[Y]')
+                np.random.shuffle(words)
+                words.insert(x_pos, '[X]')
+                words.insert(y_pos, '[Y]')
+                return ' '.join(words) + ' .'
+        else:
+            return template
+        

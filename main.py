@@ -10,7 +10,7 @@ from src.classifier import PromptClassifier
 from src.data import load_data_wrapper
 from src.metrics import MetricsWrapper
 from src.models import ModelWrapper
-from src.plots import plot_lama_scores, plot_rela_nll_perplexity
+from src.plots import plot_lama_scores, plot_rela_nll_perplexity, plot_embeddings_dim_red
 
 
 if __name__ == '__main__':
@@ -30,13 +30,17 @@ if __name__ == '__main__':
                         type=str, 
                         default='lama-autoprompt-random',
                         help="For now only lama is supported")
+    parser.add_argument('--langs_to_load', 
+                        type=str, 
+                        default='',
+                        help="If mlama selected, indicates the langs to load in mlama.")
     parser.add_argument('--seeds', 
                         type=str, 
                         default='0-1',
                         help="Seeds for AutoPrompt.")
     parser.add_argument('--n_random_prompts', 
                         type=int, 
-                        default=82,
+                        default=128,
                         help="Num of random prompts to generate.")
     parser.add_argument('--n_tokens', 
                         type=int, 
@@ -53,9 +57,16 @@ if __name__ == '__main__':
                         type=str, 
                         default='last_nll',
                         help="Classifier to use.")
+    parser.add_argument('--cls_what', 
+                        type=str, 
+                        default='prompt-random',
+                        help="What to distinguish.")
     parser.add_argument('--lama_scores', 
                         action='store_true',
                         help="Compute LAMA scores.")
+    parser.add_argument('--shuffle', 
+                        action='store_true',
+                        help="Shuffle prompts.")
     parser.add_argument('--rela_nll', 
                         action='store_true',
                         help="Compute NLLs of each relation prompt.")
@@ -65,6 +76,9 @@ if __name__ == '__main__':
     parser.add_argument('--prompt_cls', 
                         action='store_true',
                         help="Compute proportion of prompts in model vocab.")
+    parser.add_argument('--embeds_analysis',
+                        action="store_true",
+                        help="Compute prompts embeddings and various metrics on them.")
     args = parser.parse_args()
     
     
@@ -87,6 +101,14 @@ if __name__ == '__main__':
     ### Load Dataset(s) ###
     
     datasets_to_load = args.datasets.split('-')
+    if 'lama' in datasets_to_load:
+        lama_name = 'lama'
+    elif 'mlama' in datasets_to_load:
+        lama_name = 'mlama'
+    
+    langs_to_load = args.langs_to_load.split('-')
+    if langs_to_load == ['']:
+        langs_to_load = []
     
     # under the assumption that we load autoprompts, useless otherwise
     
@@ -103,7 +125,8 @@ if __name__ == '__main__':
                             tokenizer = tokenizer,
                             n_tokens = args.n_tokens,
                             n_random_prompts = args.n_random_prompts,
-                            seeds = seeds
+                            seeds = seeds,
+                            langs_to_load = langs_to_load
                             )
     
     ### Compute Metrics ###
@@ -118,35 +141,82 @@ if __name__ == '__main__':
         
         print("Compute LAMA score...")
                 
-        lama_scores_lama = metrics.evaluate_on_lama(
-                                    dataset = datasets['lama'],
+        lama_scores_lama, scores_by_rela_lama = metrics.evaluate_on_lama(
+                                    dataset = datasets[lama_name],
                                     num_eval = -1,
                                     autoprompt = False,
-                                    batch_size = args.batch_size
+                                    batch_size = args.batch_size,
+                                    shuffle = args.shuffle
                                     )
         
         lama_scores_autoprompt = {}
+        scores_by_rela_autoprompt = {}
         if 'autoprompt' in datasets_to_load:
             for seed in seeds:
-                lama_scores_autoprompt[seed] = metrics.evaluate_on_lama(
-                                                dataset = datasets[f'autoprompt_seed{seed}'],
-                                                num_eval = -1,
-                                                autoprompt = True,
-                                                batch_size = args.batch_size
-                                                )
+                lama_scores_autoprompt[seed], scores_by_rela_autoprompt[seed] = metrics.evaluate_on_lama(
+                                                                    dataset = datasets[f'autoprompt_seed{seed}'],
+                                                                    num_eval = -1,
+                                                                    autoprompt = True,
+                                                                    batch_size = args.batch_size,
+                                                                    shuffle = args.shuffle
+                                                                    )
                 
-        lama_scores_random = metrics.evaluate_on_lama(
-                                    dataset = datasets['random'],
-                                    num_eval = -1,
-                                    autoprompt = True,
-                                    batch_size = args.batch_size
+        lama_scores_random, scores_by_rela_random = metrics.evaluate_on_lama(
+                                        dataset = datasets['random'],
+                                        num_eval = -1,
+                                        autoprompt = True,
+                                        batch_size = args.batch_size,
+                                        shuffle = args.shuffle
+                                        )
+        
+        
+    if args.embeds_analysis or ('cluster' in args.cls):
+        
+        print("Compute Embeddings Anlysis...")
+        
+        embeds_lama, rela2embeds_lama = metrics.compute_embeddings(
+                                    df = datasets[lama_name],
+                                    autoprompt = False
                                     )
+        
+        embeds_autoprompt = {}
+        rela2embeds_autoprompt = {}
+        if 'autoprompt' in datasets_to_load:
+            for seed in seeds:
+                embeds_autoprompt[seed], rela2embeds_autoprompt[seed] = metrics.compute_embeddings(
+                                    df = datasets[f'autoprompt_seed{seed}'],
+                                    autoprompt = True
+                                    )
+                
+        embeds_random, rela2embeds_random = metrics.compute_embeddings(
+                                    prompt_list = datasets['random_raw'],  # Random Prompt do not require DataFrame
+                                    autoprompt = True
+                                    )
+                
+        print("Human vs AutoPrompt (seed 0)")
+        embeds_analysis_lama_autoprompt0 = metrics.compute_embeddings_analysis(embeds_lama, embeds_autoprompt[0])
+        embeds_analysis_lama_autoprompt0['label1'] = 'LAMA'
+        embeds_analysis_lama_autoprompt0['label2'] = 'AutoPrompt (seed 0)'
+        print("Human vs AutoPrompt (seed 1)")
+        _ = metrics.compute_embeddings_analysis(embeds_lama, embeds_autoprompt[1])
+        print("Human vs Random (Baseline)")
+        embeds_analysis_lama_random = metrics.compute_embeddings_analysis(embeds_lama, embeds_random)
+        embeds_analysis_lama_random['label1'] = 'LAMA'
+        embeds_analysis_lama_random['label2'] = 'Random'
+        print("AutoPrompt (seed 1) vs AutoPrompt (seed 0)")
+        _ = metrics.compute_embeddings_analysis(embeds_autoprompt[0], embeds_autoprompt[1])
+        print("Random vs AutoPrompt (seed 0)")
+        embeds_analysis_autoprompt0_random = metrics.compute_embeddings_analysis(embeds_autoprompt[0], embeds_random)
+        embeds_analysis_autoprompt0_random['label1'] = 'AutoPrompt (seed 0)'
+        embeds_analysis_autoprompt0_random['label2'] = 'Random'
+        
+    
     
     if args.rela_nll or args.rela_perplexity:
         
         print("Compute NLL & Perplexity score...")
         
-        relations_ids = list(set(datasets['lama']['predicate_id']))
+        relations_ids = list(set(datasets[lama_name]['predicate_id']))
         
         nlls = {}
         perplexities = {}
@@ -160,14 +230,14 @@ if __name__ == '__main__':
             
             # LAMA
             lama_res = metrics.compute_nll_perplexity(
-                                    df = datasets['lama'][datasets['lama']['predicate_id'] == rela], 
+                                    df = datasets[lama_name][datasets[lama_name]['predicate_id'] == rela], 
                                     autoprompt = False, 
                                     method = args.prompt_method,
                                     batch_size = args.batch_size
                                     )
-            rela_nlls['lama'] = lama_res['nll']
-            rela_perplexities['lama'] = lama_res['perplexity']
-            rela_tokens['lama'] = lama_res['tokens']
+            rela_nlls[lama_name] = lama_res['nll']
+            rela_perplexities[lama_name] = lama_res['perplexity']
+            rela_tokens[lama_name] = lama_res['tokens']
             
             # AutoPrompt
             for seed in seeds:
@@ -206,27 +276,47 @@ if __name__ == '__main__':
                             tokenizer = tokenizer,
                             device = device,
                             cls = args.cls,
+                            cls_what = args.cls_what,
                             batch_size = args.batch_size
                         )
         
         # Compute NLLs
-        random_prompts_list = datasets['random_raw']
-        autoprompt_list = datasets['autoprompt_raw']
-        
-        random_prompts_tok = cls.tokenize(random_prompts_list)
-        autoprompt_tok = cls.tokenize(autoprompt_list)
-        
-        if args.cls in ['last_nll', 'last_perplexity', 'logistic_reg']:
-            dataset = {'0': random_prompts_tok,
-                       '1': autoprompt_tok}
-            cls.train(dataset = dataset)
+        cls_what = args.cls_what.split('-')
+        assert len(cls_what) == 2 # TEMP
+        tok_list = {}
+        if 'random' in cls_what:
+            random_prompts_list = datasets['random_raw']
+            tok_list['random'] = cls.tokenize(random_prompts_list, 
+                                              autoprompt=True)
+        if 'prompt' in cls_what:
+            autoprompt_list = datasets['autoprompt_raw']
+            tok_list['prompt'] = cls.tokenize(autoprompt_list,
+                                              autoprompt=True)
+        if 'human' in cls_what:
+            lama_list = datasets['lama_raw']
+            tok_list['human'] = cls.tokenize(lama_list)
             
-        cls.chose_best_threshold(dataset = dataset)   
         
-        cls.compute_prompt_proportion(
-            n_tokens=args.n_tokens,
-            n_eval = 20
-            )
+        if args.cls in ['last_nll', 'last_perplexity', 'logistic_reg', 'last_nll_reg']:
+            # So dataset 0 is supposed to be random in the pairs human-random & prompt-random
+            # and is supposed to be prompt in the pairs human-prompt
+            if 'random' in cls_what:
+                other_name = 'human' if 'human' in cls_what else 'prompt'
+                dataset = {'0': tok_list['random'],
+                           '1': tok_list[other_name]}
+            else:
+                dataset = {'0': tok_list['prompt'],
+                           '1': tok_list['human']}
+            cls.train(dataset = dataset)
+            cls.chose_best_threshold(dataset = dataset)  
+        elif args.cls in ['cluster-pca']:
+            pass 
+        
+        if cls_what == ['prompt', 'random'] or cls_what == ['random', 'prompt']:
+            cls.compute_prompt_proportion(
+                n_tokens = args.n_tokens,
+                n_eval = 2000
+                )
     
     ### Plot & Save Results ###
     
@@ -234,20 +324,39 @@ if __name__ == '__main__':
         
         os.makedirs(os.path.join('results', "lama_scores"), exist_ok=True)
         
-        with open(os.path.join('results', 'lama_scores', f'{args.model_name}_lama_scores_lama.pickle'), 'wb') as f:
+        if args.shuffle:
+            scores_name_lama = f'{args.model_name}_{lama_name}_scores_{lama_name}_shuffled.pickle'
+            scores_by_rela_name_lama = f'{args.model_name}_{lama_name}_scores_by_rela_{lama_name}_shuffled.pickle'
+            scores_name_autoprompt = args.model_name + f'_{lama_name}' + '_scores_autoprompt_seed{}_shuffled.pickle'
+            scores_by_rela_name_autoprompt = args.model_name + f'_{lama_name}' + '_scores_by_rela_autoprompt_seed{}_shuffled.pickle'
+        else:
+            scores_name_lama = f'{args.model_name}_{lama_name}_scores_{lama_name}.pickle'
+            scores_by_rela_name_lama = f'{args.model_name}_{lama_name}_scores_by_rela_{lama_name}.pickle'
+            scores_name_autoprompt = args.model_name + f'_{lama_name}' + '_scores_autoprompt_seed{}.pickle'
+            scores_by_rela_name_autoprompt = args.model_name + f'_{lama_name}' + '_scores_by_rela_autoprompt_seed{}.pickle'
+        
+        with open(os.path.join('results', 'lama_scores', scores_name_lama), 'wb') as f:
             pickle.dump(lama_scores_lama, f)
+        
+        with open(os.path.join('results', 'lama_scores', scores_by_rela_name_lama), 'wb') as f:
+            pickle.dump(scores_by_rela_lama, f)
             
         if 'autoprompt' in datasets_to_load:
             for seed in seeds:
-                with open(os.path.join('results', 'lama_scores', f'{args.model_name}_lama_scores_autoprompt_seed{seed}.pickle'), 'wb') as f:
+                with open(os.path.join('results', 'lama_scores', scores_name_autoprompt.format(seed) ), 'wb') as f:
                     pickle.dump(lama_scores_autoprompt[seed], f)
+                    
+                with open(os.path.join('results', 'lama_scores', scores_by_rela_name_autoprompt.format(seed)), 'wb') as f:
+                    pickle.dump(scores_by_rela_autoprompt[seed], f)
         
         plot_lama_scores(
             lama_scores_lama = lama_scores_lama,
             lama_scores_autoprompt = lama_scores_autoprompt,
             lama_scores_random = lama_scores_random,
             model_name = args.model_name,
-            seeds = seeds
+            seeds = seeds,
+            shuffle = args.shuffle,
+            lama_name = lama_name
         )
         
     if args.rela_nll:
@@ -291,3 +400,52 @@ if __name__ == '__main__':
                     seed = seed,
                     perplexity = True
                 )
+                
+    if args.embeds_analysis:
+        
+        os.makedirs(os.path.join('results', "embeddings_analysis", "PCA"), exist_ok=True)
+        os.makedirs(os.path.join('results', "embeddings_analysis", "MDS"), exist_ok=True)
+        
+        
+        plot_embeddings_dim_red(
+                        embeds1 = embeds_analysis_lama_autoprompt0['pca embeds1'],
+                        embeds2 = embeds_analysis_lama_autoprompt0['pca embeds2'],
+                        embeds3 = None,
+                        label1 = embeds_analysis_lama_autoprompt0['label1'],
+                        label2 = embeds_analysis_lama_autoprompt0['label2'],
+                        label3 = None,
+                        annots1 = list(rela2embeds_lama.keys()),
+                        annots2 = list(rela2embeds_lama.keys()),
+                        annots3 = None,
+                        dim_red_name = 'PCA',
+                        model_name = args.model_name
+                        )
+        
+        # Remark: Not neccessary to have as many random as lama
+        plot_embeddings_dim_red(
+                        embeds1 = embeds_analysis_lama_random['pca embeds1'],
+                        embeds2 = embeds_analysis_lama_random['pca embeds2'],
+                        embeds3 = None,
+                        label1 = embeds_analysis_lama_random['label1'],
+                        label2 = embeds_analysis_lama_random['label2'],
+                        label3 = None,
+                        annots1 = list(rela2embeds_lama.keys()),
+                        annots2 = [],
+                        annots3 = None,
+                        dim_red_name = 'PCA',
+                        model_name = args.model_name
+                        )
+        
+        plot_embeddings_dim_red(
+                        embeds1 = embeds_analysis_autoprompt0_random['pca embeds1'],
+                        embeds2 = embeds_analysis_autoprompt0_random['pca embeds2'],
+                        embeds3 = None,
+                        label1 = embeds_analysis_autoprompt0_random['label1'],
+                        label2 = embeds_analysis_autoprompt0_random['label2'],
+                        label3 = None,
+                        annots1 = list(rela2embeds_lama.keys()),
+                        annots2 = [],
+                        annots3 = None,
+                        dim_red_name = 'PCA',
+                        model_name = args.model_name
+                        )

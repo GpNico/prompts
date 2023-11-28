@@ -1,0 +1,39 @@
+{"index":3,"relation":"P37","template":"[X] hizkuntza ofiziala [Y] da."}
+{"index":20,"relation":"P27","template":"[X] [Y] herritarra da."}
+{"index":30,"relation":"P39","template":"[X] [Y] posizioa du."}
+{"index":35,"relation":"P1303","template":"[X] jolasten da [Y]."}
+{"index":42,"relation":"P159","template":"Egoitza nagusia [X] da [Y]."}
+{"index":45,"relation":"P361","template":"[X] [Y] zati da."}
+{"index":22,"relation":"P30","template":"[X] [Y] gunean dago."}
+{"index":24,"relation":"P1376","template":"[X] [Y] hiriburua da."}
+{"index":17,"relation":"P102","template":"[X] [Y] alderdi politikoko kidea da."}
+{"index":23,"relation":"P178","template":"[X] [Y]-ek garatzen du."}
+{"index":32,"relation":"P276","template":"[X] [Y] gunean dago."}
+{"index":18,"relation":"P530","template":"[X] -ek [Y] -ekin harreman diplomatikoak mantentzen ditu."}
+{"index":36,"relation":"P127","template":"[X] [Y] enpresaren jabetzakoa da."}
+{"index":25,"relation":"P131","template":"[X] [Y] gunean dago."}
+{"index":29,"relation":"P17","template":"[X] [Y] gunean dago."}
+{"index":2,"relation":"P279","template":"[X] [Y] azpi-klasea da."}
+{"index":0,"relation":"P19","template":"[X] [Y] jaio zen."}
+{"index":27,"relation":"P108","template":"[X] [Y] lanarentzat funtzionatzen du."}
+{"index":10,"relation":"P364","template":"[X] jatorrizko hizkuntza [Y] da."}
+{"index":39,"relation":"P1001","template":"[X] legezko terminoa da [Y] -n."}
+{"index":13,"relation":"P101","template":"[X] [Y] eremuan lan egiten du."}
+{"index":15,"relation":"P106","template":"[X] lanbidez [Y] da."}
+{"index":48,"relation":"place_of_death","template":"[X] [Y] hil zen."}
+{"index":16,"relation":"P527","template":"[X] [Y] osatzen dute."}
+{"index":9,"relation":"P138","template":"[X] [Y] du izena."}
+{"index":37,"relation":"P103","template":"[X] jatorrizko hizkuntza [Y] da."}
+{"index":34,"relation":"P140","template":"[X] [Y] erlijioarekin erlazionatuta dago."}
+{"index":41,"relation":"P495","template":"[X] [Y] -en sortu zen."}
+{"index":14,"relation":"P1923","template":"[Y] -ek [X] saioan parte hartu zuen."}
+{"index":7,"relation":"P69","template":"[X] [Y] unibertsitatean hezi zen."}
+{"index":46,"relation":"date_of_birth","template":"[X] (jaio [Y])"}
+{"index":4,"relation":"P413","template":"[X] [Y] posizioan jokatzen du."}
+{"index":47,"relation":"place_of_birth","template":"[X] [Y] jaio zen."}
+{"index":40,"relation":"P31","template":"[X] [Y] da."}
+{"index":28,"relation":"P136","template":"[X] [Y] musika jotzen du."}
+{"index":26,"relation":"P1412","template":"[X] -n [Y] -n komunikatzeko erabiltzen da."}
+{"index":33,"relation":"P937","template":"[X] [Y] -n lan egiteko erabiltzen zen."}
+{"index":21,"relation":"P407","template":"[X] [Y] liburuan idatzi zen."}
+{"index":19,"relation":"P176","template":"[X] [Y]-ek sortzen du."}

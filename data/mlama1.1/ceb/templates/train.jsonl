@@ -1,0 +1,39 @@
+{"index":5,"relation":"P166","template":"[X] gihatagan ang [Y]."}
+{"index":23,"relation":"P178","template":"Ang [X] gipalambo ni [Y]."}
+{"index":25,"relation":"P131","template":"[X] nahimutang sa [Y]."}
+{"index":7,"relation":"P69","template":"Gitudlo sa [X] sa Unibersidad sa [Y]."}
+{"index":41,"relation":"P495","template":"Ang [X] gilalang sa [Y]."}
+{"index":44,"relation":"P740","template":"Gitukod ang [X] sa [Y]."}
+{"index":1,"relation":"P20","template":"Namatay si [X] sa [Y]."}
+{"index":31,"relation":"P264","template":"Ang [X] gihawasan sa label sa musika [Y]."}
+{"index":20,"relation":"P27","template":"Ang [X] usa ka lungsuranon sa [Y]."}
+{"index":6,"relation":"P449","template":"Ang [X] sa sinugdan gipasubasta sa [Y]."}
+{"index":29,"relation":"P17","template":"[X] nahimutang sa [Y]."}
+{"index":8,"relation":"P47","template":"[X] nakig-ambit sa utlanan sa [Y]."}
+{"index":48,"relation":"place_of_death","template":"Namatay si [X] sa [Y]."}
+{"index":17,"relation":"P102","template":"Ang [X] usa ka membro sa partidong pampulitika [Y]."}
+{"index":4,"relation":"P413","template":"Ang [X] nagdula sa posisyon [Y]."}
+{"index":24,"relation":"P1376","template":"[X] mao ang kapital sa [Y]."}
+{"index":18,"relation":"P530","template":"Gipadayon sa [X] ang relasyon sa diplomatikong sa [Y]."}
+{"index":45,"relation":"P361","template":"Ang [X] bahin sa [Y]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (natawo [Y])."}
+{"index":21,"relation":"P407","template":"Gisulat ang [X] sa [Y]."}
+{"index":32,"relation":"P276","template":"[X] nahimutang sa [Y]."}
+{"index":42,"relation":"P159","template":"Ang headquarter sa [X] naa sa [Y]."}
+{"index":19,"relation":"P176","template":"Ang [X] gihimo ni [Y]."}
+{"index":34,"relation":"P140","template":"Ang [X] nakig-uban sa relihiyon sa [Y]."}
+{"index":12,"relation":"P463","template":"Ang [X] usa ka sakop sa [Y]."}
+{"index":28,"relation":"P136","template":"Ang [X] nagpatugtog sa [Y] musika."}
+{"index":22,"relation":"P30","template":"[X] nahimutang sa [Y]."}
+{"index":3,"relation":"P37","template":"Ang opisyal nga sinultian sa [X] mao ang [Y]."}
+{"index":2,"relation":"P279","template":"Ang [X] usa ka subclass sa [Y]."}
+{"index":35,"relation":"P1303","template":"Ang [X] nagdula [Y]."}
+{"index":33,"relation":"P937","template":"Ang [X] gigamit sa pagtrabaho sa [Y]."}
+{"index":36,"relation":"P127","template":"Ang [X] gipanag-iya ni [Y]."}
+{"index":26,"relation":"P1412","template":"Ang [X] gigamit sa pagsulti sa [Y]."}
+{"index":10,"relation":"P364","template":"Ang orihinal nga sinultian sa [X] mao ang [Y]."}
+{"index":9,"relation":"P138","template":"Ang [X] gingalan sa [Y]."}
+{"index":15,"relation":"P106","template":"Ang [X] usa ka [Y] pinaagi sa propesyon."}
+{"index":37,"relation":"P103","template":"Ang lumad nga sinultian sa [X] mao ang [Y]."}
+{"index":0,"relation":"P19","template":"Natawo ang [X] sa [Y]."}
+{"index":13,"relation":"P101","template":"Ang [X] nagtrabaho sa uma sa [Y]."}

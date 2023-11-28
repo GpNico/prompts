@@ -1,0 +1,39 @@
+{"index":22,"relation":"P30","template":"[X] \u05e0\u05de\u05e6\u05d0 \u05d1- [Y]."}
+{"index":31,"relation":"P264","template":"[X] \u05de\u05d9\u05d5\u05e6\u05d2 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d7\u05d1\u05e8\u05ea \u05d4\u05de\u05d5\u05e1\u05d9\u05e7\u05d4 [Y]."}
+{"index":9,"relation":"P138","template":"[X] \u05e0\u05e7\u05e8\u05d0 \u05e2\u05dc \u05e9\u05dd [Y]."}
+{"index":14,"relation":"P1923","template":"[Y] \u05d4\u05e9\u05ea\u05ea\u05e3 \u05d1- [X]."}
+{"index":30,"relation":"P39","template":"\u05dc- [X] \u05d9\u05e9 \u05d0\u05ea \u05d4\u05de\u05d9\u05e7\u05d5\u05dd \u05e9\u05dc [Y]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (\u05e0\u05d5\u05dc\u05d3 [Y])."}
+{"index":17,"relation":"P102","template":"[X] \u05d4\u05d5\u05d0 \u05d7\u05d1\u05e8 \u05d4\u05de\u05e4\u05dc\u05d2\u05d4 \u05d4\u05e4\u05d5\u05dc\u05d9\u05d8\u05d9\u05ea [Y]."}
+{"index":34,"relation":"P140","template":"[X] \u05e7\u05e9\u05d5\u05e8\u05d4 \u05dc\u05d3\u05ea [Y]."}
+{"index":10,"relation":"P364","template":"\u05e9\u05e4\u05ea \u05d4\u05de\u05e7\u05d5\u05e8 \u05e9\u05dc [X] \u05d4\u05d9\u05d0 [Y]."}
+{"index":24,"relation":"P1376","template":"[X] \u05d4\u05d9\u05d0 \u05d1\u05d9\u05e8\u05ea [Y]."}
+{"index":23,"relation":"P178","template":"[X] \u05de\u05e4\u05d5\u05ea\u05d7 \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]."}
+{"index":33,"relation":"P937","template":"[X] \u05e2\u05d1\u05d3 \u05d1\u05e2\u05d1\u05e8 \u05d1- [Y]."}
+{"index":39,"relation":"P1001","template":"[X] \u05d4\u05d5\u05d0 \u05de\u05d5\u05e0\u05d7 \u05d7\u05d5\u05e7\u05d9 \u05d1- [Y]."}
+{"index":27,"relation":"P108","template":"[X] \u05e2\u05d5\u05d1\u05d3 \u05e2\u05d1\u05d5\u05e8 [Y]."}
+{"index":48,"relation":"place_of_death","template":"[X] \u05e0\u05e4\u05d8\u05e8 \u05d1- [Y]."}
+{"index":2,"relation":"P279","template":"[X] \u05d4\u05d9\u05d0 \u05ea\u05ea-\u05e1\u05d5\u05d2 \u05e9\u05dc [Y]."}
+{"index":45,"relation":"P361","template":"[X] \u05d4\u05d5\u05d0 \u05d7\u05dc\u05e7 \u05de- [Y]."}
+{"index":20,"relation":"P27","template":"[X] \u05d4\u05d5\u05d0 \u05d0\u05d6\u05e8\u05d7 [Y]."}
+{"index":19,"relation":"P176","template":"[X] \u05de\u05d9\u05d5\u05e6\u05e8 \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]."}
+{"index":4,"relation":"P413","template":"[X] \u05de\u05e9\u05d7\u05e7 \u05d1\u05ea\u05e4\u05e7\u05d9\u05d3 [Y]."}
+{"index":36,"relation":"P127","template":"[X] \u05d1\u05d1\u05e2\u05dc\u05d5\u05ea [Y]."}
+{"index":35,"relation":"P1303","template":"[X] \u05de\u05e0\u05d2\u05df [Y]."}
+{"index":5,"relation":"P166","template":"[X] \u05d4\u05d5\u05e2\u05e0\u05e7 \u05dc [Y]."}
+{"index":38,"relation":"P190","template":"[X] \u05d5- [Y] \u05d4\u05df \u05e2\u05e8\u05d9\u05dd \u05ea\u05d0\u05d5\u05de\u05d5\u05ea."}
+{"index":3,"relation":"P37","template":"\u05d4\u05e9\u05e4\u05d4 \u05d4\u05e8\u05e9\u05de\u05d9\u05ea \u05e9\u05dc [X] \u05d4\u05d9\u05d0 [Y]."}
+{"index":44,"relation":"P740","template":"[X] \u05e0\u05d5\u05e1\u05d3\u05d4 \u05d1- [Y]."}
+{"index":41,"relation":"P495","template":"[X] \u05e0\u05d5\u05e6\u05e8 \u05d1- [Y]."}
+{"index":1,"relation":"P20","template":"[X] \u05e0\u05e4\u05d8\u05e8 \u05d1- [Y]."}
+{"index":28,"relation":"P136","template":"[X] \u05de\u05e0\u05d2\u05df \u05de\u05d5\u05e1\u05d9\u05e7\u05d4 [Y]."}
+{"index":40,"relation":"P31","template":"[X] \u05d4\u05d5\u05d0 [Y]."}
+{"index":29,"relation":"P17","template":"[X] \u05e0\u05de\u05e6\u05d0 \u05d1- [Y]."}
+{"index":11,"relation":"P54","template":"[X] \u05de\u05e9\u05d7\u05e7 \u05e2\u05dd [Y]."}
+{"index":25,"relation":"P131","template":"[X] \u05e0\u05de\u05e6\u05d0 \u05d1- [Y]."}
+{"index":43,"relation":"P36","template":"\u05d1\u05d9\u05e8\u05ea [X] \u05d4\u05d9\u05d0 [Y]."}
+{"index":16,"relation":"P527","template":"[X] \u05de\u05d5\u05e8\u05db\u05d1 \u05de- [Y]."}
+{"index":42,"relation":"P159","template":"\u05d4\u05de\u05d8\u05d4 \u05e9\u05dc \u200b\u200b[X] \u05e0\u05de\u05e6\u05d0 \u05d1- [Y]."}
+{"index":8,"relation":"P47","template":"[X] \u05de\u05e9\u05ea\u05e3 \u05d2\u05d1\u05d5\u05dc \u05e2\u05dd [Y]."}
+{"index":15,"relation":"P106","template":"[X] \u05d4\u05d5\u05d0 [Y] \u05d1\u05de\u05e7\u05e6\u05d5\u05e2\u05d5."}
+{"index":26,"relation":"P1412","template":"[X] \u05e0\u05d4\u05d2 \u05dc\u05ea\u05e7\u05e9\u05e8 \u05d1- [Y]."}

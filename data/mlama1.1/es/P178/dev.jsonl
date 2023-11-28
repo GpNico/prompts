@@ -1,0 +1,102 @@
+{"index":19,"sub_uri":"Q390389","obj_uri":"Q248","obj_label":"Intel","sub_label":"Intel Itanium","lineid":21,"uuid":"3c057a78-26ef-471a-939c-f0f6fe354c7b"}
+{"index":448,"sub_uri":"Q15282750","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Windows Phone 8.1","lineid":514,"uuid":"1c7e8432-d20b-4539-81fd-b5523cbb5401"}
+{"index":228,"sub_uri":"Q212960","obj_uri":"Q41187","obj_label":"Sony","sub_label":"Super Audio CD","lineid":248,"uuid":"37c6c25f-6848-42f6-a66e-324f8fb6d86d"}
+{"index":54,"sub_uri":"Q747434","obj_uri":"Q312","obj_label":"Apple","sub_label":"Mac OS X Panther","lineid":58,"uuid":"bc58e84b-6955-4888-a4be-7cd12b9b663c"}
+{"index":168,"sub_uri":"Q1224796","obj_uri":"Q11463","obj_label":"Adobe Inc.","sub_label":"DNG","lineid":181,"uuid":"d4c412e8-3c50-420c-a183-9fe51aa2c95e"}
+{"index":267,"sub_uri":"Q977900","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Open XML Paper Specification","lineid":294,"uuid":"696c3b53-c902-44b0-b119-0b07fcaa56a2"}
+{"index":56,"sub_uri":"Q679906","obj_uri":"Q37156","obj_label":"IBM","sub_label":"ISPF","lineid":60,"uuid":"4a2181b3-a8a6-4d8f-b98d-5fecc374bb87"}
+{"index":462,"sub_uri":"Q2383167","obj_uri":"Q8093","obj_label":"Nintendo","sub_label":"Mother 3","lineid":532,"uuid":"c8ed04c0-1c6a-4b59-87c5-3bbf8e5a6d0a"}
+{"index":487,"sub_uri":"Q753609","obj_uri":"Q207922","obj_label":"Atari","sub_label":"Atari DOS","lineid":566,"uuid":"9275632f-c835-4237-ad21-b6dc401e2a54"}
+{"index":397,"sub_uri":"Q1294021","obj_uri":"Q3884","obj_label":"Amazon","sub_label":"OpenSearch","lineid":447,"uuid":"958b1fce-7b46-4456-a0e2-854696817512"}
+{"index":357,"sub_uri":"Q181596","obj_uri":"Q37156","obj_label":"IBM","sub_label":"SPSS","lineid":404,"uuid":"49aa06e8-3474-466e-b2e3-e3cfbf3a9465"}
+{"index":376,"sub_uri":"Q1344448","obj_uri":"Q66","obj_label":"Boeing","sub_label":"Boeing 747 Large Cargo Freighter","lineid":424,"uuid":"753158de-b9df-4067-8492-1d550fcd1b6d"}
+{"index":444,"sub_uri":"Q17054505","obj_uri":"Q95","obj_label":"Google","sub_label":"Google Cloud Platform","lineid":509,"uuid":"f1684b17-55ff-4fe4-800b-4660fecbe4a8"}
+{"index":214,"sub_uri":"Q686425","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft Plus!","lineid":234,"uuid":"9eef44c7-9eb8-4e18-98fe-2e8f4b77a76b"}
+{"index":174,"sub_uri":"Q684160","obj_uri":"Q122741","obj_label":"Sega","sub_label":"Yakuza 2","lineid":187,"uuid":"86378404-4128-4bc8-8749-202c2b3f2786"}
+{"index":68,"sub_uri":"Q486487","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Windows NT","lineid":72,"uuid":"b7f9a57d-50d5-4222-8336-25e38eae0f62"}
+{"index":106,"sub_uri":"Q250328","obj_uri":"Q312","obj_label":"Apple","sub_label":"Xcode","lineid":113,"uuid":"b8499fd6-186f-4849-b560-58218a1edf43"}
+{"index":378,"sub_uri":"Q748319","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Windows NT 3.1","lineid":426,"uuid":"726406b3-ae4a-4edd-83d3-60ecdf256e10"}
+{"index":10,"sub_uri":"Q11230","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Windows Vista","lineid":11,"uuid":"2d6ec4dc-da3f-452f-b930-3cdca38f8807"}
+{"index":34,"sub_uri":"Q221257","obj_uri":"Q248","obj_label":"Intel","sub_label":"Intel Pentium II","lineid":37,"uuid":"f1c9912a-261b-4146-825f-2daa1d318dc1"}
+{"index":115,"sub_uri":"Q1073789","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"NTLDR","lineid":122,"uuid":"e4d2bed3-56aa-4b5e-ade2-b4f9a7d954b4"}
+{"index":41,"sub_uri":"Q11261","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft Word","lineid":44,"uuid":"7d2d9e75-b7c0-4bee-81cc-89bb578ddea1"}
+{"index":238,"sub_uri":"Q5654167","obj_uri":"Q122741","obj_label":"Sega","sub_label":"Sega Smash Pack","lineid":260,"uuid":"c37a159f-735b-4b47-b3b2-6fca1fcebd80"}
+{"index":496,"sub_uri":"Q1571984","obj_uri":"Q37156","obj_label":"IBM","sub_label":"IMS","lineid":578,"uuid":"41e12f62-90e4-41e4-89ad-d55a13ed20fb"}
+{"index":97,"sub_uri":"Q1358734","obj_uri":"Q122741","obj_label":"Sega","sub_label":"Alex Kidd","lineid":103,"uuid":"5af33ec7-feeb-4900-bb0c-9da5f3d581d4"}
+{"index":95,"sub_uri":"Q183205","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"NTFS","lineid":100,"uuid":"8cdbfe0d-4768-4db2-bf12-28a4d3873924"}
+{"index":332,"sub_uri":"Q79578","obj_uri":"Q95","obj_label":"Google","sub_label":"Google Web Toolkit","lineid":374,"uuid":"7021c992-17c4-4809-b9a2-b3e3dc46b3eb"}
+{"index":69,"sub_uri":"Q50077","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Visual Basic .NET","lineid":73,"uuid":"ee9f3326-0177-4f55-8c6d-0d34573a5900"}
+{"index":112,"sub_uri":"Q170073","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Xbox Live","lineid":119,"uuid":"36f0a8fe-e0f0-4a17-b579-a8ac6169610c"}
+{"index":501,"sub_uri":"Q123390","obj_uri":"Q37156","obj_label":"IBM","sub_label":"Lotus SmartSuite","lineid":584,"uuid":"a7ffbd3d-8f51-4ca9-a190-5e3072c7a814"}
+{"index":52,"sub_uri":"Q488978","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Windows NT 4.0","lineid":56,"uuid":"e92b1787-aa84-41a4-bcd0-a51502bea31b"}
+{"index":417,"sub_uri":"Q270309","obj_uri":"Q41187","obj_label":"Sony","sub_label":"Universal Media Disc","lineid":475,"uuid":"8b4e34d9-5227-4ee4-bff0-51fc2e9bc3fa"}
+{"index":432,"sub_uri":"Q310403","obj_uri":"Q312","obj_label":"Apple","sub_label":"iBooks Author","lineid":495,"uuid":"594943cf-831e-4120-97de-4b5098a08cbd"}
+{"index":435,"sub_uri":"Q420922","obj_uri":"Q312","obj_label":"Apple","sub_label":"Apple A6","lineid":499,"uuid":"7688eae8-fd63-477d-9984-4a368a93eb65"}
+{"index":407,"sub_uri":"Q49740","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Minecraft","lineid":463,"uuid":"04c2c4ae-bfb6-461f-abb5-ec557ed6f898"}
+{"index":93,"sub_uri":"Q622888","obj_uri":"Q248","obj_label":"Intel","sub_label":"Intel 80286","lineid":98,"uuid":"5f8da7b2-2d3f-4579-ba31-95b7989744e0"}
+{"index":408,"sub_uri":"Q620620","obj_uri":"Q95","obj_label":"Google","sub_label":"App Inventor","lineid":464,"uuid":"726a6646-0ce2-4577-8a1a-5a1ad765ee1b"}
+{"index":132,"sub_uri":"Q420384","obj_uri":"Q312","obj_label":"Apple","sub_label":"System 7","lineid":141,"uuid":"553efa4f-8ce3-4b90-8497-1934075e15c4"}
+{"index":324,"sub_uri":"Q2001900","obj_uri":"Q37156","obj_label":"IBM","sub_label":"Tivoli Storage Manager","lineid":366,"uuid":"9298ecb9-2535-415e-9aa0-dba29b8e8241"}
+{"index":441,"sub_uri":"Q1342266","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft Office 97","lineid":505,"uuid":"2d64b37c-829f-4b73-8ec6-aaa7b0b543eb"}
+{"index":471,"sub_uri":"Q360204","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Visor de eventos","lineid":544,"uuid":"76f29d33-a9e1-4ed0-8fa6-3e5d6cc5bbdd"}
+{"index":219,"sub_uri":"Q16973176","obj_uri":"Q312","obj_label":"Apple","sub_label":"iOS 8","lineid":239,"uuid":"d1cfdc24-048a-48f5-a1fe-a6da6078ca63"}
+{"index":253,"sub_uri":"Q5249279","obj_uri":"Q210278","obj_label":"Gibson Guitar Corporation","sub_label":"Deckadance","lineid":278,"uuid":"e215d588-6f5c-4ba3-ad00-23cfd2bcc98b"}
+{"index":483,"sub_uri":"Q1140503","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Internet Explorer Mobile","lineid":561,"uuid":"871e131c-f61e-4dce-a062-9823ab0c8dbf"}
+{"index":300,"sub_uri":"Q18833","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft SharePoint","lineid":336,"uuid":"5211e4e2-b036-4b2f-b50f-70d791f2724f"}
+{"index":119,"sub_uri":"Q509284","obj_uri":"Q95","obj_label":"Google","sub_label":"G Suite","lineid":126,"uuid":"c4c9ba38-fe72-46f5-98cc-b0ce9fcba6c7"}
+{"index":121,"sub_uri":"Q685820","obj_uri":"Q37156","obj_label":"IBM","sub_label":"REXX","lineid":129,"uuid":"9a555d88-0be3-4f34-9fc1-26a4994e3e94"}
+{"index":322,"sub_uri":"Q1058465","obj_uri":"Q312","obj_label":"Apple","sub_label":"HFS","lineid":362,"uuid":"0b7d1fe9-cc6c-42d5-bbec-15a182fe113a"}
+{"index":155,"sub_uri":"Q360118","obj_uri":"Q11463","obj_label":"Adobe Inc.","sub_label":"Adobe Creative Suite","lineid":164,"uuid":"ee9c2a59-a7bf-4f3d-98fc-3e1fb5749517"}
+{"index":290,"sub_uri":"Q1153311","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft Office 2000","lineid":325,"uuid":"dffefc86-4bde-474e-b370-8c0bb2a9ea1e"}
+{"index":310,"sub_uri":"Q973966","obj_uri":"Q37156","obj_label":"IBM","sub_label":"System R","lineid":347,"uuid":"58ce9f2b-c608-4b36-9b0a-2ab1d36008e1"}
+{"index":236,"sub_uri":"Q268583","obj_uri":"Q312","obj_label":"Apple","sub_label":"iPod nano","lineid":257,"uuid":"2ef9c11a-f9e7-486c-9364-bee6ee55df3c"}
+{"index":482,"sub_uri":"Q51707","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft Security Essentials","lineid":556,"uuid":"d8013d45-5028-44a1-9c15-89cdf55ab4bf"}
+{"index":57,"sub_uri":"Q2597422","obj_uri":"Q37156","obj_label":"IBM","sub_label":"XEDIT","lineid":61,"uuid":"c3fbb50b-377c-48b8-89d8-076228915a05"}
+{"index":427,"sub_uri":"Q431171","obj_uri":"Q3884","obj_label":"Amazon","sub_label":"Amazon Silk","lineid":489,"uuid":"b8e5a8ed-b962-4c4f-a027-2fa6f91d58e3"}
+{"index":480,"sub_uri":"Q1808580","obj_uri":"Q312","obj_label":"Apple","sub_label":"VoiceOver","lineid":554,"uuid":"230f295e-2fd5-4609-bcbe-8e11fcb4a0d8"}
+{"index":200,"sub_uri":"Q1111151","obj_uri":"Q312","obj_label":"Apple","sub_label":"ColorSync","lineid":217,"uuid":"a67c8598-c925-4656-8a82-83f2fee7022a"}
+{"index":241,"sub_uri":"Q18010946","obj_uri":"Q312","obj_label":"Apple","sub_label":"Apple Watch","lineid":265,"uuid":"1ae22e24-6b8d-4d71-94fa-345ed7c771e4"}
+{"index":230,"sub_uri":"Q467649","obj_uri":"Q66","obj_label":"Boeing","sub_label":"Boeing B-47 Stratojet","lineid":250,"uuid":"41ea9a9d-6448-4897-8244-5e8a2d20af74"}
+{"index":16,"sub_uri":"Q1406","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft Windows","lineid":17,"uuid":"9d755cae-90ae-49d0-94df-86d729b83438"}
+{"index":387,"sub_uri":"Q787647","obj_uri":"Q312","obj_label":"Apple","sub_label":"DVD Studio Pro","lineid":437,"uuid":"ad8afada-d9e8-4f76-8421-a33f21373b15"}
+{"index":317,"sub_uri":"Q912481","obj_uri":"Q312","obj_label":"Apple","sub_label":"Mac OS X v10.0","lineid":355,"uuid":"18f803f0-b6fb-4b0b-9bc0-3020c8c7b8e9"}
+{"index":209,"sub_uri":"Q1362095","obj_uri":"Q37156","obj_label":"IBM","sub_label":"Resource Access Control Facility","lineid":228,"uuid":"d71f0206-10cf-4604-8bb2-4ce6e56f634d"}
+{"index":246,"sub_uri":"Q1455872","obj_uri":"Q37156","obj_label":"IBM","sub_label":"Journaled File System","lineid":270,"uuid":"8f528ee1-1cde-4312-b578-06649b3d830d"}
+{"index":77,"sub_uri":"Q4803535","obj_uri":"Q8093","obj_label":"Nintendo","sub_label":"Mario","lineid":81,"uuid":"068beab3-e8d5-4aff-b0e1-eb2b660b2388"}
+{"index":102,"sub_uri":"Q1053749","obj_uri":"Q312","obj_label":"Apple","sub_label":"HyperCard","lineid":108,"uuid":"542fe834-36e0-4617-bc6f-247a6f227979"}
+{"index":424,"sub_uri":"Q3475322","obj_uri":"Q95","obj_label":"Google","sub_label":"Schema.org","lineid":484,"uuid":"3657b1a8-d0a7-4875-bf2d-59f20b5c163a"}
+{"index":384,"sub_uri":"Q1196084","obj_uri":"Q11463","obj_label":"Adobe Inc.","sub_label":"MXML","lineid":433,"uuid":"e83c9af1-6499-4317-a579-125205a7c3d9"}
+{"index":176,"sub_uri":"Q223653","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft Exchange Server","lineid":189,"uuid":"8163db43-8141-467a-8fa8-eb02c478fa02"}
+{"index":265,"sub_uri":"Q1296464","obj_uri":"Q95","obj_label":"Google","sub_label":"Google Health","lineid":291,"uuid":"446f1b53-f44a-4b80-8daf-6ab55b1a4518"}
+{"index":139,"sub_uri":"Q840820","obj_uri":"Q95","obj_label":"Google","sub_label":"Google Groups","lineid":148,"uuid":"719e8a55-ddaa-4073-b383-c91eebb31148"}
+{"index":305,"sub_uri":"Q135288","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Tienda de Microsoft","lineid":341,"uuid":"ca877244-6256-4898-ac5e-9d28751dcd22"}
+{"index":500,"sub_uri":"Q553702","obj_uri":"Q8093","obj_label":"Nintendo","sub_label":"Tetris DS","lineid":583,"uuid":"2654c1ae-9ec4-4a9a-8f54-4c290294c94f"}
+{"index":194,"sub_uri":"Q278624","obj_uri":"Q248","obj_label":"Intel","sub_label":"Sandy Bridge","lineid":209,"uuid":"c0bb748b-0d77-4056-9f02-0ef5f7e9af74"}
+{"index":468,"sub_uri":"Q360144","obj_uri":"Q11463","obj_label":"Adobe Inc.","sub_label":"Adobe Encore","lineid":541,"uuid":"7bb24c6f-f246-4d15-90ec-4fd99f66b3c8"}
+{"index":251,"sub_uri":"Q284140","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"espacio de color sRGB","lineid":275,"uuid":"b88bb77a-fb22-4e79-9f54-93bb4cdad86b"}
+{"index":340,"sub_uri":"Q14583","obj_uri":"Q312","obj_label":"Apple","sub_label":"XNU","lineid":384,"uuid":"71ffd796-62ea-4c70-a300-5fa4aace9388"}
+{"index":222,"sub_uri":"Q693478","obj_uri":"Q312","obj_label":"Apple","sub_label":"Mac OS X v10.4","lineid":242,"uuid":"05531d3e-a7b9-4c29-9b44-9346acc01b99"}
+{"index":171,"sub_uri":"Q864889","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"OneDrive","lineid":184,"uuid":"88ae3795-3456-4a4c-9236-049b30100a30"}
+{"index":259,"sub_uri":"Q40984","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Skype","lineid":284,"uuid":"faf916eb-1d27-47f1-a6b4-f0e46af4ccac"}
+{"index":433,"sub_uri":"Q864915","obj_uri":"Q248","obj_label":"Intel","sub_label":"Clang","lineid":497,"uuid":"96ac82f8-0d70-4b1f-8755-4584d62eb9dd"}
+{"index":439,"sub_uri":"Q2248863","obj_uri":"Q122741","obj_label":"Sega","sub_label":"Sonic Drift","lineid":503,"uuid":"11676ba9-5da4-4510-954b-e6698b95aa01"}
+{"index":48,"sub_uri":"Q275079","obj_uri":"Q41187","obj_label":"Sony","sub_label":"Minidisc","lineid":52,"uuid":"d3b9b04b-c258-48fb-a282-6d123b4bc252"}
+{"index":231,"sub_uri":"Q978185","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"TypeScript","lineid":252,"uuid":"e8b2e6ea-5181-4327-88f5-f8c81d6488d1"}
+{"index":371,"sub_uri":"Q5465225","obj_uri":"Q122741","obj_label":"Sega","sub_label":"Fonz","lineid":418,"uuid":"b052f6bd-48f6-4912-8ad4-a711912ed699"}
+{"index":232,"sub_uri":"Q83382","obj_uri":"Q248","obj_label":"Intel","sub_label":"Intel Pentium III","lineid":253,"uuid":"2d7c533b-46a9-416b-80e1-f9f597803c1c"}
+{"index":177,"sub_uri":"Q2257511","obj_uri":"Q312","obj_label":"Apple","sub_label":"Uniform Type Identifier","lineid":190,"uuid":"59818684-1281-4d01-a97a-c619b8acd3f1"}
+{"index":491,"sub_uri":"Q3067167","obj_uri":"Q122741","obj_label":"Sega","sub_label":"Fatal Labyrinth","lineid":572,"uuid":"31230bd6-8af7-42ba-9bc9-c137d0574157"}
+{"index":418,"sub_uri":"Q1932245","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Robocopy","lineid":478,"uuid":"731c4742-c584-4a46-9b4e-4436a6984096"}
+{"index":287,"sub_uri":"Q476915","obj_uri":"Q312","obj_label":"Apple","sub_label":"Mac OS X v10.7","lineid":322,"uuid":"b068ed7c-1252-44a7-8fac-1e26c7b02629"}
+{"index":380,"sub_uri":"Q864915","obj_uri":"Q312","obj_label":"Apple","sub_label":"Clang","lineid":429,"uuid":"61558b7c-4e24-42c8-b5f5-1184b2f70da5"}
+{"index":235,"sub_uri":"Q360424","obj_uri":"Q11463","obj_label":"Adobe Inc.","sub_label":"Adobe Premiere Pro","lineid":256,"uuid":"16b084f5-e8ae-4dd6-887d-04f3a8412b15"}
+{"index":252,"sub_uri":"Q215819","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft SQL Server","lineid":277,"uuid":"74370fac-ca77-4e0b-9d16-e387ec184cfc"}
+{"index":26,"sub_uri":"Q203597","obj_uri":"Q8093","obj_label":"Nintendo","sub_label":"Nintendo 3DS","lineid":28,"uuid":"f78bb5b2-dbdf-4a52-9003-4b1d6bb1dcaa"}
+{"index":327,"sub_uri":"Q748417","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Windows Virtual PC","lineid":369,"uuid":"c866ba40-1768-4432-ac4a-143f1f036bdb"}
+{"index":321,"sub_uri":"Q223381","obj_uri":"Q739552","obj_label":"Square","sub_label":"Final Fantasy X","lineid":361,"uuid":"1ae2d51b-fdc4-466b-9546-02fc5ce01f05"}
+{"index":401,"sub_uri":"Q904533","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft Dynamics NAV","lineid":453,"uuid":"44b008a0-049c-4229-be8f-d68cbbaf37b1"}
+{"index":260,"sub_uri":"Q1537677","obj_uri":"Q95","obj_label":"Google","sub_label":"Google Guice","lineid":285,"uuid":"f1e4943e-b0b6-4a6f-aa68-fd27d91e6a60"}
+{"index":374,"sub_uri":"Q196305","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Explorador de Windows","lineid":422,"uuid":"4a3b0db1-7d01-4758-ae67-3307196795cd"}
+{"index":486,"sub_uri":"Q632851","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft Internet Security and Acceleration Server","lineid":565,"uuid":"4aca6a36-8e4d-4bd1-99a9-82117149fd61"}
+{"index":335,"sub_uri":"Q863568","obj_uri":"Q37156","obj_label":"IBM","sub_label":"IBM PC DOS","lineid":377,"uuid":"be26b03b-89d0-4462-bfbb-2eaf80fba6d4"}
+{"index":255,"sub_uri":"Q284115","obj_uri":"Q312","obj_label":"Apple","sub_label":"IBooks","lineid":280,"uuid":"69c99707-95ed-471c-a616-65f03d6fa478"}

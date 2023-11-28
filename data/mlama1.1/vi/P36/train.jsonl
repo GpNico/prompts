@@ -1,0 +1,407 @@
+{"index":401,"sub_uri":"Q2396442","obj_uri":"Q36036","obj_label":"Lviv","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Galicia v\u00e0 Lodomeria","lineid":554,"uuid":"2acd9043-8097-4c31-ba0f-548f0debfab8"}
+{"index":13,"sub_uri":"Q230791","obj_uri":"Q23436","obj_label":"Edinburgh","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Scotland","lineid":17,"uuid":"c648e8a9-e84c-4a5d-abc1-9ba3bf122762"}
+{"index":345,"sub_uri":"Q485592","obj_uri":"Q763080","obj_label":"Greenville, Ohio","sub_label":"Qu\u1eadn Darke","lineid":474,"uuid":"33b49eb5-d4e3-43bf-a505-5d31c84e3645"}
+{"index":404,"sub_uri":"Q170468","obj_uri":"Q85","obj_label":"Cairo","sub_label":"C\u1ed9ng h\u00f2a \u1ea2 R\u1eadp Th\u1ed1ng nh\u1ea5t","lineid":558,"uuid":"019e693a-7dd4-420d-9e33-63eacf8d2432"}
+{"index":339,"sub_uri":"Q494146","obj_uri":"Q1184769","obj_label":"Indiana","sub_label":"Qu\u1eadn Indiana","lineid":465,"uuid":"46a8ba6f-caed-4ff1-8278-cf99f7abdfc9"}
+{"index":461,"sub_uri":"Q41304","obj_uri":"Q64","obj_label":"Berlin","sub_label":"C\u1ed9ng h\u00f2a Weimar","lineid":635,"uuid":"d7e9d75c-0637-4d1f-8c4b-01ee4428907c"}
+{"index":470,"sub_uri":"Q61468","obj_uri":"Q79853","obj_label":"Conway","sub_label":"Qu\u1eadn Faulkner","lineid":648,"uuid":"7f78ab18-a578-4506-b001-ebc995d496ab"}
+{"index":476,"sub_uri":"Q1371","obj_uri":"Q44564","obj_label":"Charleston, T\u00e2y Virginia","sub_label":"T\u00e2y Virginia","lineid":656,"uuid":"22d6b190-31d3-44ec-801b-8191cb2c98f1"}
+{"index":248,"sub_uri":"Q83572","obj_uri":"Q11739","obj_label":"Lahore","sub_label":"\u0110\u1ebf qu\u1ed1c Sikh","lineid":347,"uuid":"10b791d2-567a-4894-ac7f-f12b74fef167"}
+{"index":501,"sub_uri":"Q298","obj_uri":"Q2887","obj_label":"Santiago de Chile","sub_label":"Chile","lineid":693,"uuid":"ee10fdc1-8a9a-43c0-b271-4867251f0243"}
+{"index":129,"sub_uri":"Q796","obj_uri":"Q1530","obj_label":"Bagdad","sub_label":"Iraq","lineid":181,"uuid":"6174d316-33a4-4851-9101-e0ba00d4e88a"}
+{"index":57,"sub_uri":"Q12560","obj_uri":"Q406","obj_label":"Istanbul","sub_label":"\u0110\u1ebf qu\u1ed1c Ottoman","lineid":82,"uuid":"7aa410cc-2f21-4a57-b39a-329968d07a82"}
+{"index":385,"sub_uri":"Q17765809","obj_uri":"Q1524","obj_label":"Athena","sub_label":"\u0110\u1ec7 Tam C\u1ed9ng h\u00f2a Hy L\u1ea1p","lineid":533,"uuid":"088ba44b-5528-4e5d-bc14-1a5f51a3ed5b"}
+{"index":445,"sub_uri":"Q133132","obj_uri":"Q90","obj_label":"Paris","sub_label":"C\u00f4ng x\u00e3 Paris","lineid":618,"uuid":"1d3ab203-e368-4e64-a0fa-3875ece8b221"}
+{"index":342,"sub_uri":"Q133356","obj_uri":"Q1899","obj_label":"Kiev","sub_label":"C\u1ed9ng h\u00f2a X\u00e3 h\u1ed9i ch\u1ee7 ngh\u0129a X\u00f4 vi\u1ebft Ukraina","lineid":469,"uuid":"7ccffda9-c105-488a-8f1d-ce1e6c13c9fe"}
+{"index":156,"sub_uri":"Q69808","obj_uri":"Q90","obj_label":"Paris","sub_label":"Ch\u00ednh ph\u1ee7 Vichy","lineid":213,"uuid":"6049dc6b-889e-462b-b3e0-8ee544837654"}
+{"index":252,"sub_uri":"Q173822","obj_uri":"Q140147","obj_label":"Brest","sub_label":"Khu v\u1ef1c Brest","lineid":356,"uuid":"f6b85e8b-8839-41b7-9bbb-24bf234c9b81"}
+{"index":114,"sub_uri":"Q109820","obj_uri":"Q35775","obj_label":"Boise","sub_label":"Qu\u1eadn Ada","lineid":159,"uuid":"a5bd7ef1-7a94-4392-bc61-32a89e84472e"}
+{"index":272,"sub_uri":"Q450374","obj_uri":"Q6106","obj_label":"Portland, Oregon","sub_label":"Qu\u1eadn Multnomah","lineid":383,"uuid":"601a6ca2-7b9c-472a-ae9e-64e33f54847d"}
+{"index":89,"sub_uri":"Q63729","obj_uri":"Q989873","obj_label":"Craig","sub_label":"Qu\u1eadn Moffat","lineid":128,"uuid":"366c3e6b-d5a4-4130-be86-720c34b90121"}
+{"index":49,"sub_uri":"Q34366","obj_uri":"Q40191","obj_label":"Hobart","sub_label":"Tasmania","lineid":71,"uuid":"f96afb16-1b86-439b-b073-72d7fe9eb84e"}
+{"index":183,"sub_uri":"Q184594","obj_uri":"Q183551","obj_label":"Waterford","sub_label":"H\u1ea1t Waterford","lineid":256,"uuid":"04247653-565e-41f6-8621-ec7455ee2ab6"}
+{"index":148,"sub_uri":"Q794","obj_uri":"Q3616","obj_label":"Tehran","sub_label":"Iran","lineid":204,"uuid":"e5af3a9b-a52b-499e-a356-b207ccd98aea"}
+{"index":104,"sub_uri":"Q153136","obj_uri":"Q1741","obj_label":"Vi\u00ean","sub_label":"Qu\u00e2n ch\u1ee7 Habsburg","lineid":147,"uuid":"5b8dfaaf-2dd4-46dd-90fb-367b28501197"}
+{"index":4,"sub_uri":"Q18677983","obj_uri":"Q6602","obj_label":"Strasbourg","sub_label":"Grand Est","lineid":6,"uuid":"2df52b5c-d16d-4517-9df2-913fee016efa"}
+{"index":150,"sub_uri":"Q215443","obj_uri":"Q1754","obj_label":"Stockholm","sub_label":"\u0110\u1ebf qu\u1ed1c Th\u1ee5y \u0110i\u1ec3n","lineid":206,"uuid":"cdd86d57-43aa-47cc-8c0f-0c00ff7a4188"}
+{"index":179,"sub_uri":"Q183498","obj_uri":"Q1780","obj_label":"Bratislava","sub_label":"Bratislava","lineid":252,"uuid":"5e209d53-0dcb-4263-aee9-4a04be8dc465"}
+{"index":412,"sub_uri":"Q485646","obj_uri":"Q685335","obj_label":"Portsmouth, Ohio","sub_label":"Qu\u1eadn Scioto","lineid":568,"uuid":"131166b0-6169-4e1e-a243-c26f1bce4e92"}
+{"index":194,"sub_uri":"Q173","obj_uri":"Q29364","obj_label":"Montgomery, Alabama","sub_label":"Alabama","lineid":271,"uuid":"a88e4c73-6179-42c1-9499-d2bafa2be415"}
+{"index":200,"sub_uri":"Q1537","obj_uri":"Q43788","obj_label":"Madison","sub_label":"Wisconsin","lineid":279,"uuid":"f2c40fc5-0a80-4c56-b501-fc3dacd98cfa"}
+{"index":123,"sub_uri":"Q2315527","obj_uri":"Q11739","obj_label":"Lahore","sub_label":"Lahore","lineid":173,"uuid":"0fa986bb-5c1c-415a-b130-210a1fa2df6d"}
+{"index":95,"sub_uri":"Q1207","obj_uri":"Q37066","obj_label":"Bismarck, B\u1eafc Dakota","sub_label":"B\u1eafc Dakota","lineid":136,"uuid":"0e354418-d078-4ad4-aee7-fd7f6cc0831b"}
+{"index":507,"sub_uri":"Q54169","obj_uri":"Q270","obj_label":"Warszawa","sub_label":"Mazowieckie","lineid":701,"uuid":"3944148c-ecd9-46d5-86c6-3c06da483566"}
+{"index":453,"sub_uri":"Q129286","obj_uri":"Q1348","obj_label":"Kolkata","sub_label":"\u1ea4n \u0110\u1ed9 thu\u1ed9c Anh","lineid":627,"uuid":"6d39f9db-9bf0-4b0f-9652-6af29553480e"}
+{"index":285,"sub_uri":"Q131337","obj_uri":"Q9248","obj_label":"Baku","sub_label":"C\u1ed9ng h\u00f2a X\u00e3 h\u1ed9i ch\u1ee7 ngh\u0129a X\u00f4 vi\u1ebft Azerbaijan","lineid":398,"uuid":"ca74b6b9-6a01-46e8-ae8b-4dabf8a1528c"}
+{"index":436,"sub_uri":"Q856010","obj_uri":"Q23661","obj_label":"Wellington","sub_label":"Khu v\u1ef1c Wellington","lineid":603,"uuid":"7abc24e9-48ef-4aaa-a548-85f623ba4796"}
+{"index":119,"sub_uri":"Q30805","obj_uri":"Q85","obj_label":"Cairo","sub_label":"Cairo","lineid":167,"uuid":"2d081b94-ced9-4300-9528-2ac0fea8b9f3"}
+{"index":368,"sub_uri":"Q95088","obj_uri":"Q8717","obj_label":"Sevilla","sub_label":"Sevilla","lineid":509,"uuid":"536c1d40-b618-46fc-b6d7-f8b6537f6e4c"}
+{"index":473,"sub_uri":"Q39193","obj_uri":"Q1085","obj_label":"Praha","sub_label":"\u010cechy","lineid":652,"uuid":"1948098d-a4e5-4abf-ba03-373467034c18"}
+{"index":278,"sub_uri":"Q2006542","obj_uri":"Q8660","obj_label":"Karachi","sub_label":"Dominion c\u1ee7a Pakistan","lineid":390,"uuid":"a1b3e563-be09-433b-b3b7-b9a9fd5e3561"}
+{"index":134,"sub_uri":"Q497777","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"\u0110\u1ec7 nh\u1ea5t C\u1ed9ng h\u00f2a T\u00e2y Ban Nha","lineid":188,"uuid":"c8bfe4f1-0e31-47f9-bd0d-da079912a4a7"}
+{"index":121,"sub_uri":"Q1282","obj_uri":"Q220","obj_label":"Roma","sub_label":"Lazio","lineid":170,"uuid":"8de821d7-f4f0-47c8-81de-ee10ce951dad"}
+{"index":3,"sub_uri":"Q26895","obj_uri":"Q961272","obj_label":"Richmond, Texas","sub_label":"Qu\u1eadn Fort Bend","lineid":3,"uuid":"9e0027e7-1efc-4d79-a8c0-1a3ed0e8a00a"}
+{"index":128,"sub_uri":"Q16172","obj_uri":"Q2044","obj_label":"Firenze","sub_label":"Firenze","lineid":179,"uuid":"2d9b65f5-4b87-4760-ab5d-60e8cd98e925"}
+{"index":360,"sub_uri":"Q224","obj_uri":"Q1435","obj_label":"Zagreb","sub_label":"Croatia","lineid":492,"uuid":"7efebaf2-ed4c-480c-8637-cf7259965a63"}
+{"index":421,"sub_uri":"Q1179","obj_uri":"Q1479","obj_label":"Bordeaux","sub_label":"Aquitaine","lineid":581,"uuid":"5a1fbede-b30f-4702-8f2c-dcca936bc67e"}
+{"index":313,"sub_uri":"Q3108185","obj_uri":"Q1530","obj_label":"Bagdad","sub_label":"Iraq d\u01b0\u1edbi th\u1eddi Ba'athist","lineid":432,"uuid":"e6136477-32b3-4abf-9fc9-1d44fe32dc06"}
+{"index":63,"sub_uri":"Q159","obj_uri":"Q649","obj_label":"Moskva","sub_label":"Nga","lineid":95,"uuid":"062b1ddf-9fa6-4925-8701-f3e6b1c89123"}
+{"index":451,"sub_uri":"Q458","obj_uri":"Q239","obj_label":"Th\u00e0nh ph\u1ed1 Bruxelles","sub_label":"Li\u00ean minh ch\u00e2u \u00c2u","lineid":625,"uuid":"c1ccc1c9-17ca-46a8-b523-1ff87e891c17"}
+{"index":64,"sub_uri":"Q1243","obj_uri":"Q641","obj_label":"Venezia","sub_label":"Veneto","lineid":97,"uuid":"5ce977ac-2db2-4555-8a1f-b16a9419d4b1"}
+{"index":320,"sub_uri":"Q214","obj_uri":"Q1780","obj_label":"Bratislava","sub_label":"Slovakia","lineid":440,"uuid":"60dbf7e2-05cd-4c6d-a5db-9ac2de20840d"}
+{"index":45,"sub_uri":"Q15864","obj_uri":"Q727","obj_label":"Amsterdam","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Li\u00ean hi\u1ec7p H\u00e0 Lan","lineid":66,"uuid":"ebdfb03a-8017-43af-bba3-50dd9cdca3b3"}
+{"index":318,"sub_uri":"Q40","obj_uri":"Q1741","obj_label":"Vi\u00ean","sub_label":"\u00c1o","lineid":438,"uuid":"a36c2ac2-4f20-461c-bc99-ec75ebaead4c"}
+{"index":303,"sub_uri":"Q80370","obj_uri":"Q159835","obj_label":"Batman","sub_label":"Batman","lineid":419,"uuid":"2a03109a-6f43-4ed5-9813-3d05c64b421c"}
+{"index":363,"sub_uri":"Q624887","obj_uri":"Q5684","obj_label":"Babylon","sub_label":"\u0110\u1ebf qu\u1ed1c T\u00e2n Babylon","lineid":497,"uuid":"43736130-8967-48a6-a2a2-7130aaf4c82d"}
+{"index":418,"sub_uri":"Q31","obj_uri":"Q239","obj_label":"Th\u00e0nh ph\u1ed1 Bruxelles","sub_label":"B\u1ec9","lineid":576,"uuid":"d5672fe4-0f47-4e56-8928-388e24a5f405"}
+{"index":167,"sub_uri":"Q491927","obj_uri":"Q984364","obj_label":"Murray","sub_label":"Qu\u1eadn Calloway","lineid":225,"uuid":"4b7389d6-4be1-4d05-833a-930a12ea9230"}
+{"index":42,"sub_uri":"Q157367","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Brandenburg-Ph\u1ed5","lineid":60,"uuid":"205b82c6-1d90-40c0-a07d-732024a7482a"}
+{"index":309,"sub_uri":"Q1211","obj_uri":"Q40747","obj_label":"Pierre","sub_label":"Nam Dakota","lineid":426,"uuid":"4fb1a53b-a896-4582-9d9a-aeb909ad4d5e"}
+{"index":308,"sub_uri":"Q50625","obj_uri":"Q26793","obj_label":"Bergen","sub_label":"Hordaland","lineid":425,"uuid":"613cb597-803f-42dc-a928-fedb1f025006"}
+{"index":244,"sub_uri":"Q16578","obj_uri":"Q862508","obj_label":"Trinidad","sub_label":"Flores","lineid":340,"uuid":"a71c6466-49f8-4226-9487-4d718b3e47af"}
+{"index":246,"sub_uri":"Q221457","obj_uri":"Q270","obj_label":"Warszawa","sub_label":"V\u01b0\u01a1ng qu\u1ed1c L\u1eadp hi\u1ebfn Ba Lan","lineid":344,"uuid":"5417be18-f634-48a7-bb7e-4d1148721c8c"}
+{"index":140,"sub_uri":"Q3206","obj_uri":"Q3183","obj_label":"Perth","sub_label":"T\u00e2y \u00dac","lineid":196,"uuid":"b1321783-f435-40b6-8b99-9ba1a292e8e3"}
+{"index":76,"sub_uri":"Q491954","obj_uri":"Q758545","obj_label":"Auburn, Maine","sub_label":"Qu\u1eadn Androscoggin","lineid":110,"uuid":"3def56b3-7420-4e08-acf7-49e75c26c17c"}
+{"index":227,"sub_uri":"Q127513","obj_uri":"Q38283","obj_label":"Yokohama","sub_label":"Kanagawa","lineid":317,"uuid":"662d9ed5-ff4e-4360-8cd4-1ee627089db9"}
+{"index":224,"sub_uri":"Q31454","obj_uri":"Q3579","obj_label":"Tripoli","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Libya","lineid":313,"uuid":"b6e68511-a9d5-45fc-aa47-781ab3a4221e"}
+{"index":196,"sub_uri":"Q23090","obj_uri":"Q180057","obj_label":"Lincoln","sub_label":"Lincolnshire","lineid":273,"uuid":"2a86c673-1d59-4bd0-8e6f-063fe0912275"}
+{"index":481,"sub_uri":"Q1919098","obj_uri":"Q6811747","obj_label":"Trung t\u00e2m Th\u00e0nh ph\u1ed1 Melbourne","sub_label":"Th\u00e0nh ph\u1ed1 Melbourne","lineid":663,"uuid":"4a4a84f7-9700-4949-9c68-691422ae7d9b"}
+{"index":155,"sub_uri":"Q956732","obj_uri":"Q47264","obj_label":"Hassan","sub_label":"Hassan","lineid":212,"uuid":"ed5ce210-f957-41f7-842f-705217e3e039"}
+{"index":131,"sub_uri":"Q495414","obj_uri":"Q3458928","obj_label":"Vale","sub_label":"Qu\u1eadn Malheur","lineid":183,"uuid":"60f45979-425f-428e-beb4-5bca3c935b1f"}
+{"index":488,"sub_uri":"Q37","obj_uri":"Q216","obj_label":"Vilnius","sub_label":"Litva","lineid":671,"uuid":"70ab1e7b-d90d-4778-be18-cccf7f412c42"}
+{"index":46,"sub_uri":"Q15180","obj_uri":"Q649","obj_label":"Moskva","sub_label":"Li\u00ean X\u00f4","lineid":68,"uuid":"d6fafc6b-6cb0-4542-bf60-48d5d8343814"}
+{"index":371,"sub_uri":"Q478222","obj_uri":"Q7903","obj_label":"Casablanca","sub_label":"Grand Casablanca","lineid":513,"uuid":"3a28217a-38d2-4db5-8585-deb0e5465f94"}
+{"index":215,"sub_uri":"Q153128","obj_uri":"Q1435","obj_label":"Zagreb","sub_label":"Nh\u00e0 n\u01b0\u1edbc \u0110\u1ed9c l\u1eadp Croatia","lineid":303,"uuid":"08572ab1-504d-47d0-859b-abbfb8ec78b0"}
+{"index":447,"sub_uri":"Q213","obj_uri":"Q1085","obj_label":"Praha","sub_label":"C\u1ed9ng h\u00f2a S\u00e9c","lineid":621,"uuid":"3bf53e54-010f-436b-bde8-06f74f771236"}
+{"index":44,"sub_uri":"Q205662","obj_uri":"Q215646","obj_label":"Edo","sub_label":"M\u1ea1c ph\u1ee7 Tokugawa","lineid":64,"uuid":"a931aed4-7829-44d7-b3e7-4ddebacd7e99"}
+{"index":410,"sub_uri":"Q109804","obj_uri":"Q981218","obj_label":"Hereford","sub_label":"Qu\u1eadn Deaf Smith","lineid":566,"uuid":"d2ddefc4-1f3e-49e7-ba5d-2dea52d473d0"}
+{"index":68,"sub_uri":"Q1400","obj_uri":"Q25280","obj_label":"Harrisburg","sub_label":"Pennsylvania","lineid":102,"uuid":"69cf5dd6-73a8-4a99-94a8-6dd55fc88778"}
+{"index":325,"sub_uri":"Q27038","obj_uri":"Q1435","obj_label":"Zagreb","sub_label":"Zagreb","lineid":446,"uuid":"8c5c69d1-68e2-4011-a428-160a52b9359c"}
+{"index":312,"sub_uri":"Q771","obj_uri":"Q100","obj_label":"Boston","sub_label":"Massachusetts","lineid":429,"uuid":"f511d642-e060-4187-8428-e166afcae8c6"}
+{"index":145,"sub_uri":"Q1948","obj_uri":"Q2135","obj_label":"Winnipeg","sub_label":"Manitoba","lineid":201,"uuid":"d30dab7d-a4bc-4a48-a71c-85ab68a8cb00"}
+{"index":351,"sub_uri":"Q20","obj_uri":"Q585","obj_label":"Oslo","sub_label":"Na Uy","lineid":481,"uuid":"cc1967a4-7f88-4ab4-8647-359a7ab19d4b"}
+{"index":343,"sub_uri":"Q12544","obj_uri":"Q16869","obj_label":"Constantinopolis","sub_label":"\u0110\u1ebf qu\u1ed1c \u0110\u00f4ng La M\u00e3","lineid":470,"uuid":"71f43685-0886-4a99-a808-dd8cd2d893e0"}
+{"index":139,"sub_uri":"Q191","obj_uri":"Q1770","obj_label":"Tallinn","sub_label":"Estonia","lineid":195,"uuid":"5d31145e-f946-42d6-be48-8d15b1507324"}
+{"index":124,"sub_uri":"Q12172","obj_uri":"Q78","obj_label":"Basel","sub_label":"Basel-Stadt","lineid":175,"uuid":"f427bae8-6648-477a-be83-84d69c4aa52c"}
+{"index":505,"sub_uri":"Q54939","obj_uri":"Q8818","obj_label":"Valencia","sub_label":"Valencia","lineid":699,"uuid":"96cc5442-8a1b-4a56-9bde-fc0b973553b0"}
+{"index":52,"sub_uri":"Q160307","obj_uri":"Q85","obj_label":"Cairo","sub_label":"Nh\u00e0 Fatima","lineid":74,"uuid":"9cae43a0-a4ce-4d0d-bde0-597ce4e675f9"}
+{"index":187,"sub_uri":"Q191186","obj_uri":"Q54880","obj_label":"Valencia, Venezuela","sub_label":"Carabobo","lineid":261,"uuid":"69145308-5618-46c1-8387-938c5d32cc5c"}
+{"index":137,"sub_uri":"Q1121436","obj_uri":"Q340","obj_label":"Montr\u00e9al","sub_label":"T\u1ec9nh Canada","lineid":193,"uuid":"601b1ee4-b32d-4a37-a344-8b4e2fc1c311"}
+{"index":142,"sub_uri":"Q3224","obj_uri":"Q3130","obj_label":"Sydney","sub_label":"New South Wales","lineid":198,"uuid":"7952d9a0-d4a4-423d-bd3a-3240dac62e3a"}
+{"index":207,"sub_uri":"Q13751","obj_uri":"Q277211","obj_label":"Naval","sub_label":"Biliran","lineid":291,"uuid":"d21f6268-d89b-4512-a41c-ad5f75696a04"}
+{"index":455,"sub_uri":"Q284840","obj_uri":"Q499927","obj_label":"Moscow","sub_label":"Qu\u1eadn Latah","lineid":629,"uuid":"3616a83c-0f79-4d4a-b4ca-2cd56fe99973"}
+{"index":419,"sub_uri":"Q201073","obj_uri":"Q19689","obj_label":"Tirana","sub_label":"Tirana","lineid":577,"uuid":"3bbad837-029e-4c0f-971a-45e45581ecba"}
+{"index":299,"sub_uri":"Q16287","obj_uri":"Q495","obj_label":"Torino","sub_label":"Torino","lineid":414,"uuid":"884b9b99-0bfc-4b8e-a0cc-2c90411611f7"}
+{"index":352,"sub_uri":"Q1200","obj_uri":"Q1720","obj_label":"Mainz","sub_label":"Rheinland-Pfalz","lineid":482,"uuid":"5ed9a796-4f9c-473a-ba47-23e250e01b4a"}
+{"index":355,"sub_uri":"Q10557","obj_uri":"Q2749","obj_label":"Augsburg","sub_label":"Schwaben","lineid":486,"uuid":"a62cd60e-2a69-4500-af65-09e0c4e7f3e1"}
+{"index":437,"sub_uri":"Q1397","obj_uri":"Q16567","obj_label":"Columbus","sub_label":"Ohio","lineid":606,"uuid":"95cff64c-bd04-4b8f-b9b4-c47ee2693c82"}
+{"index":22,"sub_uri":"Q139670","obj_uri":"Q1953","obj_label":"Yerevan","sub_label":"\u0110\u1ec7 nh\u1ea5t C\u1ed9ng h\u00f2a Armenia","lineid":31,"uuid":"d9fd3835-c870-4ed3-a45e-d410a09562fd"}
+{"index":67,"sub_uri":"Q188586","obj_uri":"Q2656","obj_label":"Palermo","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Sicilia","lineid":101,"uuid":"795d4f36-286a-478c-bf78-0b3a7bad7866"}
+{"index":125,"sub_uri":"Q99","obj_uri":"Q18013","obj_label":"Sacramento","sub_label":"California","lineid":176,"uuid":"9a110dfc-6a1e-4a37-adf9-60ee8a413ae4"}
+{"index":98,"sub_uri":"Q1191","obj_uri":"Q1156","obj_label":"Mumbai","sub_label":"Maharashtra","lineid":139,"uuid":"90e41233-fba9-4c03-a293-e82ec79b42ea"}
+{"index":17,"sub_uri":"Q70972","obj_uri":"Q90","obj_label":"Paris","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Ph\u00e1p","lineid":24,"uuid":"f1a67e10-9770-4621-95ed-68ab0e921f4e"}
+{"index":144,"sub_uri":"Q717","obj_uri":"Q1533","obj_label":"Caracas","sub_label":"Venezuela","lineid":200,"uuid":"82a06336-ddf8-4a45-a30d-45e2201e84b7"}
+{"index":160,"sub_uri":"Q188061","obj_uri":"Q216","obj_label":"Vilnius","sub_label":"H\u1ea1t Vilnius","lineid":218,"uuid":"6ffe6c35-7594-4613-8d01-6a4bbd205fc6"}
+{"index":434,"sub_uri":"Q218272","obj_uri":"Q3561","obj_label":"Algiers","sub_label":"Alg\u00e9rie thu\u1ed9c Ph\u00e1p","lineid":598,"uuid":"cdf391dd-0a27-414f-8332-0a7e7d4ed59d"}
+{"index":268,"sub_uri":"Q490215","obj_uri":"Q2005266","obj_label":"Macon, Mississippi","sub_label":"Qu\u1eadn Noxubee","lineid":378,"uuid":"3b1551f7-d90c-4729-a4b1-3e6035d4678b"}
+{"index":10,"sub_uri":"Q62633","obj_uri":"Q1757","obj_label":"Helsinki","sub_label":"\u0110\u1ea1i C\u00f4ng qu\u1ed1c Ph\u1ea7n Lan","lineid":13,"uuid":"af4d8d27-eee5-47a2-9fff-055e3cb98298"}
+{"index":102,"sub_uri":"Q188933","obj_uri":"Q5838","obj_label":"Kabul","sub_label":"T\u1ec9nh Kabul","lineid":143,"uuid":"ec6a43f2-3ea0-4bf4-9f6b-9853e3aee700"}
+{"index":169,"sub_uri":"Q27","obj_uri":"Q1761","obj_label":"Dublin","sub_label":"C\u1ed9ng h\u00f2a Ireland","lineid":229,"uuid":"3ff99e65-058c-494f-b452-d0af6f901017"}
+{"index":400,"sub_uri":"Q177819","obj_uri":"Q5715","obj_label":"Memphis","sub_label":"C\u1ed5 V\u01b0\u01a1ng qu\u1ed1c Ai C\u1eadp","lineid":553,"uuid":"5febc620-38bb-429f-8bcd-ebba49711070"}
+{"index":495,"sub_uri":"Q15175","obj_uri":"Q16572","obj_label":"Qu\u1ea3ng Ch\u00e2u","sub_label":"Qu\u1ea3ng \u0110\u00f4ng","lineid":686,"uuid":"3ec7b5da-852f-4b33-8bb3-c30c4660a3c3"}
+{"index":490,"sub_uri":"Q28513","obj_uri":"Q1781","obj_label":"Budapest","sub_label":"\u0110\u1ebf qu\u1ed1c \u00c1o-Hung","lineid":680,"uuid":"9c8149a0-6ed4-4e8e-83a7-e5d171d03743"}
+{"index":20,"sub_uri":"Q61138","obj_uri":"Q79446","obj_label":"Camden","sub_label":"Qu\u1eadn Ouachita","lineid":29,"uuid":"88cb7951-a602-4add-89ad-55ea4d0ed62e"}
+{"index":365,"sub_uri":"Q105313","obj_uri":"Q172157","obj_label":"Winchester","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Wessex","lineid":506,"uuid":"8a63f77a-5be6-444e-a7ea-9f2610a608f3"}
+{"index":40,"sub_uri":"Q494129","obj_uri":"Q241808","obj_label":"Huntington, T\u00e2y Virginia","sub_label":"Qu\u1eadn Cabell, T\u00e2y Virginia","lineid":58,"uuid":"87bc68ce-8e97-4110-9af9-9c4eaee3e891"}
+{"index":307,"sub_uri":"Q489481","obj_uri":"Q44989","obj_label":"Tulsa","sub_label":"Qu\u1eadn Tulsa","lineid":423,"uuid":"3388db9c-4893-4eda-8b64-4718c52dd4ab"}
+{"index":250,"sub_uri":"Q212429","obj_uri":"Q90","obj_label":"Paris","sub_label":"L\u00e3nh th\u1ed5 ch\u00ednh qu\u1ed1c Ph\u00e1p","lineid":350,"uuid":"0ce95e8d-c54a-4b57-a8d0-430e22720918"}
+{"index":82,"sub_uri":"Q334714","obj_uri":"Q1524","obj_label":"Athena","sub_label":"C\u00f4ng qu\u1ed1c Athens","lineid":118,"uuid":"b9c1e9fe-ebb9-42db-97a6-6222dc767c38"}
+{"index":406,"sub_uri":"Q12526","obj_uri":"Q1479","obj_label":"Bordeaux","sub_label":"Gironde","lineid":561,"uuid":"73825783-d45d-4f2a-9178-1a04cb610f2d"}
+{"index":464,"sub_uri":"Q32081","obj_uri":"Q1867","obj_label":"\u0110\u00e0i B\u1eafc","sub_label":"T\u1ec9nh \u0110\u00e0i Loan","lineid":639,"uuid":"d8f7723b-ea50-48eb-8fc0-bac2928f2ca9"}
+{"index":356,"sub_uri":"Q696251","obj_uri":"Q1490","obj_label":"Tokyo","sub_label":"Chi\u1ebfm \u0111\u00f3ng Nh\u1eadt B\u1ea3n","lineid":488,"uuid":"658b6e7f-d867-4959-a145-a9c848b9061c"}
+{"index":56,"sub_uri":"Q408","obj_uri":"Q3114","obj_label":"Canberra","sub_label":"\u00dac","lineid":79,"uuid":"63a3fe8d-5191-49af-a5c1-a91343baf2e6"}
+{"index":238,"sub_uri":"Q1774848","obj_uri":"Q692560","obj_label":"Mao","sub_label":"Valverde","lineid":332,"uuid":"5c3f3ff1-7078-4ddf-93bb-a93352123c11"}
+{"index":459,"sub_uri":"Q302778","obj_uri":"Q1085","obj_label":"Praha","sub_label":"Praha T\u00e2y","lineid":633,"uuid":"7f30c92c-389a-4bdb-9357-37062aaabded"}
+{"index":469,"sub_uri":"Q167360","obj_uri":"Q597","obj_label":"Lisboa","sub_label":"\u0110\u1ec7 Nh\u1ea5t C\u1ed9ng h\u00f2a B\u1ed3 \u0110\u00e0o Nha","lineid":646,"uuid":"29082c5d-d64c-4d29-bcba-a6e5299b69bb"}
+{"index":208,"sub_uri":"Q2088496","obj_uri":"Q1348","obj_label":"Kolkata","sub_label":"Kolkata","lineid":292,"uuid":"4e867e2c-1647-48c3-b76e-5c7532d3864a"}
+{"index":370,"sub_uri":"Q2277","obj_uri":"Q220","obj_label":"Roma","sub_label":"\u0110\u1ebf qu\u1ed1c La M\u00e3","lineid":512,"uuid":"3f21d7e7-c437-450b-bf74-5836afb3e9eb"}
+{"index":198,"sub_uri":"Q80702","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"\u0110\u1ebf qu\u1ed1c T\u00e2y Ban Nha","lineid":275,"uuid":"56396538-2b56-4643-9880-4b09393639bf"}
+{"index":503,"sub_uri":"Q8828","obj_uri":"Q8826","obj_label":"Palma de Mallorca","sub_label":"Majorca","lineid":696,"uuid":"82a46e59-ec25-490e-814e-ac92d09ad701"}
+{"index":175,"sub_uri":"Q419","obj_uri":"Q2868","obj_label":"Lima","sub_label":"Peru","lineid":247,"uuid":"162f5598-2d57-4c15-bff8-46c537417fed"}
+{"index":439,"sub_uri":"Q766","obj_uri":"Q34692","obj_label":"Kingston","sub_label":"Jamaica","lineid":608,"uuid":"34697f51-47de-4b5f-b92b-849972a5ae6e"}
+{"index":218,"sub_uri":"Q38","obj_uri":"Q220","obj_label":"Roma","sub_label":"\u00dd","lineid":306,"uuid":"11a1b37e-dab9-4913-8ecb-c116b0af0e09"}
+{"index":78,"sub_uri":"Q23106","obj_uri":"Q83065","obj_label":"Leicester","sub_label":"Leicestershire","lineid":114,"uuid":"c493ccf5-9020-4537-8986-94e5bb2acba6"}
+{"index":84,"sub_uri":"Q483982","obj_uri":"Q39042","obj_label":"Cheyenne","sub_label":"Qu\u1eadn Laramie","lineid":120,"uuid":"2509ab98-ec43-4d6c-bbec-22eb9660ea0c"}
+{"index":500,"sub_uri":"Q501074","obj_uri":"Q79247","obj_label":"Linden","sub_label":"Qu\u1eadn Marengo","lineid":692,"uuid":"d02824d2-a8d3-4eaa-9f4c-2dc813de63e2"}
+{"index":336,"sub_uri":"Q16277","obj_uri":"Q13670","obj_label":"Siracusa","sub_label":"Siracusa","lineid":462,"uuid":"3c5c4ae8-f372-4576-ab31-f912cb4e114b"}
+{"index":69,"sub_uri":"Q170174","obj_uri":"Q220","obj_label":"Roma","sub_label":"L\u00e3nh \u0111\u1ecba Gi\u00e1o ho\u00e0ng","lineid":103,"uuid":"d48a0f41-a73f-4abc-911f-60074fbc00ca"}
+{"index":234,"sub_uri":"Q17152","obj_uri":"Q17151","obj_label":"Thessaloniki","sub_label":"Trung Macedonia","lineid":324,"uuid":"35969665-d828-44d3-b3da-7b037bc3d3d4"}
+{"index":245,"sub_uri":"Q491507","obj_uri":"Q85","obj_label":"Cairo","sub_label":"T\u1ec9nh Ai C\u1eadp, \u0110\u1ebf qu\u1ed1c Ottoman","lineid":341,"uuid":"bba7949e-b95d-4e24-abd7-383da2d8ba0c"}
+{"index":348,"sub_uri":"Q1159","obj_uri":"Q1361","obj_label":"Hyderabad, \u1ea4n \u0110\u1ed9","sub_label":"Andhra Pradesh","lineid":478,"uuid":"f13e4d01-7793-4bc8-9964-8573cf6bf6ad"}
+{"index":43,"sub_uri":"Q12490507","obj_uri":"Q35484","obj_label":"Medina","sub_label":"Nh\u00e0 Rashidun","lineid":61,"uuid":"bb2918d1-10f3-458e-9ac9-432fe72044c9"}
+{"index":214,"sub_uri":"Q41","obj_uri":"Q1524","obj_label":"Athena","sub_label":"Hy L\u1ea1p","lineid":301,"uuid":"81f7f2f1-b54e-4284-9659-70df795826e3"}
+{"index":257,"sub_uri":"Q8177","obj_uri":"Q2966","obj_label":"Heidelberg","sub_label":"Rhein-Neckar-Kreis","lineid":361,"uuid":"c372481a-3c15-4a0e-a071-97b6132a8fd7"}
+{"index":239,"sub_uri":"Q171150","obj_uri":"Q1781","obj_label":"Budapest","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Hungary","lineid":333,"uuid":"e94d4f46-e866-4eb2-b285-032df9a4033e"}
+{"index":407,"sub_uri":"Q15121","obj_uri":"Q490","obj_label":"Milano","sub_label":"Milano","lineid":562,"uuid":"1c1a7df6-c61b-416d-8250-7f925f605524"}
+{"index":435,"sub_uri":"Q266923","obj_uri":"Q10086","obj_label":"Mysore","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Mysore","lineid":602,"uuid":"679be709-3c67-4cd2-99f9-a0856248fa26"}
+{"index":441,"sub_uri":"Q3125","obj_uri":"Q175081","obj_label":"Gap","sub_label":"Hautes-Alpes","lineid":612,"uuid":"49b7fb49-7113-42d3-88bf-b09cdd2b0c36"}
+{"index":472,"sub_uri":"Q61414","obj_uri":"Q79844","obj_label":"Stuttgart","sub_label":"Qu\u1eadn Arkansas","lineid":651,"uuid":"59d34446-9063-4f38-8242-187aad78e17b"}
+{"index":41,"sub_uri":"Q180114","obj_uri":"Q85","obj_label":"Cairo","sub_label":"V\u01b0\u01a1ng tri\u1ec1u Ayyub","lineid":59,"uuid":"288e997c-9531-450d-9ddb-13e17889c295"}
+{"index":294,"sub_uri":"Q23066","obj_uri":"Q192896","obj_label":"Carlisle","sub_label":"Cumbria","lineid":408,"uuid":"3cfd66cc-9e04-4419-a7ea-393a13c489c7"}
+{"index":186,"sub_uri":"Q141026","obj_uri":"Q3561","obj_label":"Algiers","sub_label":"Algiers","lineid":259,"uuid":"6a74c973-c294-485a-936b-9fff8f8776ee"}
+{"index":5,"sub_uri":"Q177562","obj_uri":"Q80517","obj_label":"Shreveport","sub_label":"Qu\u1eadn Caddo, Louisiana","lineid":7,"uuid":"454ec3b3-01a1-4044-aa21-78d96ec169e7"}
+{"index":508,"sub_uri":"Q234","obj_uri":"Q239","obj_label":"Th\u00e0nh ph\u1ed1 Bruxelles","sub_label":"Flanders","lineid":702,"uuid":"1529bc81-d7bb-4d75-8546-ee866d93ee5d"}
+{"index":387,"sub_uri":"Q476757","obj_uri":"Q5838","obj_label":"Kabul","sub_label":"C\u1ed9ng h\u00f2a D\u00e2n ch\u1ee7 Afghanistan","lineid":536,"uuid":"a2f2b6eb-0ab9-4dec-8fc5-78880b6da540"}
+{"index":112,"sub_uri":"Q487704","obj_uri":"Q18094","obj_label":"Honolulu","sub_label":"Qu\u1eadn Honolulu","lineid":156,"uuid":"eeb6ca0d-a46c-43d0-9f99-963f898c196e"}
+{"index":362,"sub_uri":"Q487401","obj_uri":"Q5713","obj_label":"Mary, Turkmenistan","sub_label":"Mary","lineid":494,"uuid":"7b176c82-7f8b-4962-8055-65fb9751eba1"}
+{"index":171,"sub_uri":"Q389688","obj_uri":"Q5684","obj_label":"Babylon","sub_label":"Nh\u00e0 Achaemenes","lineid":237,"uuid":"0288be7b-4b79-42f8-ab3d-74fb9f3132dc"}
+{"index":270,"sub_uri":"Q1498","obj_uri":"Q47916","obj_label":"Lucknow","sub_label":"Uttar Pradesh","lineid":381,"uuid":"06ba14af-9870-4f29-bf7c-ba1e47ab2b77"}
+{"index":485,"sub_uri":"Q824","obj_uri":"Q43919","obj_label":"Salem","sub_label":"Oregon","lineid":667,"uuid":"a3fa12e7-d3db-41ab-b35b-ff6d117088e0"}
+{"index":304,"sub_uri":"Q3235","obj_uri":"Q11568","obj_label":"Darwin","sub_label":"L\u00e3nh th\u1ed5 B\u1eafc \u00dac","lineid":420,"uuid":"2e284dc0-02f2-4afd-8914-77bc85d348f8"}
+{"index":113,"sub_uri":"Q2277","obj_uri":"Q16869","obj_label":"Constantinopolis","sub_label":"\u0110\u1ebf qu\u1ed1c La M\u00e3","lineid":158,"uuid":"b3deac49-9a98-4ca2-a576-9bdcbddcbc4a"}
+{"index":165,"sub_uri":"Q1263","obj_uri":"Q1891","obj_label":"Bologna","sub_label":"Emilia-Romagna","lineid":223,"uuid":"4117c8a0-413d-4b7b-a1dd-78d21e5606ef"}
+{"index":357,"sub_uri":"Q1387","obj_uri":"Q18383","obj_label":"Providence, Rhode Island","sub_label":"Rhode Island","lineid":489,"uuid":"75ba052f-521e-4acb-99b6-3ea153630873"}
+{"index":241,"sub_uri":"Q1202","obj_uri":"Q1731","obj_label":"Dresden","sub_label":"Sachsen","lineid":336,"uuid":"81bc4597-4342-44f8-b16e-c00a0ec41387"}
+{"index":498,"sub_uri":"Q27306","obj_uri":"Q64","obj_label":"Berlin","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Ph\u1ed5","lineid":689,"uuid":"21b4be99-2acf-42f9-9df7-ae5f56b94b3b"}
+{"index":444,"sub_uri":"Q910648","obj_uri":"Q1461","obj_label":"Manila","sub_label":"\u0110\u00f4ng \u1ea4n T\u00e2y Ban Nha","lineid":617,"uuid":"3bb2a7f7-56b5-4adc-bb69-f065fd3598f3"}
+{"index":48,"sub_uri":"Q203493","obj_uri":"Q19660","obj_label":"Bucharest","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Rom\u00e2nia","lineid":70,"uuid":"175d07ee-75d7-4de7-9659-ca6d79501f9e"}
+{"index":408,"sub_uri":"Q33","obj_uri":"Q1757","obj_label":"Helsinki","sub_label":"Ph\u1ea7n Lan","lineid":564,"uuid":"1a3c9946-a242-437d-97a7-e263c61b6622"}
+{"index":222,"sub_uri":"Q484367","obj_uri":"Q6178257","obj_label":"Burns, Oregon","sub_label":"Qu\u1eadn Harney","lineid":311,"uuid":"536971cd-a76a-42b0-8f85-d855f47df8bb"}
+{"index":260,"sub_uri":"Q146328","obj_uri":"Q1461","obj_label":"Manila","sub_label":"Th\u1ecbnh v\u01b0\u1ee3ng chung Philippines","lineid":366,"uuid":"225b2db4-e9e3-403f-87df-32dad6e25071"}
+{"index":386,"sub_uri":"Q156031","obj_uri":"Q1773","obj_label":"Riga","sub_label":"Reichskommissariat Ostland","lineid":534,"uuid":"a6ca27fa-dda5-48d1-ac1e-6684c73b60cd"}
+{"index":379,"sub_uri":"Q1697","obj_uri":"Q649","obj_label":"Moskva","sub_label":"Moskva","lineid":524,"uuid":"933a7b35-baa8-419e-bb5f-7986c34b9932"}
+{"index":331,"sub_uri":"Q12548","obj_uri":"Q1741","obj_label":"Vi\u00ean","sub_label":"\u0110\u1ebf qu\u1ed1c La M\u00e3 Th\u1ea7n th\u00e1nh","lineid":455,"uuid":"8aa45cb6-b40a-459d-9aab-220e3913b280"}
+{"index":225,"sub_uri":"Q495738","obj_uri":"Q79875","obj_label":"Mobile","sub_label":"Qu\u1eadn Mobile","lineid":314,"uuid":"24011cfc-18bf-4698-9a00-7ca98cd99c0f"}
+{"index":364,"sub_uri":"Q16310","obj_uri":"Q641","obj_label":"Venezia","sub_label":"Venezia","lineid":501,"uuid":"2c8fbfa6-ab45-410c-806a-64c8a3acb32c"}
+{"index":388,"sub_uri":"Q36","obj_uri":"Q270","obj_label":"Warszawa","sub_label":"Ba Lan","lineid":537,"uuid":"1f3d2534-050f-4186-9f97-0446a40130c4"}
+{"index":491,"sub_uri":"Q192959","obj_uri":"Q2280","obj_label":"Minsk","sub_label":"Khu v\u1ef1c Minsk","lineid":682,"uuid":"a220e15c-e175-4abe-90ef-4404349be3da"}
+{"index":221,"sub_uri":"Q467864","obj_uri":"Q19689","obj_label":"Tirana","sub_label":"C\u1ed9ng h\u00f2a Nh\u00e2n d\u00e2n X\u00e3 h\u1ed9i ch\u1ee7 ngh\u0129a Albania","lineid":310,"uuid":"00e826dd-0835-40b0-b6ca-2c7078696e0f"}
+{"index":405,"sub_uri":"Q23129","obj_uri":"Q204720","obj_label":"Hereford","sub_label":"Herefordshire","lineid":559,"uuid":"f8a7b6a3-3e2f-4cc4-b1cb-a1a421c47281"}
+{"index":300,"sub_uri":"Q9337","obj_uri":"Q239","obj_label":"Th\u00e0nh ph\u1ed1 Bruxelles","sub_label":"V\u00f9ng Flemish","lineid":415,"uuid":"9aae7e8e-8992-44e3-9c83-e9f105ff5072"}
+{"index":153,"sub_uri":"Q170770","obj_uri":"Q649","obj_label":"Moskva","sub_label":"\u0110\u1ea1i c\u00f4ng qu\u1ed1c Moskva","lineid":209,"uuid":"3c15e4ce-b0c2-495b-ae15-388a5449f50d"}
+{"index":39,"sub_uri":"Q1166","obj_uri":"Q28237","obj_label":"Lansing","sub_label":"Michigan","lineid":56,"uuid":"002f6abd-2104-416e-a444-1a923b3a3839"}
+{"index":426,"sub_uri":"Q104231","obj_uri":"Q1754","obj_label":"Stockholm","sub_label":"h\u1ea1t Stockholm","lineid":589,"uuid":"b946776a-3b0b-447e-9b5e-ba2450b7e901"}
+{"index":108,"sub_uri":"Q241","obj_uri":"Q1563","obj_label":"La Habana","sub_label":"Cuba","lineid":151,"uuid":"f2f54ed4-1c4a-4302-b9b5-61f1dd5e7042"}
+{"index":217,"sub_uri":"Q816","obj_uri":"Q16556","obj_label":"Phoenix","sub_label":"Arizona","lineid":305,"uuid":"d06dac69-3754-4870-873f-1cc43d8932ba"}
+{"index":333,"sub_uri":"Q174193","obj_uri":"Q84","obj_label":"Lu\u00e2n \u0110\u00f4n","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Li\u00ean hi\u1ec7p Anh v\u00e0 Ireland","lineid":459,"uuid":"d3735192-67a0-40e2-ad8a-b87680a2dc62"}
+{"index":249,"sub_uri":"Q29","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"T\u00e2y Ban Nha","lineid":348,"uuid":"84432391-0a6e-47c0-b74f-04997e55097d"}
+{"index":366,"sub_uri":"Q336322","obj_uri":"Q1014189","obj_label":"Jefferson","sub_label":"Qu\u1eadn Ashtabula","lineid":507,"uuid":"9bedf4e1-745e-4f21-bca5-e7d580664faf"}
+{"index":468,"sub_uri":"Q2415901","obj_uri":"Q64","obj_label":"Berlin","sub_label":"\u0110\u1ed3ng minh chi\u1ebfm \u0111\u00f3ng \u0110\u1ee9c","lineid":645,"uuid":"ba026660-3cbc-48c6-ae73-9ea55d5a6edf"}
+{"index":293,"sub_uri":"Q330158","obj_uri":"Q1354","obj_label":"Dhaka","sub_label":"Dhaka","lineid":407,"uuid":"7935902f-b52d-4684-9e53-fa870c492b5e"}
+{"index":344,"sub_uri":"Q8575586","obj_uri":"Q3766","obj_label":"Damas","sub_label":"Nh\u00e0 Omeyyad","lineid":473,"uuid":"e38b623e-36fe-40d1-b5f5-29c93596dfba"}
+{"index":94,"sub_uri":"Q613","obj_uri":"Q612","obj_label":"Dubai","sub_label":"Emirates of Dubai","lineid":134,"uuid":"f7f31274-fe40-4c41-adb2-03fe5392b084"}
+{"index":132,"sub_uri":"Q17","obj_uri":"Q1490","obj_label":"Tokyo","sub_label":"Nh\u1eadt B\u1ea3n","lineid":185,"uuid":"5d681873-ebdb-4f70-a18c-e20765b56aa5"}
+{"index":7,"sub_uri":"Q23204","obj_uri":"Q172157","obj_label":"Winchester","sub_label":"Hampshire","lineid":9,"uuid":"475ea259-014d-42d0-8a86-e3431f52b6a8"}
+{"index":11,"sub_uri":"Q677037","obj_uri":"Q1361","obj_label":"Hyderabad, \u1ea4n \u0110\u1ed9","sub_label":"Telangana","lineid":14,"uuid":"484a9394-c718-46b4-aa57-85ccb91a48c5"}
+{"index":474,"sub_uri":"Q427941","obj_uri":"Q5838","obj_label":"Kabul","sub_label":"Ti\u1ec3u V\u01b0\u01a1ng qu\u1ed1c H\u1ed3i gi\u00e1o Afghanistan","lineid":653,"uuid":"478ae898-8d7b-42c2-a595-e81e1d08cbaf"}
+{"index":403,"sub_uri":"Q12538","obj_uri":"Q7880","obj_label":"Toulouse","sub_label":"Haute-Garonne","lineid":557,"uuid":"087fb319-11c7-45f3-a6e8-c43ba516e845"}
+{"index":182,"sub_uri":"Q1198071","obj_uri":"Q16572","obj_label":"Qu\u1ea3ng Ch\u00e2u","sub_label":"Nam H\u00e1n","lineid":255,"uuid":"9a804a64-059d-4c19-8847-9f27284c28e6"}
+{"index":376,"sub_uri":"Q54925","obj_uri":"Q11953","obj_label":"Guadalajara","sub_label":"Guadalajara","lineid":519,"uuid":"3a0dc821-ca63-425c-af3f-9d3848d0e44d"}
+{"index":25,"sub_uri":"Q498024","obj_uri":"Q847596","obj_label":"Pontiac","sub_label":"Qu\u1eadn Oakland","lineid":36,"uuid":"5dcb6002-af6e-4d0f-8e5d-b1e38069a5c3"}
+{"index":254,"sub_uri":"Q193714","obj_uri":"Q1218","obj_label":"Jerusalem","sub_label":"L\u00e3nh th\u1ed5 \u1ee6y tr\u1ecb Palestine","lineid":358,"uuid":"5275b4fe-b535-4ca1-9967-c8d512968ed1"}
+{"index":329,"sub_uri":"Q490112","obj_uri":"Q954894","obj_label":"Lebanon","sub_label":"Qu\u1eadn Laclede","lineid":450,"uuid":"4e380895-4ba1-4783-a41b-75b3e7a9c7c4"}
+{"index":12,"sub_uri":"Q35715","obj_uri":"Q5112","obj_label":"Adelaide","sub_label":"Nam \u00dac","lineid":16,"uuid":"9180a17d-1d35-4065-8397-2043009c3d6a"}
+{"index":193,"sub_uri":"Q902","obj_uri":"Q1354","obj_label":"Dhaka","sub_label":"Bangladesh","lineid":268,"uuid":"8516b777-1bbb-42f5-9655-ad50f1a71c4c"}
+{"index":259,"sub_uri":"Q15388","obj_uri":"Q1361","obj_label":"Hyderabad, \u1ea4n \u0110\u1ed9","sub_label":"Rangareddi","lineid":363,"uuid":"6db784ac-92fc-457d-9273-68a9281c84ea"}
+{"index":287,"sub_uri":"Q209065","obj_uri":"Q1524","obj_label":"Athena","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Hy L\u1ea1p","lineid":400,"uuid":"5814e2f0-b65a-4983-9ccd-275bd4bd92e2"}
+{"index":335,"sub_uri":"Q341639","obj_uri":"Q43421","obj_label":"Richmond","sub_label":"Qu\u1eadn Henrico, Virginia","lineid":461,"uuid":"c620d3cf-f241-4b41-b7ff-1ecd4a6ff9a6"}
+{"index":14,"sub_uri":"Q207272","obj_uri":"Q270","obj_label":"Warszawa","sub_label":"\u0110\u1ec7 nh\u1ecb C\u1ed9ng h\u00f2a Ba Lan","lineid":18,"uuid":"441512f3-e1ed-4fea-a959-8128db18fc31"}
+{"index":85,"sub_uri":"Q156297","obj_uri":"Q34804","obj_label":"Albuquerque, New Mexico","sub_label":"Qu\u1eadn Bernalillo, New Mexico","lineid":122,"uuid":"9dd74794-604d-4fe9-a4e3-11bbfd67ceaa"}
+{"index":130,"sub_uri":"Q1438","obj_uri":"Q2634","obj_label":"Napoli","sub_label":"Campania","lineid":182,"uuid":"d8a23cef-e0ce-43df-a428-bd8a9363c6bd"}
+{"index":289,"sub_uri":"Q884","obj_uri":"Q8684","obj_label":"Seoul","sub_label":"H\u00e0n Qu\u1ed1c","lineid":402,"uuid":"65297ee8-0306-406f-965d-6be5cface055"}
+{"index":256,"sub_uri":"Q191670","obj_uri":"Q19660","obj_label":"Bucharest","sub_label":"H\u1ea1t Ilfov","lineid":360,"uuid":"857dcc93-25ba-4ad2-8032-142148144fc4"}
+{"index":340,"sub_uri":"Q23082","obj_uri":"Q179815","obj_label":"Durham","sub_label":"Durham","lineid":467,"uuid":"4238c59b-d2b5-48fb-beef-af6288542225"}
+{"index":29,"sub_uri":"Q505018","obj_uri":"Q2167","obj_label":"Lund","sub_label":"\u0111\u00f4 th\u1ecb Lund","lineid":41,"uuid":"aa7f9891-03ee-4c2e-ab21-c5a13fc756fc"}
+{"index":211,"sub_uri":"Q214064","obj_uri":"Q41183","obj_label":"Aleppo","sub_label":"Aleppo","lineid":297,"uuid":"209f5fe9-e4fd-49c3-a2eb-0d0bbebf3bdd"}
+{"index":74,"sub_uri":"Q801","obj_uri":"Q1218","obj_label":"Jerusalem","sub_label":"Israel","lineid":108,"uuid":"9651e646-1cde-4cc1-b957-8077c9b31253"}
+{"index":143,"sub_uri":"Q108111","obj_uri":"Q49243","obj_label":"Riverside, California","sub_label":"Qu\u1eadn Riverside","lineid":199,"uuid":"c9855c24-a541-4672-89d8-572fd21dc81b"}
+{"index":266,"sub_uri":"Q12771","obj_uri":"Q807","obj_label":"Lausanne","sub_label":"Vaud","lineid":375,"uuid":"7c072b56-cd94-4355-9e0d-fce4c7cc2bbd"}
+{"index":237,"sub_uri":"Q734","obj_uri":"Q10717","obj_label":"Georgetown, Guyana","sub_label":"Guyana","lineid":330,"uuid":"071c5f13-d736-4100-8cc9-92c2ef6060f3"}
+{"index":247,"sub_uri":"Q26","obj_uri":"Q10686","obj_label":"Belfast","sub_label":"B\u1eafc Ireland","lineid":345,"uuid":"0a001fed-b69a-4e80-8b3b-e3b36a63fca8"}
+{"index":458,"sub_uri":"Q258532","obj_uri":"Q84","obj_label":"Lu\u00e2n \u0110\u00f4n","sub_label":"M\u1ef9 thu\u1ed9c Anh","lineid":632,"uuid":"abcb49e4-0793-403b-a88b-24b9c73a0341"}
+{"index":118,"sub_uri":"Q654380","obj_uri":"Q5838","obj_label":"Kabul","sub_label":"Shahi","lineid":165,"uuid":"79151242-5ca0-4581-b5e6-cc59233c6867"}
+{"index":181,"sub_uri":"Q241748","obj_uri":"Q3711","obj_label":"Beograd","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Serbia","lineid":254,"uuid":"61cfe84a-7cee-4390-be9c-fd83f7905fc0"}
+{"index":306,"sub_uri":"Q322792","obj_uri":"Q36433","obj_label":"Porto","sub_label":"Porto","lineid":422,"uuid":"0f368a55-4d86-4f39-8b1d-89ec5f9f097a"}
+{"index":107,"sub_uri":"Q16139","obj_uri":"Q1891","obj_label":"Bologna","sub_label":"Bologna","lineid":150,"uuid":"ff28aa4b-bec0-45df-9dc5-8eea26bebe03"}
+{"index":283,"sub_uri":"Q236027","obj_uri":"Q35484","obj_label":"Medina","sub_label":"Khu v\u1ef1c Al Madinah","lineid":395,"uuid":"e0143991-1014-4191-a7cb-7463779a4962"}
+{"index":324,"sub_uri":"Q1508143","obj_uri":"Q1899","obj_label":"Kiev","sub_label":"Nh\u00e0 n\u01b0\u1edbc Ukraina","lineid":445,"uuid":"bc120252-6b6f-41db-be1b-f68013f1b3ac"}
+{"index":297,"sub_uri":"Q216945","obj_uri":"Q3820","obj_label":"Beirut","sub_label":"N\u00fai Liban","lineid":412,"uuid":"10fee22e-9811-48d2-a922-5e5ee9c5d460"}
+{"index":282,"sub_uri":"Q179876","obj_uri":"Q172157","obj_label":"Winchester","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Anh","lineid":394,"uuid":"dd496af6-2fc1-4697-9c93-f335f9a6f665"}
+{"index":323,"sub_uri":"Q79","obj_uri":"Q85","obj_label":"Cairo","sub_label":"Ai C\u1eadp","lineid":444,"uuid":"a67e86af-e1d7-46d9-89d4-3a04a4f75a6d"}
+{"index":154,"sub_uri":"Q3258","obj_uri":"Q3114","obj_label":"Canberra","sub_label":"L\u00e3nh th\u1ed5 Th\u1ee7 \u0111\u00f4 \u00dac","lineid":211,"uuid":"edbd0e18-5403-4c17-8aaf-8817d32050f4"}
+{"index":296,"sub_uri":"Q1197","obj_uri":"Q1715","obj_label":"Hannover","sub_label":"Niedersachsen","lineid":411,"uuid":"9384802d-fd29-4248-b65d-1c60827aca2a"}
+{"index":487,"sub_uri":"Q1194","obj_uri":"Q1707","obj_label":"Kiel","sub_label":"Schleswig-Holstein","lineid":670,"uuid":"81edd07f-1ed8-4b3e-94a2-beb7ff999337"}
+{"index":448,"sub_uri":"Q1952","obj_uri":"Q2141","obj_label":"Halifax","sub_label":"Nova Scotia","lineid":622,"uuid":"514f1d92-506c-4eed-a739-f6946cd00057"}
+{"index":6,"sub_uri":"Q1553","obj_uri":"Q28260","obj_label":"Lincoln","sub_label":"Nebraska","lineid":8,"uuid":"3bc51dee-0ae6-40ba-863f-5549382dd210"}
+{"index":243,"sub_uri":"Q234167","obj_uri":"Q5806","obj_label":"Mecca","sub_label":"Khu v\u1ef1c Makkah","lineid":338,"uuid":"22c04d58-1410-491f-a5a2-80927b04a65c"}
+{"index":146,"sub_uri":"Q172579","obj_uri":"Q495","obj_label":"Torino","sub_label":"V\u01b0\u01a1ng qu\u1ed1c \u00dd","lineid":202,"uuid":"2085653c-a317-43a2-8612-730e62be7360"}
+{"index":502,"sub_uri":"Q36704","obj_uri":"Q3711","obj_label":"Beograd","sub_label":"Nam T\u01b0","lineid":694,"uuid":"2bd1480a-83ec-4489-ae2a-b613115b541a"}
+{"index":494,"sub_uri":"Q495344","obj_uri":"Q944507","obj_label":"Pendleton","sub_label":"Qu\u1eadn Umatilla","lineid":685,"uuid":"ba5c0a6a-2a54-4ea1-9919-f54a0e0f2aaf"}
+{"index":61,"sub_uri":"Q379657","obj_uri":"Q958555","obj_label":"Hutchinson","sub_label":"Qu\u1eadn Reno","lineid":91,"uuid":"9f36d161-ca4a-4fd6-8361-3f99f3fca320"}
+{"index":235,"sub_uri":"Q232043","obj_uri":"Q187346","obj_label":"Constantine","sub_label":"Constantine","lineid":327,"uuid":"c7e88c81-06b6-42ff-b123-e59bfa3b4091"}
+{"index":157,"sub_uri":"Q139918","obj_uri":"Q200028","obj_label":"Hamilton, New Zealand","sub_label":"Khu v\u1ef1c Waikato","lineid":214,"uuid":"46c5cd67-fa4d-4d8c-9b91-4bebbbcbd5bb"}
+{"index":478,"sub_uri":"Q1326742","obj_uri":"Q16666","obj_label":"Nam Kinh","sub_label":"Nam \u0110\u01b0\u1eddng","lineid":658,"uuid":"0eb79ff5-0cbd-439b-81e4-8ab7261591ed"}
+{"index":506,"sub_uri":"Q507365","obj_uri":"Q638187","obj_label":"Lafayette","sub_label":"Qu\u1eadn Tippecanoe","lineid":700,"uuid":"59b89c15-9c2a-4176-bdc1-5bced3aca817"}
+{"index":28,"sub_uri":"Q23112","obj_uri":"Q350","obj_label":"Cambridge","sub_label":"Cambridgeshire","lineid":40,"uuid":"04929e30-b18b-4327-82fd-e8884a9f7439"}
+{"index":420,"sub_uri":"Q1256","obj_uri":"Q1449","obj_label":"Genova","sub_label":"Liguria","lineid":578,"uuid":"e75d8299-9f49-4c22-952b-011fa87648ac"}
+{"index":127,"sub_uri":"Q120730","obj_uri":"Q34600","obj_label":"Th\u00e0nh ph\u1ed1 Ky\u014dto","sub_label":"Ky\u014dto","lineid":178,"uuid":"8892dbf0-f1a2-488d-ac86-bc6c6495cee8"}
+{"index":314,"sub_uri":"Q147909","obj_uri":"Q472","obj_label":"Sofia","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Bulgaria","lineid":433,"uuid":"7d1c0ddf-daf5-44f5-9963-17f8f7287da0"}
+{"index":382,"sub_uri":"Q188712","obj_uri":"Q1490","obj_label":"Tokyo","sub_label":"\u0110\u1ebf qu\u1ed1c Nh\u1eadt B\u1ea3n","lineid":529,"uuid":"d91445d2-d35a-40bc-a317-77dd7752ddcf"}
+{"index":427,"sub_uri":"Q124943","obj_uri":"Q85","obj_label":"Cairo","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Ai C\u1eadp","lineid":591,"uuid":"4a2fbd04-8e84-40ed-b3ca-5a2bdd89251b"}
+{"index":429,"sub_uri":"Q426398","obj_uri":"Q935334","obj_label":"Philadelphia, Mississippi","sub_label":"Qu\u1eadn Neshoba, Mississippi","lineid":593,"uuid":"85fc8b3a-d9aa-4c6c-8875-1eea1189b279"}
+{"index":276,"sub_uri":"Q28283","obj_uri":"Q37066","obj_label":"Bismarck, B\u1eafc Dakota","sub_label":"Qu\u1eadn Burleigh, B\u1eafc Dakota","lineid":388,"uuid":"2cbda38f-8a9d-4172-9c10-daf5c5dbd6ec"}
+{"index":271,"sub_uri":"Q11196","obj_uri":"Q11194","obj_label":"Sarajevo","sub_label":"C\u1ed9ng h\u00f2a Srpska","lineid":382,"uuid":"d7fbc7dc-a5bc-4d27-b783-92d6d60e0dc1"}
+{"index":301,"sub_uri":"Q140359","obj_uri":"Q1085","obj_label":"Praha","sub_label":"\u0110\u1ec7 Nh\u1ea5t C\u1ed9ng h\u00f2a Ti\u1ec7p Kh\u1eafc","lineid":416,"uuid":"f1fa4a93-31e6-414f-8010-e1fd6a5c8f73"}
+{"index":349,"sub_uri":"Q62589","obj_uri":"Q1754","obj_label":"Stockholm","sub_label":"Li\u00ean minh c\u00e1 nh\u00e2n gi\u1eefa Th\u1ee5y \u0110i\u1ec3n v\u00e0 Na Uy","lineid":479,"uuid":"74ea9381-95ce-4d3c-bc31-ce130c8f9f8b"}
+{"index":399,"sub_uri":"Q4478","obj_uri":"Q11739","obj_label":"Lahore","sub_label":"Punjab","lineid":552,"uuid":"563beae1-2fb9-4d5f-b49b-60385eca7b77"}
+{"index":288,"sub_uri":"Q490852","obj_uri":"Q1811625","obj_label":"Fulton, Mississippi","sub_label":"Qu\u1eadn Itawamba","lineid":401,"uuid":"5e9b90ec-79e5-4bf7-ae4b-27c6ee3666d9"}
+{"index":120,"sub_uri":"Q1811029","obj_uri":"Q1757","obj_label":"Helsinki","sub_label":"C\u1ed9ng h\u00f2a C\u00f4ng nh\u00e2n X\u00e3 h\u1ed9i ch\u1ee7 ngh\u0129a Ph\u1ea7n Lan","lineid":168,"uuid":"daf7a72a-a47c-4cf8-89f3-bfef79ffad9d"}
+{"index":33,"sub_uri":"Q917682","obj_uri":"Q34932","obj_label":"Brisbane","sub_label":"Th\u00e0nh ph\u1ed1 Brisbane","lineid":47,"uuid":"edff4979-af40-492f-9e41-81d67d021f82"}
+{"index":384,"sub_uri":"Q229411","obj_uri":"Q1353","obj_label":"Delhi","sub_label":"V\u01b0\u01a1ng qu\u1ed1c H\u1ed3i gi\u00e1o Delhi","lineid":531,"uuid":"da44703b-c14c-4a14-b00a-74750d50e61e"}
+{"index":480,"sub_uri":"Q215","obj_uri":"Q437","obj_label":"Ljubljana","sub_label":"Slovenia","lineid":660,"uuid":"9a1f73af-1aa4-4ce5-9f97-ed097203b175"}
+{"index":433,"sub_uri":"Q178038","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"\u0110\u1ec7 nh\u1ecb C\u1ed9ng h\u00f2a T\u00e2y Ban Nha","lineid":597,"uuid":"cad04199-2b3f-4b54-91c5-daf458e837ac"}
+{"index":465,"sub_uri":"Q980","obj_uri":"Q1726","obj_label":"M\u00fcnchen","sub_label":"Bayern","lineid":641,"uuid":"2f24a18e-7bf9-41ad-93b7-7b727f32e777"}
+{"index":133,"sub_uri":"Q842931","obj_uri":"Q1354","obj_label":"Dhaka","sub_label":"\u0110\u00f4ng Pakistan","lineid":186,"uuid":"42afe993-565f-4f3b-ba08-9f32681ef20b"}
+{"index":497,"sub_uri":"Q17167","obj_uri":"Q220","obj_label":"Roma","sub_label":"C\u1ed9ng h\u00f2a La M\u00e3","lineid":688,"uuid":"dad8bd2c-5124-45f0-a84f-96cf9dfd8f50"}
+{"index":337,"sub_uri":"Q2184","obj_uri":"Q649","obj_label":"Moskva","sub_label":"C\u1ed9ng h\u00f2a X\u00e3 h\u1ed9i ch\u1ee7 ngh\u0129a X\u00f4 vi\u1ebft Li\u00ean bang Nga","lineid":463,"uuid":"7e9cf4c3-345a-414e-9131-5bc170960085"}
+{"index":97,"sub_uri":"Q5783","obj_uri":"Q8717","obj_label":"Sevilla","sub_label":"Andalusia","lineid":138,"uuid":"0e009711-2c42-44ab-8a4c-36ccdf48626e"}
+{"index":402,"sub_uri":"Q23635","obj_uri":"Q30985","obj_label":"Hamilton","sub_label":"Bermuda","lineid":555,"uuid":"2b83adcd-1763-4596-9955-ebc56c031dda"}
+{"index":161,"sub_uri":"Q240","obj_uri":"Q239","obj_label":"Th\u00e0nh ph\u1ed1 Bruxelles","sub_label":"Bruxelles","lineid":219,"uuid":"0e66c015-c22c-447e-9768-3b414ec5d13a"}
+{"index":330,"sub_uri":"Q617375","obj_uri":"Q34664","obj_label":"Th\u00e0nh ph\u1ed1 Hiroshima","sub_label":"Hiroshima","lineid":451,"uuid":"2cad7f6f-ff03-45aa-866b-5eb8a3ae38ad"}
+{"index":374,"sub_uri":"Q1356","obj_uri":"Q1348","obj_label":"Kolkata","sub_label":"T\u00e2y Bengal","lineid":516,"uuid":"5a385050-7233-4e81-9776-c3226669ca8b"}
+{"index":170,"sub_uri":"Q77","obj_uri":"Q1335","obj_label":"Montevideo","sub_label":"Uruguay","lineid":236,"uuid":"5b1c97a5-3854-42b2-9e14-472bd756eb5c"}
+{"index":136,"sub_uri":"Q165352","obj_uri":"Q171714","obj_label":"Kerman","sub_label":"Kerman","lineid":190,"uuid":"aea8d10f-4906-4626-8781-0951a4b605e9"}
+{"index":16,"sub_uri":"Q657004","obj_uri":"Q79990","obj_label":"Christchurch","sub_label":"Canterbury","lineid":23,"uuid":"e3a4d929-e59a-4764-8b47-0d88e79bcbbe"}
+{"index":152,"sub_uri":"Q1016","obj_uri":"Q3579","obj_label":"Tripoli","sub_label":"Libya","lineid":208,"uuid":"4ef63e37-79db-4b74-be46-8cb2628a3936"}
+{"index":442,"sub_uri":"Q179876","obj_uri":"Q84","obj_label":"Lu\u00e2n \u0110\u00f4n","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Anh","lineid":614,"uuid":"381b9c02-419a-434f-91ef-bb973b5c485c"}
+{"index":72,"sub_uri":"Q131964","obj_uri":"Q1741","obj_label":"Vi\u00ean","sub_label":"\u0110\u1ebf qu\u1ed1c \u00c1o","lineid":106,"uuid":"136745eb-10fc-45c3-94c9-fb346c4836b7"}
+{"index":279,"sub_uri":"Q56152","obj_uri":"Q868660","obj_label":"Kingston, New York","sub_label":"Qu\u1eadn Ulster, New York","lineid":391,"uuid":"ad1bee32-f537-48b7-b22b-af93f998eb7f"}
+{"index":164,"sub_uri":"Q2996231","obj_uri":"Q1899","obj_label":"Kiev","sub_label":"Kyievo-Sviatoshyn","lineid":222,"uuid":"14eebbd4-ecd6-4738-9bb9-3c89cfaa243a"}
+{"index":475,"sub_uri":"Q214094","obj_uri":"Q3766","obj_label":"Damas","sub_label":"Homs","lineid":655,"uuid":"7ca5fbf8-a8c0-4a05-9260-609de04b5c58"}
+{"index":477,"sub_uri":"Q114","obj_uri":"Q3870","obj_label":"Nairobi","sub_label":"Kenya","lineid":657,"uuid":"773be355-d808-4a77-bdf0-e9a72752f8bb"}
+{"index":483,"sub_uri":"Q16963","obj_uri":"Q16666","obj_label":"Nam Kinh","sub_label":"Giang T\u00f4","lineid":665,"uuid":"cf869609-0698-4331-8d36-955a4e5b454b"}
+{"index":504,"sub_uri":"Q23109","obj_uri":"Q130191","obj_label":"Norwich","sub_label":"Norfolk","lineid":697,"uuid":"c1ebfae8-e883-4736-b5e2-5fcb964bc628"}
+{"index":90,"sub_uri":"Q16183","obj_uri":"Q1449","obj_label":"Genova","sub_label":"Genova","lineid":129,"uuid":"6e801e27-0557-44a7-ba66-39773a56df03"}
+{"index":430,"sub_uri":"Q495974","obj_uri":"Q138391","obj_label":"Paterson, New Jersey","sub_label":"Qu\u1eadn Passaic, New Jersey","lineid":594,"uuid":"428625bd-5c6a-4886-bb5e-b544e3e230a0"}
+{"index":53,"sub_uri":"Q726917","obj_uri":"Q37100","obj_label":"Auckland","sub_label":"V\u00f9ng Auckland","lineid":75,"uuid":"0df90e06-cb29-4f2f-97c8-27a3891cd014"}
+{"index":275,"sub_uri":"Q1138904","obj_uri":"Q5838","obj_label":"Kabul","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Afghanistan","lineid":387,"uuid":"34a27ca3-c505-4d62-a1ed-fcf1106a8093"}
+{"index":216,"sub_uri":"Q55","obj_uri":"Q727","obj_label":"Amsterdam","sub_label":"H\u00e0 Lan","lineid":304,"uuid":"4ee31f55-e29a-4c2e-9e45-442ddc25a107"}
+{"index":101,"sub_uri":"Q4264","obj_uri":"Q1335","obj_label":"Montevideo","sub_label":"Mercosur","lineid":142,"uuid":"9f151157-f439-4c9c-b287-7612b67fa743"}
+{"index":18,"sub_uri":"Q1951","obj_uri":"Q2096","obj_label":"Edmonton","sub_label":"Alberta","lineid":26,"uuid":"b29289d1-a758-43f2-9561-773f8c1d9efb"}
+{"index":138,"sub_uri":"Q3139","obj_uri":"Q33959","obj_label":"Nice","sub_label":"Alpes-Maritimes","lineid":194,"uuid":"3c997bf4-5abd-442d-953b-91accba51004"}
+{"index":106,"sub_uri":"Q5765","obj_uri":"Q8826","obj_label":"Palma de Mallorca","sub_label":"Qu\u1ea7n \u0111\u1ea3o Baleares","lineid":149,"uuid":"b544b239-0796-4725-a191-5dabf07f761c"}
+{"index":59,"sub_uri":"Q1439","obj_uri":"Q16559","obj_label":"Austin","sub_label":"Texas","lineid":88,"uuid":"ebbc8828-f162-4037-a827-ba8681b2a434"}
+{"index":71,"sub_uri":"Q2335128","obj_uri":"Q138311","obj_label":"Elizabeth","sub_label":"L\u00e3nh th\u1ed5 New Jersey","lineid":105,"uuid":"ce7ce100-fbbc-4127-a930-399eff67220c"}
+{"index":446,"sub_uri":"Q1216","obj_uri":"Q495","obj_label":"Torino","sub_label":"Piemonte","lineid":619,"uuid":"5b453777-1eb7-4e7e-90f9-f7d48455668b"}
+{"index":230,"sub_uri":"Q219","obj_uri":"Q472","obj_label":"Sofia","sub_label":"Bulgaria","lineid":320,"uuid":"10c574c4-cd7c-45c3-9de0-9efdaf6edbfa"}
+{"index":398,"sub_uri":"Q148","obj_uri":"Q956","obj_label":"B\u1eafc Kinh","sub_label":"Trung Qu\u1ed1c","lineid":551,"uuid":"bf163c34-ce3c-4d45-ae1e-4a7660fb6115"}
+{"index":32,"sub_uri":"Q188586","obj_uri":"Q2634","obj_label":"Napoli","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Sicilia","lineid":46,"uuid":"cc150ae1-2ddf-424b-abf4-c9357dad89d9"}
+{"index":223,"sub_uri":"Q403","obj_uri":"Q3711","obj_label":"Beograd","sub_label":"Serbia","lineid":312,"uuid":"830019b8-cbd9-4358-bf2b-8e8d63e70716"}
+{"index":189,"sub_uri":"Q490994","obj_uri":"Q28515","obj_label":"Springfield","sub_label":"Qu\u1eadn Sangamon","lineid":263,"uuid":"cb9cc90f-03a4-437c-bc14-f12e2a6cab8a"}
+{"index":310,"sub_uri":"Q1142","obj_uri":"Q6602","obj_label":"Strasbourg","sub_label":"Alsace","lineid":427,"uuid":"877d0919-4954-4cb6-a686-0d6f729355a0"}
+{"index":21,"sub_uri":"Q183","obj_uri":"Q64","obj_label":"Berlin","sub_label":"\u0110\u1ee9c","lineid":30,"uuid":"aa0c6755-5881-4892-8e12-e817868a3b62"}
+{"index":443,"sub_uri":"Q5705","obj_uri":"Q1492","obj_label":"Barcelona","sub_label":"Catalunya","lineid":615,"uuid":"e23d5c87-5bb4-4db4-a3a0-eecc3ce51c42"}
+{"index":440,"sub_uri":"Q1108445","obj_uri":"Q1899","obj_label":"Kiev","sub_label":"Rus Kiev","lineid":611,"uuid":"773eb732-83f2-4492-9d49-5e336ac22725"}
+{"index":197,"sub_uri":"Q376178","obj_uri":"Q334","obj_label":"T\u00e2n Gia Ba","sub_label":"C\u00e1c khu \u0111\u1ecbnh c\u01b0 Eo bi\u1ec3n","lineid":274,"uuid":"48c0c63f-0424-418c-a2be-aaece891a805"}
+{"index":70,"sub_uri":"Q169923","obj_uri":"Q129610","obj_label":"Galway","sub_label":"H\u1ea1t Galway","lineid":104,"uuid":"53bc15f7-2c1f-4de0-abed-010b3af8d142"}
+{"index":202,"sub_uri":"Q215530","obj_uri":"Q1761","obj_label":"Dublin","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Ireland","lineid":282,"uuid":"d75ae4dc-f3c3-4337-9456-0e2f6ddcd55e"}
+{"index":255,"sub_uri":"Q61042","obj_uri":"Q79459","obj_label":"Melbourne","sub_label":"Qu\u1eadn Izard","lineid":359,"uuid":"fd8d6c88-90cc-4bdb-919a-014f63571dc7"}
+{"index":8,"sub_uri":"Q29943","obj_uri":"Q87","obj_label":"Alexandria","sub_label":"Alexandria","lineid":10,"uuid":"6be22d11-8eb8-4fc5-a882-509f2a697a8e"}
+{"index":425,"sub_uri":"Q15119","obj_uri":"Q220","obj_label":"Roma","sub_label":"Roma","lineid":588,"uuid":"8414e813-5ba7-451a-9205-1685cf9f9e7b"}
+{"index":395,"sub_uri":"Q110486","obj_uri":"Q975843","obj_label":"Kaufman","sub_label":"Qu\u1eadn Kaufman","lineid":547,"uuid":"fa3a838f-c0c0-4ac8-844a-ebfaffc05414"}
+{"index":92,"sub_uri":"Q10544","obj_uri":"Q1726","obj_label":"M\u00fcnchen","sub_label":"M\u00fcnchen","lineid":131,"uuid":"7a07a267-5124-4530-8e02-2ea950d6ea87"}
+{"index":177,"sub_uri":"Q854","obj_uri":"Q35381","obj_label":"Colombo","sub_label":"Sri Lanka","lineid":249,"uuid":"93dd6a19-dc17-4af9-a84e-ad1e87f873ca"}
+{"index":62,"sub_uri":"Q28","obj_uri":"Q1781","obj_label":"Budapest","sub_label":"Hungary","lineid":93,"uuid":"7024c125-837e-4f50-9532-bb83d22de0e2"}
+{"index":23,"sub_uri":"Q1415","obj_uri":"Q6346","obj_label":"Indianapolis","sub_label":"Indiana","lineid":33,"uuid":"1b17d731-b749-4cb9-946f-74fc77525144"}
+{"index":496,"sub_uri":"Q192435","obj_uri":"Q3579","obj_label":"Tripoli","sub_label":"Tripolitania","lineid":687,"uuid":"171ec4f6-8d28-478a-9b2f-8e643206f9e3"}
+{"index":484,"sub_uri":"Q1408","obj_uri":"Q25330","obj_label":"Trenton, New Jersey","sub_label":"New Jersey","lineid":666,"uuid":"9663b411-e451-4aca-aa10-b986c7f2fd95"}
+{"index":111,"sub_uri":"Q112078","obj_uri":"Q970397","obj_label":"Canadian","sub_label":"Qu\u1eadn Hemphill","lineid":155,"uuid":"4758f222-f65d-4b17-86f8-1e9b5721cbf4"}
+{"index":180,"sub_uri":"Q81931","obj_uri":"Q29364","obj_label":"Montgomery, Alabama","sub_label":"Li\u00ean minh mi\u1ec1n Nam Hoa K\u1ef3","lineid":253,"uuid":"20fbf8a0-ceb0-448b-be84-6b08cd065fbf"}
+{"index":159,"sub_uri":"Q912777","obj_uri":"Q37333","obj_label":"Lublin","sub_label":"Lubelski","lineid":217,"uuid":"7b64e910-e772-4c3b-ac5c-f7f9256752d5"}
+{"index":327,"sub_uri":"Q26601","obj_uri":"Q695556","obj_label":"Bryan","sub_label":"Qu\u1eadn Brazos","lineid":448,"uuid":"d06633fc-f9e0-4787-a1fe-642def964c29"}
+{"index":499,"sub_uri":"Q889","obj_uri":"Q5838","obj_label":"Kabul","sub_label":"Afghanistan","lineid":691,"uuid":"75d6a6a0-03a8-413d-935a-b7ac3a744656"}
+{"index":463,"sub_uri":"Q106577","obj_uri":"Q90","obj_label":"Paris","sub_label":"Neustria","lineid":637,"uuid":"e1f2ed7f-ceb2-4305-98aa-781554a04d54"}
+{"index":147,"sub_uri":"Q1210","obj_uri":"Q490","obj_label":"Milano","sub_label":"Lombardia","lineid":203,"uuid":"fd4747c1-d4d2-44c6-b97e-de6f6d6f05b0"}
+{"index":1,"sub_uri":"Q2599799","obj_uri":"Q465104","obj_label":"Brody","sub_label":"Brody","lineid":1,"uuid":"0994628e-262a-40cd-96f6-578358f299b9"}
+{"index":341,"sub_uri":"Q1214","obj_uri":"Q39042","obj_label":"Cheyenne","sub_label":"Wyoming","lineid":468,"uuid":"0436ea87-a62f-4159-bd3f-32ed65350ed1"}
+{"index":96,"sub_uri":"Q712832","obj_uri":"Q615006","obj_label":"Ho","sub_label":"Khu v\u1ef1c Volta","lineid":137,"uuid":"720d98cb-b411-4ee5-8f6e-4585121b5495"}
+{"index":30,"sub_uri":"Q781165","obj_uri":"Q1016139","obj_label":"Lebanon","sub_label":"Qu\u1eadn Lebanon","lineid":43,"uuid":"ccc9a762-de21-466c-8eb9-4c1f2de2b6eb"}
+{"index":424,"sub_uri":"Q28513","obj_uri":"Q1741","obj_label":"Vi\u00ean","sub_label":"\u0110\u1ebf qu\u1ed1c \u00c1o-Hung","lineid":587,"uuid":"37f0a960-f344-498a-8c09-0a8226f86734"}
+{"index":184,"sub_uri":"Q37024","obj_uri":"Q3711","obj_label":"Beograd","sub_label":"Serbia v\u00e0 Montenegro","lineid":257,"uuid":"697dfafc-a879-4756-a8c8-fe1d6810e532"}
+{"index":394,"sub_uri":"Q18678082","obj_uri":"Q1479","obj_label":"Bordeaux","sub_label":"Nouvelle-Aquitaine","lineid":546,"uuid":"6979b563-c775-4100-9b09-fabfb3377122"}
+{"index":390,"sub_uri":"Q12536","obj_uri":"Q1530","obj_label":"Bagdad","sub_label":"Nh\u00e0 Abbas","lineid":540,"uuid":"9c0d9389-8c0f-44ed-a983-b63f809c6dbb"}
+{"index":317,"sub_uri":"Q39","obj_uri":"Q70","obj_label":"Bern","sub_label":"Th\u1ee5y S\u0129","lineid":437,"uuid":"db572b35-697c-4856-ae94-e649dc68573d"}
+{"index":31,"sub_uri":"Q502294","obj_uri":"Q37836","obj_label":"Milwaukee","sub_label":"Qu\u1eadn Milwaukee","lineid":44,"uuid":"3ad55021-763e-46f9-8e6d-a896c45b0dea"}
+{"index":228,"sub_uri":"Q188399","obj_uri":"Q1085","obj_label":"Praha","sub_label":"Trung Bohemia","lineid":318,"uuid":"311a0a69-0b15-4542-ab2d-4dd0ebe2db57"}
+{"index":422,"sub_uri":"Q1797336","obj_uri":"Q1538","obj_label":"Pune","sub_label":"Pune","lineid":583,"uuid":"68e36c8c-376b-495b-b480-d74a627e7a02"}
+{"index":34,"sub_uri":"Q12556","obj_uri":"Q288","obj_label":"Tours","sub_label":"Indre-et-Loire","lineid":48,"uuid":"a79e1291-895f-4def-bf7f-fb7bb3ec6994"}
+{"index":75,"sub_uri":"Q80434","obj_uri":"Q11751","obj_label":"Nagoya","sub_label":"Aichi","lineid":109,"uuid":"d79f5817-8eee-42a0-8da1-3bab27ca0a66"}
+{"index":378,"sub_uri":"Q42585","obj_uri":"Q1085","obj_label":"Praha","sub_label":"V\u01b0\u01a1ng qu\u1ed1c B\u00f6hmen","lineid":523,"uuid":"669632a7-16d3-4168-b1da-1af84e791e57"}
+{"index":99,"sub_uri":"Q1185","obj_uri":"Q1355","obj_label":"Bengaluru","sub_label":"Karnataka","lineid":140,"uuid":"554c9a0f-74d4-497a-8e17-2a0cb373497a"}
+{"index":347,"sub_uri":"Q869","obj_uri":"Q1861","obj_label":"Bangkok","sub_label":"Th\u00e1i Lan","lineid":476,"uuid":"49f63306-5b9d-4a35-ad42-f61585991e32"}
+{"index":199,"sub_uri":"Q16987","obj_uri":"Q648","obj_label":"Lille","sub_label":"Nord-Pas-de-Calais","lineid":278,"uuid":"1c12616a-a006-45c2-8e57-6cb9c713f667"}
+{"index":54,"sub_uri":"Q759","obj_uri":"Q28249","obj_label":"Concord, New Hampshire","sub_label":"New Hampshire","lineid":76,"uuid":"4d6baed8-446a-43d1-8439-9ddc6505575d"}
+{"index":38,"sub_uri":"Q35","obj_uri":"Q1748","obj_label":"Copenhagen","sub_label":"\u0110an M\u1ea1ch","lineid":55,"uuid":"861d0c34-67d4-4ab2-a57e-755438146ad8"}
+{"index":190,"sub_uri":"Q399","obj_uri":"Q1953","obj_label":"Yerevan","sub_label":"Armenia","lineid":265,"uuid":"129adc29-18c5-4691-807c-774d8fbe82df"}
+{"index":415,"sub_uri":"Q2895","obj_uri":"Q2280","obj_label":"Minsk","sub_label":"C\u1ed9ng h\u00f2a X\u00e3 h\u1ed9i ch\u1ee7 ngh\u0129a X\u00f4 vi\u1ebft Belorussia","lineid":573,"uuid":"2bcde1b7-c1e8-44cc-bdf0-2253e6c8a9b4"}
+{"index":454,"sub_uri":"Q8733","obj_uri":"Q956","obj_label":"B\u1eafc Kinh","sub_label":"nh\u00e0 Thanh","lineid":628,"uuid":"5b1e5310-53f0-4267-adec-a3af6e6a61a5"}
+{"index":201,"sub_uri":"Q1460","obj_uri":"Q2656","obj_label":"Palermo","sub_label":"Sicilia","lineid":281,"uuid":"ba151990-e609-40fe-b2a2-de3526f866ef"}
+{"index":122,"sub_uri":"Q211274","obj_uri":"Q270","obj_label":"Warszawa","sub_label":"C\u1ed9ng h\u00f2a Nh\u00e2n d\u00e2n Ba Lan","lineid":171,"uuid":"b006569b-8bbc-4043-b31d-420ea2fc8dc7"}
+{"index":277,"sub_uri":"Q54155","obj_uri":"Q37333","obj_label":"Lublin","sub_label":"Lubelskie","lineid":389,"uuid":"ced85916-3433-470b-a3f8-f1445b1786b7"}
+{"index":358,"sub_uri":"Q109709","obj_uri":"Q668546","obj_label":"Davis, California","sub_label":"Qu\u1eadn Yolo","lineid":490,"uuid":"7ec42ef7-4a33-45d7-bfd3-3212a99c60dd"}
+{"index":467,"sub_uri":"Q782","obj_uri":"Q18094","obj_label":"Honolulu","sub_label":"Hawaii","lineid":644,"uuid":"b24c28c7-c73b-475b-b88c-383d011a349f"}
+{"index":290,"sub_uri":"Q190353","obj_uri":"Q220","obj_label":"Roma","sub_label":"D\u00f2ng Chi\u1ebfn s\u0129 To\u00e0n quy\u1ec1n Malta","lineid":404,"uuid":"b032cbd1-00e8-437a-9ada-2fd2ae95164c"}
+{"index":50,"sub_uri":"Q54440","obj_uri":"Q28249","obj_label":"Concord, New Hampshire","sub_label":"Qu\u1eadn Merrimack, New Hampshire","lineid":72,"uuid":"f1f9426a-4e34-4540-a04e-f1634144c08b"}
+{"index":109,"sub_uri":"Q54929","obj_uri":"Q5836","obj_label":"Toledo, T\u00e2y Ban Nha","sub_label":"Toledo","lineid":152,"uuid":"d36d7b57-31ef-47ca-9889-056c3e145776"}
+{"index":80,"sub_uri":"Q108861","obj_uri":"Q5083","obj_label":"Seattle","sub_label":"Qu\u1eadn King","lineid":116,"uuid":"ad63c951-8fa0-4a59-81c5-73ce3ab7ad9c"}
+{"index":432,"sub_uri":"Q34","obj_uri":"Q1754","obj_label":"Stockholm","sub_label":"Th\u1ee5y \u0110i\u1ec3n","lineid":596,"uuid":"a0106aa1-36c9-4a57-ac58-43c22b36938f"}
+{"index":253,"sub_uri":"Q9331","obj_uri":"Q239","obj_label":"Th\u00e0nh ph\u1ed1 Bruxelles","sub_label":"C\u1ed9ng \u0111\u1ed3ng Vlaanderen","lineid":357,"uuid":"9c7ce4f2-1489-4ea1-a691-9a198565c6ce"}
+{"index":354,"sub_uri":"Q232399","obj_uri":"Q3766","obj_label":"Damas","sub_label":"Rif Dimashq","lineid":484,"uuid":"e12095f3-1c20-4d37-b32f-79694ab1f786"}
+{"index":176,"sub_uri":"Q22880","obj_uri":"Q2966","obj_label":"Heidelberg","sub_label":"Kurpfalz","lineid":248,"uuid":"a73cc69f-0b1b-4090-997e-0f8d32fb0200"}
+{"index":116,"sub_uri":"Q22","obj_uri":"Q23436","obj_label":"Edinburgh","sub_label":"Scotland","lineid":162,"uuid":"8e839b14-3d8c-470b-afc1-d439515910c3"}
+{"index":286,"sub_uri":"Q108499","obj_uri":"Q49240","obj_label":"Stockton, California","sub_label":"Qu\u1eadn San Joaquin","lineid":399,"uuid":"8db17604-02c2-4820-9b7a-57afb5628dcd"}
+{"index":383,"sub_uri":"Q25","obj_uri":"Q10690","obj_label":"Cardiff","sub_label":"Wales","lineid":530,"uuid":"0a5208ee-fbcb-4563-971a-3097e799a8db"}
+{"index":423,"sub_uri":"Q484156","obj_uri":"Q983438","obj_label":"Douglas","sub_label":"Qu\u1eadn Converse","lineid":585,"uuid":"df1b5711-98d2-4bea-b853-465012e3e3f9"}
+{"index":396,"sub_uri":"Q47967","obj_uri":"Q18125","obj_label":"Manchester","sub_label":"North West England","lineid":548,"uuid":"20d871a5-9096-4d94-b661-7079dfecc6f3"}
+{"index":115,"sub_uri":"Q779","obj_uri":"Q33486","obj_label":"Hartford","sub_label":"Connecticut","lineid":161,"uuid":"a70c1b5e-f04e-484e-a3b0-dc9e9f394882"}
+{"index":172,"sub_uri":"Q312475","obj_uri":"Q205842","obj_label":"Aspen","sub_label":"Qu\u1eadn Pitkin","lineid":239,"uuid":"cdbdd94d-8a85-4bf0-845b-059740eaa6df"}
+{"index":263,"sub_uri":"Q1445","obj_uri":"Q1352","obj_label":"Chennai","sub_label":"Tamil Nadu","lineid":370,"uuid":"86ce460d-460e-4796-b8e2-84b29f077874"}
+{"index":213,"sub_uri":"Q1261","obj_uri":"Q16554","obj_label":"Denver","sub_label":"Colorado","lineid":300,"uuid":"dee75c5a-9283-4298-9594-17e150dc0484"}
+{"index":492,"sub_uri":"Q485683","obj_uri":"Q1798750","obj_label":"Anand","sub_label":"Anand","lineid":683,"uuid":"1d45ff18-be1e-462b-a542-7dcf370a8cfb"}
+{"index":173,"sub_uri":"Q108131","obj_uri":"Q18013","obj_label":"Sacramento","sub_label":"Qu\u1eadn Sacramento","lineid":243,"uuid":"3d06845a-3744-4925-a5a2-f38186ea4070"}
+{"index":332,"sub_uri":"Q1116","obj_uri":"Q12892","obj_label":"Antwerpen","sub_label":"Antwerp","lineid":456,"uuid":"39518246-9bcb-48e3-84a6-40bc26338391"}
+{"index":305,"sub_uri":"Q164079","obj_uri":"Q1715","obj_label":"Hannover","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Hannover","lineid":421,"uuid":"9b323a73-7c14-4cb9-9e5d-844cbfe24547"}
+{"index":195,"sub_uri":"Q1204","obj_uri":"Q28515","obj_label":"Springfield","sub_label":"Illinois","lineid":272,"uuid":"6839f290-ac98-4e53-ac34-dd899e62b88f"}
+{"index":209,"sub_uri":"Q4948","obj_uri":"Q641","obj_label":"Venezia","sub_label":"C\u1ed9ng h\u00f2a Venezia","lineid":294,"uuid":"72b0438e-0fba-4074-944f-b86d50ee5c8f"}
+{"index":261,"sub_uri":"Q16227","obj_uri":"Q2656","obj_label":"Palermo","sub_label":"Palermo","lineid":367,"uuid":"8a30761c-4a54-4112-8645-ab686e066fea"}
+{"index":264,"sub_uri":"Q184","obj_uri":"Q2280","obj_label":"Minsk","sub_label":"Belarus","lineid":371,"uuid":"cdc60d45-b23a-44d8-aa93-8921639a912e"}
+{"index":66,"sub_uri":"Q23135","obj_uri":"Q1646181","obj_label":"Worcester","sub_label":"Worcestershire","lineid":100,"uuid":"81cb28d4-af32-45b8-92c8-cae3543ee833"}
+{"index":377,"sub_uri":"Q113029","obj_uri":"Q192517","obj_label":"Boulder","sub_label":"Qu\u1eadn Boulder","lineid":522,"uuid":"395ee57c-b2fd-48be-a70d-27fe8069144d"}
+{"index":413,"sub_uri":"Q858","obj_uri":"Q3766","obj_label":"Damas","sub_label":"Syria","lineid":570,"uuid":"055ec1a7-9625-41a6-bfd6-781afc018c35"}
+{"index":265,"sub_uri":"Q23165","obj_uri":"Q170497","obj_label":"Gloucester","sub_label":"Gloucestershire","lineid":372,"uuid":"d03a46e8-ccf8-4f8f-90d4-f1d25884393f"}
+{"index":302,"sub_uri":"Q1454","obj_uri":"Q41087","obj_label":"Raleigh, B\u1eafc Carolina","sub_label":"B\u1eafc Carolina","lineid":417,"uuid":"da4fcd10-b83b-403f-8a32-deeadf5a54cc"}
+{"index":369,"sub_uri":"Q58688","obj_uri":"Q18575","obj_label":"Tucson, Arizona","sub_label":"Qu\u1eadn Pima","lineid":511,"uuid":"5c4502b9-fa55-499b-baf7-74c7318b364c"}
+{"index":334,"sub_uri":"Q7318","obj_uri":"Q64","obj_label":"Berlin","sub_label":"\u0110\u1ee9c Qu\u1ed1c X\u00e3","lineid":460,"uuid":"b3664ea2-fe56-444c-a875-8d0e036c51af"}
+{"index":462,"sub_uri":"Q81931","obj_uri":"Q43421","obj_label":"Richmond","sub_label":"Li\u00ean minh mi\u1ec1n Nam Hoa K\u1ef3","lineid":636,"uuid":"c6fa96d5-1bc7-416d-8c5d-7a42d6e8dc29"}
+{"index":375,"sub_uri":"Q374604","obj_uri":"Q606988","obj_label":"Pratt, Kansas","sub_label":"Qu\u1eadn Pratt","lineid":518,"uuid":"f23de1f0-8839-4525-8e9a-fa74f68b6a4f"}
+{"index":204,"sub_uri":"Q1415585","obj_uri":"Q5838","obj_label":"Kabul","sub_label":"Nh\u00e0 n\u01b0\u1edbc H\u1ed3i gi\u00e1o Afghanistan","lineid":286,"uuid":"1831ad60-56a9-4ba8-a107-45914bce7373"}
+{"index":205,"sub_uri":"Q207162","obj_uri":"Q90","obj_label":"Paris","sub_label":"Bourbon ph\u1ee5c ho\u00e0ng","lineid":287,"uuid":"dfa191ac-e374-4938-8f57-49aa4626b18b"}
+{"index":26,"sub_uri":"Q71092","obj_uri":"Q90","obj_label":"Paris","sub_label":"\u0110\u1ebf ch\u1ebf th\u1ee9 hai","lineid":37,"uuid":"2b9bae59-f465-4ec8-acb5-e80a7902f605"}
+{"index":389,"sub_uri":"Q189326","obj_uri":"Q3616","obj_label":"Tehran","sub_label":"Nh\u00e0 Qajar","lineid":539,"uuid":"d280d4c1-392e-45af-8c7e-632425edf2b3"}
+{"index":79,"sub_uri":"Q2088324","obj_uri":"Q36947","obj_label":"Salvador","sub_label":"Thu\u1ed9c \u0111\u1ecba Brasil","lineid":115,"uuid":"d406cc41-915f-4c90-87c6-c7db9711fc4d"}
+{"index":280,"sub_uri":"Q2131","obj_uri":"Q2887","obj_label":"Santiago de Chile","sub_label":"Khu \u0110\u00f4 th\u1ecb Santiago","lineid":392,"uuid":"00ce4a48-3c67-4997-a712-6381713ceccb"}
+{"index":103,"sub_uri":"Q153660","obj_uri":"Q220","obj_label":"Roma","sub_label":"C\u1ed9ng h\u00f2a x\u00e3 h\u1ed9i \u00dd","lineid":144,"uuid":"e614b139-1a52-4c27-8b3c-40b783f57422"}
+{"index":414,"sub_uri":"Q5720","obj_uri":"Q8818","obj_label":"Valencia","sub_label":"C\u1ed9ng \u0111\u1ed3ng Valencia","lineid":572,"uuid":"1f2b2f65-1d01-407a-ba0d-c4c8ab55c995"}
+{"index":135,"sub_uri":"Q468557","obj_uri":"Q8652","obj_label":"Miami","sub_label":"Qu\u1eadn Miami-Dade","lineid":189,"uuid":"7d62cb1c-539f-414d-9878-fcdb84dcee7e"}
+{"index":219,"sub_uri":"Q191077","obj_uri":"Q3711","obj_label":"Beograd","sub_label":"V\u01b0\u01a1ng qu\u1ed1c Nam T\u01b0","lineid":307,"uuid":"b2582129-5362-4861-94b2-52f9321edfcb"}
+{"index":83,"sub_uri":"Q29999","obj_uri":"Q727","obj_label":"Amsterdam","sub_label":"V\u01b0\u01a1ng qu\u1ed1c H\u00e0 Lan","lineid":119,"uuid":"66b78440-4d16-41a3-852e-330fbdbd38cb"}
+{"index":292,"sub_uri":"Q111729","obj_uri":"Q976490","obj_label":"Greenville","sub_label":"Qu\u1eadn Hunt","lineid":406,"uuid":"2122bb0b-f6ce-4614-96c5-dc56d9436c5e"}
+{"index":233,"sub_uri":"Q489935","obj_uri":"Q1000148","obj_label":"Eaton","sub_label":"Qu\u1eadn Preble","lineid":323,"uuid":"1111cc4a-db81-401b-84ee-1435f4f68c6e"}
+{"index":37,"sub_uri":"Q1114","obj_uri":"Q1296","obj_label":"Gent","sub_label":"Oost-Vlaanderen","lineid":54,"uuid":"412b8748-0d98-43b5-a3aa-b1d5369d041c"}
+{"index":346,"sub_uri":"Q495382","obj_uri":"Q533374","obj_label":"Enterprise, Oregon","sub_label":"Qu\u1eadn Wallowa","lineid":475,"uuid":"15c082a3-9c94-4c6f-b4c3-d2e3a02cc13a"}
+{"index":188,"sub_uri":"Q225","obj_uri":"Q11194","obj_label":"Sarajevo","sub_label":"Bosna v\u00e0 Hercegovina","lineid":262,"uuid":"51edf9cc-ff45-4a6f-a9e5-6e7bbd1c4aeb"}
+{"index":236,"sub_uri":"Q1250763","obj_uri":"Q2656","obj_label":"Palermo","sub_label":"Ti\u1ec3u v\u01b0\u01a1ng qu\u1ed1c Sicilia","lineid":329,"uuid":"f1ff7df3-74cf-4678-9dd3-b878de7c043c"}
+{"index":212,"sub_uri":"Q109790","obj_uri":"Q482657","obj_label":"Logan","sub_label":"Qu\u1eadn Cache","lineid":298,"uuid":"9b750f8b-8039-4b8f-ad21-bbfb6fe96622"}
+{"index":81,"sub_uri":"Q374890","obj_uri":"Q856841","obj_label":"Manhattan","sub_label":"Qu\u1eadn Riley","lineid":117,"uuid":"0df307c2-dce3-4810-ab68-5a4d90022406"}
+{"index":322,"sub_uri":"Q89959","obj_uri":"Q239","obj_label":"Th\u00e0nh ph\u1ed1 Bruxelles","sub_label":"C\u1ed9ng \u0111\u1ed3ng ng\u01b0\u1eddi B\u1ec9 n\u00f3i ti\u1ebfng Ph\u00e1p","lineid":443,"uuid":"255c487d-3484-4b4d-aa30-41917476fdc9"}
+{"index":210,"sub_uri":"Q336229","obj_uri":"Q862733","obj_label":"Warren","sub_label":"Qu\u1eadn Trumbull","lineid":296,"uuid":"aa3e96c0-9a71-450c-b99d-be5564f1360a"}

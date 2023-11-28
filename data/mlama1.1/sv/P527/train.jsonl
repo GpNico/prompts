@@ -1,0 +1,563 @@
+{"index":362,"sub_uri":"Q213580","obj_uri":"Q629","obj_label":"syre","sub_label":"Pyrodruvsyra","lineid":483,"uuid":"5c54d8ba-3dac-4c74-bd68-eb6096eca3df"}
+{"index":408,"sub_uri":"Q423185","obj_uri":"Q623","obj_label":"kol","sub_label":"Kortison","lineid":558,"uuid":"88645074-85b5-44aa-90a8-887872b55520"}
+{"index":446,"sub_uri":"Q3546121","obj_uri":"Q10943","obj_label":"ost","sub_label":"typ av ost","lineid":610,"uuid":"f53871df-7f74-4046-a83a-15157b169796"}
+{"index":344,"sub_uri":"Q41576","obj_uri":"Q623","obj_label":"kol","sub_label":"kokain","lineid":457,"uuid":"f944e781-91ad-4520-be58-60549cd47234"}
+{"index":522,"sub_uri":"Q216383","obj_uri":"Q47680","obj_label":"Josua","sub_label":"Profeterna","lineid":716,"uuid":"a27a863b-62c6-4bac-b6a5-cc3635323221"}
+{"index":52,"sub_uri":"Q420466","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"Ammoniumformiat","lineid":68,"uuid":"6795d793-5224-49ea-b770-e72bb7fc4ead"}
+{"index":456,"sub_uri":"Q190016","obj_uri":"Q623","obj_label":"kol","sub_label":"Heparin","lineid":621,"uuid":"059ef155-91c7-4b4e-82cf-9f6d89ebb9a3"}
+{"index":326,"sub_uri":"Q988343","obj_uri":"Q9655","obj_label":"art\u00e4r","sub_label":"blodk\u00e4rl","lineid":429,"uuid":"a62e7c3f-7361-4e4c-97cf-2ab4d9bff946"}
+{"index":302,"sub_uri":"Q816264","obj_uri":"Q395","obj_label":"matematik","sub_label":"formalvetenskap","lineid":397,"uuid":"edb28e79-a1c6-467d-a885-84d3130a4eb0"}
+{"index":317,"sub_uri":"Q213050","obj_uri":"Q623","obj_label":"kol","sub_label":"B\u00e4rnstenssyra","lineid":414,"uuid":"7b3f7476-d436-49c8-8c8e-254a48f7a41f"}
+{"index":21,"sub_uri":"Q267877","obj_uri":"Q6584340","obj_label":"Sockerlag","sub_label":"stroopwafel","lineid":25,"uuid":"64441909-3853-443a-b679-f6c4910b385b"}
+{"index":107,"sub_uri":"Q420028","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Ekgonin","lineid":138,"uuid":"c33c92f3-d168-40b8-bc9b-61a180d9d882"}
+{"index":111,"sub_uri":"Q205654","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"Pentos","lineid":142,"uuid":"7751c6c1-362c-4e30-8a3a-a4620505e289"}
+{"index":134,"sub_uri":"Q392227","obj_uri":"Q629","obj_label":"syre","sub_label":"Guanosintrifosfat","lineid":173,"uuid":"fb54b362-08b3-421f-a3f9-1b0d3200ceda"}
+{"index":207,"sub_uri":"Q1969730","obj_uri":"Q31","obj_label":"Belgien","sub_label":"Schengenomr\u00e5det","lineid":270,"uuid":"d2af7a53-2b28-4318-aee9-a81f4799f2d2"}
+{"index":512,"sub_uri":"Q60168","obj_uri":"Q623","obj_label":"kol","sub_label":"Heroin","lineid":704,"uuid":"1b0b67a5-901f-4cde-85df-5d8aa8662dfb"}
+{"index":608,"sub_uri":"Q159683","obj_uri":"Q623","obj_label":"kol","sub_label":"Citronsyra","lineid":840,"uuid":"f2933c2f-43dc-4b22-9773-30ea8a98cec5"}
+{"index":276,"sub_uri":"Q409028","obj_uri":"Q682","obj_label":"svavel","sub_label":"Svaveldiklorid","lineid":364,"uuid":"df4f0c51-9a8a-414f-822f-e5fffc481eea"}
+{"index":641,"sub_uri":"Q161480","obj_uri":"Q623","obj_label":"kol","sub_label":"1,2-Dikloretan","lineid":895,"uuid":"29b70b50-8c6b-45db-946a-4198201d535d"}
+{"index":494,"sub_uri":"Q151993","obj_uri":"Q1295","obj_label":"Dortmund","sub_label":"Ruhromr\u00e5det","lineid":675,"uuid":"9da0a072-f4e0-42cf-84e1-4602246f57fa"}
+{"index":365,"sub_uri":"Q7643432","obj_uri":"Q188784","obj_label":"superhj\u00e4lte","sub_label":"superhj\u00e4ltefiktion","lineid":487,"uuid":"ad927e64-662a-416f-b449-d4bead544339"}
+{"index":422,"sub_uri":"Q578170","obj_uri":"Q1397","obj_label":"Ohio","sub_label":"Kontinentala USA","lineid":580,"uuid":"e04055f7-0e90-4708-80e7-097fbb470d86"}
+{"index":246,"sub_uri":"Q421972","obj_uri":"Q623","obj_label":"kol","sub_label":"Malonsyra","lineid":324,"uuid":"e79726ea-1f02-4951-a464-295cf2d6746b"}
+{"index":163,"sub_uri":"Q207895","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Kv\u00e4vedioxid","lineid":210,"uuid":"14520c5e-f6bc-46a4-a358-b1a3d2ec275a"}
+{"index":18,"sub_uri":"Q39731","obj_uri":"Q191","obj_label":"Estland","sub_label":"Baltikum","lineid":22,"uuid":"a8a9a738-4a90-455c-9c08-42f05a54ed46"}
+{"index":610,"sub_uri":"Q351461","obj_uri":"Q623","obj_label":"kol","sub_label":"Adamantan","lineid":844,"uuid":"59a57f7d-9969-4018-a906-832ae48c2660"}
+{"index":441,"sub_uri":"Q422627","obj_uri":"Q623","obj_label":"kol","sub_label":"Laurinsyra","lineid":605,"uuid":"cdae25e6-93e4-4b10-b2c4-0981d5cf9f0d"}
+{"index":273,"sub_uri":"Q182329","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Ammoniumnitrat","lineid":360,"uuid":"1c4f5cce-1880-4088-8889-0730210e14fe"}
+{"index":346,"sub_uri":"Q153","obj_uri":"Q629","obj_label":"syre","sub_label":"etanol","lineid":459,"uuid":"e9498971-4f09-49ad-a492-684a6e1f0ba1"}
+{"index":526,"sub_uri":"Q61457","obj_uri":"Q629","obj_label":"syre","sub_label":"Acetaldehyd","lineid":722,"uuid":"e5ed1c0d-242f-4fd3-9d84-c027aa149fe6"}
+{"index":172,"sub_uri":"Q578170","obj_uri":"Q99","obj_label":"Kalifornien","sub_label":"Kontinentala USA","lineid":222,"uuid":"00bf028b-6e37-4b06-9323-425297131f40"}
+{"index":687,"sub_uri":"Q410387","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"etanolamin","lineid":956,"uuid":"1d3c0248-cf7d-4109-9170-f6a4cfdcdd11"}
+{"index":289,"sub_uri":"Q179767","obj_uri":"Q44315","obj_label":"Hideto Matsumoto","sub_label":"X Japan","lineid":382,"uuid":"87dc5c4c-cb65-4c62-add7-edb002f03eb8"}
+{"index":83,"sub_uri":"Q27449","obj_uri":"Q45","obj_label":"Portugal","sub_label":"Sydeuropa","lineid":112,"uuid":"acfcc633-321a-4a1f-ba38-0a9b232e4bea"}
+{"index":191,"sub_uri":"Q419205","obj_uri":"Q708","obj_label":"bly","sub_label":"Blym\u00f6nja","lineid":245,"uuid":"d788fabc-0f3a-4fef-9bb6-5a1a8fe61dde"}
+{"index":34,"sub_uri":"Q28747","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Nikotinamid-adenin-dinukleotidfosfat","lineid":43,"uuid":"6a86b731-fb09-403a-94db-c8b046ed9fd3"}
+{"index":551,"sub_uri":"Q189294","obj_uri":"Q663","obj_label":"aluminium","sub_label":"borgruppen","lineid":755,"uuid":"1c47f03e-99fa-42d8-b1df-9a3d47037e70"}
+{"index":531,"sub_uri":"Q3311546","obj_uri":"Q23543","obj_label":"Selena Quintanilla","sub_label":"Selena y Los Dinos","lineid":728,"uuid":"c16a19b0-4206-4cd3-b778-24a79c624742"}
+{"index":474,"sub_uri":"Q80863","obj_uri":"Q623","obj_label":"kol","sub_label":"Adenosintrifosfat","lineid":649,"uuid":"e2390385-48f3-417b-b96f-a97fb7e8d91f"}
+{"index":123,"sub_uri":"Q52062","obj_uri":"Q189","obj_label":"Island","sub_label":"Norden","lineid":159,"uuid":"3f2e44fa-59c3-4f39-8fb0-a647b818bb77"}
+{"index":399,"sub_uri":"Q408920","obj_uri":"Q682","obj_label":"svavel","sub_label":"Kaliumsulfid","lineid":543,"uuid":"3d34e2e1-79c0-4b6f-ac74-ad6c47050f50"}
+{"index":508,"sub_uri":"Q29221","obj_uri":"Q34172","obj_label":"sm\u00f6r","sub_label":"Sm\u00f6rdeg","lineid":696,"uuid":"c1b0d0e5-7a98-4e8d-b145-7b2186b9a04e"}
+{"index":545,"sub_uri":"Q18","obj_uri":"Q717","obj_label":"Venezuela","sub_label":"Sydamerika","lineid":749,"uuid":"7ee0f953-9786-417f-84a8-8ae1db781a5f"}
+{"index":539,"sub_uri":"Q133327","obj_uri":"Q107","obj_label":"rum","sub_label":"rumtid","lineid":741,"uuid":"b85fa658-7bf9-4c5d-a804-28b02d6ea5ef"}
+{"index":368,"sub_uri":"Q183290","obj_uri":"Q623","obj_label":"kol","sub_label":"Serin","lineid":490,"uuid":"d592b3f1-da6c-4d81-8b58-9bd390ebb6d2"}
+{"index":224,"sub_uri":"Q213580","obj_uri":"Q623","obj_label":"kol","sub_label":"Pyrodruvsyra","lineid":295,"uuid":"95f87cd9-937c-43f9-8084-43a4a460b607"}
+{"index":583,"sub_uri":"Q1242466","obj_uri":"Q195","obj_label":"choklad","sub_label":"Ganache","lineid":802,"uuid":"7bfdef86-21f3-4c23-bca7-97265976962c"}
+{"index":501,"sub_uri":"Q833202","obj_uri":"Q668","obj_label":"Indien","sub_label":"BRIC","lineid":683,"uuid":"21d3c3d7-1e91-4af9-bdfb-7e4f64f54c80"}
+{"index":210,"sub_uri":"Q411301","obj_uri":"Q629","obj_label":"syre","sub_label":"Syredifluorid","lineid":273,"uuid":"ece99915-a553-4b3f-b30a-614183e54839"}
+{"index":320,"sub_uri":"Q60235","obj_uri":"Q629","obj_label":"syre","sub_label":"Koffein","lineid":418,"uuid":"92b17a77-6492-460d-b33b-2fd255d57f3a"}
+{"index":314,"sub_uri":"Q180341","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Metionin","lineid":410,"uuid":"7233aff6-27ed-47e1-b640-2b769f2ecd6a"}
+{"index":318,"sub_uri":"Q19557","obj_uri":"Q703","obj_label":"kalium","sub_label":"alkalimetall","lineid":416,"uuid":"cbc7b692-582b-4ce2-be47-7532cfc8a78c"}
+{"index":285,"sub_uri":"Q715317","obj_uri":"Q623","obj_label":"kol","sub_label":"Acetyl-CoA","lineid":377,"uuid":"0de513de-77e5-49e1-b249-b82683aa4105"}
+{"index":413,"sub_uri":"Q152834","obj_uri":"Q1364","obj_label":"frukt","sub_label":"Fruktsallad","lineid":569,"uuid":"60804268-c0af-479b-b6d1-8e097689bb34"}
+{"index":272,"sub_uri":"Q2616064","obj_uri":"Q623","obj_label":"kol","sub_label":"Kromkarbid","lineid":358,"uuid":"1a67a7cd-9dad-4b93-a2c3-2a6ea966e44b"}
+{"index":525,"sub_uri":"Q2025","obj_uri":"Q629","obj_label":"syre","sub_label":"kolmonoxid","lineid":720,"uuid":"4520116f-dae1-4df3-8378-555530958f32"}
+{"index":594,"sub_uri":"Q2546","obj_uri":"Q703","obj_label":"kalium","sub_label":"Kaliumbromid","lineid":819,"uuid":"438738cc-4a46-4702-9d74-b52046bef847"}
+{"index":473,"sub_uri":"Q185583","obj_uri":"Q11002","obj_label":"socker","sub_label":"godis","lineid":648,"uuid":"05108cb5-15f5-4ac0-85c3-c021effc8da5"}
+{"index":461,"sub_uri":"Q578170","obj_uri":"Q1261","obj_label":"Colorado","sub_label":"Kontinentala USA","lineid":630,"uuid":"c56ab060-3ead-4c5c-948c-8900b266742c"}
+{"index":190,"sub_uri":"Q407125","obj_uri":"Q663","obj_label":"aluminium","sub_label":"Aluminiumhydroxid","lineid":244,"uuid":"d3934f34-eedc-4c6e-9b7e-f651da28a3dd"}
+{"index":563,"sub_uri":"Q178450","obj_uri":"Q623","obj_label":"kol","sub_label":"Asparaginsyra","lineid":777,"uuid":"04e9c9b7-e330-461c-9c19-6e275cbfd4fb"}
+{"index":8,"sub_uri":"Q19771","obj_uri":"Q38","obj_label":"Italien","sub_label":"G20","lineid":9,"uuid":"4916857e-9058-49cd-b417-ffa8744c9f37"}
+{"index":433,"sub_uri":"Q862569","obj_uri":"Q192628","obj_label":"n\u00f6tk\u00f6tt","sub_label":"Sukiyaki","lineid":596,"uuid":"3b542bbd-11d9-4ab5-b6ea-a9db55e4b908"}
+{"index":212,"sub_uri":"Q1969730","obj_uri":"Q189","obj_label":"Island","sub_label":"Schengenomr\u00e5det","lineid":275,"uuid":"1a5c621b-d560-41d8-912a-13cb2101b6be"}
+{"index":76,"sub_uri":"Q411076","obj_uri":"Q629","obj_label":"syre","sub_label":"Bortrioxid","lineid":102,"uuid":"9ccbf0cf-43b5-40b0-9556-eff743377b3d"}
+{"index":538,"sub_uri":"Q1144889","obj_uri":"Q36465","obj_label":"mj\u00f6l","sub_label":"Tsampa","lineid":738,"uuid":"a4f3ebd5-df72-44a6-90ee-5f8a3c8bf76b"}
+{"index":53,"sub_uri":"Q578170","obj_uri":"Q1612","obj_label":"Arkansas","sub_label":"Kontinentala USA","lineid":70,"uuid":"263829db-26e4-4209-8f1b-8a2147a00b59"}
+{"index":385,"sub_uri":"Q27381","obj_uri":"Q1049","obj_label":"Sudan","sub_label":"Nordafrika","lineid":517,"uuid":"f5732c9d-cd42-4f4c-9fc8-0c6ff012a781"}
+{"index":702,"sub_uri":"Q105522","obj_uri":"Q623","obj_label":"kol","sub_label":"Urinsyra","lineid":974,"uuid":"19db3358-4aef-4b71-8f9a-c15b54513d25"}
+{"index":4,"sub_uri":"Q412356","obj_uri":"Q670","obj_label":"kisel","sub_label":"Kiselkarbid","lineid":5,"uuid":"df17839a-b43a-4143-97fd-2d6409c28a4a"}
+{"index":295,"sub_uri":"Q2200417","obj_uri":"Q6501338","obj_label":"uppm\u00e4rksamhet","sub_label":"kognition","lineid":390,"uuid":"d4c29099-e87c-4cb3-89be-ecfc3a2e1d81"}
+{"index":686,"sub_uri":"Q418235","obj_uri":"Q658","obj_label":"natrium","sub_label":"natriumlaktat","lineid":954,"uuid":"33090100-6de7-42b7-8ca9-ebe3c4da9055"}
+{"index":601,"sub_uri":"Q422021","obj_uri":"Q629","obj_label":"syre","sub_label":"Osmiumtetroxid","lineid":828,"uuid":"ecde6401-eacf-4917-8843-90774df80711"}
+{"index":45,"sub_uri":"Q132298","obj_uri":"Q703","obj_label":"kalium","sub_label":"kaliumhydroxid","lineid":57,"uuid":"a3d6882d-f8da-4974-9ebf-ed2f9c8311dd"}
+{"index":335,"sub_uri":"Q544","obj_uri":"Q2","obj_label":"Jorden","sub_label":"solsystemet","lineid":442,"uuid":"61217192-44c3-47e0-a0cb-6cde4741654d"}
+{"index":19,"sub_uri":"Q184485","obj_uri":"Q47928","obj_label":"cirkus","sub_label":"scenkonst","lineid":23,"uuid":"7461f093-68c0-47a6-8d3f-1bd9624e7588"}
+{"index":662,"sub_uri":"Q207051","obj_uri":"Q623","obj_label":"kol","sub_label":"taurin","lineid":924,"uuid":"f7c542f4-da02-4c09-a385-d10a096d1f7f"}
+{"index":373,"sub_uri":"Q407548","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"Magnesiumhydroxid","lineid":497,"uuid":"a04a22cc-95a4-461f-abe6-8ef12bc52d24"}
+{"index":185,"sub_uri":"Q410744","obj_uri":"Q703","obj_label":"kalium","sub_label":"Kaliumsorbat","lineid":238,"uuid":"593fa955-56d3-4027-84f5-ffc17d42f9f6"}
+{"index":482,"sub_uri":"Q411822","obj_uri":"Q629","obj_label":"syre","sub_label":"Xenontetraoxid","lineid":659,"uuid":"dac5ee88-1f1e-4ef5-aac7-b70567f7272e"}
+{"index":634,"sub_uri":"Q213788","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Nitrit","lineid":878,"uuid":"3e4c1a6c-d8fe-42fb-9429-60bf80dd5b1f"}
+{"index":592,"sub_uri":"Q409799","obj_uri":"Q623","obj_label":"kol","sub_label":"Bromoform","lineid":814,"uuid":"472eeccb-66a9-4ad5-a05a-e359371301db"}
+{"index":257,"sub_uri":"Q303646","obj_uri":"Q623","obj_label":"kol","sub_label":"Hydromorfon","lineid":343,"uuid":"2649f31e-c3a9-407e-8547-6900a270a112"}
+{"index":548,"sub_uri":"Q184817","obj_uri":"Q623","obj_label":"kol","sub_label":"Lignin","lineid":752,"uuid":"2d671525-b46b-4421-965b-853bf5815e75"}
+{"index":247,"sub_uri":"Q12748","obj_uri":"Q24489","obj_label":"kol","sub_label":"fossilt br\u00e4nsle","lineid":325,"uuid":"208778e5-3927-4940-a592-a440050e3a5e"}
+{"index":415,"sub_uri":"Q611214","obj_uri":"Q902","obj_label":"Bangladesh","sub_label":"N-11","lineid":571,"uuid":"7bd39a0a-b27c-48a2-893f-7135196a2406"}
+{"index":701,"sub_uri":"Q205004","obj_uri":"Q1096","obj_label":"tenn","sub_label":"Tenn(IV)klorid","lineid":973,"uuid":"af7f5e6a-a9da-4bbf-946d-265270a14329"}
+{"index":576,"sub_uri":"Q412015","obj_uri":"Q629","obj_label":"syre","sub_label":"Litiumperklorat","lineid":793,"uuid":"5a547645-574f-4fc3-b9a1-8f3b0ddc44e2"}
+{"index":321,"sub_uri":"Q5282","obj_uri":"Q629","obj_label":"syre","sub_label":"Svaveldioxid","lineid":419,"uuid":"589125c3-487f-437a-931e-3ee72a0f880b"}
+{"index":697,"sub_uri":"Q170545","obj_uri":"Q623","obj_label":"kol","sub_label":"fenylalanin","lineid":968,"uuid":"2a1f6a7b-7f4c-4795-a959-68e5b2c63bf3"}
+{"index":334,"sub_uri":"Q581462","obj_uri":"Q11004","obj_label":"gr\u00f6nsak","sub_label":"Minestrone","lineid":441,"uuid":"106f7311-6d18-4fd4-ae67-fa2398d2f488"}
+{"index":437,"sub_uri":"Q742127","obj_uri":"Q8495","obj_label":"mj\u00f6lk","sub_label":"Skyr","lineid":600,"uuid":"857f36a2-ed15-4c9b-bd4c-eaab4e3e8945"}
+{"index":690,"sub_uri":"Q21195","obj_uri":"Q20","obj_label":"Norge","sub_label":"Skandinavien","lineid":960,"uuid":"a20e639e-b2cf-4e7d-ae74-2e3abb6fbf25"}
+{"index":421,"sub_uri":"Q305364","obj_uri":"Q682","obj_label":"svavel","sub_label":"Tiofen","lineid":579,"uuid":"6144a43a-c771-4d50-bb60-67f21818566f"}
+{"index":515,"sub_uri":"Q52062","obj_uri":"Q33","obj_label":"Finland","sub_label":"Norden","lineid":708,"uuid":"336a15c5-84bc-45e7-beaa-f9d4964001b3"}
+{"index":143,"sub_uri":"Q14982","obj_uri":"Q629","obj_label":"syre","sub_label":"metanol","lineid":187,"uuid":"101ed6e5-4f2c-42f2-8954-d6d8b11477a4"}
+{"index":166,"sub_uri":"Q478654","obj_uri":"Q8495","obj_label":"mj\u00f6lk","sub_label":"Kajmak","lineid":214,"uuid":"de5cb322-154a-44d0-ae43-f26bc856e4fe"}
+{"index":329,"sub_uri":"Q242715","obj_uri":"Q682","obj_label":"svavel","sub_label":"Svaveltrioxid","lineid":432,"uuid":"993f8172-410d-4c3a-8d67-5bc566cdb033"}
+{"index":570,"sub_uri":"Q7130787","obj_uri":"Q670","obj_label":"kisel","sub_label":"silikat","lineid":784,"uuid":"12310c92-f67e-4b04-afb8-066a4f04103b"}
+{"index":614,"sub_uri":"Q7221222","obj_uri":"Q191768","obj_label":"fl\u00e4skk\u00f6tt","sub_label":"Salsiccia","lineid":851,"uuid":"ec7c873a-9cd9-4c60-9a32-146de429a78a"}
+{"index":459,"sub_uri":"Q409082","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"Fukos","lineid":627,"uuid":"573c0866-9e87-442b-b965-03e6f9d079d9"}
+{"index":46,"sub_uri":"Q218866","obj_uri":"Q306122","obj_label":"Hideto Takarai","sub_label":"L'Arc-en-Ciel","lineid":58,"uuid":"8cc8c809-5ee6-451f-9391-c77bf0a75f7c"}
+{"index":264,"sub_uri":"Q83320","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"salpetersyra","lineid":350,"uuid":"c5af0195-5848-48eb-b69b-65f427dd2d6a"}
+{"index":671,"sub_uri":"Q414673","obj_uri":"Q706","obj_label":"kalcium","sub_label":"Kalciumdiv\u00e4tefosfat","lineid":934,"uuid":"ef20a350-1aa8-4c5b-bb7e-773e151e22d5"}
+{"index":88,"sub_uri":"Q80863","obj_uri":"Q629","obj_label":"syre","sub_label":"Adenosintrifosfat","lineid":117,"uuid":"f45a86b7-4a29-4079-9158-c3e15d5238ac"}
+{"index":303,"sub_uri":"Q420726","obj_uri":"Q623","obj_label":"kol","sub_label":"Grenade aminosyror","lineid":398,"uuid":"b64d1565-cc3d-469b-b39c-b989f6ed31a6"}
+{"index":105,"sub_uri":"Q18","obj_uri":"Q77","obj_label":"Uruguay","sub_label":"Sydamerika","lineid":135,"uuid":"3f0c9962-380b-419f-b53e-71974946a7e2"}
+{"index":442,"sub_uri":"Q489157","obj_uri":"Q377164","obj_label":"h\u00e4ftklammer","sub_label":"h\u00e4ftapparat","lineid":606,"uuid":"3cc25a60-a198-4ead-a7f8-ead292a5c7b5"}
+{"index":214,"sub_uri":"Q18","obj_uri":"Q298","obj_label":"Chile","sub_label":"Sydamerika","lineid":279,"uuid":"53ec1757-367a-49e1-967f-3d8a56ec8bd8"}
+{"index":390,"sub_uri":"Q411436","obj_uri":"Q682","obj_label":"svavel","sub_label":"Bly(II)sulfid","lineid":523,"uuid":"c177ebde-9081-4bcb-97dc-e9511ee30295"}
+{"index":55,"sub_uri":"Q1347028","obj_uri":"Q191768","obj_label":"fl\u00e4skk\u00f6tt","sub_label":"pulled pork","lineid":73,"uuid":"0bff48a4-7847-474a-9229-4661cf7c5749"}
+{"index":633,"sub_uri":"Q329888","obj_uri":"Q142","obj_label":"Frankrike","sub_label":"De allierade under andra v\u00e4rldskriget","lineid":877,"uuid":"c9312173-2f2d-4259-8d4f-6b4cfe572900"}
+{"index":304,"sub_uri":"Q259997","obj_uri":"Q629","obj_label":"syre","sub_label":"Hydroxylamin","lineid":399,"uuid":"dbef0652-a400-4190-91a6-01e1540af922"}
+{"index":153,"sub_uri":"Q804525","obj_uri":"Q629","obj_label":"syre","sub_label":"J\u00e4rnhydroxid","lineid":198,"uuid":"40273f12-7c8b-4b72-be84-87fae44d3deb"}
+{"index":649,"sub_uri":"Q1072190","obj_uri":"Q780","obj_label":"Tamh\u00f6na","sub_label":"chicken nugget","lineid":906,"uuid":"12ba0114-602c-4878-88f8-c852443041c8"}
+{"index":48,"sub_uri":"Q13317","obj_uri":"Q8495","obj_label":"mj\u00f6lk","sub_label":"Yoghurt","lineid":60,"uuid":"ccd8f9f8-b22a-4beb-92ce-eecff2cc3c34"}
+{"index":109,"sub_uri":"Q181699","obj_uri":"Q623","obj_label":"kol","sub_label":"karbonat","lineid":140,"uuid":"7abe400b-4fe3-427d-b1da-eabac7b91d5e"}
+{"index":84,"sub_uri":"Q417881","obj_uri":"Q682","obj_label":"svavel","sub_label":"Kaliumdisulfit","lineid":113,"uuid":"abd18deb-be83-4809-879c-5044289a56d9"}
+{"index":309,"sub_uri":"Q25774","obj_uri":"Q623","obj_label":"kol","sub_label":"Cyansyra","lineid":405,"uuid":"ce4c942a-f913-4a63-bb2d-0d827673eba5"}
+{"index":322,"sub_uri":"Q854342","obj_uri":"Q36465","obj_label":"mj\u00f6l","sub_label":"Panettone","lineid":421,"uuid":"e45d00e8-16d2-4a70-9b81-1720a13f33ba"}
+{"index":694,"sub_uri":"Q214769","obj_uri":"Q629","obj_label":"syre","sub_label":"Magnesiumoxid","lineid":965,"uuid":"4defa4be-7100-4a91-8c25-0e280706cebe"}
+{"index":560,"sub_uri":"Q7233414","obj_uri":"Q282","obj_label":"vin","sub_label":"\u00d6lost","lineid":770,"uuid":"d44533ca-d44e-42ca-8e0f-a9208699e0af"}
+{"index":175,"sub_uri":"Q1969730","obj_uri":"Q233","obj_label":"Malta","sub_label":"Schengenomr\u00e5det","lineid":225,"uuid":"029181db-6c6e-43a0-82ea-2d48a5628910"}
+{"index":692,"sub_uri":"Q52062","obj_uri":"Q35","obj_label":"Danmark","sub_label":"Norden","lineid":963,"uuid":"ec443c26-8038-4343-be36-3922badd77a5"}
+{"index":643,"sub_uri":"Q183440","obj_uri":"Q11002","obj_label":"socker","sub_label":"Karamell","lineid":897,"uuid":"0d4d6b86-839b-4860-9676-43ed705be36b"}
+{"index":613,"sub_uri":"Q27496","obj_uri":"Q235","obj_label":"Monaco","sub_label":"V\u00e4steuropa","lineid":848,"uuid":"44eda2ba-aa52-4029-8ef9-5c3574c8c823"}
+{"index":519,"sub_uri":"Q205186","obj_uri":"Q81009","obj_label":"retorik","sub_label":"Trivium","lineid":713,"uuid":"9b7f502e-2f0e-43c3-9b03-e64eb1e9befd"}
+{"index":151,"sub_uri":"Q192454","obj_uri":"Q623","obj_label":"kol","sub_label":"Deoxiribos","lineid":196,"uuid":"7cf80886-65b3-40c2-987b-fbe5e99a49fb"}
+{"index":288,"sub_uri":"Q407891","obj_uri":"Q658","obj_label":"natrium","sub_label":"Natriumv\u00e4tesulfit","lineid":381,"uuid":"25f172d3-1237-4708-ab90-d16ff5247633"}
+{"index":70,"sub_uri":"Q170591","obj_uri":"Q682","obj_label":"svavel","sub_label":"Svavelv\u00e4te","lineid":92,"uuid":"3758f3c3-eba0-4cbe-8052-25037e79fafd"}
+{"index":38,"sub_uri":"Q8066","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"Aminosyra","lineid":47,"uuid":"bc47eb37-0d06-4182-b953-d7bd30804821"}
+{"index":43,"sub_uri":"Q148836","obj_uri":"Q733786","obj_label":"munk","sub_label":"monasticism","lineid":54,"uuid":"0b192d73-262d-4b21-8c7d-46e59fb9038c"}
+{"index":665,"sub_uri":"Q578170","obj_uri":"Q1166","obj_label":"Michigan","sub_label":"Kontinentala USA","lineid":927,"uuid":"94cb1b1e-ddd0-4570-ba71-48f70f611d7d"}
+{"index":552,"sub_uri":"Q59714","obj_uri":"Q758","obj_label":"zink","sub_label":"Zinkfosfat","lineid":757,"uuid":"29363ea1-3cdb-4f29-ace2-4c7da3160cc2"}
+{"index":509,"sub_uri":"Q849881","obj_uri":"Q629","obj_label":"syre","sub_label":"Oxoniumjon","lineid":697,"uuid":"131d1f55-cdc0-4ad5-8f17-1b224b5c643f"}
+{"index":174,"sub_uri":"Q41534","obj_uri":"Q629","obj_label":"syre","sub_label":"st\u00e4rkelse","lineid":224,"uuid":"aa41968a-f6d5-417b-bdf0-278955f4be78"}
+{"index":615,"sub_uri":"Q105522","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Urinsyra","lineid":852,"uuid":"52ddc0a2-6a5c-42c1-b1d0-6cb988d54277"}
+{"index":208,"sub_uri":"Q12748","obj_uri":"Q22656","obj_label":"petroleum","sub_label":"fossilt br\u00e4nsle","lineid":271,"uuid":"bf42dce7-73a4-4fe6-8655-a9deffc57909"}
+{"index":394,"sub_uri":"Q611214","obj_uri":"Q96","obj_label":"Mexiko","sub_label":"N-11","lineid":531,"uuid":"6bb23384-1765-4404-9426-21b8ad1aa21c"}
+{"index":130,"sub_uri":"Q12837","obj_uri":"Q1410","obj_label":"Gibraltar","sub_label":"Pyreneiska halv\u00f6n","lineid":169,"uuid":"ab9f7bda-6212-418d-b1b9-ea56c4f60070"}
+{"index":222,"sub_uri":"Q409108","obj_uri":"Q623","obj_label":"kol","sub_label":"Ketos","lineid":293,"uuid":"948052e6-e804-44b5-ae41-9b70fa213181"}
+{"index":234,"sub_uri":"Q116073","obj_uri":"Q670","obj_label":"kisel","sub_label":"Disilan","lineid":311,"uuid":"567114b4-d442-4f2d-ab89-956f869d4262"}
+{"index":580,"sub_uri":"Q132298","obj_uri":"Q629","obj_label":"syre","sub_label":"kaliumhydroxid","lineid":799,"uuid":"305f3f8c-301c-4311-b291-a630aa5171da"}
+{"index":230,"sub_uri":"Q369309","obj_uri":"Q629","obj_label":"syre","sub_label":"Fosforpentoxid","lineid":305,"uuid":"d5095e16-31d8-48b6-b920-8e5b43007d48"}
+{"index":543,"sub_uri":"Q422837","obj_uri":"Q708","obj_label":"bly","sub_label":"Blyacetat","lineid":746,"uuid":"9056d8e6-dadf-4e26-93cb-379bf158938c"}
+{"index":301,"sub_uri":"Q328121","obj_uri":"Q1490","obj_label":"Tokyo prefektur","sub_label":"Stortokyo","lineid":396,"uuid":"6bb60d63-7fe3-48ab-a429-dc0212fdc3f9"}
+{"index":685,"sub_uri":"Q189329","obj_uri":"Q333","obj_label":"astronomi","sub_label":"De fria konsterna","lineid":953,"uuid":"5db182ea-3cff-4752-943f-22a6e05710fc"}
+{"index":315,"sub_uri":"Q26075","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"V\u00e4tecyanid","lineid":411,"uuid":"f63c2b52-d53f-4fef-b349-69e3b6a575dd"}
+{"index":683,"sub_uri":"Q203874","obj_uri":"Q744","obj_label":"nickel","sub_label":"Nysilver","lineid":951,"uuid":"8d6590f6-adfb-4e44-af25-bb747ad8c8df"}
+{"index":284,"sub_uri":"Q1414262","obj_uri":"Q5994","obj_label":"piano","sub_label":"Pianotrio","lineid":376,"uuid":"e96fc598-50d9-4539-a05a-26172495271b"}
+{"index":184,"sub_uri":"Q836891","obj_uri":"Q36465","obj_label":"mj\u00f6l","sub_label":"Skeppsskorpa","lineid":236,"uuid":"0e28b2f8-70a6-4ea9-b27b-f52455e0a8a0"}
+{"index":645,"sub_uri":"Q658684","obj_uri":"Q663","obj_label":"aluminium","sub_label":"Alnico","lineid":899,"uuid":"28960d8a-1b6e-4ee2-bae8-a5f6d64d6d18"}
+{"index":197,"sub_uri":"Q150843","obj_uri":"Q623","obj_label":"kol","sub_label":"Hexadekan","lineid":253,"uuid":"d20e8628-33d9-4b12-890b-1010705a1bfd"}
+{"index":319,"sub_uri":"Q407815","obj_uri":"Q629","obj_label":"syre","sub_label":"Silveroxid","lineid":417,"uuid":"ff071e4b-32d5-4402-ad21-dc2a7e83ff1b"}
+{"index":93,"sub_uri":"Q675176","obj_uri":"Q1096","obj_label":"tenn","sub_label":"Galinstan","lineid":122,"uuid":"7c6651c6-e010-401f-9a06-d7ce00e289ed"}
+{"index":267,"sub_uri":"Q81041","obj_uri":"Q25257","obj_label":"nederb\u00f6rd","sub_label":"vattnets kretslopp","lineid":353,"uuid":"cd486e7b-fd52-4ea0-bdf2-7be2f2a75034"}
+{"index":149,"sub_uri":"Q14982","obj_uri":"Q623","obj_label":"kol","sub_label":"metanol","lineid":194,"uuid":"44e0d676-9bbf-4608-b31d-b1d42db07ede"}
+{"index":298,"sub_uri":"Q252630","obj_uri":"Q2796766","obj_label":"Laxfiskar","sub_label":"gravad lax","lineid":393,"uuid":"7508349e-bdcd-40ae-9687-d78b16e35ddd"}
+{"index":524,"sub_uri":"Q207338","obj_uri":"Q80284","obj_label":"viola","sub_label":"str\u00e5kkvartett","lineid":719,"uuid":"f3cb0844-e553-4ff5-8ef9-78282161f739"}
+{"index":557,"sub_uri":"Q182329","obj_uri":"Q629","obj_label":"syre","sub_label":"Ammoniumnitrat","lineid":767,"uuid":"8696234f-e32b-4e74-a061-1bfdbc0db305"}
+{"index":681,"sub_uri":"Q40540","obj_uri":"Q161701","obj_label":"Kr\u00e4ftan","sub_label":"Zodiaken","lineid":948,"uuid":"2f89a8e4-638b-42da-96e4-b006d6f5511b"}
+{"index":527,"sub_uri":"Q403721","obj_uri":"Q703","obj_label":"kalium","sub_label":"Kaliumv\u00e4tefosfat","lineid":724,"uuid":"41a88d25-c509-4f73-ab6d-808e8a4f75af"}
+{"index":455,"sub_uri":"Q47273","obj_uri":"Q1073","obj_label":"hj\u00e4rna","sub_label":"centrala nervsystemet","lineid":620,"uuid":"6626e8a8-9fbb-4734-bd0c-d1a5ec2d31b5"}
+{"index":42,"sub_uri":"Q920940","obj_uri":"Q5090","obj_label":"ris","sub_label":"dosa","lineid":53,"uuid":"bc01fec7-aa27-41b9-86b0-528dfaee5fc4"}
+{"index":428,"sub_uri":"Q1318776","obj_uri":"Q623","obj_label":"kol","sub_label":"testosteron","lineid":588,"uuid":"93191d9d-a808-4557-966e-294f313f9b37"}
+{"index":22,"sub_uri":"Q69488","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"MDMA","lineid":26,"uuid":"13e6fb8d-232c-4bed-9620-917b49c352bc"}
+{"index":364,"sub_uri":"Q25271","obj_uri":"Q533336","obj_label":"Unity","sub_label":"Internationella rymdstationen","lineid":486,"uuid":"9a70115d-1414-4093-ba9d-2d0410804b88"}
+{"index":447,"sub_uri":"Q130365","obj_uri":"Q623","obj_label":"kol","sub_label":"Riboflavin","lineid":611,"uuid":"8b930b0d-b890-4724-9c91-71c5126697ad"}
+{"index":588,"sub_uri":"Q27449","obj_uri":"Q233","obj_label":"Malta","sub_label":"Sydeuropa","lineid":810,"uuid":"f958432f-b029-41af-ae08-08deaa83a438"}
+{"index":406,"sub_uri":"Q3707847","obj_uri":"Q326653","obj_label":"bokh\u00e5llare","sub_label":"bokf\u00f6ring","lineid":555,"uuid":"3a03bb2d-985d-416c-91e8-31f7f317e59f"}
+{"index":556,"sub_uri":"Q411108","obj_uri":"Q703","obj_label":"kalium","sub_label":"Kaliumbisulfat","lineid":766,"uuid":"4b50948d-2b4e-4db0-8446-c5c001167709"}
+{"index":6,"sub_uri":"Q37726","obj_uri":"Q29171","obj_label":"Infanteri","sub_label":"arm\u00e9","lineid":7,"uuid":"20f67766-d6c9-4b44-b099-e33b49d7de66"}
+{"index":179,"sub_uri":"Q272198","obj_uri":"Q11002","obj_label":"socker","sub_label":"Marshmallows","lineid":230,"uuid":"bd477870-c574-4afb-8db0-9153cf2cd9fd"}
+{"index":252,"sub_uri":"Q326139","obj_uri":"Q37868","obj_label":"alger","sub_label":"algblomning","lineid":336,"uuid":"7e2239a8-aa5a-4f82-9d6b-46340ce002e4"}
+{"index":547,"sub_uri":"Q27381","obj_uri":"Q262","obj_label":"Algeriet","sub_label":"Nordafrika","lineid":751,"uuid":"0dc551df-dca2-4f17-af7d-40ea34ff77e3"}
+{"index":575,"sub_uri":"Q319541","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Indol","lineid":792,"uuid":"d49d7c60-4e5f-48bd-a35e-e7ce785e287b"}
+{"index":511,"sub_uri":"Q311213","obj_uri":"Q37525","obj_label":"glukos","sub_label":"Glykosylerat hemoglobin","lineid":702,"uuid":"cf2381da-87df-4786-95dd-8eaa98ae8da3"}
+{"index":656,"sub_uri":"Q395","obj_uri":"Q8087","obj_label":"geometri","sub_label":"matematik","lineid":915,"uuid":"7ba62a4c-1b8f-44ab-a45f-cc96f715f77e"}
+{"index":624,"sub_uri":"Q179731","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"natriumv\u00e4tekarbonat","lineid":864,"uuid":"6b302f93-9d7a-478e-bfb3-262b5c6b1aeb"}
+{"index":660,"sub_uri":"Q322251","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Azof\u00f6rening","lineid":919,"uuid":"88e13c21-7eb8-4673-ab1d-f0181963704b"}
+{"index":117,"sub_uri":"Q649090","obj_uri":"Q753","obj_label":"koppar","sub_label":"Kopparnickel","lineid":151,"uuid":"d1797f5f-883b-4974-8017-57b9511eaad4"}
+{"index":316,"sub_uri":"Q182849","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"Kalciumhydroxid","lineid":413,"uuid":"07b84291-92aa-4ea2-91d0-8f9e300af20a"}
+{"index":54,"sub_uri":"Q52062","obj_uri":"Q34","obj_label":"Sverige","sub_label":"Norden","lineid":71,"uuid":"17caa892-c8a4-48c3-adbf-e56e53820296"}
+{"index":396,"sub_uri":"Q681539","obj_uri":"Q8495","obj_label":"mj\u00f6lk","sub_label":"Cantal","lineid":537,"uuid":"8ba7084f-dcb0-476e-87e7-8c836361ef2c"}
+{"index":688,"sub_uri":"Q1061375","obj_uri":"Q744","obj_label":"nickel","sub_label":"Permalloy","lineid":957,"uuid":"cfe8837a-2b9a-4054-bf81-53e75a565b1d"}
+{"index":564,"sub_uri":"Q578170","obj_uri":"Q1212","obj_label":"Montana","sub_label":"Kontinentala USA","lineid":778,"uuid":"452d8f26-340a-4cc3-b0b1-3e376f67342c"}
+{"index":168,"sub_uri":"Q139857","obj_uri":"Q623","obj_label":"kol","sub_label":"Fumarsyra","lineid":216,"uuid":"ed0d387d-d7b5-4060-ac54-286c33d51307"}
+{"index":31,"sub_uri":"Q2468","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"v\u00e4tefluorid","lineid":36,"uuid":"e5a667ab-e513-4090-aba8-ad4671c2162d"}
+{"index":61,"sub_uri":"Q721849","obj_uri":"Q629","obj_label":"syre","sub_label":"J\u00e4rnoxid","lineid":81,"uuid":"9aae7e8e-9595-421f-9bf7-a2658b5799b8"}
+{"index":650,"sub_uri":"Q2336063","obj_uri":"Q36465","obj_label":"mj\u00f6l","sub_label":"Bikarbonatbr\u00f6d","lineid":907,"uuid":"ffb14ec4-8cf7-42d2-ad8f-d18c647a1f54"}
+{"index":458,"sub_uri":"Q159096","obj_uri":"Q663","obj_label":"aluminium","sub_label":"Aluminiumjodid","lineid":625,"uuid":"f7ac8174-2228-43e3-8326-4bc6a5b13cb4"}
+{"index":199,"sub_uri":"Q18","obj_uri":"Q419","obj_label":"Peru","sub_label":"Sydamerika","lineid":255,"uuid":"59375671-a27e-4faa-93aa-ce58851ac165"}
+{"index":369,"sub_uri":"Q1854639","obj_uri":"Q36465","obj_label":"mj\u00f6l","sub_label":"Klimp","lineid":491,"uuid":"6f03ad29-9bb5-44e4-907e-f1352b8a1fbd"}
+{"index":467,"sub_uri":"Q408022","obj_uri":"Q623","obj_label":"kol","sub_label":"Dimetylamin","lineid":640,"uuid":"df2d08c1-7082-4814-933d-fd958d25a556"}
+{"index":639,"sub_uri":"Q417399","obj_uri":"Q623","obj_label":"kol","sub_label":"Borkarbid","lineid":892,"uuid":"a9b381a9-c03b-4b32-88d3-c6219f351ed0"}
+{"index":651,"sub_uri":"Q279055","obj_uri":"Q682","obj_label":"svavel","sub_label":"Svavelhexafluorid","lineid":908,"uuid":"d2c63ab6-bcd6-4644-945b-40cc2b67a001"}
+{"index":133,"sub_uri":"Q133516","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"Monosackarid","lineid":172,"uuid":"9ef1a73e-fdf6-4ae9-917e-732d58d715a1"}
+{"index":32,"sub_uri":"Q256502","obj_uri":"Q623","obj_label":"kol","sub_label":"Alfa-linolensyra","lineid":38,"uuid":"ec72bfa9-f0aa-439e-8995-a927b67733be"}
+{"index":73,"sub_uri":"Q23640","obj_uri":"Q1073","obj_label":"hj\u00e4rna","sub_label":"huvud","lineid":98,"uuid":"c1c5a031-c095-46ae-a3df-644915ca9d03"}
+{"index":296,"sub_uri":"Q407997","obj_uri":"Q623","obj_label":"kol","sub_label":"Inositol","lineid":391,"uuid":"225a2241-a6fe-4f57-84f4-80343bfddaa7"}
+{"index":135,"sub_uri":"Q20044","obj_uri":"Q36465","obj_label":"mj\u00f6l","sub_label":"Tagliatelle","lineid":174,"uuid":"4f3a08ee-8204-45d3-a2e1-b32124d09c03"}
+{"index":623,"sub_uri":"Q415049","obj_uri":"Q703","obj_label":"kalium","sub_label":"Kaliumdiv\u00e4tefosfat","lineid":862,"uuid":"59c789b0-dab6-4f73-9b9b-aa027e2b748c"}
+{"index":217,"sub_uri":"Q27468","obj_uri":"Q159","obj_label":"Ryssland","sub_label":"\u00d6steuropa","lineid":284,"uuid":"b5473090-f172-46f7-85cf-0aafdc14e254"}
+{"index":600,"sub_uri":"Q410185","obj_uri":"Q623","obj_label":"kol","sub_label":"Natriumcyanid","lineid":827,"uuid":"21042c27-c4e5-426f-824c-4924ae053a98"}
+{"index":187,"sub_uri":"Q141293","obj_uri":"Q8495","obj_label":"mj\u00f6lk","sub_label":"Dondurma","lineid":241,"uuid":"e7b93a6c-ab06-48b6-9a8e-7cb9e4d89436"}
+{"index":60,"sub_uri":"Q1066251","obj_uri":"Q13276","obj_label":"kaka","sub_label":"Glasst\u00e5rta","lineid":80,"uuid":"a1879eec-7132-44a1-a425-70f2ce04bd17"}
+{"index":310,"sub_uri":"Q4173083","obj_uri":"Q184","obj_label":"Vitryssland","sub_label":"Eurasiska ekonomiska unionen","lineid":406,"uuid":"b2e92781-ce0b-4d54-8c34-ee5b9a3b41cd"}
+{"index":188,"sub_uri":"Q129163","obj_uri":"Q1096","obj_label":"tenn","sub_label":"Tenndioxid","lineid":242,"uuid":"2f51f616-34c4-4464-8989-1f2d89d5ea66"}
+{"index":20,"sub_uri":"Q37726","obj_uri":"Q47315","obj_label":"kavalleri","sub_label":"arm\u00e9","lineid":24,"uuid":"4892c098-925b-4724-95fd-8ffd5bb461ce"}
+{"index":336,"sub_uri":"Q80294","obj_uri":"Q623","obj_label":"kol","sub_label":"Cellulosa","lineid":444,"uuid":"f4d49a1d-86eb-4430-b85c-5868f1133555"}
+{"index":376,"sub_uri":"Q425397","obj_uri":"Q658","obj_label":"natrium","sub_label":"natriumsilikat","lineid":501,"uuid":"43f311ec-d7ea-4cc8-bc77-071e275a28b3"}
+{"index":128,"sub_uri":"Q170304","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"dopamin","lineid":165,"uuid":"3c35c5f5-f1c9-4089-9c2b-d77471dbd5d5"}
+{"index":278,"sub_uri":"Q132501","obj_uri":"Q623","obj_label":"kol","sub_label":"Propantriol","lineid":369,"uuid":"705d32b2-7bae-4deb-8768-db2adacad5ad"}
+{"index":262,"sub_uri":"Q462174","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"hydrat","lineid":348,"uuid":"0f58ad9f-e5d1-40aa-a57c-daff9d7a9093"}
+{"index":642,"sub_uri":"Q107184","obj_uri":"Q753","obj_label":"koppar","sub_label":"Kopparsulfat","lineid":896,"uuid":"089cbc5d-9e07-4098-8491-0f755788beb4"}
+{"index":638,"sub_uri":"Q409501","obj_uri":"Q658","obj_label":"natrium","sub_label":"Trinatriumfosfat","lineid":889,"uuid":"b7975600-95b5-4b8b-9d2f-931aa1bcd33c"}
+{"index":176,"sub_uri":"Q12861","obj_uri":"Q682","obj_label":"svavel","sub_label":"krut","lineid":227,"uuid":"1c2222af-aabf-42f9-a222-d86fd4a06085"}
+{"index":11,"sub_uri":"Q183416","obj_uri":"Q244","obj_label":"Barbados","sub_label":"\u00d6arna \u00f6ver vinden","lineid":13,"uuid":"1540dd2c-fb04-404c-b72f-d372c9c85d00"}
+{"index":503,"sub_uri":"Q207220","obj_uri":"Q36465","obj_label":"mj\u00f6l","sub_label":"Muffins","lineid":686,"uuid":"0e94ede2-5491-4b6e-b572-3d5adf12b1df"}
+{"index":306,"sub_uri":"Q410234","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Piperidin","lineid":402,"uuid":"ac1dc142-656b-41c1-afe1-835da0ea6364"}
+{"index":636,"sub_uri":"Q414207","obj_uri":"Q623","obj_label":"kol","sub_label":"Krotonsyra","lineid":885,"uuid":"222db466-b768-4363-a50d-cb29ad696aa8"}
+{"index":427,"sub_uri":"Q34749","obj_uri":"Q9418","obj_label":"psykologi","sub_label":"samh\u00e4llsvetenskap","lineid":587,"uuid":"9ff74e3b-2a7e-49e2-b42c-5799d224e358"}
+{"index":89,"sub_uri":"Q752783","obj_uri":"Q11631","obj_label":"rymdfarare","sub_label":"bemannad rymdf\u00e4rd","lineid":118,"uuid":"d9bb1346-eb7b-4832-aaf2-afcb55c79167"}
+{"index":198,"sub_uri":"Q212553","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Melamin","lineid":254,"uuid":"dd4096a0-5451-4e21-b786-0c7233a44e81"}
+{"index":352,"sub_uri":"Q714179","obj_uri":"Q195","obj_label":"choklad","sub_label":"Snickers","lineid":466,"uuid":"28d72049-c69d-4223-8670-bde3117f3be3"}
+{"index":612,"sub_uri":"Q335179","obj_uri":"Q726","obj_label":"h\u00e4st","sub_label":"Hippogriff","lineid":846,"uuid":"5de0d2b8-0b61-4692-a683-332953aed4c3"}
+{"index":590,"sub_uri":"Q27468","obj_uri":"Q214","obj_label":"Slovakien","sub_label":"\u00d6steuropa","lineid":812,"uuid":"02c80011-7cea-4d38-a816-2c510dab7ae1"}
+{"index":91,"sub_uri":"Q970537","obj_uri":"Q623","obj_label":"kol","sub_label":"M\u00e4ttat fett","lineid":120,"uuid":"274ed8d3-249f-448d-8cdb-eb94f1f6d2bb"}
+{"index":124,"sub_uri":"Q188543","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"Ammoniumklorid","lineid":161,"uuid":"62e01307-cc22-43fa-aaf1-5d744e24c0da"}
+{"index":381,"sub_uri":"Q483745","obj_uri":"Q623","obj_label":"kol","sub_label":"Leucin","lineid":509,"uuid":"b504cdae-000b-4f01-85d3-2edd0941acd3"}
+{"index":132,"sub_uri":"Q614448","obj_uri":"Q7802","obj_label":"br\u00f6d","sub_label":"Bruschetta","lineid":171,"uuid":"d169d75c-56a7-430f-ac07-e2d839a450a3"}
+{"index":165,"sub_uri":"Q207688","obj_uri":"Q629","obj_label":"syre","sub_label":"oljesyra","lineid":213,"uuid":"64a64163-bfb4-4743-bfe4-17640669945d"}
+{"index":236,"sub_uri":"Q1329680","obj_uri":"Q195","obj_label":"choklad","sub_label":"chokladbit","lineid":313,"uuid":"f5589b20-c250-431c-b6a4-f066671317b1"}
+{"index":541,"sub_uri":"Q171973","obj_uri":"Q629","obj_label":"syre","sub_label":"Tymin","lineid":743,"uuid":"4cc23e2a-a4a7-477d-8f9f-046d48cf29f9"}
+{"index":59,"sub_uri":"Q151335","obj_uri":"Q623","obj_label":"kol","sub_label":"Buten","lineid":77,"uuid":"0271c26a-c311-446b-9267-1be975b4b43d"}
+{"index":221,"sub_uri":"Q1137679","obj_uri":"Q36465","obj_label":"mj\u00f6l","sub_label":"Baozi","lineid":292,"uuid":"c8cc0c5f-8353-48be-a5f0-bce58e0db4f0"}
+{"index":661,"sub_uri":"Q656004","obj_uri":"Q708","obj_label":"bly","sub_label":"Blyvitt","lineid":920,"uuid":"ac4fec69-43f3-485a-bdc3-ab7b44c4cfe5"}
+{"index":392,"sub_uri":"Q422642","obj_uri":"Q629","obj_label":"syre","sub_label":"Kromsyra","lineid":527,"uuid":"c2354ac9-2903-4cc8-ae15-9aa37c5ded1f"}
+{"index":654,"sub_uri":"Q34095","obj_uri":"Q753","obj_label":"koppar","sub_label":"brons","lineid":911,"uuid":"10d77352-e3ef-4530-ad28-d0a6ae059161"}
+{"index":438,"sub_uri":"Q611214","obj_uri":"Q881","obj_label":"Vietnam","sub_label":"N-11","lineid":601,"uuid":"ca5013dd-7ab0-4c9e-986d-9864a4ffeb59"}
+{"index":308,"sub_uri":"Q740460","obj_uri":"Q208443","obj_label":"Ventil","sub_label":"Hydrofor","lineid":404,"uuid":"f450f95f-1a4c-4609-b71a-263c2879ecb9"}
+{"index":136,"sub_uri":"Q2001841","obj_uri":"Q629","obj_label":"syre","sub_label":"Formiat","lineid":175,"uuid":"0efee761-7236-46c3-94de-b1aa2aab0bba"}
+{"index":439,"sub_uri":"Q273822","obj_uri":"Q333","obj_label":"astronomi","sub_label":"Quadrivium","lineid":603,"uuid":"a34bb64a-78bd-4a72-8d2d-d19afa55429d"}
+{"index":476,"sub_uri":"Q185006","obj_uri":"Q629","obj_label":"syre","sub_label":"kalciumoxid","lineid":652,"uuid":"224c0dc8-dc99-429f-8333-e018665fbfd5"}
+{"index":218,"sub_uri":"Q4173083","obj_uri":"Q159","obj_label":"Ryssland","sub_label":"Eurasiska ekonomiska unionen","lineid":289,"uuid":"b28d5cb9-a3e4-4a2e-bdf0-af97292f38c3"}
+{"index":445,"sub_uri":"Q186817","obj_uri":"Q12117","obj_label":"s\u00e4desslag","sub_label":"gr\u00f6t","lineid":609,"uuid":"6e176536-6aec-4ef0-a3ea-626580ea700f"}
+{"index":254,"sub_uri":"Q243354","obj_uri":"Q682","obj_label":"svavel","sub_label":"Koldisulfid","lineid":340,"uuid":"b1ba60e9-ed6c-4155-99a1-9e8780f45f6d"}
+{"index":533,"sub_uri":"Q1022124","obj_uri":"Q192628","obj_label":"n\u00f6tk\u00f6tt","sub_label":"B\u0153uf Bourguignon","lineid":732,"uuid":"6373f687-e956-45bc-b781-437ce299f753"}
+{"index":366,"sub_uri":"Q155890","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"tungt vatten","lineid":488,"uuid":"7d39ff3d-08d2-47d0-97b4-2326ebcfaf3c"}
+{"index":585,"sub_uri":"Q122043","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"Fruktos","lineid":804,"uuid":"b53254ae-546e-453a-976a-7280b1d91900"}
+{"index":340,"sub_uri":"Q245282","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Essentiell aminosyra","lineid":452,"uuid":"087cb7e4-0488-44b6-af63-48b5743efb52"}
+{"index":164,"sub_uri":"Q578170","obj_uri":"Q16551","obj_label":"Vermont","sub_label":"Kontinentala USA","lineid":212,"uuid":"0d25047a-959f-43ed-b2a4-cbb029a34a01"}
+{"index":616,"sub_uri":"Q622416","obj_uri":"Q35872","obj_label":"b\u00e5t","sub_label":"motorb\u00e5t","lineid":853,"uuid":"f3218791-342d-4d2b-b8f6-bb7ce6ae4043"}
+{"index":78,"sub_uri":"Q544","obj_uri":"Q193","obj_label":"Saturnus","sub_label":"solsystemet","lineid":105,"uuid":"dd5767ed-d19e-4825-8801-07c5c4d4f032"}
+{"index":205,"sub_uri":"Q177342","obj_uri":"Q663","obj_label":"aluminium","sub_label":"aluminiumoxid","lineid":266,"uuid":"81c74d37-2e59-4d31-b9de-fd8040a91f72"}
+{"index":542,"sub_uri":"Q135888","obj_uri":"Q780","obj_label":"Tamh\u00f6na","sub_label":"Chicken McNuggets","lineid":744,"uuid":"1932063d-9d1f-4801-8afa-8f27337e1998"}
+{"index":546,"sub_uri":"Q721849","obj_uri":"Q677","obj_label":"j\u00e4rn","sub_label":"J\u00e4rnoxid","lineid":750,"uuid":"ab69884b-f66c-4ef9-aab8-90042c2559d6"}
+{"index":491,"sub_uri":"Q27449","obj_uri":"Q236","obj_label":"Montenegro","sub_label":"Sydeuropa","lineid":670,"uuid":"844c4da2-ce1f-4045-9d0f-59605eab4aa4"}
+{"index":65,"sub_uri":"Q286064","obj_uri":"Q753","obj_label":"koppar","sub_label":"Koppar(II)nitrat","lineid":86,"uuid":"b8c05c65-0633-4b2d-aa0b-5e8fc47e597c"}
+{"index":237,"sub_uri":"Q205654","obj_uri":"Q623","obj_label":"kol","sub_label":"Pentos","lineid":314,"uuid":"1c43d311-01a1-4f5b-b21d-a60c8ee79aac"}
+{"index":573,"sub_uri":"Q339866","obj_uri":"Q658","obj_label":"natrium","sub_label":"Natriumtiosulfat","lineid":790,"uuid":"e6a8e75c-04ea-4957-8246-3b5324266658"}
+{"index":189,"sub_uri":"Q230731","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"aromatiska kolv\u00e4ten","lineid":243,"uuid":"a40067e7-6f7b-49ca-9a65-c5b18830a1e8"}
+{"index":156,"sub_uri":"Q190012","obj_uri":"Q623","obj_label":"kol","sub_label":"adenosin","lineid":203,"uuid":"d2372130-7a0b-4cb6-9b20-c45906dd0506"}
+{"index":75,"sub_uri":"Q415877","obj_uri":"Q658","obj_label":"natrium","sub_label":"Mononatriumfosfat","lineid":100,"uuid":"5e45da38-c1c2-4b7a-b382-3aecb91dfca8"}
+{"index":603,"sub_uri":"Q7172","obj_uri":"Q822","obj_label":"Libanon","sub_label":"Arabf\u00f6rbundet","lineid":831,"uuid":"b8e03981-437b-4ed3-a014-c3d65e4284e8"}
+{"index":122,"sub_uri":"Q216383","obj_uri":"Q131458","obj_label":"Jesaja","sub_label":"Profeterna","lineid":158,"uuid":"cedade1e-c8fd-4d07-a262-363b704511c4"}
+{"index":232,"sub_uri":"Q413426","obj_uri":"Q623","obj_label":"kol","sub_label":"Tiazol","lineid":307,"uuid":"44b207f7-38cf-4cc8-8579-a9c51480ea6b"}
+{"index":219,"sub_uri":"Q1969730","obj_uri":"Q36","obj_label":"Polen","sub_label":"Schengenomr\u00e5det","lineid":290,"uuid":"4b6f8f8b-8af4-4a61-9e13-25ce1f6d7934"}
+{"index":695,"sub_uri":"Q419170","obj_uri":"Q677","obj_label":"j\u00e4rn","sub_label":"J\u00e4rn(III)oxid","lineid":966,"uuid":"eb6c3946-0e2b-4814-827e-f19d93973f02"}
+{"index":74,"sub_uri":"Q903345","obj_uri":"Q623","obj_label":"kol","sub_label":"Propargylalkohol","lineid":99,"uuid":"28f4cc83-1e4e-4577-9926-c3a742033764"}
+{"index":1,"sub_uri":"Q177540","obj_uri":"Q623","obj_label":"kol","sub_label":"Paraffin","lineid":2,"uuid":"24d7ff57-0d76-4836-bfa9-3fc68438b356"}
+{"index":206,"sub_uri":"Q1049852","obj_uri":"Q36465","obj_label":"mj\u00f6l","sub_label":"sockerkaka","lineid":268,"uuid":"1888ba6d-773f-49dd-875f-6bfa709976bb"}
+{"index":282,"sub_uri":"Q210385","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Pyridin","lineid":373,"uuid":"8992c320-696d-4922-982b-2f50680af7f6"}
+{"index":106,"sub_uri":"Q211891","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Salpetersyrlighet","lineid":136,"uuid":"b0c0199c-1c92-4bfb-84b7-66c56b57e9e2"}
+{"index":51,"sub_uri":"Q578170","obj_uri":"Q1221","obj_label":"Idaho","sub_label":"Kontinentala USA","lineid":66,"uuid":"c8b1151a-1e43-4fa7-88f5-1864fdf84da2"}
+{"index":629,"sub_uri":"Q382984","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Dikv\u00e4vetetroxid","lineid":873,"uuid":"252b7ab2-2627-46dc-9fc9-b127b61ecc86"}
+{"index":386,"sub_uri":"Q185006","obj_uri":"Q706","obj_label":"kalcium","sub_label":"kalciumoxid","lineid":519,"uuid":"aab194f2-a5b8-42e4-b628-a4911fff6225"}
+{"index":429,"sub_uri":"Q338869","obj_uri":"Q623","obj_label":"kol","sub_label":"Vinylklorid","lineid":589,"uuid":"c64799b2-401c-44d8-b6da-956176011270"}
+{"index":261,"sub_uri":"Q26075","obj_uri":"Q623","obj_label":"kol","sub_label":"V\u00e4tecyanid","lineid":347,"uuid":"3640acf9-2d70-4eea-ae17-4989d34b94c3"}
+{"index":648,"sub_uri":"Q412158","obj_uri":"Q623","obj_label":"kol","sub_label":"Pregnenolon","lineid":905,"uuid":"7dda0f18-3d7c-4f31-9c17-a585f6b5b3de"}
+{"index":182,"sub_uri":"Q190865","obj_uri":"Q629","obj_label":"syre","sub_label":"Kaliumpermanganat","lineid":234,"uuid":"dca2e99f-ec28-4648-9fee-f8991737d563"}
+{"index":485,"sub_uri":"Q7212330","obj_uri":"Q1566","obj_label":"tobak","sub_label":"tobaksr\u00f6kning","lineid":662,"uuid":"3e16e737-eabc-4be7-bc48-0021c2b36508"}
+{"index":235,"sub_uri":"Q416248","obj_uri":"Q629","obj_label":"syre","sub_label":"N-Metylmorfolin-N-oxid","lineid":312,"uuid":"e6ea0505-bb1f-43b4-ade0-192726b28c25"}
+{"index":504,"sub_uri":"Q27468","obj_uri":"Q212","obj_label":"Ukraina","sub_label":"\u00d6steuropa","lineid":688,"uuid":"612a4355-2e26-46f3-8e2d-fea9686448fa"}
+{"index":47,"sub_uri":"Q210385","obj_uri":"Q623","obj_label":"kol","sub_label":"Pyridin","lineid":59,"uuid":"b37c2365-f661-46f3-817c-2c8137acfe03"}
+{"index":602,"sub_uri":"Q80232","obj_uri":"Q623","obj_label":"kol","sub_label":"Cyklobutan","lineid":829,"uuid":"4354e850-51f0-4d2a-a2db-66337113a017"}
+{"index":286,"sub_uri":"Q1969730","obj_uri":"Q211","obj_label":"Lettland","sub_label":"Schengenomr\u00e5det","lineid":378,"uuid":"923cbedd-27f3-439b-93e0-6947d4e42398"}
+{"index":354,"sub_uri":"Q278332","obj_uri":"Q629","obj_label":"syre","sub_label":"Tetrahydrofuran","lineid":471,"uuid":"e23b01ba-bd96-4fbb-883a-61139bed2e16"}
+{"index":680,"sub_uri":"Q47512","obj_uri":"Q623","obj_label":"kol","sub_label":"\u00c4ttiksyra","lineid":947,"uuid":"6ba9ed6a-50b3-4ced-b65f-fcfbd221f348"}
+{"index":682,"sub_uri":"Q475736","obj_uri":"Q11427","obj_label":"st\u00e5l","sub_label":"Damaskering","lineid":949,"uuid":"f5b85594-1166-45e8-91e6-66d243855f65"}
+{"index":628,"sub_uri":"Q392227","obj_uri":"Q623","obj_label":"kol","sub_label":"Guanosintrifosfat","lineid":870,"uuid":"73053e5a-f743-44fe-90b2-8085d88a9f53"}
+{"index":630,"sub_uri":"Q860451","obj_uri":"Q623","obj_label":"kol","sub_label":"smidesj\u00e4rn","lineid":874,"uuid":"50a6bba2-ea99-4c00-86a6-c95d67ae9e99"}
+{"index":407,"sub_uri":"Q423179","obj_uri":"Q623","obj_label":"kol","sub_label":"Idos","lineid":557,"uuid":"9fd29da6-0f0d-47a1-bfd4-60c58c5b3133"}
+{"index":653,"sub_uri":"Q4118","obj_uri":"Q682","obj_label":"svavel","sub_label":"svavelsyra","lineid":910,"uuid":"ccd729cf-1feb-49cc-bb6e-1b539019ee39"}
+{"index":341,"sub_uri":"Q150731","obj_uri":"Q623","obj_label":"kol","sub_label":"Undekan","lineid":453,"uuid":"d8b57229-1b2f-4260-9f92-47f5f885b256"}
+{"index":550,"sub_uri":"Q3960","obj_uri":"Q83067","obj_label":"Timor","sub_label":"Australien","lineid":754,"uuid":"f14a9254-1a6f-454c-8c9b-735c1c099e5e"}
+{"index":659,"sub_uri":"Q1936626","obj_uri":"Q188714","obj_label":"Skepp","sub_label":"salkyrka","lineid":918,"uuid":"95e1cdae-69c3-4c5a-bb18-b796986c007f"}
+{"index":269,"sub_uri":"Q605761","obj_uri":"Q5456","obj_label":"Anderna","sub_label":"Kordilj\u00e4rerna","lineid":355,"uuid":"bf8e750f-b6ce-4a18-9664-937b3e948d09"}
+{"index":669,"sub_uri":"Q179731","obj_uri":"Q658","obj_label":"natrium","sub_label":"natriumv\u00e4tekarbonat","lineid":932,"uuid":"fba2837a-64c3-4786-bb2b-2e92c3e88c48"}
+{"index":353,"sub_uri":"Q184485","obj_uri":"Q11635","obj_label":"teater","sub_label":"scenkonst","lineid":470,"uuid":"c7c2390f-3fea-407f-a270-f46b60a19489"}
+{"index":119,"sub_uri":"Q415638","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Titannitrid","lineid":154,"uuid":"114c2404-8130-4d20-bda3-0acc908a6972"}
+{"index":540,"sub_uri":"Q42918","obj_uri":"Q7430","obj_label":"DNA","sub_label":"Mutation","lineid":742,"uuid":"a621c1ba-6988-4987-836c-e0469f891bac"}
+{"index":97,"sub_uri":"Q4087","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"ammoniak","lineid":126,"uuid":"22065c8c-2eb2-4f51-bcbb-df0a1ce63b7b"}
+{"index":29,"sub_uri":"Q409184","obj_uri":"Q623","obj_label":"kol","sub_label":"Etylbensen","lineid":34,"uuid":"38c87816-000e-47a6-a1f6-462746e19222"}
+{"index":30,"sub_uri":"Q83320","obj_uri":"Q629","obj_label":"syre","sub_label":"salpetersyra","lineid":35,"uuid":"c150562c-6d27-47e9-9d1f-2da3da4678a5"}
+{"index":129,"sub_uri":"Q648352","obj_uri":"Q5090","obj_label":"ris","sub_label":"bibimbap","lineid":167,"uuid":"e4906e8b-dc9c-496a-be7f-0fca68fdabb5"}
+{"index":40,"sub_uri":"Q613394","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"Tributylfosfat","lineid":50,"uuid":"f1c70eb1-a4bc-41e3-a55a-cf9eeb3db772"}
+{"index":114,"sub_uri":"Q193411","obj_uri":"Q8495","obj_label":"mj\u00f6lk","sub_label":"Brie","lineid":146,"uuid":"9dfc32c9-49d5-492d-bec4-003da36d79b5"}
+{"index":523,"sub_uri":"Q410271","obj_uri":"Q623","obj_label":"kol","sub_label":"Tropan","lineid":718,"uuid":"b9ea920b-b412-47cb-9ba8-33ea560e9c42"}
+{"index":593,"sub_uri":"Q203874","obj_uri":"Q753","obj_label":"koppar","sub_label":"Nysilver","lineid":818,"uuid":"6e52f98e-5722-4809-abe0-373b98cb84ba"}
+{"index":520,"sub_uri":"Q23444","obj_uri":"Q3142","obj_label":"r\u00f6d","sub_label":"vit","lineid":714,"uuid":"1b86f959-08a1-46f1-b82c-c0630f3a6645"}
+{"index":684,"sub_uri":"Q407446","obj_uri":"Q629","obj_label":"syre","sub_label":"Natriumklorat","lineid":952,"uuid":"a572b55f-41ed-4a8c-ac07-84af72298dcc"}
+{"index":115,"sub_uri":"Q214863","obj_uri":"Q677","obj_label":"j\u00e4rn","sub_label":"J\u00e4rn(II)sulfat","lineid":147,"uuid":"78e629a5-cb59-4eaf-bb5d-ab30a7495610"}
+{"index":311,"sub_uri":"Q9595","obj_uri":"Q11378","obj_label":"Shiva","sub_label":"Trimurti","lineid":407,"uuid":"39c73e75-4870-458e-81ae-d982c6b0ddab"}
+{"index":281,"sub_uri":"Q411713","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Galliumnitrid","lineid":372,"uuid":"1a4d45fc-0952-4587-ae9f-4702aa6770d0"}
+{"index":67,"sub_uri":"Q41534","obj_uri":"Q623","obj_label":"kol","sub_label":"st\u00e4rkelse","lineid":88,"uuid":"c2db4593-c26c-4e8a-a2f2-5dc1a218b55d"}
+{"index":350,"sub_uri":"Q5282","obj_uri":"Q682","obj_label":"svavel","sub_label":"Svaveldioxid","lineid":464,"uuid":"fb266ead-20ca-4fdf-afcf-68e99ad2f906"}
+{"index":426,"sub_uri":"Q757163","obj_uri":"Q42295","obj_label":"Buske","sub_label":"f\u00f6rvedade v\u00e4xter","lineid":585,"uuid":"2951b7dd-1699-47e4-a0f5-ca51313947ea"}
+{"index":227,"sub_uri":"Q1072385","obj_uri":"Q744","obj_label":"nickel","sub_label":"Nichrom","lineid":301,"uuid":"3392b8f4-f0e8-4094-bd25-fac6c84fbfb2"}
+{"index":305,"sub_uri":"Q753910","obj_uri":"Q36465","obj_label":"mj\u00f6l","sub_label":"Soba","lineid":400,"uuid":"0141427a-653a-4698-ac3b-28d29c46ac5c"}
+{"index":25,"sub_uri":"Q218642","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Alanin","lineid":29,"uuid":"24921cdb-70ab-4750-9146-faa8555d31ca"}
+{"index":342,"sub_uri":"Q407993","obj_uri":"Q677","obj_label":"j\u00e4rn","sub_label":"J\u00e4rnsulfid","lineid":454,"uuid":"7d1d9289-f9dd-4e5b-ac46-a613bdbf7106"}
+{"index":472,"sub_uri":"Q288266","obj_uri":"Q629","obj_label":"syre","sub_label":"Magnesiumsulfat","lineid":646,"uuid":"311c8522-6a65-4737-9cf5-cdc8e255823c"}
+{"index":351,"sub_uri":"Q3071680","obj_uri":"Q510474","obj_label":"knekt","sub_label":"honn\u00f6rskort","lineid":465,"uuid":"c09de8a6-def6-4d9f-ac02-931a76cdffbd"}
+{"index":332,"sub_uri":"Q201552","obj_uri":"Q623","obj_label":"kol","sub_label":"Inulin","lineid":438,"uuid":"865c3249-f2db-4e79-adb1-61953d0836e6"}
+{"index":180,"sub_uri":"Q27496","obj_uri":"Q31","obj_label":"Belgien","sub_label":"V\u00e4steuropa","lineid":232,"uuid":"e5b886f2-07e3-4aa6-a6e5-b84b8c53323b"}
+{"index":529,"sub_uri":"Q409658","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"Hypofosforsyra","lineid":726,"uuid":"00d696a1-327d-4a1a-ac99-1e323d135c72"}
+{"index":238,"sub_uri":"Q748895","obj_uri":"Q29245","obj_label":"Hastings","sub_label":"Cinque ports","lineid":315,"uuid":"350f093b-a610-490a-8f8f-b96da2732966"}
+{"index":562,"sub_uri":"Q411235","obj_uri":"Q677","obj_label":"j\u00e4rn","sub_label":"J\u00e4rn(II,III)oxid","lineid":775,"uuid":"c07361d9-65cd-49b9-bab5-b7649e14e734"}
+{"index":138,"sub_uri":"Q152098","obj_uri":"Q910204","obj_label":"Thing","sub_label":"Fantastic Four","lineid":177,"uuid":"9281ad1c-6579-4f27-997b-ec31d874316d"}
+{"index":95,"sub_uri":"Q1311179","obj_uri":"Q677","obj_label":"j\u00e4rn","sub_label":"J\u00e4rn(III)fosfat","lineid":124,"uuid":"3e77246e-cd08-4555-a1b5-b061bae2f94a"}
+{"index":607,"sub_uri":"Q409630","obj_uri":"Q753","obj_label":"koppar","sub_label":"Kopparkarbonat","lineid":838,"uuid":"0c36c3d3-7c7b-4cf4-bbbd-f56ff32291e5"}
+{"index":574,"sub_uri":"Q207338","obj_uri":"Q8355","obj_label":"fiol","sub_label":"str\u00e5kkvartett","lineid":791,"uuid":"071b41c6-a734-4b25-bca7-1213562b5476"}
+{"index":670,"sub_uri":"Q1068623","obj_uri":"Q131214","obj_label":"antenn","sub_label":"TV-mast","lineid":933,"uuid":"b3d439c9-f6c2-481d-9c9f-6fa0272275fc"}
+{"index":462,"sub_uri":"Q2001841","obj_uri":"Q623","obj_label":"kol","sub_label":"Formiat","lineid":631,"uuid":"2eb62bbf-9d68-43b4-b4e4-b1f195114a22"}
+{"index":50,"sub_uri":"Q182168","obj_uri":"Q629","obj_label":"syre","sub_label":"Nitrat","lineid":65,"uuid":"15a3068d-35f9-43f6-bb27-9b9d255d5704"}
+{"index":554,"sub_uri":"Q122043","obj_uri":"Q623","obj_label":"kol","sub_label":"Fruktos","lineid":762,"uuid":"9653035d-9a63-4f48-bddf-9f656143e4cb"}
+{"index":16,"sub_uri":"Q408050","obj_uri":"Q629","obj_label":"syre","sub_label":"Dimetyleter","lineid":19,"uuid":"b561c994-2403-40e7-a6d6-7810edc5081c"}
+{"index":228,"sub_uri":"Q210041","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Cykliskt adenosinmonofosfat","lineid":302,"uuid":"59763a02-7bde-425b-8844-52d07f5589ed"}
+{"index":170,"sub_uri":"Q208105","obj_uri":"Q5090","obj_label":"ris","sub_label":"Risotto","lineid":219,"uuid":"7ffb22ad-6643-416b-8579-1b30cba8231f"}
+{"index":625,"sub_uri":"Q161233","obj_uri":"Q629","obj_label":"syre","sub_label":"Myrsyra","lineid":865,"uuid":"60d0221c-5604-4d41-8c2c-49e9256a59f6"}
+{"index":116,"sub_uri":"Q1572088","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"V\u00e4tehalid","lineid":148,"uuid":"8f6776f6-ecfb-47c9-8932-328e6ea586fb"}
+{"index":582,"sub_uri":"Q421085","obj_uri":"Q682","obj_label":"svavel","sub_label":"Silversulfid","lineid":801,"uuid":"5398d409-6b39-4296-a478-26ee498199b7"}
+{"index":424,"sub_uri":"Q178593","obj_uri":"Q11369","obj_label":"molekyl","sub_label":"makromolekyl","lineid":583,"uuid":"2805d2fb-4798-4952-9b1d-b2cbf53e8c36"}
+{"index":177,"sub_uri":"Q184485","obj_uri":"Q638","obj_label":"musik","sub_label":"scenkonst","lineid":228,"uuid":"af366932-0e3f-4cdc-887a-1a1f7dc790fd"}
+{"index":293,"sub_uri":"Q329888","obj_uri":"Q16","obj_label":"Kanada","sub_label":"De allierade under andra v\u00e4rldskriget","lineid":387,"uuid":"4dd92109-5eaa-4ac7-b4a0-a0420a99a152"}
+{"index":498,"sub_uri":"Q27433","obj_uri":"Q1037","obj_label":"Rwanda","sub_label":"Centralafrika","lineid":679,"uuid":"7403413d-7f37-4c72-8291-96e5d6e9efc4"}
+{"index":155,"sub_uri":"Q208643","obj_uri":"Q36117","obj_label":"Borneo","sub_label":"Malajiska arkipelagen","lineid":201,"uuid":"8f263c3d-6c54-4567-928e-3931fb095b69"}
+{"index":544,"sub_uri":"Q153","obj_uri":"Q623","obj_label":"kol","sub_label":"etanol","lineid":748,"uuid":"d4fd7328-c776-4263-a413-467fd5470949"}
+{"index":104,"sub_uri":"Q1969730","obj_uri":"Q39","obj_label":"Schweiz","sub_label":"Schengenomr\u00e5det","lineid":134,"uuid":"1204cc62-ff21-48b1-b6db-1626b846f22f"}
+{"index":231,"sub_uri":"Q420280","obj_uri":"Q706","obj_label":"kalcium","sub_label":"Trikalciumcitrat","lineid":306,"uuid":"27edfba5-25c0-4b5f-ae5b-1c4cc17027fe"}
+{"index":28,"sub_uri":"Q204714","obj_uri":"Q758","obj_label":"zink","sub_label":"Zinkklorid","lineid":33,"uuid":"5d9c309e-2c18-4eb9-8b9f-5b23cbcd14d6"}
+{"index":589,"sub_uri":"Q578170","obj_uri":"Q812","obj_label":"Florida","sub_label":"Kontinentala USA","lineid":811,"uuid":"cddec5ed-e52e-49ac-add5-c4f8d69fe09d"}
+{"index":700,"sub_uri":"Q19771","obj_uri":"Q16","obj_label":"Kanada","sub_label":"G20","lineid":972,"uuid":"0c208e4b-e53d-4466-81ee-405bba8f165f"}
+{"index":647,"sub_uri":"Q14982","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"metanol","lineid":904,"uuid":"925f87d9-6ed8-452e-b9ab-735ec67d5201"}
+{"index":644,"sub_uri":"Q11427","obj_uri":"Q677","obj_label":"j\u00e4rn","sub_label":"st\u00e5l","lineid":898,"uuid":"35afb859-6ad0-41f4-86b1-f8b9de1676fd"}
+{"index":297,"sub_uri":"Q422080","obj_uri":"Q629","obj_label":"syre","sub_label":"Klordioxid","lineid":392,"uuid":"1a39468c-c7f5-478f-b3ec-e3d7e3e1b3cc"}
+{"index":370,"sub_uri":"Q134219","obj_uri":"Q629","obj_label":"syre","sub_label":"Polysackarid","lineid":493,"uuid":"272e68b5-e5d9-4777-9d7f-383f2e1e537b"}
+{"index":201,"sub_uri":"Q411046","obj_uri":"Q682","obj_label":"svavel","sub_label":"Tiomersal","lineid":259,"uuid":"2e986126-13c9-4732-a49d-8bd7078f96f4"}
+{"index":121,"sub_uri":"Q407709","obj_uri":"Q629","obj_label":"syre","sub_label":"Koppar(I)oxid","lineid":156,"uuid":"10a3a7f0-70d1-45a6-b84a-fd341f0d636c"}
+{"index":68,"sub_uri":"Q553905","obj_uri":"Q178024","obj_label":"deg","sub_label":"wonton","lineid":89,"uuid":"6252992f-e8c5-4b6b-8587-505803046bac"}
+{"index":355,"sub_uri":"Q409990","obj_uri":"Q623","obj_label":"kol","sub_label":"Eikosapentaensyra","lineid":472,"uuid":"8c6603cd-289c-4c2c-bab1-e9bae70bbad9"}
+{"index":157,"sub_uri":"Q832791","obj_uri":"Q10943","obj_label":"ost","sub_label":"Focaccia","lineid":204,"uuid":"aeff19a9-476f-4cb8-88f0-e400ec275eb0"}
+{"index":626,"sub_uri":"Q1420","obj_uri":"Q188209","obj_label":"axel","sub_label":"bil","lineid":866,"uuid":"10bb56ac-a394-4b73-9c88-1c15d89b9129"}
+{"index":443,"sub_uri":"Q7802","obj_uri":"Q36465","obj_label":"mj\u00f6l","sub_label":"br\u00f6d","lineid":607,"uuid":"e1a17aec-2a8b-4484-a499-47a2f803b1de"}
+{"index":454,"sub_uri":"Q1969730","obj_uri":"Q28","obj_label":"Ungern","sub_label":"Schengenomr\u00e5det","lineid":619,"uuid":"f8b60ee3-0911-4f08-addc-be785d10ba33"}
+{"index":487,"sub_uri":"Q658684","obj_uri":"Q677","obj_label":"j\u00e4rn","sub_label":"Alnico","lineid":664,"uuid":"e3c25e92-a3ff-4bd7-9df2-1f34ade4a3d5"}
+{"index":534,"sub_uri":"Q25271","obj_uri":"Q752841","obj_label":"Destiny","sub_label":"Internationella rymdstationen","lineid":733,"uuid":"235599ff-4acf-416c-aef6-2b9819d57f47"}
+{"index":35,"sub_uri":"Q39350","obj_uri":"Q42918","obj_label":"Mutation","sub_label":"artbildning","lineid":44,"uuid":"d6b1f7e9-4d69-42f9-ab1e-7890a0b2ec79"}
+{"index":215,"sub_uri":"Q424284","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Pyrazin","lineid":281,"uuid":"95894cdf-2d71-4268-b7a2-43ef2e384458"}
+{"index":331,"sub_uri":"Q2095629","obj_uri":"Q623","obj_label":"kol","sub_label":"Pinen","lineid":436,"uuid":"a6db2de6-c114-44d4-a2c4-e35769c4fad4"}
+{"index":339,"sub_uri":"Q611214","obj_uri":"Q794","obj_label":"Iran","sub_label":"N-11","lineid":449,"uuid":"d4639c3c-726d-450e-9756-0840b5c3e8df"}
+{"index":379,"sub_uri":"Q309033","obj_uri":"Q623","obj_label":"kol","sub_label":"Knallkvicksilver","lineid":506,"uuid":"35444d38-37bd-4497-abcb-4242eeb2ea82"}
+{"index":233,"sub_uri":"Q3249706","obj_uri":"Q658","obj_label":"natrium","sub_label":"Natriumfosfat","lineid":310,"uuid":"c1f7cec5-9e39-4aa1-b1ae-e9cbb9a2bc4e"}
+{"index":98,"sub_uri":"Q407473","obj_uri":"Q629","obj_label":"syre","sub_label":"Etenoxid","lineid":127,"uuid":"952da63d-1920-4345-b7e1-b2605e675de7"}
+{"index":452,"sub_uri":"Q1997","obj_uri":"Q623","obj_label":"kol","sub_label":"koldioxid","lineid":616,"uuid":"9488f14f-7c2b-4b1d-9152-e0091ffdf5be"}
+{"index":497,"sub_uri":"Q193572","obj_uri":"Q623","obj_label":"kol","sub_label":"Salicylsyra","lineid":678,"uuid":"fd72fc0e-391c-4175-bc39-0e2aa66e4bf7"}
+{"index":183,"sub_uri":"Q413611","obj_uri":"Q703","obj_label":"kalium","sub_label":"Kaliumbensoat","lineid":235,"uuid":"cecc07a4-a1af-45c3-b891-fa378332056a"}
+{"index":416,"sub_uri":"Q409648","obj_uri":"Q623","obj_label":"kol","sub_label":"Cytidintrifosfat","lineid":572,"uuid":"1a9a82ab-da7b-42ed-95c2-8dff67281f83"}
+{"index":144,"sub_uri":"Q23767","obj_uri":"Q623","obj_label":"kol","sub_label":"kalciumkarbonat","lineid":188,"uuid":"0c1e2fe0-a617-4c56-a167-194e5f07d890"}
+{"index":627,"sub_uri":"Q2334960","obj_uri":"Q708","obj_label":"bly","sub_label":"Plumbater","lineid":867,"uuid":"aa05967f-a4cc-442e-bc45-50ea6ce9c9aa"}
+{"index":263,"sub_uri":"Q407473","obj_uri":"Q623","obj_label":"kol","sub_label":"Etenoxid","lineid":349,"uuid":"879f03d0-b4d5-406d-b4f1-eb93539ab13c"}
+{"index":597,"sub_uri":"Q273822","obj_uri":"Q8087","obj_label":"geometri","sub_label":"Quadrivium","lineid":824,"uuid":"2843da15-7345-4baa-9153-c03b899e3d27"}
+{"index":611,"sub_uri":"Q849058","obj_uri":"Q192628","obj_label":"n\u00f6tk\u00f6tt","sub_label":"Biff Stroganoff","lineid":845,"uuid":"545de4f5-a500-4bc9-8a28-d2b297bf6128"}
+{"index":460,"sub_uri":"Q177836","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Kaliumnitrat","lineid":628,"uuid":"26851b4e-b385-4bd3-923b-8866626db0e2"}
+{"index":26,"sub_uri":"Q408892","obj_uri":"Q629","obj_label":"syre","sub_label":"Bariumoxid","lineid":30,"uuid":"c5a45265-170d-41b3-b57d-9e7e12ab60e3"}
+{"index":418,"sub_uri":"Q49546","obj_uri":"Q623","obj_label":"kol","sub_label":"Aceton","lineid":576,"uuid":"6f5daa7a-0fcf-4fbc-94df-da40c69ce32b"}
+{"index":440,"sub_uri":"Q37726","obj_uri":"Q64418","obj_label":"artilleri","sub_label":"arm\u00e9","lineid":604,"uuid":"a773bdba-313e-440f-98a5-0e03bd80e4c7"}
+{"index":81,"sub_uri":"Q409564","obj_uri":"Q629","obj_label":"syre","sub_label":"Kaprylsyra","lineid":110,"uuid":"f0987324-48d0-4a5f-bd15-d452f0dbd744"}
+{"index":7,"sub_uri":"Q181699","obj_uri":"Q629","obj_label":"syre","sub_label":"karbonat","lineid":8,"uuid":"b8265a77-6c40-41ee-80e1-f80a32b9dd43"}
+{"index":86,"sub_uri":"Q150429","obj_uri":"Q623","obj_label":"kol","sub_label":"Pentan","lineid":115,"uuid":"692cb777-8d80-42c0-bf9c-ce0d992c11e9"}
+{"index":99,"sub_uri":"Q272502","obj_uri":"Q36465","obj_label":"mj\u00f6l","sub_label":"Bagel","lineid":128,"uuid":"efa62437-ee66-4cb0-a5e6-40c974c8163e"}
+{"index":398,"sub_uri":"Q421948","obj_uri":"Q629","obj_label":"syre","sub_label":"Organisk syra","lineid":539,"uuid":"7ba7ebef-94d6-49f4-bfa2-d3e2a57b3d9d"}
+{"index":323,"sub_uri":"Q2920963","obj_uri":"Q11004","obj_label":"gr\u00f6nsak","sub_label":"stuvning","lineid":425,"uuid":"8dec5e41-1bdb-439c-a86a-d6b48acb7b5e"}
+{"index":23,"sub_uri":"Q27449","obj_uri":"Q224","obj_label":"Kroatien","sub_label":"Sydeuropa","lineid":27,"uuid":"fec3592b-15aa-45d9-a0e2-f31a6a492ce8"}
+{"index":3,"sub_uri":"Q207895","obj_uri":"Q629","obj_label":"syre","sub_label":"Kv\u00e4vedioxid","lineid":4,"uuid":"7cc5bb3f-5a38-469e-a8b0-55c7480fb37f"}
+{"index":337,"sub_uri":"Q151324","obj_uri":"Q623","obj_label":"kol","sub_label":"Propen","lineid":447,"uuid":"e2d1b55f-a7a1-4fa2-8cd1-2db1d8976ec5"}
+{"index":393,"sub_uri":"Q47512","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"\u00c4ttiksyra","lineid":529,"uuid":"dd8645b6-1170-4bc7-85de-d9c8415c9a09"}
+{"index":500,"sub_uri":"Q544","obj_uri":"Q319","obj_label":"Jupiter","sub_label":"solsystemet","lineid":681,"uuid":"6139ebd7-8ec0-4af5-af5a-94adcfb611b6"}
+{"index":372,"sub_uri":"Q179724","obj_uri":"Q623","obj_label":"kol","sub_label":"Naftalen","lineid":496,"uuid":"f1936093-630e-4b2e-870c-9625aacd8790"}
+{"index":39,"sub_uri":"Q195","obj_uri":"Q11002","obj_label":"socker","sub_label":"choklad","lineid":49,"uuid":"5f813b71-1f38-46af-a87d-e1dc3b5bcae5"}
+{"index":477,"sub_uri":"Q271555","obj_uri":"Q5090","obj_label":"ris","sub_label":"Biryani","lineid":654,"uuid":"f999b60d-97d1-48a8-981b-b96a7eb7fae8"}
+{"index":380,"sub_uri":"Q379138","obj_uri":"Q11002","obj_label":"socker","sub_label":"Fudge","lineid":507,"uuid":"7221e1f3-e1ac-43a0-9905-4a5fa68d1618"}
+{"index":640,"sub_uri":"Q52948","obj_uri":"Q11024","obj_label":"kommunikation","sub_label":"interaktion","lineid":893,"uuid":"69d54b60-64ae-4dc8-af22-4112cdb761b7"}
+{"index":483,"sub_uri":"Q150440","obj_uri":"Q623","obj_label":"kol","sub_label":"Hexan","lineid":660,"uuid":"4a1021d5-6352-479e-a64d-a13971f24ab8"}
+{"index":505,"sub_uri":"Q407258","obj_uri":"Q682","obj_label":"svavel","sub_label":"Kalciumsulfat","lineid":690,"uuid":"f6b1a278-8e61-4c69-857a-e1f18ca167ad"}
+{"index":69,"sub_uri":"Q329888","obj_uri":"Q408","obj_label":"Australien","sub_label":"De allierade under andra v\u00e4rldskriget","lineid":91,"uuid":"a2e007be-336f-49d4-998a-e8c7ee9cb2b4"}
+{"index":211,"sub_uri":"Q1088212","obj_uri":"Q682","obj_label":"svavel","sub_label":"Tioaldehyd","lineid":274,"uuid":"1450a271-1c6d-4872-a03a-be18af86c843"}
+{"index":430,"sub_uri":"Q27468","obj_uri":"Q184","obj_label":"Vitryssland","sub_label":"\u00d6steuropa","lineid":592,"uuid":"1b4d1504-3220-4a81-ae7b-7e9463652feb"}
+{"index":495,"sub_uri":"Q1969730","obj_uri":"Q37","obj_label":"Litauen","sub_label":"Schengenomr\u00e5det","lineid":676,"uuid":"50048519-897e-4955-a2ad-001afd272d7e"}
+{"index":375,"sub_uri":"Q36200","obj_uri":"Q629","obj_label":"syre","sub_label":"Zirkoniumdioxid","lineid":500,"uuid":"a311f7cf-92e5-4e7e-b652-cc45c4bec1a3"}
+{"index":402,"sub_uri":"Q578170","obj_uri":"Q173","obj_label":"Alabama","sub_label":"Kontinentala USA","lineid":546,"uuid":"f3de7393-7c6b-4495-9ef9-f189943afa8e"}
+{"index":27,"sub_uri":"Q15281614","obj_uri":"Q132020","obj_label":"Xbox","sub_label":"Xbox","lineid":32,"uuid":"393b63b3-656f-43c8-b079-85a9334096a0"}
+{"index":578,"sub_uri":"Q33328","obj_uri":"Q1412","obj_label":"finska","sub_label":"\u00f6stersj\u00f6finska spr\u00e5k","lineid":795,"uuid":"8971f7c2-3bfe-4cda-88e6-98e21dad7fc7"}
+{"index":253,"sub_uri":"Q424418","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Kv\u00e4veoxider","lineid":337,"uuid":"36d6e607-606f-40f4-b04e-decd6d10662a"}
+{"index":333,"sub_uri":"Q989930","obj_uri":"Q6097","obj_label":"te","sub_label":"Sm\u00f6rte","lineid":439,"uuid":"76d0b564-064a-4edb-ad24-e96361b55ca4"}
+{"index":292,"sub_uri":"Q188543","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Ammoniumklorid","lineid":385,"uuid":"cdda9ee8-7a77-4e44-8b56-8f4d990d750b"}
+{"index":63,"sub_uri":"Q407373","obj_uri":"Q623","obj_label":"kol","sub_label":"Arabinos","lineid":84,"uuid":"88c2b0f2-a97d-4ab3-9917-bb3070de57a1"}
+{"index":347,"sub_uri":"Q259997","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Hydroxylamin","lineid":460,"uuid":"cd9010f9-7218-49dc-808e-f5de1a805a0e"}
+{"index":249,"sub_uri":"Q407699","obj_uri":"Q623","obj_label":"kol","sub_label":"Arakidonsyra","lineid":330,"uuid":"0217df21-4dd5-4a2a-ac3f-b622fe55bdbe"}
+{"index":528,"sub_uri":"Q14565700","obj_uri":"Q309","obj_label":"historia","sub_label":"samh\u00e4llsl\u00e4ra","lineid":725,"uuid":"cc129a4c-6e39-4a21-8198-41a7480f1cfb"}
+{"index":58,"sub_uri":"Q409298","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Dimetylformamid","lineid":76,"uuid":"8954bc15-1e4a-491c-8dcd-b40944a0b04f"}
+{"index":698,"sub_uri":"Q172290","obj_uri":"Q682","obj_label":"svavel","sub_label":"Sulfat","lineid":970,"uuid":"2d001715-5154-40d8-a2bf-2bb915eabfd3"}
+{"index":470,"sub_uri":"Q49","obj_uri":"Q664609","obj_label":"V\u00e4stindien","sub_label":"Nordamerika","lineid":643,"uuid":"e8ec1e6c-77e0-4abd-adc8-dd3e0d90a002"}
+{"index":200,"sub_uri":"Q243558","obj_uri":"Q663","obj_label":"aluminium","sub_label":"Duraluminium","lineid":256,"uuid":"5bc91de0-3d22-4e75-8ba0-43022f23480b"}
+{"index":160,"sub_uri":"Q5361665","obj_uri":"Q623","obj_label":"kol","sub_label":"jetbr\u00e4nsle","lineid":207,"uuid":"18a48bd5-ab14-404d-8205-beda5816d801"}
+{"index":703,"sub_uri":"Q948232","obj_uri":"Q623","obj_label":"kol","sub_label":"Stenkolstj\u00e4ra","lineid":975,"uuid":"9af6fb51-5432-47bf-bb28-12d71236049e"}
+{"index":586,"sub_uri":"Q2679937","obj_uri":"Q178024","obj_label":"deg","sub_label":"Pelmeni","lineid":808,"uuid":"77db85d1-4f5c-4236-b8bd-1cb4282d8c03"}
+{"index":435,"sub_uri":"Q187045","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"borsyra","lineid":598,"uuid":"537dcdf3-051b-469a-845d-d85c62f0da43"}
+{"index":463,"sub_uri":"Q19771","obj_uri":"Q252","obj_label":"Indonesien","sub_label":"G20","lineid":632,"uuid":"872962f5-0473-4ea2-81d1-0ec9b2c9b467"}
+{"index":513,"sub_uri":"Q407646","obj_uri":"Q623","obj_label":"kol","sub_label":"Mannitol","lineid":705,"uuid":"d70f3de0-f3b2-4198-ba1e-c1d2df9ae102"}
+{"index":125,"sub_uri":"Q181381","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"Galaktos","lineid":162,"uuid":"6c571ac8-6960-4281-8383-ebcad72efc86"}
+{"index":675,"sub_uri":"Q421888","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Ammoniumhydroxid","lineid":939,"uuid":"ea8c8cdf-5a2a-49e6-86ea-187aaaa3093d"}
+{"index":103,"sub_uri":"Q4421","obj_uri":"Q10884","obj_label":"tr\u00e4d","sub_label":"skog","lineid":133,"uuid":"42bbd954-742a-4f70-9097-e253bff09282"}
+{"index":517,"sub_uri":"Q611214","obj_uri":"Q843","obj_label":"Pakistan","sub_label":"N-11","lineid":710,"uuid":"49a13570-ee51-428f-ac6e-f822285c4b92"}
+{"index":169,"sub_uri":"Q27468","obj_uri":"Q218","obj_label":"Rum\u00e4nien","sub_label":"\u00d6steuropa","lineid":218,"uuid":"fcc8c5c0-4bf7-4e9b-b5a1-a6ce726a7efe"}
+{"index":2,"sub_uri":"Q261387","obj_uri":"Q89","obj_label":"\u00e4pple","sub_label":"Apfelstrudel","lineid":3,"uuid":"b5b73e40-5b6d-44f7-a510-be8eed4b0308"}
+{"index":584,"sub_uri":"Q80250","obj_uri":"Q623","obj_label":"kol","sub_label":"Cyklopropan","lineid":803,"uuid":"ccc19950-646f-48e2-b480-7238710edf35"}
+{"index":521,"sub_uri":"Q212121","obj_uri":"Q5090","obj_label":"ris","sub_label":"Paella","lineid":715,"uuid":"896c51fd-d44c-4059-be13-516553d53546"}
+{"index":618,"sub_uri":"Q1969730","obj_uri":"Q34","obj_label":"Sverige","sub_label":"Schengenomr\u00e5det","lineid":855,"uuid":"d021b52a-2686-4551-a1fd-c52b68ec2d6e"}
+{"index":349,"sub_uri":"Q184485","obj_uri":"Q2743","obj_label":"musikal","sub_label":"scenkonst","lineid":463,"uuid":"434d0d3a-fafa-45cc-91e1-f769f7eb1229"}
+{"index":80,"sub_uri":"Q133516","obj_uri":"Q623","obj_label":"kol","sub_label":"Monosackarid","lineid":109,"uuid":"95cc6a11-078f-49dd-b3ae-90c613b2bbbd"}
+{"index":356,"sub_uri":"Q180341","obj_uri":"Q623","obj_label":"kol","sub_label":"Metionin","lineid":475,"uuid":"c70306b7-fffe-42a3-b244-0d0734730744"}
+{"index":223,"sub_uri":"Q409926","obj_uri":"Q682","obj_label":"svavel","sub_label":"Sulfurylklorid","lineid":294,"uuid":"7dce3aca-e183-41ff-af8d-7fe66d33f5bb"}
+{"index":516,"sub_uri":"Q420066","obj_uri":"Q658","obj_label":"natrium","sub_label":"Natriumstearat","lineid":709,"uuid":"db9d5587-232d-4bfa-91c0-fda0c6b1c7f8"}
+{"index":204,"sub_uri":"Q796758","obj_uri":"Q93189","obj_label":"\u00e4gg","sub_label":"\u00e4ggvita","lineid":263,"uuid":"44fd03dc-e68b-4474-ad66-261652fbe9cd"}
+{"index":382,"sub_uri":"Q27496","obj_uri":"Q39","obj_label":"Schweiz","sub_label":"V\u00e4steuropa","lineid":511,"uuid":"5a978a12-8baf-41b4-a925-147b1de57a20"}
+{"index":664,"sub_uri":"Q151324","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"Propen","lineid":926,"uuid":"641ebba5-f0f5-4cc8-a4e6-eb75e7baae3b"}
+{"index":100,"sub_uri":"Q19771","obj_uri":"Q408","obj_label":"Australien","sub_label":"G20","lineid":130,"uuid":"f96bfc54-81cd-4178-b2ca-6698e448a537"}
+{"index":514,"sub_uri":"Q83367","obj_uri":"Q34990","obj_label":"Torah","sub_label":"Tanakh","lineid":706,"uuid":"34cd32ab-c20b-4f24-a448-87bcf857f80e"}
+{"index":348,"sub_uri":"Q409292","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Piperazin","lineid":461,"uuid":"3f26a044-baaa-4ae2-836a-68fd7d67639c"}
+{"index":271,"sub_uri":"Q21195","obj_uri":"Q34","obj_label":"Sverige","sub_label":"Skandinavien","lineid":357,"uuid":"fbca090d-5a8b-4716-9d29-e7fd4b37415b"}
+{"index":493,"sub_uri":"Q483269","obj_uri":"Q677","obj_label":"j\u00e4rn","sub_label":"gjutj\u00e4rn","lineid":673,"uuid":"99f545fc-135a-4872-81fd-00a385f396a6"}
+{"index":693,"sub_uri":"Q204954","obj_uri":"Q758","obj_label":"zink","sub_label":"Zinksulfat","lineid":964,"uuid":"dbf98596-a544-464d-98af-e3d89a789692"}
+{"index":591,"sub_uri":"Q15277","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"adenin","lineid":813,"uuid":"518ee54d-508e-47e3-bff5-26baf4d9260d"}
+{"index":126,"sub_uri":"Q16391","obj_uri":"Q623","obj_label":"kol","sub_label":"1-Butanol","lineid":163,"uuid":"9db08316-0b06-42c9-a026-810a9836fc60"}
+{"index":192,"sub_uri":"Q329888","obj_uri":"Q20","obj_label":"Norge","sub_label":"De allierade under andra v\u00e4rldskriget","lineid":246,"uuid":"d2cab9ce-3f16-4d61-b251-dced6a2e5b8a"}
+{"index":56,"sub_uri":"Q8162","obj_uri":"Q37437","obj_label":"syntax","sub_label":"spr\u00e5kvetenskap","lineid":74,"uuid":"ae2ce56a-2fc4-4769-a939-d0734550875b"}
+{"index":82,"sub_uri":"Q17451","obj_uri":"Q4868296","obj_label":"typsnitt","sub_label":"typsnitt","lineid":111,"uuid":"c3ee2c27-dfea-4cd8-b388-8994d1b46933"}
+{"index":49,"sub_uri":"Q245752","obj_uri":"Q503","obj_label":"banan","sub_label":"Banana split","lineid":63,"uuid":"af3d425f-fcf7-4a8a-9967-556deefb2fc7"}
+{"index":277,"sub_uri":"Q184485","obj_uri":"Q1344","obj_label":"opera","sub_label":"scenkonst","lineid":365,"uuid":"5a0fdcca-5d77-441c-87e8-5d8578aada9f"}
+{"index":502,"sub_uri":"Q102769","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"Natriumhydroxid","lineid":685,"uuid":"65ea38cf-28c3-4e27-a59a-622fad86ced1"}
+{"index":195,"sub_uri":"Q542146","obj_uri":"Q1185","obj_label":"Karnataka","sub_label":"Sydindien","lineid":251,"uuid":"d50ec0a1-0e87-4ece-8fbe-935005fdb1c5"}
+{"index":555,"sub_uri":"Q378154","obj_uri":"Q623","obj_label":"kol","sub_label":"essentiella fettsyra","lineid":764,"uuid":"15b0cebb-62bb-46bc-b393-7ea37ba774da"}
+{"index":389,"sub_uri":"Q185749","obj_uri":"Q8495","obj_label":"mj\u00f6lk","sub_label":"Kefir","lineid":522,"uuid":"e00ab460-9559-4f62-88a9-71a11bf0ce50"}
+{"index":449,"sub_uri":"Q5319","obj_uri":"Q658","obj_label":"natrium","sub_label":"Borax","lineid":613,"uuid":"b20d4dcc-7da0-4bed-b7d0-d7f15fd29b57"}
+{"index":567,"sub_uri":"Q11369","obj_uri":"Q9121","obj_label":"atom","sub_label":"molekyl","lineid":781,"uuid":"99238fa1-f675-484f-8243-bddd07c57f48"}
+{"index":325,"sub_uri":"Q243992","obj_uri":"Q623","obj_label":"kol","sub_label":"Furan","lineid":428,"uuid":"a5e52db0-796a-44cf-a1e5-b43bb4fb8c5b"}
+{"index":490,"sub_uri":"Q2025","obj_uri":"Q623","obj_label":"kol","sub_label":"kolmonoxid","lineid":669,"uuid":"2e430bb3-0299-4920-b4c2-98845078731b"}
+{"index":41,"sub_uri":"Q917761","obj_uri":"Q8495","obj_label":"mj\u00f6lk","sub_label":"dulce de leche","lineid":52,"uuid":"3494e3d1-bcef-436f-861f-2156d65ed64d"}
+{"index":655,"sub_uri":"Q329888","obj_uri":"Q96","obj_label":"Mexiko","sub_label":"De allierade under andra v\u00e4rldskriget","lineid":913,"uuid":"134147cc-fb59-41c1-ae87-d816690adf6f"}
+{"index":506,"sub_uri":"Q32485","obj_uri":"Q12100","obj_label":"f\u00e4ktning","sub_label":"modern femkamp","lineid":692,"uuid":"ea6e9342-5d63-4b2e-aa05-9833b2730792"}
+{"index":101,"sub_uri":"Q407467","obj_uri":"Q658","obj_label":"natrium","sub_label":"Natriumoxid","lineid":131,"uuid":"1bd9fbb6-2be8-4a99-9bd7-894304b8e9c5"}
+{"index":294,"sub_uri":"Q190901","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"ammonium","lineid":388,"uuid":"74125efc-ddc2-4928-9aaa-b19293071021"}
+{"index":432,"sub_uri":"Q828043","obj_uri":"Q600396","obj_label":"Fisk","sub_label":"bouillabaisse","lineid":595,"uuid":"9f51e239-7f0a-4ae2-b032-5cb82af9f967"}
+{"index":10,"sub_uri":"Q27449","obj_uri":"Q29","obj_label":"Spanien","sub_label":"Sydeuropa","lineid":12,"uuid":"1b2ed718-9151-4fc3-8027-e9de6684f673"}
+{"index":120,"sub_uri":"Q27496","obj_uri":"Q142","obj_label":"Frankrike","sub_label":"V\u00e4steuropa","lineid":155,"uuid":"2ce44c48-8f5d-4acd-bc79-90947340d4f5"}
+{"index":112,"sub_uri":"Q411155","obj_uri":"Q663","obj_label":"aluminium","sub_label":"Natriumaluminat","lineid":143,"uuid":"5136e1f1-c17b-4146-92da-7b8750273038"}
+{"index":343,"sub_uri":"Q419861","obj_uri":"Q623","obj_label":"kol","sub_label":"Bromdeoxiuridin","lineid":456,"uuid":"2599e8f0-2127-4826-ab66-cf86caff206c"}
+{"index":229,"sub_uri":"Q1778613","obj_uri":"Q629","obj_label":"syre","sub_label":"Koloxid","lineid":304,"uuid":"9260a334-96cd-4a0a-9a50-0120eab4a41b"}
+{"index":279,"sub_uri":"Q83203","obj_uri":"Q726","obj_label":"h\u00e4st","sub_label":"kentaur","lineid":370,"uuid":"f93596e4-ab68-49b1-b002-c8914662b195"}
+{"index":391,"sub_uri":"Q185253","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Adenosindifosfat","lineid":525,"uuid":"4bbd4bc0-3c67-4e0e-8911-9b54983669cc"}
+{"index":549,"sub_uri":"Q658684","obj_uri":"Q753","obj_label":"koppar","sub_label":"Alnico","lineid":753,"uuid":"4fca9830-1668-4255-acc0-7a6006a05cae"}
+{"index":196,"sub_uri":"Q408925","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Kv\u00e4vev\u00e4tesyra","lineid":252,"uuid":"afcd0a62-cd2b-449d-a10f-a291af2cc381"}
+{"index":141,"sub_uri":"Q720254","obj_uri":"Q192628","obj_label":"n\u00f6tk\u00f6tt","sub_label":"Asado","lineid":184,"uuid":"f7aaa9e0-3a9b-4714-a6c7-be7c44d5b6ea"}
+{"index":108,"sub_uri":"Q379885","obj_uri":"Q703","obj_label":"kalium","sub_label":"kaliumkarbonat","lineid":139,"uuid":"71c912d3-e174-4bde-9f17-e4a9df0cc026"}
+{"index":72,"sub_uri":"Q207832","obj_uri":"Q34172","obj_label":"sm\u00f6r","sub_label":"Croissant","lineid":94,"uuid":"a8bed31f-01f9-476f-a0e3-99c6d072dabc"}
+{"index":400,"sub_uri":"Q179678","obj_uri":"Q658","obj_label":"natrium","sub_label":"Natriumglutamat","lineid":544,"uuid":"a9cac5cb-8cc7-4a61-850d-272790ad2389"}
+{"index":290,"sub_uri":"Q1778613","obj_uri":"Q623","obj_label":"kol","sub_label":"Koloxid","lineid":383,"uuid":"b634870c-48f3-4266-b2f4-39adab69eefd"}
+{"index":140,"sub_uri":"Q19771","obj_uri":"Q142","obj_label":"Frankrike","sub_label":"G20","lineid":182,"uuid":"83b7252f-dea5-450d-b217-51333faee277"}
+{"index":530,"sub_uri":"Q922718","obj_uri":"Q682","obj_label":"svavel","sub_label":"Sulfonat","lineid":727,"uuid":"d1bd76ff-779a-4841-978c-6c3d40680cbe"}
+{"index":299,"sub_uri":"Q328692","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Imidazol","lineid":394,"uuid":"0d32878c-d48e-4d74-8af8-782eb5bbc5d5"}
+{"index":632,"sub_uri":"Q408050","obj_uri":"Q623","obj_label":"kol","sub_label":"Dimetyleter","lineid":876,"uuid":"5659cb16-ce82-456a-ae9b-ab9e5eace00a"}
+{"index":666,"sub_uri":"Q7991","obj_uri":"Q420","obj_label":"biologi","sub_label":"naturvetenskap","lineid":929,"uuid":"7e2a80a3-dece-4bcb-9aa2-81a7b69d32ea"}
+{"index":255,"sub_uri":"Q422426","obj_uri":"Q703","obj_label":"kalium","sub_label":"Kaliumfluorid","lineid":341,"uuid":"435a99a0-744c-4d72-bc7c-b2d4e918e153"}
+{"index":275,"sub_uri":"Q424418","obj_uri":"Q629","obj_label":"syre","sub_label":"Kv\u00e4veoxider","lineid":363,"uuid":"b7b05643-5f15-47ca-87e9-b518532a1043"}
+{"index":691,"sub_uri":"Q188261","obj_uri":"Q623","obj_label":"kol","sub_label":"Puriner","lineid":961,"uuid":"fedc50eb-ec6a-4320-8c63-cd5f52e322db"}
+{"index":266,"sub_uri":"Q190012","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"adenosin","lineid":352,"uuid":"2cf3333c-d082-45cb-8199-78a856da9607"}
+{"index":411,"sub_uri":"Q1899093","obj_uri":"Q28472","obj_label":"h\u00e5r","sub_label":"N\u00e4sh\u00e5r","lineid":564,"uuid":"b05f8ac5-01ce-46b9-9c3e-d531a6ada8dc"}
+{"index":553,"sub_uri":"Q188261","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Puriner","lineid":761,"uuid":"039a3bfa-437a-44ad-966f-400db05b8669"}
+{"index":475,"sub_uri":"Q578170","obj_uri":"Q1214","obj_label":"Wyoming","sub_label":"Kontinentala USA","lineid":650,"uuid":"a0a0beb3-d2a0-4ae5-bf1a-fb71e540019b"}
+{"index":599,"sub_uri":"Q25774","obj_uri":"Q629","obj_label":"syre","sub_label":"Cyansyra","lineid":826,"uuid":"0dc94b36-d3d3-43ec-ab97-81095b2f0d95"}
+{"index":419,"sub_uri":"Q1969730","obj_uri":"Q32","obj_label":"Luxemburg","sub_label":"Schengenomr\u00e5det","lineid":577,"uuid":"e86085dd-94bd-46e8-a29e-d2e41274f4e5"}
+{"index":243,"sub_uri":"Q11427","obj_uri":"Q623","obj_label":"kol","sub_label":"st\u00e5l","lineid":321,"uuid":"9aec55bc-8bd3-4716-8fc7-83f4d4262448"}
+{"index":568,"sub_uri":"Q80083","obj_uri":"Q315","obj_label":"spr\u00e5k","sub_label":"humaniora","lineid":782,"uuid":"d4433b9d-29fc-402d-b76a-4d778b724bb8"}
+{"index":274,"sub_uri":"Q5401","obj_uri":"Q48","obj_label":"Asien","sub_label":"Eurasien","lineid":362,"uuid":"351fd108-0bac-4b4e-b46c-562b5672fa3e"}
+{"index":251,"sub_uri":"Q407997","obj_uri":"Q629","obj_label":"syre","sub_label":"Inositol","lineid":335,"uuid":"d42639b2-65f4-411d-8eff-8d3830979dc5"}
+{"index":57,"sub_uri":"Q715542","obj_uri":"Q36465","obj_label":"mj\u00f6l","sub_label":"R\u00e4kchips","lineid":75,"uuid":"75177b22-6105-4a07-96e0-aa2c28c49120"}
+{"index":436,"sub_uri":"Q185076","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Cyanider","lineid":599,"uuid":"e333ebd9-096b-4692-8172-938f03e0e2e6"}
+{"index":414,"sub_uri":"Q5447188","obj_uri":"Q146505","obj_label":"l\u00f6sningsmedel","sub_label":"l\u00f6sning","lineid":570,"uuid":"77958426-e33d-408f-ac7b-6cc73e1d10f9"}
+{"index":90,"sub_uri":"Q251265","obj_uri":"Q191768","obj_label":"fl\u00e4skk\u00f6tt","sub_label":"Frikadeller","lineid":119,"uuid":"8e98ed37-fb00-43b3-89a1-0d9ac991172a"}
+{"index":668,"sub_uri":"Q2302413","obj_uri":"Q2796766","obj_label":"Laxfiskar","sub_label":"r\u00f6kt lax","lineid":931,"uuid":"0aec567c-0fdb-4e05-9108-ccf991fcce5c"}
+{"index":66,"sub_uri":"Q843438","obj_uri":"Q629","obj_label":"syre","sub_label":"cyanater","lineid":87,"uuid":"247ce0c3-cc13-4545-9865-6fbd5f50844b"}
+{"index":17,"sub_uri":"Q1362405","obj_uri":"Q8495","obj_label":"mj\u00f6lk","sub_label":"Gelato","lineid":21,"uuid":"ce8472eb-4122-4722-a595-da343d0c4721"}
+{"index":667,"sub_uri":"Q184485","obj_uri":"Q148442","obj_label":"trolleri","sub_label":"scenkonst","lineid":930,"uuid":"20bfda88-0050-4f13-ae98-fc35421adef3"}
+{"index":405,"sub_uri":"Q1969730","obj_uri":"Q45","obj_label":"Portugal","sub_label":"Schengenomr\u00e5det","lineid":554,"uuid":"e03cf7b8-455a-4813-a243-2e1cc06eeabe"}
+{"index":102,"sub_uri":"Q2270","obj_uri":"Q623","obj_label":"kol","sub_label":"Bensen","lineid":132,"uuid":"226dd54f-3782-40d7-b679-7758007f8668"}
+{"index":137,"sub_uri":"Q656556","obj_uri":"Q623","obj_label":"kol","sub_label":"Butyl","lineid":176,"uuid":"fd0c8f90-9006-4c0f-a7c6-f086b243632d"}
+{"index":173,"sub_uri":"Q80294","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"Cellulosa","lineid":223,"uuid":"98e43579-5c4b-43ed-969e-1246808466bc"}
+{"index":496,"sub_uri":"Q578170","obj_uri":"Q1439","obj_label":"Texas","sub_label":"Kontinentala USA","lineid":677,"uuid":"3f70c66a-422c-4525-9e08-b8abf043f7c9"}
+{"index":579,"sub_uri":"Q578170","obj_uri":"Q771","obj_label":"Massachusetts","sub_label":"Kontinentala USA","lineid":797,"uuid":"76dec1d2-a67f-425c-8716-9cbdf0034b23"}
+{"index":158,"sub_uri":"Q415945","obj_uri":"Q623","obj_label":"kol","sub_label":"Fytol","lineid":205,"uuid":"34118f55-8baa-4ca5-9ead-c68c1b0648f5"}
+{"index":145,"sub_uri":"Q327362","obj_uri":"Q623","obj_label":"kol","sub_label":"Trijodtyronin","lineid":190,"uuid":"003bfd7f-89f1-4117-a98a-0733cbd27a8b"}
+{"index":216,"sub_uri":"Q184782","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"fosforsyra","lineid":282,"uuid":"eeb4748e-6409-456d-84d3-f808276408b9"}
+{"index":248,"sub_uri":"Q632552","obj_uri":"Q215987","obj_label":"Franska senaten","sub_label":"Frankrikes parlament","lineid":329,"uuid":"b813f6a1-12d9-4d9d-9601-5180101c9e9c"}
+{"index":245,"sub_uri":"Q415144","obj_uri":"Q706","obj_label":"kalcium","sub_label":"Kalciumv\u00e4tekarbonat","lineid":323,"uuid":"4b9209f5-42fe-4d7e-bb83-e34a36798f87"}
+{"index":658,"sub_uri":"Q407993","obj_uri":"Q682","obj_label":"svavel","sub_label":"J\u00e4rnsulfid","lineid":917,"uuid":"defd5783-21be-49eb-b439-ed811593d936"}
+{"index":113,"sub_uri":"Q1331998","obj_uri":"Q45422","obj_label":"j\u00e4st","sub_label":"Marmite","lineid":144,"uuid":"92f97401-cac3-4874-a669-f841c311c63c"}
+{"index":64,"sub_uri":"Q20748","obj_uri":"Q10943","obj_label":"ost","sub_label":"raclette","lineid":85,"uuid":"e2b8aeb4-1a4e-477a-8368-1fa99bbe5c3a"}
+{"index":481,"sub_uri":"Q173670","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Arginin","lineid":658,"uuid":"b657963d-8c1a-4c61-8b6d-89dd368a5eb9"}
+{"index":587,"sub_uri":"Q407490","obj_uri":"Q623","obj_label":"kol","sub_label":"Hemicellulosa","lineid":809,"uuid":"3b9a823d-601a-465b-a1ba-b6ae4bd715c8"}
+{"index":209,"sub_uri":"Q655244","obj_uri":"Q282","obj_label":"vin","sub_label":"Dagens","lineid":272,"uuid":"24c0522f-ae53-488c-aa2d-83869b202721"}
+{"index":565,"sub_uri":"Q5124851","obj_uri":"Q8495","obj_label":"mj\u00f6lk","sub_label":"Filbunke","lineid":779,"uuid":"e457f6b2-ef62-4b5c-816f-945af6187202"}
+{"index":434,"sub_uri":"Q611214","obj_uri":"Q79","obj_label":"Egypten","sub_label":"N-11","lineid":597,"uuid":"bb6ed602-3f50-4939-b1e3-4f4d04b86db1"}
+{"index":283,"sub_uri":"Q6559431","obj_uri":"Q7802","obj_label":"br\u00f6d","sub_label":"sm\u00f6rg\u00e5s","lineid":374,"uuid":"40732537-de85-4649-84e8-e802b4c61470"}
+{"index":450,"sub_uri":"Q637017","obj_uri":"Q29182","obj_label":"biskop","sub_label":"Biskopsm\u00f6te","lineid":614,"uuid":"1bd43962-ca95-4d00-b9d0-a604e59197f6"}
+{"index":598,"sub_uri":"Q1969730","obj_uri":"Q29","obj_label":"Spanien","sub_label":"Schengenomr\u00e5det","lineid":825,"uuid":"9eb190ef-e2ea-481e-aaa1-e79e4361095d"}
+{"index":79,"sub_uri":"Q188017","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"tyrosin","lineid":106,"uuid":"2983173a-251f-4819-920b-ca66422a6690"}
+{"index":330,"sub_uri":"Q139857","obj_uri":"Q629","obj_label":"syre","sub_label":"Fumarsyra","lineid":433,"uuid":"1e940525-9b19-4fc4-a74a-3941508f1102"}
+{"index":256,"sub_uri":"Q178430","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Lysin","lineid":342,"uuid":"b7609e43-a797-4d57-92e1-daa947d6fc82"}
+{"index":242,"sub_uri":"Q13393","obj_uri":"Q5090","obj_label":"ris","sub_label":"Onigiri","lineid":320,"uuid":"aeb66e59-aec7-40f9-8af3-05e1961136a9"}
+{"index":250,"sub_uri":"Q1746023","obj_uri":"Q5994","obj_label":"piano","sub_label":"Pianokvintett","lineid":332,"uuid":"ad103e27-4daa-4996-99de-12e3346c39ff"}
+{"index":280,"sub_uri":"Q174936","obj_uri":"Q623","obj_label":"kol","sub_label":"Glykogen","lineid":371,"uuid":"6055b950-f77c-419a-a4c7-945e2369d413"}
+{"index":604,"sub_uri":"Q180341","obj_uri":"Q682","obj_label":"svavel","sub_label":"Metionin","lineid":832,"uuid":"dcdfd02a-15ce-4f63-a410-6dc24dde0bd3"}
+{"index":77,"sub_uri":"Q424236","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"Tritierat vatten","lineid":104,"uuid":"f2e23482-5d4f-4824-8f97-3622f18d0d99"}
+{"index":404,"sub_uri":"Q410305","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Hypoxantin","lineid":553,"uuid":"1e333895-81a9-4124-9685-0dd6dc54fe8b"}
+{"index":499,"sub_uri":"Q393811","obj_uri":"Q572837","obj_label":"Notskaft","sub_label":"Halvnot","lineid":680,"uuid":"a1aee3a8-16ab-4adc-834e-9a912c6009ed"}
+{"index":484,"sub_uri":"Q27381","obj_uri":"Q948","obj_label":"Tunisien","sub_label":"Nordafrika","lineid":661,"uuid":"e11f3ce5-ccc8-494f-ae89-d441b998a3fa"}
+{"index":171,"sub_uri":"Q80083","obj_uri":"Q309","obj_label":"historia","sub_label":"humaniora","lineid":221,"uuid":"475d3c40-869b-436a-9ccf-34c063ac3276"}
+{"index":679,"sub_uri":"Q414657","obj_uri":"Q682","obj_label":"svavel","sub_label":"Disvaveldiklorid","lineid":945,"uuid":"df383099-cd65-4462-a17c-7754f73d51ae"}
+{"index":469,"sub_uri":"Q4831844","obj_uri":"Q10990","obj_label":"k\u00f6tt","sub_label":"k\u00f6ttbullar","lineid":642,"uuid":"6ef1f74e-b9ed-4ec1-b94d-da97633d5ec1"}
+{"index":673,"sub_uri":"Q544","obj_uri":"Q525","obj_label":"solen","sub_label":"solsystemet","lineid":936,"uuid":"81b488a4-937c-4803-b980-c2f18b4d5356"}
+{"index":420,"sub_uri":"Q411853","obj_uri":"Q663","obj_label":"aluminium","sub_label":"Aluminiumfosfid","lineid":578,"uuid":"a901c9ba-1979-4b20-b580-b45b5e3601e5"}
+{"index":617,"sub_uri":"Q132298","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"kaliumhydroxid","lineid":854,"uuid":"4c85052e-acbe-4120-8221-3277cb63afed"}
+{"index":338,"sub_uri":"Q34990","obj_uri":"Q9190","obj_label":"Andra Moseboken","sub_label":"Torah","lineid":448,"uuid":"4adf56e7-b0e5-47e2-a6df-e84be99329ad"}
+{"index":507,"sub_uri":"Q80083","obj_uri":"Q8162","obj_label":"spr\u00e5kvetenskap","sub_label":"humaniora","lineid":695,"uuid":"ef01eada-62e3-4745-803d-0592b654e6b8"}
+{"index":412,"sub_uri":"Q27381","obj_uri":"Q79","obj_label":"Egypten","sub_label":"Nordafrika","lineid":566,"uuid":"754bb5ed-b9f2-4d9c-b36b-86037f991616"}
+{"index":377,"sub_uri":"Q407684","obj_uri":"Q556","obj_label":"v\u00e4te","sub_label":"Diboran","lineid":503,"uuid":"baaadc0b-dc0b-4ccc-9b6b-0ce013800730"}
+{"index":265,"sub_uri":"Q409017","obj_uri":"Q623","obj_label":"kol","sub_label":"Cellobios","lineid":351,"uuid":"aa73a78a-92bd-49ee-b363-7ba353c3f706"}
+{"index":345,"sub_uri":"Q181136","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Glutaminsyra","lineid":458,"uuid":"e21a9804-e850-4d32-93e3-112945158348"}
+{"index":566,"sub_uri":"Q412377","obj_uri":"Q629","obj_label":"syre","sub_label":"Maleinsyraanhydrid","lineid":780,"uuid":"c0679505-6781-4ac0-9fb5-f7e83d4aacd1"}
+{"index":453,"sub_uri":"Q171877","obj_uri":"Q629","obj_label":"syre","sub_label":"V\u00e4teperoxid","lineid":618,"uuid":"b72c0352-b2b2-407f-b494-f19dea96631c"}
+{"index":363,"sub_uri":"Q421724","obj_uri":"Q627","obj_label":"kv\u00e4ve","sub_label":"Dicyan","lineid":484,"uuid":"005426c6-ee83-4155-94bd-332cd7db5d99"}

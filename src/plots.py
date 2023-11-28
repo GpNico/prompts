@@ -45,12 +45,17 @@ def plot_lama_scores(lama_scores_lama: dict,
     ax.set_xlabel('k')
     ax.set_ylabel('P@k')
     ax.set_title(f"{kwargs['model_name']} P@k for LAMA & AutoPrompt")
+    
+    if kwargs['shuffle']:
+        fig_name = f"{kwargs['model_name']}_{kwargs['lama_name']}_scores_shuffled.png"
+    else:
+        fig_name = f"{kwargs['model_name']}_{kwargs['lama_name']}_scores.png"
 
     plt.savefig(
         os.path.join(
             "results",
             'lama_scores',
-            f"{kwargs['model_name']}_lama_scores.png"
+            fig_name
         )
     )
     plt.close()
@@ -171,6 +176,76 @@ def plot_rela_nll_perplexity(rela_scores: dict,
             name,
             f"method_{method}",
             f"{kwargs['model_name']}_{kwargs['rela']}_{name}_{kwargs['seed']}.png"
+        )
+    )
+    plt.close()
+    
+    
+def plot_embeddings_dim_red(embeds1, 
+                            embeds2,
+                            embeds3 = None,
+                            label1: str = '1',
+                            label2: str = '2',
+                            label3: str = '3',
+                            annots1: list = [],
+                            annots2: list = [],
+                            annots3: list = [],
+                            dim_red_name: str = "PCA",
+                            **kwargs
+                            ):
+    fig = plt.figure(figsize = (15,10))
+
+    plt.scatter(
+        embeds1[:, 0],
+        embeds1[:, 1],
+        label = label1
+        )
+
+    for k, annot in enumerate(annots1):
+        plt.annotate(
+            annot,
+            xy = (embeds1[k,0],
+                  embeds1[k,1])
+            )
+
+    plt.scatter(
+        embeds2[:, 0],
+        embeds2[:, 1],
+        label = label2
+        )
+
+    for k, annot in enumerate(annots2):
+        plt.annotate(
+            annot,
+            xy = (embeds2[k,0],
+                  embeds2[k,1])
+            )
+        
+    if embeds3 is not None:
+        plt.scatter(
+            embeds3[:, 0],
+            embeds3[:, 1],
+            label = label3
+            )
+
+        for k, annot in enumerate(annots3):
+            plt.annotate(
+                annot,
+                xy = (embeds3[k,0],
+                      embeds3[k,1])
+                )
+
+    plt.title(f"{label1} Prompts vs {label2} {kwargs['model_name']}s Embeddings {dim_red_name.upper()}")
+    plt.xlabel(f'{dim_red_name.upper()} 1')
+    plt.ylabel(f'{dim_red_name.upper()} 2')
+    plt.legend()
+    
+    plt.savefig(
+        os.path.join(
+            "results",
+            "embeddings_analysis",
+            f"{dim_red_name.upper()}",
+            f"{kwargs['model_name']}_{label1}_vs_{label2}.png"
         )
     )
     plt.close()

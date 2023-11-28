@@ -1,0 +1,39 @@
+{"index":17,"relation":"P102","template":"[X] est membre du parti politique [Y]."}
+{"index":22,"relation":"P30","template":"[X] se trouve dans [Y]."}
+{"index":47,"relation":"place_of_birth","template":"[X] est n\u00e9 en [Y]."}
+{"index":35,"relation":"P1303","template":"[X] lit [Y]."}
+{"index":2,"relation":"P279","template":"[X] est une sous-classe de [Y]."}
+{"index":27,"relation":"P108","template":"[X] fonctionne pour [Y]."}
+{"index":45,"relation":"P361","template":"[X] fait partie de [Y]."}
+{"index":37,"relation":"P103","template":"La langue maternelle de [X] est [Y]."}
+{"index":1,"relation":"P20","template":"[X] est d\u00e9c\u00e9d\u00e9 en [Y]."}
+{"index":34,"relation":"P140","template":"[X] est affili\u00e9 \u00e0 la religion [Y]."}
+{"index":19,"relation":"P176","template":"[X] est produit par [Y]."}
+{"index":36,"relation":"P127","template":"[X] appartient \u00e0 [Y]."}
+{"index":18,"relation":"P530","template":"[X] entretient des relations diplomatiques avec [Y]."}
+{"index":15,"relation":"P106","template":"[X] est un [Y] de profession."}
+{"index":21,"relation":"P407","template":"[X] a \u00e9t\u00e9 \u00e9crit en [Y]."}
+{"index":14,"relation":"P1923","template":"[Y] a particip\u00e9 au [X]."}
+{"index":0,"relation":"P19","template":"[X] est n\u00e9 en [Y]."}
+{"index":31,"relation":"P264","template":"[X] est repr\u00e9sent\u00e9 par l'\u00e9tiquette musicale [Y]."}
+{"index":3,"relation":"P37","template":"La langue officielle de [X] est [Y]."}
+{"index":24,"relation":"P1376","template":"[X] est la capitale de [Y]."}
+{"index":28,"relation":"P136","template":"[X] lit la musique [Y]."}
+{"index":25,"relation":"P131","template":"[X] se trouve dans [Y]."}
+{"index":11,"relation":"P54","template":"[X] joue avec [Y]."}
+{"index":23,"relation":"P178","template":"[X] est d\u00e9velopp\u00e9 par [Y]."}
+{"index":10,"relation":"P364","template":"La langue d'origine de [X] est [Y]."}
+{"index":30,"relation":"P39","template":"[X] a la position [Y]."}
+{"index":8,"relation":"P47","template":"[X] partage la fronti\u00e8re avec [Y]."}
+{"index":6,"relation":"P449","template":"[X] a \u00e9t\u00e9 diffus\u00e9 \u00e0 l'origine sur [Y]."}
+{"index":29,"relation":"P17","template":"[X] se trouve dans [Y]."}
+{"index":33,"relation":"P937","template":"[X] travaillait en [Y]."}
+{"index":38,"relation":"P190","template":"[X] et [Y] sont des villes jumelles."}
+{"index":39,"relation":"P1001","template":"[X] est un terme juridique en [Y]."}
+{"index":5,"relation":"P166","template":"[X] a re\u00e7u le [Y]."}
+{"index":40,"relation":"P31","template":"[X] est un [Y]."}
+{"index":26,"relation":"P1412","template":"[X] utilis\u00e9 pour communiquer en [Y]."}
+{"index":43,"relation":"P36","template":"Le capital de [X] est [Y]."}
+{"index":48,"relation":"place_of_death","template":"[X] est d\u00e9c\u00e9d\u00e9 en [Y]."}
+{"index":9,"relation":"P138","template":"[X] est nomm\u00e9 d'apr\u00e8s [Y]."}
+{"index":16,"relation":"P527","template":"[X] se compose de [Y]."}

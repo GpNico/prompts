@@ -1,0 +1,10 @@
+{"index":5,"relation":"P166","template":"[X] sai [Y]."}
+{"index":28,"relation":"P136","template":"[X] soittaa [Y] -musiikkia."}
+{"index":30,"relation":"P39","template":"[X]: n sijainti on [Y]."}
+{"index":3,"relation":"P37","template":"[X]: n virallinen kieli on [Y]."}
+{"index":1,"relation":"P20","template":"[X] kuoli [Y]: ss\u00e4."}
+{"index":34,"relation":"P140","template":"[X] on sidoksissa [Y] uskontoon."}
+{"index":46,"relation":"date_of_birth","template":"[X] (syntynyt [Y])."}
+{"index":4,"relation":"P413","template":"[X] pelaa [Y] -asennossa."}
+{"index":41,"relation":"P495","template":"[X] luotiin [Y]: ss\u00e4."}
+{"index":15,"relation":"P106","template":"[X] on ammatin mukaan [Y]."}

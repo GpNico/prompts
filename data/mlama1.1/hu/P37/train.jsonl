@@ -1,0 +1,642 @@
+{"index":268,"sub_uri":"Q236","obj_uri":"Q6654","obj_label":"horv\u00e1t","sub_label":"Montenegr\u00f3","lineid":321,"uuid":"5e8baf03-fbb5-4fde-9ff9-58df2d4e4b06"}
+{"index":570,"sub_uri":"Q754","obj_uri":"Q1860","obj_label":"angol","sub_label":"Trinidad \u00e9s Tobago","lineid":693,"uuid":"97071dec-c248-4f11-9646-bb3d9e4782b3"}
+{"index":548,"sub_uri":"Q12121","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Luzern kanton","lineid":666,"uuid":"b4a191e3-6563-4a43-819c-b5edd08774a7"}
+{"index":707,"sub_uri":"Q1370","obj_uri":"Q1860","obj_label":"angol","sub_label":"Virginia","lineid":849,"uuid":"e4a254ec-d7cc-4eaa-9a45-ea6b893e19da"}
+{"index":271,"sub_uri":"Q7024","obj_uri":"Q652","obj_label":"olasz","sub_label":"Lugano","lineid":324,"uuid":"5216a40b-4bb0-4ea1-819a-82808f12c4aa"}
+{"index":481,"sub_uri":"Q1965","obj_uri":"Q1860","obj_label":"angol","sub_label":"\u00daj-Brunswick","lineid":585,"uuid":"c93ae323-f877-41d2-b8d7-c4a3c3350e2a"}
+{"index":203,"sub_uri":"Q52502","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"G\u00f6teborg k\u00f6zs\u00e9g","lineid":240,"uuid":"6918692c-a985-4bbe-9fd3-41f869143d23"}
+{"index":225,"sub_uri":"Q458","obj_uri":"Q9072","obj_label":"\u00e9szt","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":267,"uuid":"2d135c9a-4bbd-436d-8f1f-6f22b808ce38"}
+{"index":544,"sub_uri":"Q503144","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Eskilstuna k\u00f6zs\u00e9g","lineid":659,"uuid":"d936a072-b4b1-48c7-9347-6738baa0a9b9"}
+{"index":742,"sub_uri":"Q1001783","obj_uri":"Q1412","obj_label":"finn","sub_label":"Eurajoki","lineid":891,"uuid":"e1bd2b45-e4f7-4436-aff1-e026532ed55f"}
+{"index":710,"sub_uri":"Q781","obj_uri":"Q1860","obj_label":"angol","sub_label":"Antigua \u00e9s Barbuda","lineid":852,"uuid":"9681e338-4b70-4b2f-b5ec-0d10bbeb624c"}
+{"index":320,"sub_uri":"Q34020","obj_uri":"Q1860","obj_label":"angol","sub_label":"Niue","lineid":385,"uuid":"6366e3cd-73fb-4010-8e20-5c1fba31c90c"}
+{"index":388,"sub_uri":"Q334","obj_uri":"Q9237","obj_label":"mal\u00e1j","sub_label":"Szingap\u00far","lineid":463,"uuid":"df07db8c-ebe0-4266-a87e-c90c6cfda22a"}
+{"index":699,"sub_uri":"Q1546","obj_uri":"Q1860","obj_label":"angol","sub_label":"Iowa","lineid":841,"uuid":"63f8d8b5-b5c8-49bc-87db-10ec7cf8f94e"}
+{"index":778,"sub_uri":"Q83786","obj_uri":"Q1568","obj_label":"hindi","sub_label":"Siml\u00e1","lineid":935,"uuid":"87663678-8383-425d-b588-a238bdc0b6cb"}
+{"index":674,"sub_uri":"Q748533","obj_uri":"Q1412","obj_label":"finn","sub_label":"Iisalmi","lineid":814,"uuid":"05e3e9a8-220d-4219-8a42-0641f1cfc333"}
+{"index":152,"sub_uri":"Q188586","obj_uri":"Q397","obj_label":"latin","sub_label":"Szic\u00edliai Kir\u00e1lys\u00e1g","lineid":180,"uuid":"371d168c-361c-46db-a6c5-f2bbef543669"}
+{"index":157,"sub_uri":"Q843","obj_uri":"Q1617","obj_label":"urdu","sub_label":"Pakiszt\u00e1n","lineid":188,"uuid":"0a24b4f3-5eab-4cdb-821a-5d93c12ec7fb"}
+{"index":301,"sub_uri":"Q475403","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Berni-felvid\u00e9k","lineid":362,"uuid":"7f7c86b1-6326-4939-a78b-b29bd2c51af1"}
+{"index":628,"sub_uri":"Q207891","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Kokkola","lineid":759,"uuid":"4ea60aac-4ccb-4fec-841f-378b24823ea2"}
+{"index":557,"sub_uri":"Q67523","obj_uri":"Q652","obj_label":"olasz","sub_label":"Biasca","lineid":676,"uuid":"8ccbe9ab-3cab-42c5-8243-dd9b1096224b"}
+{"index":352,"sub_uri":"Q458","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":420,"uuid":"68646ca1-fc10-4958-a165-9328f17b8205"}
+{"index":136,"sub_uri":"Q2073","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Komif\u00f6ld","lineid":163,"uuid":"cfb581ca-ab9d-41ab-98cb-7902a9bebaa8"}
+{"index":211,"sub_uri":"Q2895","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Belorusz Szovjet Szocialista K\u00f6zt\u00e1rsas\u00e1g","lineid":251,"uuid":"6278d6f5-0014-4f48-9565-3734d180b129"}
+{"index":627,"sub_uri":"Q42262","obj_uri":"Q1860","obj_label":"angol","sub_label":"Eur\u00f3pai \u0170r\u00fcgyn\u00f6ks\u00e9g","lineid":758,"uuid":"40f35c91-964b-4ba7-bee6-01f681421d4c"}
+{"index":458,"sub_uri":"Q2145","obj_uri":"Q150","obj_label":"francia","sub_label":"Qu\u00e9bec","lineid":556,"uuid":"2a9a6825-d212-46a9-a9dc-1b675e1eb622"}
+{"index":117,"sub_uri":"Q1612","obj_uri":"Q1860","obj_label":"angol","sub_label":"Arkansas","lineid":137,"uuid":"49e20b01-8a62-4ebe-9189-60ba6275c732"}
+{"index":396,"sub_uri":"Q240","obj_uri":"Q150","obj_label":"francia","sub_label":"Br\u00fcsszel f\u0151v\u00e1rosi r\u00e9gi\u00f3","lineid":472,"uuid":"6ba9c8a2-f4b8-4cb8-a2b0-895d8410c2c1"}
+{"index":491,"sub_uri":"Q1065","obj_uri":"Q150","obj_label":"francia","sub_label":"Egyes\u00fclt Nemzetek Szervezete","lineid":597,"uuid":"14c671ce-fc29-4b51-9371-7be7226f0bf2"}
+{"index":652,"sub_uri":"Q712","obj_uri":"Q1860","obj_label":"angol","sub_label":"Fidzsi-szigetek","lineid":785,"uuid":"97f683b3-8ad8-4d68-a803-749d155fcbf2"}
+{"index":346,"sub_uri":"Q939758","obj_uri":"Q1412","obj_label":"finn","sub_label":"Kalajoki","lineid":413,"uuid":"60c729f8-1927-4296-bf5a-423eb41a90b9"}
+{"index":455,"sub_uri":"Q142","obj_uri":"Q150","obj_label":"francia","sub_label":"Franciaorsz\u00e1g","lineid":553,"uuid":"7577d72b-e37f-4106-9666-e50955837a65"}
+{"index":277,"sub_uri":"Q678","obj_uri":"Q1860","obj_label":"angol","sub_label":"Tonga","lineid":332,"uuid":"b3d8165b-5591-4cbf-9c67-5fc4b5969288"}
+{"index":759,"sub_uri":"Q757","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Saint Vincent \u00e9s a Grenadine-szigetek","lineid":911,"uuid":"8b2a1dab-9ff1-48a6-a2fa-670ac8fd47c4"}
+{"index":142,"sub_uri":"Q244","obj_uri":"Q1860","obj_label":"angol","sub_label":"Barbados","lineid":169,"uuid":"bb4a2a4f-1366-4fdb-b505-319e2050792e"}
+{"index":634,"sub_uri":"Q1044","obj_uri":"Q1860","obj_label":"angol","sub_label":"Sierra Leone","lineid":765,"uuid":"ae080a99-8332-49a9-ac1f-d25a8010ed4d"}
+{"index":641,"sub_uri":"Q16644","obj_uri":"Q1860","obj_label":"angol","sub_label":"\u00c9szaki-Mariana-szigetek","lineid":774,"uuid":"37819fe7-bce0-45fd-8f9c-13d6f79ae6e3"}
+{"index":102,"sub_uri":"Q769","obj_uri":"Q1860","obj_label":"angol","sub_label":"Grenada","lineid":122,"uuid":"5500556d-e04e-47c4-9bfa-5ceb66d73277"}
+{"index":173,"sub_uri":"Q458","obj_uri":"Q7918","obj_label":"bolg\u00e1r","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":206,"uuid":"c6d3b7ff-ba14-4ce2-a84c-d199856a77c2"}
+{"index":562,"sub_uri":"Q25227","obj_uri":"Q7411","obj_label":"holland","sub_label":"Holland Antill\u00e1k","lineid":682,"uuid":"9b184013-873a-4ad3-8c37-db86924be8b7"}
+{"index":121,"sub_uri":"Q984930","obj_uri":"Q1412","obj_label":"finn","sub_label":"Ylitornio","lineid":143,"uuid":"d0fba251-59bf-4cb4-8e2b-56abf01269fc"}
+{"index":456,"sub_uri":"Q1186","obj_uri":"Q36236","obj_label":"malaj\u00e1lam","sub_label":"Kerala","lineid":554,"uuid":"49c2f3ed-dda7-422b-ab3a-7a12cf1f24c4"}
+{"index":728,"sub_uri":"Q241","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Kuba","lineid":876,"uuid":"8012baa7-559d-4d56-9694-d02e889fbf0c"}
+{"index":275,"sub_uri":"Q125080","obj_uri":"Q1412","obj_label":"finn","sub_label":"Vaasa","lineid":329,"uuid":"9ce50c89-e396-40f0-b347-1be376ea3aab"}
+{"index":331,"sub_uri":"Q43070","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Doneck","lineid":398,"uuid":"d91d659c-35e2-4f95-bb32-9f869136e3c6"}
+{"index":365,"sub_uri":"Q113692","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Haninge k\u00f6zs\u00e9g","lineid":438,"uuid":"a267b060-9c2a-427e-86d9-0dfa2163441b"}
+{"index":504,"sub_uri":"Q145","obj_uri":"Q9309","obj_label":"walesi","sub_label":"Egyes\u00fclt Kir\u00e1lys\u00e1g","lineid":612,"uuid":"a5cab329-1511-441f-a180-4d210d63e48c"}
+{"index":19,"sub_uri":"Q77","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Uruguay","lineid":27,"uuid":"4e1a7839-f7a3-46ab-be48-6fb713b2f572"}
+{"index":530,"sub_uri":"Q1456","obj_uri":"Q1860","obj_label":"angol","sub_label":"D\u00e9l-Karolina","lineid":641,"uuid":"cd0cd978-db0f-418e-8d86-505f2d9ec4bd"}
+{"index":516,"sub_uri":"Q458","obj_uri":"Q5146","obj_label":"portug\u00e1l","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":626,"uuid":"7da08246-02f0-4da5-8ae0-7e2fc5f28206"}
+{"index":161,"sub_uri":"Q16746854","obj_uri":"Q8798","obj_label":"ukr\u00e1n","sub_label":"Luhanszki N\u00e9pk\u00f6zt\u00e1rsas\u00e1g","lineid":192,"uuid":"0e4b773c-431a-4b85-96b9-561b7795224f"}
+{"index":124,"sub_uri":"Q129003","obj_uri":"Q150","obj_label":"francia","sub_label":"Francia d\u00e9li \u00e9s antarktiszi ter\u00fcletek","lineid":146,"uuid":"7c9d8256-4690-4778-bc69-f759e91a998a"}
+{"index":274,"sub_uri":"Q1261","obj_uri":"Q1860","obj_label":"angol","sub_label":"Colorado","lineid":327,"uuid":"8521aa37-fc30-4d7e-9013-aa7712d6007c"}
+{"index":176,"sub_uri":"Q7817","obj_uri":"Q1860","obj_label":"angol","sub_label":"Eg\u00e9szs\u00e9g\u00fcgyi Vil\u00e1gszervezet","lineid":209,"uuid":"9f2377bf-23a0-4fe7-8057-4c2695b9f0c5"}
+{"index":638,"sub_uri":"Q252","obj_uri":"Q9240","obj_label":"indon\u00e9z","sub_label":"Indon\u00e9zia","lineid":769,"uuid":"8444aa49-dd1d-42af-9cab-4085f8f8440c"}
+{"index":179,"sub_uri":"Q225","obj_uri":"Q9299","obj_label":"szerb","sub_label":"Bosznia-Hercegovina","lineid":212,"uuid":"ca1f8012-b345-4b43-8b99-b7b9acd81df7"}
+{"index":351,"sub_uri":"Q3818","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Malabo","lineid":419,"uuid":"88062d97-4f98-42e7-a1d8-13d8cd99ace0"}
+{"index":184,"sub_uri":"Q1017108","obj_uri":"Q1412","obj_label":"finn","sub_label":"Lieto","lineid":218,"uuid":"0d2517d9-21a4-4778-b3a0-5dd4b4032592"}
+{"index":32,"sub_uri":"Q214021","obj_uri":"Q1412","obj_label":"finn","sub_label":"Tornio","lineid":41,"uuid":"36f5b102-3223-44a7-ade7-2ebcba87c3e0"}
+{"index":162,"sub_uri":"Q68124","obj_uri":"Q150","obj_label":"francia","sub_label":"La Chaux-de-Fonds","lineid":194,"uuid":"a01c8c42-2843-42f8-b586-fc31ea128d6d"}
+{"index":507,"sub_uri":"Q35","obj_uri":"Q9035","obj_label":"d\u00e1n","sub_label":"D\u00e1nia","lineid":617,"uuid":"617e9eed-9d36-4e3a-8bb5-6c599ed88762"}
+{"index":579,"sub_uri":"Q26273","obj_uri":"Q1860","obj_label":"angol","sub_label":"Sint Maarten","lineid":702,"uuid":"4688bda2-7b1a-4664-a1f3-463baa64aae7"}
+{"index":292,"sub_uri":"Q67203","obj_uri":"Q150","obj_label":"francia","sub_label":"Tavannes","lineid":351,"uuid":"a41336aa-2db9-46ce-b49b-5a16445159d5"}
+{"index":208,"sub_uri":"Q12172","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Basel-Stadt kanton","lineid":246,"uuid":"91216afa-1125-4155-9e7d-026ebae92f1a"}
+{"index":182,"sub_uri":"Q691","obj_uri":"Q1860","obj_label":"angol","sub_label":"P\u00e1pua \u00daj-Guinea","lineid":216,"uuid":"7bac5c2a-a8ed-49e8-8ede-77c85857e05f"}
+{"index":490,"sub_uri":"Q90027","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Belgium n\u00e9met nyelvk\u00f6z\u00f6ss\u00e9ge","lineid":595,"uuid":"ea38c013-b9e5-4f24-bdcd-2f7159db82d6"}
+{"index":61,"sub_uri":"Q837136","obj_uri":"Q9309","obj_label":"walesi","sub_label":"Deheubarth uralkod\u00f3inak list\u00e1ja","lineid":74,"uuid":"486c5f12-1e68-4a2f-b9dc-c67932dbfa74"}
+{"index":630,"sub_uri":"Q816","obj_uri":"Q1860","obj_label":"angol","sub_label":"Arizona","lineid":761,"uuid":"3e5af009-8990-4bd4-9226-fc5f142b7a8f"}
+{"index":534,"sub_uri":"Q484195","obj_uri":"Q9168","obj_label":"perzsa","sub_label":"Timurid\u00e1k","lineid":645,"uuid":"dfdaf7c1-9403-4c93-a5e9-93dd3a720bd5"}
+{"index":96,"sub_uri":"Q236","obj_uri":"Q9299","obj_label":"szerb","sub_label":"Montenegr\u00f3","lineid":115,"uuid":"faf61a9c-5ff2-4989-a211-3c7e67417e42"}
+{"index":387,"sub_uri":"Q493428","obj_uri":"Q652","obj_label":"olasz","sub_label":"Mistretta","lineid":462,"uuid":"43d26b4e-4e0c-4b5b-ae1d-02db9e191389"}
+{"index":280,"sub_uri":"Q829842","obj_uri":"Q1412","obj_label":"finn","sub_label":"Forssa","lineid":336,"uuid":"d571e6f1-d802-4bb7-a5f1-1b1c4dc86e56"}
+{"index":680,"sub_uri":"Q211","obj_uri":"Q9078","obj_label":"lett","sub_label":"Lettorsz\u00e1g","lineid":820,"uuid":"e5cdb9c2-46be-40b9-9b28-2c14bbc8c917"}
+{"index":426,"sub_uri":"Q1032","obj_uri":"Q150","obj_label":"francia","sub_label":"Niger","lineid":517,"uuid":"04566835-f70b-449a-87cd-f441d19c7b7a"}
+{"index":88,"sub_uri":"Q68587","obj_uri":"Q150","obj_label":"francia","sub_label":"Vallorbe","lineid":105,"uuid":"13e67d0e-3758-4241-b9aa-941b38ef22e9"}
+{"index":189,"sub_uri":"Q837","obj_uri":"Q33823","obj_label":"nep\u00e1li","sub_label":"Nep\u00e1l","lineid":223,"uuid":"8ae9ebbf-4539-4db0-b6fd-36e9d84f2cd9"}
+{"index":721,"sub_uri":"Q113673","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Upplands-Bro k\u00f6zs\u00e9g","lineid":866,"uuid":"57acfb93-7d87-4535-a31e-9dde453627c1"}
+{"index":715,"sub_uri":"Q5705","obj_uri":"Q7026","obj_label":"katal\u00e1n","sub_label":"Katal\u00f3nia","lineid":859,"uuid":"fda0034a-c422-4fa9-98ea-f930907c58ad"}
+{"index":556,"sub_uri":"Q330988","obj_uri":"Q9205","obj_label":"khmer","sub_label":"Demokratikus Kampucsea","lineid":675,"uuid":"d6130466-8da3-4c95-b759-c94bfd33972a"}
+{"index":643,"sub_uri":"Q227","obj_uri":"Q9292","obj_label":"azeri","sub_label":"Azerbajdzs\u00e1n","lineid":776,"uuid":"ec6c7c4b-4c9a-409c-98da-5d252db6bb49"}
+{"index":390,"sub_uri":"Q298","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Chile","lineid":466,"uuid":"369a729a-a438-408a-9e11-961e7e38027c"}
+{"index":0,"sub_uri":"Q69995","obj_uri":"Q652","obj_label":"olasz","sub_label":"Sorengo","lineid":1,"uuid":"bd2155cf-0ad0-4191-9473-7f1ca68c13ae"}
+{"index":712,"sub_uri":"Q7768","obj_uri":"Q7850","obj_label":"k\u00ednai","sub_label":"D\u00e9lkelet-\u00e1zsiai Nemzetek Sz\u00f6vets\u00e9ge","lineid":854,"uuid":"6b17dea3-bbda-40d7-8256-d61c9965e48b"}
+{"index":109,"sub_uri":"Q1037","obj_uri":"Q1860","obj_label":"angol","sub_label":"Ruanda","lineid":129,"uuid":"0f9c7b91-6db1-424e-9b01-ca2274e3c350"}
+{"index":716,"sub_uri":"Q1895","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Petrozavodszk","lineid":860,"uuid":"4544dd40-c11b-4419-addb-104e2966f1ba"}
+{"index":382,"sub_uri":"Q1065","obj_uri":"Q1860","obj_label":"angol","sub_label":"Egyes\u00fclt Nemzetek Szervezete","lineid":456,"uuid":"4c36d6a8-2c91-4178-bc96-cbd21aaf1185"}
+{"index":259,"sub_uri":"Q55","obj_uri":"Q7411","obj_label":"holland","sub_label":"Hollandia","lineid":309,"uuid":"dee90050-2f0f-4146-9a0e-2970c112ed7e"}
+{"index":546,"sub_uri":"Q33349","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Melitopol","lineid":662,"uuid":"81e514f9-45da-4fc2-8ad6-42c0c0fb824e"}
+{"index":433,"sub_uri":"Q7768","obj_uri":"Q9240","obj_label":"indon\u00e9z","sub_label":"D\u00e9lkelet-\u00e1zsiai Nemzetek Sz\u00f6vets\u00e9ge","lineid":528,"uuid":"e627de6f-9fb0-45c9-b617-eb1c05a467d5"}
+{"index":101,"sub_uri":"Q458","obj_uri":"Q7411","obj_label":"holland","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":121,"uuid":"b779222c-8bfa-47ff-b144-74bb3c41c787"}
+{"index":151,"sub_uri":"Q921","obj_uri":"Q1860","obj_label":"angol","sub_label":"Brunei","lineid":179,"uuid":"dd7ed638-702f-429f-a901-cdbddcba36dc"}
+{"index":793,"sub_uri":"Q7788","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Habarovszki hat\u00e1rter\u00fclet","lineid":953,"uuid":"fdf9423f-d124-47a1-aa69-bebdf04fe89c"}
+{"index":575,"sub_uri":"Q183","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"N\u00e9metorsz\u00e1g","lineid":698,"uuid":"a5192f46-8be8-45f7-8cfd-8bd6d0346c00"}
+{"index":308,"sub_uri":"Q41550","obj_uri":"Q1860","obj_label":"angol","sub_label":"Gazdas\u00e1gi Egy\u00fcttm\u0171k\u00f6d\u00e9si \u00e9s Fejleszt\u00e9si Szervezet","lineid":372,"uuid":"f26f3d3b-56b1-4bc8-aba6-3a999e24c338"}
+{"index":4,"sub_uri":"Q1498","obj_uri":"Q1617","obj_label":"urdu","sub_label":"Uttar Prades","lineid":7,"uuid":"1f3e7398-63e1-4301-b8df-b6d40f5fe9e4"}
+{"index":432,"sub_uri":"Q193714","obj_uri":"Q9288","obj_label":"h\u00e9ber","sub_label":"Palesztin Mand\u00e1tum","lineid":527,"uuid":"9ad75ab3-953f-4aa9-be37-b9c117d6248c"}
+{"index":749,"sub_uri":"Q458","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":899,"uuid":"ca4b4b51-ec3b-4de6-9d1c-57757b67b860"}
+{"index":12,"sub_uri":"Q485207","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Sanghaji Egy\u00fcttm\u0171k\u00f6d\u00e9si Szervezet","lineid":16,"uuid":"c29c75fe-5d72-4258-ae9a-391d252cfebd"}
+{"index":494,"sub_uri":"Q1410","obj_uri":"Q1860","obj_label":"angol","sub_label":"Gibralt\u00e1r","lineid":601,"uuid":"eeb26c82-d4ca-41c1-abd4-b1847476f01a"}
+{"index":673,"sub_uri":"Q222","obj_uri":"Q8748","obj_label":"alb\u00e1n","sub_label":"Alb\u00e1nia","lineid":812,"uuid":"af65d2cb-3883-404f-8724-dd4c5cb61475"}
+{"index":519,"sub_uri":"Q81299","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Eur\u00f3pai Biztons\u00e1gi \u00e9s Egy\u00fcttm\u0171k\u00f6d\u00e9si Szervezet","lineid":630,"uuid":"0478f7fc-40b3-473b-88aa-7e5d53a49c5b"}
+{"index":372,"sub_uri":"Q151831","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Eupen","lineid":446,"uuid":"1059f5fa-d667-449e-962f-d6914786885e"}
+{"index":304,"sub_uri":"Q47034","obj_uri":"Q1412","obj_label":"finn","sub_label":"Espoo","lineid":367,"uuid":"dd6e824a-700f-48a1-80ba-ce1178e0bf74"}
+{"index":689,"sub_uri":"Q399","obj_uri":"Q8785","obj_label":"\u00f6rm\u00e9ny","sub_label":"\u00d6rm\u00e9nyorsz\u00e1g","lineid":831,"uuid":"8e2259df-daeb-4de8-ab03-69447aecb654"}
+{"index":646,"sub_uri":"Q499474","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Kiruna k\u00f6zs\u00e9g","lineid":779,"uuid":"d266c7cd-bf27-4b69-a5c3-24fea9aed81e"}
+{"index":671,"sub_uri":"Q458","obj_uri":"Q9035","obj_label":"d\u00e1n","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":809,"uuid":"18170f17-a78e-4e37-aa9a-701bcff21364"}
+{"index":704,"sub_uri":"Q756294","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Kr\u00edmi Auton\u00f3m K\u00f6zt\u00e1rsas\u00e1g","lineid":846,"uuid":"ed7a63d4-fa4e-41a7-9949-2fb505945c63"}
+{"index":484,"sub_uri":"Q970","obj_uri":"Q150","obj_label":"francia","sub_label":"Comore-szigetek","lineid":588,"uuid":"802264b0-678f-453a-ab5c-c4bec357ace9"}
+{"index":265,"sub_uri":"Q686","obj_uri":"Q1860","obj_label":"angol","sub_label":"Vanuatu","lineid":316,"uuid":"0b58fcf7-c6ae-4916-b9f8-1e15de78e4e8"}
+{"index":156,"sub_uri":"Q70232","obj_uri":"Q150","obj_label":"francia","sub_label":"Les Bois","lineid":187,"uuid":"9518f15e-512d-400b-aa3b-634626465eec"}
+{"index":227,"sub_uri":"Q70202","obj_uri":"Q150","obj_label":"francia","sub_label":"Moudon","lineid":269,"uuid":"e71c43c3-d909-412d-8b37-8eb384773d18"}
+{"index":676,"sub_uri":"Q192870","obj_uri":"Q1412","obj_label":"finn","sub_label":"Nokia","lineid":816,"uuid":"a8a66dcb-e71e-4141-914a-92e10cd6b4cb"}
+{"index":520,"sub_uri":"Q64070","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Dietikon","lineid":631,"uuid":"330a2673-1f63-4b86-83c6-7ad1ae73b44b"}
+{"index":573,"sub_uri":"Q52266","obj_uri":"Q150","obj_label":"francia","sub_label":"Blonay","lineid":696,"uuid":"c236e5e9-3f71-418f-84e8-3c2b24234cdc"}
+{"index":126,"sub_uri":"Q622592","obj_uri":"Q1412","obj_label":"finn","sub_label":"Raahe","lineid":149,"uuid":"4b66d377-b724-42ea-bc52-46138d1c752e"}
+{"index":106,"sub_uri":"Q5187","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Csecsenf\u00f6ld","lineid":126,"uuid":"0caf1045-e1f0-435e-b12b-7a3d9214cec5"}
+{"index":99,"sub_uri":"Q369576","obj_uri":"Q1412","obj_label":"finn","sub_label":"Nastola","lineid":119,"uuid":"642974b6-414b-45ee-954f-2c6e38e3fbe7"}
+{"index":120,"sub_uri":"Q458","obj_uri":"Q9129","obj_label":"g\u00f6r\u00f6g","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":142,"uuid":"ef08650c-9d6b-47ed-81ea-586db89e5423"}
+{"index":617,"sub_uri":"Q1989","obj_uri":"Q150","obj_label":"francia","sub_label":"Saskatchewan","lineid":746,"uuid":"c21be292-4c5a-4793-9751-6ceda6354ad0"}
+{"index":29,"sub_uri":"Q204920","obj_uri":"Q397","obj_label":"latin","sub_label":"az Arag\u00f3n Korona orsz\u00e1gai","lineid":37,"uuid":"fdeb9503-af54-4f92-b3ef-45512637ea38"}
+{"index":571,"sub_uri":"Q145","obj_uri":"Q1860","obj_label":"angol","sub_label":"Egyes\u00fclt Kir\u00e1lys\u00e1g","lineid":694,"uuid":"769af264-e7fb-40a3-96fc-401b50ca04da"}
+{"index":474,"sub_uri":"Q117091","obj_uri":"Q1412","obj_label":"finn","sub_label":"Kalix k\u00f6zs\u00e9g","lineid":576,"uuid":"c134596f-6909-4c06-b937-70f8661a92d4"}
+{"index":332,"sub_uri":"Q1029","obj_uri":"Q5146","obj_label":"portug\u00e1l","sub_label":"Mozambik","lineid":399,"uuid":"3ec17ec6-4888-4a4e-9b4a-3e4c8512eb07"}
+{"index":94,"sub_uri":"Q1904","obj_uri":"Q1860","obj_label":"angol","sub_label":"Ontario","lineid":113,"uuid":"f643b188-f801-47c5-a323-8dadb1d566eb"}
+{"index":636,"sub_uri":"Q733","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Paraguay","lineid":767,"uuid":"13cf1ebd-4347-43f4-ae44-35d1bd6ddb53"}
+{"index":366,"sub_uri":"Q1989","obj_uri":"Q1860","obj_label":"angol","sub_label":"Saskatchewan","lineid":439,"uuid":"f1a340f5-703a-4c49-9367-fea289a0831e"}
+{"index":668,"sub_uri":"Q953432","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Couto Misto","lineid":805,"uuid":"5a525ae2-eff6-4caa-8596-6001ac0cd8ab"}
+{"index":582,"sub_uri":"Q231392","obj_uri":"Q397","obj_label":"latin","sub_label":"Aszt\u00fariai Kir\u00e1lys\u00e1g","lineid":706,"uuid":"e3e498a0-b4c0-4e8b-8b2e-988623a56b3f"}
+{"index":657,"sub_uri":"Q967","obj_uri":"Q150","obj_label":"francia","sub_label":"Burundi","lineid":790,"uuid":"797f7c3e-a30e-48c1-b5f3-9f5a98a07c98"}
+{"index":610,"sub_uri":"Q200054","obj_uri":"Q1860","obj_label":"angol","sub_label":"Dzsamsedpur","lineid":737,"uuid":"e87b011e-6dad-4434-814f-c63e75e879a7"}
+{"index":391,"sub_uri":"Q69587","obj_uri":"Q150","obj_label":"francia","sub_label":"Veyrier","lineid":467,"uuid":"edd0d484-07d6-41a6-8aa5-342337f3d812"}
+{"index":693,"sub_uri":"Q1183","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Puerto Rico","lineid":835,"uuid":"8bc83d29-7ff1-4578-a316-c451570d556b"}
+{"index":236,"sub_uri":"Q125080","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Vaasa","lineid":283,"uuid":"26267510-e025-4721-b5e5-a4f633bfeca2"}
+{"index":213,"sub_uri":"Q40840","obj_uri":"Q1412","obj_label":"finn","sub_label":"Tampere","lineid":254,"uuid":"b55c8f9e-5d56-4ecc-aa97-0795ba43a1ec"}
+{"index":288,"sub_uri":"Q1415","obj_uri":"Q1860","obj_label":"angol","sub_label":"Indiana","lineid":346,"uuid":"093998dd-e065-42d8-bb46-4da2482d0d4f"}
+{"index":240,"sub_uri":"Q11703","obj_uri":"Q1860","obj_label":"angol","sub_label":"Amerikai Virgin-szigetek","lineid":287,"uuid":"6500a9ce-eaa7-43be-a2f1-06550dc60ee3"}
+{"index":566,"sub_uri":"Q902","obj_uri":"Q9610","obj_label":"beng\u00e1li","sub_label":"Banglades","lineid":688,"uuid":"6dffc6e5-943a-4392-b06a-ca57a70b2b74"}
+{"index":794,"sub_uri":"Q501442","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Uddevalla k\u00f6zs\u00e9g","lineid":954,"uuid":"7cf22a40-6e73-4e80-be7c-1ab702bc54de"}
+{"index":415,"sub_uri":"Q2023","obj_uri":"Q150","obj_label":"francia","sub_label":"Nunavut","lineid":498,"uuid":"2174d07d-262b-4208-ac1b-86d265554a27"}
+{"index":503,"sub_uri":"Q458","obj_uri":"Q150","obj_label":"francia","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":611,"uuid":"04bb64c7-7838-4e7a-a504-342e2e8f121e"}
+{"index":318,"sub_uri":"Q131337","obj_uri":"Q9292","obj_label":"azeri","sub_label":"Azerbajdzs\u00e1ni Szovjet Szocialista K\u00f6zt\u00e1rsas\u00e1g","lineid":382,"uuid":"99a513b9-0f9f-410c-808f-baf721645a28"}
+{"index":623,"sub_uri":"Q985459","obj_uri":"Q1412","obj_label":"finn","sub_label":"Oulainen","lineid":754,"uuid":"d5bbb14f-f8ab-48fe-a632-90f67f6eaf62"}
+{"index":509,"sub_uri":"Q543882","obj_uri":"Q1412","obj_label":"finn","sub_label":"Kolari","lineid":619,"uuid":"2d88462f-2499-4d31-ac99-35d63899ed50"}
+{"index":97,"sub_uri":"Q207999","obj_uri":"Q1412","obj_label":"finn","sub_label":"Kuusamo","lineid":117,"uuid":"d9eeee68-1cbb-4122-96a1-d3d94a763070"}
+{"index":356,"sub_uri":"Q89959","obj_uri":"Q150","obj_label":"francia","sub_label":"Francia K\u00f6z\u00f6ss\u00e9g","lineid":426,"uuid":"9243e92e-cbae-4d94-969e-3b14617988b5"}
+{"index":57,"sub_uri":"Q240","obj_uri":"Q7411","obj_label":"holland","sub_label":"Br\u00fcsszel f\u0151v\u00e1rosi r\u00e9gi\u00f3","lineid":70,"uuid":"ea9bba55-748e-4a81-b22f-665ba56c9499"}
+{"index":461,"sub_uri":"Q694740","obj_uri":"Q397","obj_label":"latin","sub_label":"Ravennai Exarch\u00e1tus","lineid":560,"uuid":"d9582c6c-4513-4b3b-a3e8-55e6cece2d58"}
+{"index":529,"sub_uri":"Q184","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Feh\u00e9roroszorsz\u00e1g","lineid":640,"uuid":"6dda06a8-45c1-49e9-9414-e2fb6271e416"}
+{"index":403,"sub_uri":"Q99","obj_uri":"Q1860","obj_label":"angol","sub_label":"Kalifornia","lineid":483,"uuid":"0dff97dc-dbea-4ca4-ab8f-b6c16b786236"}
+{"index":278,"sub_uri":"Q21","obj_uri":"Q1860","obj_label":"angol","sub_label":"Anglia","lineid":334,"uuid":"366c61eb-7c05-4c3b-8db9-2f717fe34518"}
+{"index":239,"sub_uri":"Q458","obj_uri":"Q809","obj_label":"lengyel","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":286,"uuid":"c20bdd04-3d66-4912-bdc0-56cf359d38f4"}
+{"index":647,"sub_uri":"Q41550","obj_uri":"Q150","obj_label":"francia","sub_label":"Gazdas\u00e1gi Egy\u00fcttm\u0171k\u00f6d\u00e9si \u00e9s Fejleszt\u00e9si Szervezet","lineid":780,"uuid":"4c7fbaf0-1af3-4310-9d8c-f2afd62a83a0"}
+{"index":27,"sub_uri":"Q971","obj_uri":"Q150","obj_label":"francia","sub_label":"Kong\u00f3i K\u00f6zt\u00e1rsas\u00e1g","lineid":35,"uuid":"999f4299-65f5-42f4-bfed-ae960b0f127f"}
+{"index":64,"sub_uri":"Q1353","obj_uri":"Q1860","obj_label":"angol","sub_label":"Delhi","lineid":77,"uuid":"3be84d53-c2b7-4b3f-8e84-2d2588cc4028"}
+{"index":9,"sub_uri":"Q193619","obj_uri":"Q7411","obj_label":"holland","sub_label":"D\u00e9l-afrikai Uni\u00f3","lineid":12,"uuid":"dd009265-ed0a-4f8a-b461-d36435fba782"}
+{"index":665,"sub_uri":"Q67470","obj_uri":"Q652","obj_label":"olasz","sub_label":"Vacallo","lineid":801,"uuid":"35d4793d-9ed8-453f-b578-c7f26438f1bd"}
+{"index":525,"sub_uri":"Q1158","obj_uri":"Q1860","obj_label":"angol","sub_label":"Nemzetk\u00f6zi Atl\u00e9tikai Sz\u00f6vets\u00e9g","lineid":636,"uuid":"e08024f3-e446-489e-bb99-a62949dcbc5e"}
+{"index":175,"sub_uri":"Q68230","obj_uri":"Q150","obj_label":"francia","sub_label":"Meyrin","lineid":208,"uuid":"54436340-4bb7-492c-b222-f3d64b285c9a"}
+{"index":41,"sub_uri":"Q120730","obj_uri":"Q5287","obj_label":"jap\u00e1n","sub_label":"Kiot\u00f3 prefekt\u00fara","lineid":51,"uuid":"b11dc0fd-de49-4f0d-b2e2-2646a9b10b54"}
+{"index":75,"sub_uri":"Q9885","obj_uri":"Q5885","obj_label":"tamil","sub_label":"Kojambutt\u00far","lineid":90,"uuid":"2746850c-0ae0-43a9-ac1a-2c2259d5e6d8"}
+{"index":790,"sub_uri":"Q34754","obj_uri":"Q13275","obj_label":"szom\u00e1li","sub_label":"Szom\u00e1lif\u00f6ld","lineid":950,"uuid":"eef30d19-9802-4533-ba7e-bde464695181"}
+{"index":776,"sub_uri":"Q884","obj_uri":"Q9176","obj_label":"koreai","sub_label":"D\u00e9l-Korea","lineid":933,"uuid":"de047da8-be18-42af-80cb-02a480bf0cbc"}
+{"index":727,"sub_uri":"Q22","obj_uri":"Q1860","obj_label":"angol","sub_label":"Sk\u00f3cia","lineid":875,"uuid":"569d18aa-5a77-4918-a3e1-e69193b31a23"}
+{"index":445,"sub_uri":"Q1036","obj_uri":"Q1860","obj_label":"angol","sub_label":"Uganda","lineid":542,"uuid":"e0d783ed-5579-44c4-ab0f-763aa2332ca9"}
+{"index":755,"sub_uri":"Q5340","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Mordvinf\u00f6ld","lineid":907,"uuid":"8c856bd2-b66e-440f-84a3-a6dd1bfb22bc"}
+{"index":52,"sub_uri":"Q2012050","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Donecki ter\u00fclet","lineid":64,"uuid":"6dfc27b0-3004-4c9a-860b-72f640bee768"}
+{"index":384,"sub_uri":"Q8733","obj_uri":"Q9246","obj_label":"mongol","sub_label":"Csing-dinasztia","lineid":458,"uuid":"e6d9bdcd-e8c3-464f-8447-8c62af7dd004"}
+{"index":238,"sub_uri":"Q1353","obj_uri":"Q1568","obj_label":"hindi","sub_label":"Delhi","lineid":285,"uuid":"47f46f96-3a85-4038-bbe5-c049d1e68058"}
+{"index":164,"sub_uri":"Q33946","obj_uri":"Q9056","obj_label":"cseh","sub_label":"Csehszlov\u00e1kia","lineid":197,"uuid":"37b1a3b5-5fbc-4b75-ad0f-6817360d4a19"}
+{"index":380,"sub_uri":"Q171965","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Luhanszki ter\u00fclet","lineid":454,"uuid":"4dcc80a8-6b77-4bed-b0cf-a317ef7653ef"}
+{"index":423,"sub_uri":"Q1221","obj_uri":"Q1860","obj_label":"angol","sub_label":"Idaho","lineid":514,"uuid":"73615b29-d0a7-4737-8cbf-4a87e16541a4"}
+{"index":397,"sub_uri":"Q834","obj_uri":"Q150","obj_label":"francia","sub_label":"Wallis kanton","lineid":473,"uuid":"7b818321-1bde-400f-a4c0-1da0f01aab78"}
+{"index":160,"sub_uri":"Q11911","obj_uri":"Q150","obj_label":"francia","sub_label":"Bern kanton","lineid":191,"uuid":"5f3dffc8-b5a6-462c-a6db-515a369b26ea"}
+{"index":68,"sub_uri":"Q9648","obj_uri":"Q1860","obj_label":"angol","sub_label":"Falkland-szigetek","lineid":82,"uuid":"e22201b5-3b0c-43c0-9e29-4d74f1f5ea88"}
+{"index":281,"sub_uri":"Q907112","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Dnyeszter Menti K\u00f6zt\u00e1rsas\u00e1g","lineid":337,"uuid":"3ca5d314-8473-4b5b-8edb-e6aa258f2764"}
+{"index":768,"sub_uri":"Q985445","obj_uri":"Q1412","obj_label":"finn","sub_label":"Siikajoki","lineid":923,"uuid":"bb7b7c2c-d738-4042-a94b-bfea4e502b45"}
+{"index":254,"sub_uri":"Q57111","obj_uri":"Q150","obj_label":"francia","sub_label":"Cossonay","lineid":304,"uuid":"da030176-b14a-4472-9dd7-1a0dc13f354a"}
+{"index":718,"sub_uri":"Q7984","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Csukcsf\u00f6ld","lineid":862,"uuid":"a2e5224d-8212-4454-a84c-c671dfae60fd"}
+{"index":740,"sub_uri":"Q493855","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Arjeplog k\u00f6zs\u00e9g","lineid":889,"uuid":"8f1f3cda-5ff1-43ea-8579-e12b9c724f71"}
+{"index":141,"sub_uri":"Q935869","obj_uri":"Q1412","obj_label":"finn","sub_label":"Pelkosenniemi","lineid":168,"uuid":"2e258bfc-14fc-4139-855e-99aecabad79b"}
+{"index":531,"sub_uri":"Q757","obj_uri":"Q1860","obj_label":"angol","sub_label":"Saint Vincent \u00e9s a Grenadine-szigetek","lineid":642,"uuid":"d384efd8-a804-4db4-ac2b-8c3ba9273161"}
+{"index":661,"sub_uri":"Q6500954","obj_uri":"Q150","obj_label":"francia","sub_label":"Zaire","lineid":796,"uuid":"f4ce2c6e-1d30-4470-b588-c18420540682"}
+{"index":613,"sub_uri":"Q52626","obj_uri":"Q7026","obj_label":"katal\u00e1n","sub_label":"Formentera","lineid":742,"uuid":"1a5ca55b-bdca-4189-8509-8dfe4cd574e1"}
+{"index":722,"sub_uri":"Q503862","obj_uri":"Q1412","obj_label":"finn","sub_label":"Naantali","lineid":867,"uuid":"a5b689f7-6cc8-44ac-9228-ecbaa563e424"}
+{"index":536,"sub_uri":"Q403","obj_uri":"Q9299","obj_label":"szerb","sub_label":"Szerbia","lineid":648,"uuid":"d60abf46-60d3-4fac-aa01-bdcf5be40746"}
+{"index":361,"sub_uri":"Q1042","obj_uri":"Q1860","obj_label":"angol","sub_label":"Seychelle-szigetek","lineid":433,"uuid":"fe3128db-b74a-4012-856f-327c1869c1f8"}
+{"index":195,"sub_uri":"Q750","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Bol\u00edvia","lineid":231,"uuid":"8fb17905-b379-4d91-9250-be531caf08a5"}
+{"index":233,"sub_uri":"Q25528","obj_uri":"Q7411","obj_label":"holland","sub_label":"Saba","lineid":279,"uuid":"d5a02726-f5ee-445c-a8da-bd6301417d00"}
+{"index":216,"sub_uri":"Q47034","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Espoo","lineid":257,"uuid":"2403fc09-3b45-4720-820b-3b210ec23b48"}
+{"index":138,"sub_uri":"Q242","obj_uri":"Q1860","obj_label":"angol","sub_label":"Belize","lineid":165,"uuid":"0e6503a6-cc35-4348-a697-99d81306a549"}
+{"index":48,"sub_uri":"Q247613","obj_uri":"Q150","obj_label":"francia","sub_label":"Berni Jura","lineid":58,"uuid":"ce554996-0fbe-44ce-a73d-30d8287e75eb"}
+{"index":581,"sub_uri":"Q929","obj_uri":"Q150","obj_label":"francia","sub_label":"K\u00f6z\u00e9p-afrikai K\u00f6zt\u00e1rsas\u00e1g","lineid":705,"uuid":"84cd4989-8985-4fba-8ade-eee8bed40ea0"}
+{"index":333,"sub_uri":"Q574","obj_uri":"Q5146","obj_label":"portug\u00e1l","sub_label":"Kelet-Timor","lineid":400,"uuid":"25f0b213-ced8-4a1a-a0d8-6f7b89340f3a"}
+{"index":435,"sub_uri":"Q15028","obj_uri":"Q1860","obj_label":"angol","sub_label":"Nemzetk\u00f6zi Szabv\u00e1ny\u00fcgyi Szervezet","lineid":531,"uuid":"4563a119-e0bd-46ad-b761-baa4fda9bc3e"}
+{"index":37,"sub_uri":"Q155","obj_uri":"Q5146","obj_label":"portug\u00e1l","sub_label":"Braz\u00edlia","lineid":46,"uuid":"1d855d70-da49-44f3-8693-5748875b5916"}
+{"index":711,"sub_uri":"Q68387","obj_uri":"Q150","obj_label":"francia","sub_label":"L'Isle","lineid":853,"uuid":"9e4f0295-138e-42c0-aa2f-9efe54049846"}
+{"index":321,"sub_uri":"Q177819","obj_uri":"Q50868","obj_label":"egyiptomi","sub_label":"Egyiptomi \u00d3birodalom","lineid":386,"uuid":"50f1202e-fdd9-4314-88b9-86956ee0d80d"}
+{"index":252,"sub_uri":"Q1025714","obj_uri":"Q1412","obj_label":"finn","sub_label":"Kangasniemi","lineid":302,"uuid":"183a5a26-1ed7-4214-a249-bccc853f822d"}
+{"index":2,"sub_uri":"Q30971","obj_uri":"Q150","obj_label":"francia","sub_label":"Francia Polin\u00e9zia","lineid":4,"uuid":"7e867e82-f41c-457d-a796-5385630097cd"}
+{"index":473,"sub_uri":"Q1207","obj_uri":"Q1860","obj_label":"angol","sub_label":"\u00c9szak-Dakota","lineid":575,"uuid":"0d35da69-ecab-48ee-b79c-64ecd4cb6b6b"}
+{"index":330,"sub_uri":"Q237","obj_uri":"Q652","obj_label":"olasz","sub_label":"Vatik\u00e1n","lineid":397,"uuid":"44f04392-3d1a-4f89-8c2f-615b716d6721"}
+{"index":772,"sub_uri":"Q5720","obj_uri":"Q7026","obj_label":"katal\u00e1n","sub_label":"Valencia","lineid":929,"uuid":"0fdfa10b-9093-4cf1-a06a-06d4051fe674"}
+{"index":505,"sub_uri":"Q52261","obj_uri":"Q150","obj_label":"francia","sub_label":"Bex","lineid":614,"uuid":"61ea924d-e4e1-4743-9d25-fd9638d5f5a9"}
+{"index":328,"sub_uri":"Q1009","obj_uri":"Q1860","obj_label":"angol","sub_label":"Kamerun","lineid":394,"uuid":"aa9ba3fe-7868-44ae-96d6-6229cf7cca67"}
+{"index":564,"sub_uri":"Q458","obj_uri":"Q9058","obj_label":"szlov\u00e1k","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":685,"uuid":"d9f55db7-d6fb-4cd6-8cfe-45375f6443c7"}
+{"index":187,"sub_uri":"Q997600","obj_uri":"Q1412","obj_label":"finn","sub_label":"Jokioinen","lineid":221,"uuid":"44d34368-c37d-4473-ba0c-ddb971503cd7"}
+{"index":89,"sub_uri":"Q26180","obj_uri":"Q1860","obj_label":"angol","sub_label":"Sint Eustatius","lineid":108,"uuid":"fa7d2926-49f9-44f0-b09d-baa31475004b"}
+{"index":234,"sub_uri":"Q8733","obj_uri":"Q34271","obj_label":"tibeti","sub_label":"Csing-dinasztia","lineid":280,"uuid":"d302d8e1-c261-409e-a7bb-80f9c53a83d7"}
+{"index":247,"sub_uri":"Q514707","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Krokom k\u00f6zs\u00e9g","lineid":295,"uuid":"0f4097cb-309c-4dee-ba2a-949617f86766"}
+{"index":63,"sub_uri":"Q697","obj_uri":"Q1860","obj_label":"angol","sub_label":"Nauru","lineid":76,"uuid":"75397c2b-7e14-442e-9b79-b1c9a8d28e40"}
+{"index":66,"sub_uri":"Q52631","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Ibiza","lineid":79,"uuid":"b11f8419-8bd8-4f7e-93bd-b3fa7084a195"}
+{"index":15,"sub_uri":"Q1158","obj_uri":"Q150","obj_label":"francia","sub_label":"Nemzetk\u00f6zi Atl\u00e9tikai Sz\u00f6vets\u00e9g","lineid":22,"uuid":"3aec437a-ec9d-4ede-abe1-e78ee8673268"}
+{"index":499,"sub_uri":"Q69041","obj_uri":"Q652","obj_label":"olasz","sub_label":"Mendrisio","lineid":607,"uuid":"7c15e1c1-6424-4c8a-ba51-276fd399eb2c"}
+{"index":77,"sub_uri":"Q419","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Peru","lineid":92,"uuid":"8c75b296-dd5c-4347-a1a7-1e88d5d37c89"}
+{"index":38,"sub_uri":"Q96","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Mexik\u00f3","lineid":47,"uuid":"fcea89cc-fb6e-4bff-85a5-7ba95bdd6976"}
+{"index":770,"sub_uri":"Q1914","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Kar\u00e9lia","lineid":925,"uuid":"fb55e0b4-c438-4750-809a-67fe83bc6a7f"}
+{"index":443,"sub_uri":"Q181574","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"\u00c9szak-amerikai Szabadkereskedelmi Egyezm\u00e9ny","lineid":539,"uuid":"65c138de-69b1-4c8d-9165-2330faff5a08"}
+{"index":90,"sub_uri":"Q1212","obj_uri":"Q1860","obj_label":"angol","sub_label":"Montana","lineid":109,"uuid":"8253ec83-56b8-45e6-9d9a-f945415b93d9"}
+{"index":459,"sub_uri":"Q5720","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Valencia","lineid":557,"uuid":"1654c1c9-96f3-41ac-8876-7e1bc6bf75c7"}
+{"index":362,"sub_uri":"Q4018","obj_uri":"Q8752","obj_label":"baszk","sub_label":"Navarra","lineid":434,"uuid":"5a0a4df1-0757-4afd-90a4-364137a3978d"}
+{"index":692,"sub_uri":"Q1000","obj_uri":"Q150","obj_label":"francia","sub_label":"Gabon","lineid":834,"uuid":"57ac3595-a50c-4195-84e9-2a64401aaa0d"}
+{"index":323,"sub_uri":"Q783","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Honduras","lineid":388,"uuid":"0c59aeec-0f6e-4faa-9cca-7064b264d5dd"}
+{"index":739,"sub_uri":"Q68076","obj_uri":"Q150","obj_label":"francia","sub_label":"Perroy","lineid":888,"uuid":"6a8327b5-6c3f-4d28-9019-ee96c11757e5"}
+{"index":598,"sub_uri":"Q1246","obj_uri":"Q9299","obj_label":"szerb","sub_label":"Koszov\u00f3","lineid":724,"uuid":"e0d7eabc-d9c4-4eda-a723-93e0de545d83"}
+{"index":453,"sub_uri":"Q5237","obj_uri":"Q7737","obj_label":"orosz","sub_label":"\u00c9szak-Osz\u00e9tia","lineid":550,"uuid":"aded6800-d0c7-4aa3-b282-7837ccf61f4c"}
+{"index":337,"sub_uri":"Q608752","obj_uri":"Q1412","obj_label":"finn","sub_label":"Lieksa","lineid":404,"uuid":"55a5f524-0d4d-4476-8f76-a66257b87db2"}
+{"index":419,"sub_uri":"Q8733","obj_uri":"Q7850","obj_label":"k\u00ednai","sub_label":"Csing-dinasztia","lineid":506,"uuid":"3e4f8469-f1ca-4a50-bf30-961d3040987c"}
+{"index":371,"sub_uri":"Q69790","obj_uri":"Q652","obj_label":"olasz","sub_label":"Cadenazzo","lineid":445,"uuid":"1b6d1970-1a7a-4895-8f9b-4280ea205579"}
+{"index":660,"sub_uri":"Q40970","obj_uri":"Q1860","obj_label":"angol","sub_label":"Nemzetk\u00f6zi Olimpiai Bizotts\u00e1g","lineid":795,"uuid":"6c49db41-0c54-4576-acf8-4db7cd9581e5"}
+{"index":658,"sub_uri":"Q167715","obj_uri":"Q36236","obj_label":"malaj\u00e1lam","sub_label":"Thiruvananthapuram","lineid":793,"uuid":"6957ee53-9d8b-48bc-aae0-040eff731de0"}
+{"index":677,"sub_uri":"Q69738","obj_uri":"Q150","obj_label":"francia","sub_label":"Pully","lineid":817,"uuid":"13ce0696-7d0c-4cbc-bca1-8df29bfcfd9b"}
+{"index":703,"sub_uri":"Q16635","obj_uri":"Q1860","obj_label":"angol","sub_label":"Guam","lineid":845,"uuid":"dfc5c736-a34a-456d-9463-5b87d6f7e0b2"}
+{"index":430,"sub_uri":"Q69484","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Spiez","lineid":521,"uuid":"2f5e675e-e7d2-45d2-9b32-03997e248d23"}
+{"index":517,"sub_uri":"Q25230","obj_uri":"Q1860","obj_label":"angol","sub_label":"Guernsey Bailiffs\u00e9g","lineid":627,"uuid":"cbb8e582-9f48-4fec-b8b0-168cab33584b"}
+{"index":526,"sub_uri":"Q947153","obj_uri":"Q652","obj_label":"olasz","sub_label":"Tavolara Kir\u00e1lys\u00e1g","lineid":637,"uuid":"9fd7a582-71a8-42ef-9095-a214b5e0b394"}
+{"index":158,"sub_uri":"Q683525","obj_uri":"Q1412","obj_label":"finn","sub_label":"Varkaus","lineid":189,"uuid":"8d71b70d-2f8e-4d0b-816d-5eba9f0822b5"}
+{"index":463,"sub_uri":"Q974","obj_uri":"Q150","obj_label":"francia","sub_label":"Kong\u00f3i Demokratikus K\u00f6zt\u00e1rsas\u00e1g","lineid":562,"uuid":"7aecbc1a-fcaf-4045-a0cc-73641e220529"}
+{"index":294,"sub_uri":"Q159","obj_uri":"Q8798","obj_label":"ukr\u00e1n","sub_label":"Oroszorsz\u00e1g","lineid":353,"uuid":"6d3ddd30-5802-45a3-8c47-9e12900fe052"}
+{"index":572,"sub_uri":"Q7948","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Kamcsatkai hat\u00e1rter\u00fclet","lineid":695,"uuid":"7a589864-aacc-4fc6-a858-937df634fe9e"}
+{"index":55,"sub_uri":"Q683","obj_uri":"Q1860","obj_label":"angol","sub_label":"Szamoa","lineid":68,"uuid":"a6d6a120-53d9-439f-b98e-36dc86b3d37f"}
+{"index":405,"sub_uri":"Q960","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Tuva","lineid":487,"uuid":"30df7a7d-870e-426b-802b-2b7d9ea7b798"}
+{"index":724,"sub_uri":"Q64099","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Brugg","lineid":871,"uuid":"5b9cebbb-67b5-4782-9ffe-64d71eb7b37e"}
+{"index":169,"sub_uri":"Q190353","obj_uri":"Q397","obj_label":"latin","sub_label":"M\u00e1ltai lovagrend","lineid":202,"uuid":"d583208b-8fff-4e7f-828a-865a2148441d"}
+{"index":307,"sub_uri":"Q1952","obj_uri":"Q1860","obj_label":"angol","sub_label":"\u00daj-Sk\u00f3cia","lineid":371,"uuid":"b9177a14-20ab-4f47-adb2-442b2ab7e406"}
+{"index":166,"sub_uri":"Q64093","obj_uri":"Q150","obj_label":"francia","sub_label":"Le Locle","lineid":199,"uuid":"195d63ea-21f0-41c5-b103-400072962aa3"}
+{"index":495,"sub_uri":"Q2895","obj_uri":"Q809","obj_label":"lengyel","sub_label":"Belorusz Szovjet Szocialista K\u00f6zt\u00e1rsas\u00e1g","lineid":602,"uuid":"3a1c326c-af88-4212-919f-e5d1e3fa5d0a"}
+{"index":439,"sub_uri":"Q16641","obj_uri":"Q1860","obj_label":"angol","sub_label":"Amerikai Szamoa","lineid":535,"uuid":"b781a8c0-c704-45ad-8821-19d19607d0b3"}
+{"index":324,"sub_uri":"Q759","obj_uri":"Q1860","obj_label":"angol","sub_label":"New Hampshire","lineid":389,"uuid":"6c7d8441-d286-4fd9-8ba5-977dea7bb6d4"}
+{"index":669,"sub_uri":"Q171852","obj_uri":"Q8798","obj_label":"ukr\u00e1n","sub_label":"Odesszai ter\u00fclet","lineid":806,"uuid":"187ebbf3-0c3a-4952-97e8-58fa8a43b0d4"}
+{"index":191,"sub_uri":"Q4948","obj_uri":"Q652","obj_label":"olasz","sub_label":"Velencei K\u00f6zt\u00e1rsas\u00e1g","lineid":227,"uuid":"64004a33-049d-40fe-bc97-6328a9e0f971"}
+{"index":466,"sub_uri":"Q683512","obj_uri":"Q1412","obj_label":"finn","sub_label":"Savonlinna","lineid":565,"uuid":"749aae17-3e0e-4c41-9a51-657674b5543d"}
+{"index":21,"sub_uri":"Q917883","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Molina de Segura","lineid":29,"uuid":"dbbafaa9-4207-4dd8-9821-51bbedc6279e"}
+{"index":215,"sub_uri":"Q7318","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Harmadik Birodalom","lineid":256,"uuid":"f3b9c546-8f28-463e-b9a4-e11e64d0c6d7"}
+{"index":543,"sub_uri":"Q530309","obj_uri":"Q1412","obj_label":"finn","sub_label":"Karkkila","lineid":658,"uuid":"3d1f4792-73a5-40eb-82fb-948d559fcbc4"}
+{"index":60,"sub_uri":"Q193180","obj_uri":"Q1412","obj_label":"finn","sub_label":"Kajaani","lineid":73,"uuid":"7d8d8c4e-7965-4f8c-9eec-bd578b5b7996"}
+{"index":559,"sub_uri":"Q624511","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Aracena","lineid":679,"uuid":"96f7d2eb-3ace-4320-9e5f-d6b7903097a2"}
+{"index":50,"sub_uri":"Q936067","obj_uri":"Q1412","obj_label":"finn","sub_label":"Salla","lineid":60,"uuid":"5d69243f-b2c0-43f9-af45-9228e430c9aa"}
+{"index":412,"sub_uri":"Q785","obj_uri":"Q150","obj_label":"francia","sub_label":"Jersey","lineid":495,"uuid":"5dbb56e9-945c-47f0-89c3-a357174d6c35"}
+{"index":585,"sub_uri":"Q1341","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Togliatti","lineid":709,"uuid":"fa5669bb-29be-4b55-8ce8-e9cd1b343d84"}
+{"index":779,"sub_uri":"Q6178890","obj_uri":"Q9168","obj_label":"perzsa","sub_label":"Hor\u00e1sz\u00e1n","lineid":937,"uuid":"4fd91105-1f40-408e-8619-1cf5d474fcb2"}
+{"index":642,"sub_uri":"Q2217404","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Nyeklinovkai j\u00e1r\u00e1s","lineid":775,"uuid":"45bb18ed-9ba8-40dd-b185-d7e272272713"}
+{"index":737,"sub_uri":"Q1204","obj_uri":"Q1860","obj_label":"angol","sub_label":"Illinois","lineid":886,"uuid":"f692a49c-f1f7-4109-b238-cfc23d6539dd"}
+{"index":709,"sub_uri":"Q59091","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Uppsala k\u00f6zs\u00e9g","lineid":851,"uuid":"a0bbb5d5-2ff8-4638-b891-1dafde4e96c6"}
+{"index":477,"sub_uri":"Q3953","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Kalm\u00fckf\u00f6ld","lineid":579,"uuid":"ec983ca3-91f0-49ad-a0e1-8504a14c8349"}
+{"index":33,"sub_uri":"Q1437","obj_uri":"Q1568","obj_label":"hindi","sub_label":"R\u00e1dzsaszt\u00e1n","lineid":42,"uuid":"c490e746-8b03-4d4a-bdea-8ffc7b3fed30"}
+{"index":261,"sub_uri":"Q127623","obj_uri":"Q1412","obj_label":"finn","sub_label":"Vantaa","lineid":312,"uuid":"58ddb3fa-4d57-4982-b6fc-5ab061dc5a8f"}
+{"index":651,"sub_uri":"Q1352","obj_uri":"Q5885","obj_label":"tamil","sub_label":"Csennai","lineid":784,"uuid":"75d04358-50e8-46cf-8b84-d8bacb7aa563"}
+{"index":276,"sub_uri":"Q5267","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Kabard- \u00e9s Balk\u00e1rf\u00f6ld","lineid":331,"uuid":"1fca496d-e8af-4627-9ba8-6d5ae03b90ba"}
+{"index":502,"sub_uri":"Q792","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"El Salvador","lineid":610,"uuid":"84257187-0e83-4236-a4ca-93ed4bcf9842"}
+{"index":147,"sub_uri":"Q2164","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Nyenyecf\u00f6ld","lineid":174,"uuid":"9d1705c8-2737-4990-838f-9552112ed783"}
+{"index":654,"sub_uri":"Q16","obj_uri":"Q1860","obj_label":"angol","sub_label":"Kanada","lineid":787,"uuid":"d1f5c483-cc39-48e4-b847-9de986acc02b"}
+{"index":767,"sub_uri":"Q717","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Venezuela","lineid":922,"uuid":"1e50c880-035c-4ddb-b0f1-337c21088746"}
+{"index":82,"sub_uri":"Q35672","obj_uri":"Q1860","obj_label":"angol","sub_label":"Pitcairn-szigetek","lineid":99,"uuid":"1366a0cc-1a82-40ee-af74-ef126b941653"}
+{"index":49,"sub_uri":"Q33946","obj_uri":"Q9058","obj_label":"szlov\u00e1k","sub_label":"Csehszlov\u00e1kia","lineid":59,"uuid":"8897de0f-89ce-4560-8bfe-7f34dd3177dc"}
+{"index":569,"sub_uri":"Q228","obj_uri":"Q7026","obj_label":"katal\u00e1n","sub_label":"Andorra","lineid":692,"uuid":"63bf196b-6308-4264-8a4e-e6252b4fb892"}
+{"index":273,"sub_uri":"Q748513","obj_uri":"Q1412","obj_label":"finn","sub_label":"Loviisa","lineid":326,"uuid":"1270318e-d7b4-40be-86d2-8d38d769839b"}
+{"index":354,"sub_uri":"Q5446","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Marif\u00f6ld","lineid":424,"uuid":"0877f3f7-44ec-413d-a581-a0b02b0540cb"}
+{"index":789,"sub_uri":"Q874","obj_uri":"Q7737","obj_label":"orosz","sub_label":"T\u00fcrkmeniszt\u00e1n","lineid":949,"uuid":"f4fa2c0b-3820-41ae-bc57-8e262d1acbb4"}
+{"index":801,"sub_uri":"Q819","obj_uri":"Q9211","obj_label":"lao","sub_label":"Laosz","lineid":963,"uuid":"9dbb2629-9079-4cd0-ac10-d884ee897e9a"}
+{"index":454,"sub_uri":"Q105967","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"La Gomera","lineid":551,"uuid":"be7d11c8-3f0b-4f2a-86b5-9d74c59e8725"}
+{"index":698,"sub_uri":"Q672","obj_uri":"Q1860","obj_label":"angol","sub_label":"Tuvalu","lineid":840,"uuid":"42ded509-e4dc-44fc-bb13-d931349aa1e2"}
+{"index":217,"sub_uri":"Q4040","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Arag\u00f3nia","lineid":258,"uuid":"3e438531-994e-49e5-a032-86b801e56099"}
+{"index":339,"sub_uri":"Q34266","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Orosz Birodalom","lineid":406,"uuid":"d1634d7d-6443-4781-bb3c-312b9470dda4"}
+{"index":386,"sub_uri":"Q40","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Ausztria","lineid":461,"uuid":"e3c7a676-e343-486c-9683-9a8fb710920e"}
+{"index":312,"sub_uri":"Q186096","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Orosz C\u00e1rs\u00e1g","lineid":376,"uuid":"d6ab057a-0780-42d8-ba02-6dc51b2a9466"}
+{"index":787,"sub_uri":"Q207891","obj_uri":"Q1412","obj_label":"finn","sub_label":"Kokkola","lineid":947,"uuid":"1c7ec7bf-15a1-4804-93df-1f1cc620245a"}
+{"index":255,"sub_uri":"Q221457","obj_uri":"Q809","obj_label":"lengyel","sub_label":"Kongresszusi Lengyelorsz\u00e1g","lineid":305,"uuid":"551787d1-904f-41b9-88bb-5fc0ba370384"}
+{"index":780,"sub_uri":"Q140359","obj_uri":"Q9056","obj_label":"cseh","sub_label":"Els\u0151 Csehszlov\u00e1k K\u00f6zt\u00e1rsas\u00e1g","lineid":938,"uuid":"b8a96481-793d-499a-84bd-a38d2ae914b3"}
+{"index":207,"sub_uri":"Q193367","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Porvoo","lineid":244,"uuid":"b6af17ca-ee53-4350-a4aa-be65714e8e71"}
+{"index":81,"sub_uri":"Q668","obj_uri":"Q1860","obj_label":"angol","sub_label":"India","lineid":98,"uuid":"037c1713-6c67-4445-9c21-b39c8c26e3a6"}
+{"index":71,"sub_uri":"Q35572","obj_uri":"Q150","obj_label":"francia","sub_label":"Eur\u00f3pai Labdar\u00fag\u00f3-sz\u00f6vets\u00e9g","lineid":85,"uuid":"808a2059-740b-485c-9505-550ad51309ac"}
+{"index":257,"sub_uri":"Q12544","obj_uri":"Q397","obj_label":"latin","sub_label":"Biz\u00e1nci Birodalom","lineid":307,"uuid":"93d70af8-3328-4bc5-a160-63024ac41cb5"}
+{"index":34,"sub_uri":"Q485207","obj_uri":"Q7850","obj_label":"k\u00ednai","sub_label":"Sanghaji Egy\u00fcttm\u0171k\u00f6d\u00e9si Szervezet","lineid":43,"uuid":"ff95d33a-0fa8-41eb-aa60-9356043c275f"}
+{"index":756,"sub_uri":"Q14773","obj_uri":"Q5146","obj_label":"portug\u00e1l","sub_label":"Maka\u00f3","lineid":908,"uuid":"31db2955-d844-4092-ad80-081d29371704"}
+{"index":251,"sub_uri":"Q1974","obj_uri":"Q1860","obj_label":"angol","sub_label":"Brit Columbia","lineid":301,"uuid":"28ae8822-c597-44d0-890c-c621ee5ead61"}
+{"index":300,"sub_uri":"Q190583","obj_uri":"Q1412","obj_label":"finn","sub_label":"Mikkeli","lineid":361,"uuid":"b666ca9c-092c-408a-ae7b-35bfcad67475"}
+{"index":146,"sub_uri":"Q713750","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Nyugat-N\u00e9metorsz\u00e1g","lineid":173,"uuid":"8dff06fb-e5f3-4c01-8ebb-1a585d53f75f"}
+{"index":196,"sub_uri":"Q13116","obj_uri":"Q7411","obj_label":"holland","sub_label":"Benelux \u00e1llamok","lineid":232,"uuid":"4fd4bfed-3d4e-445a-97a0-baa4d366fb4a"}
+{"index":253,"sub_uri":"Q31","obj_uri":"Q7411","obj_label":"holland","sub_label":"Belgium","lineid":303,"uuid":"6b81ab0b-170e-4f41-93ea-4364906d29ef"}
+{"index":670,"sub_uri":"Q32","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Luxemburg","lineid":808,"uuid":"e2213b94-7373-41cb-a280-d7b4a6fdf233"}
+{"index":506,"sub_uri":"Q69714","obj_uri":"Q150","obj_label":"francia","sub_label":"Le Grand-Saconnex","lineid":616,"uuid":"0c0f5d79-4559-462c-aa22-36bb4b29c05f"}
+{"index":153,"sub_uri":"Q2012050","obj_uri":"Q8798","obj_label":"ukr\u00e1n","sub_label":"Donecki ter\u00fclet","lineid":181,"uuid":"1ebef4df-c5e1-4a0b-8a52-a9c1c1b0748a"}
+{"index":393,"sub_uri":"Q26273","obj_uri":"Q7411","obj_label":"holland","sub_label":"Sint Maarten","lineid":469,"uuid":"37f41216-39fb-40fb-931b-44c52ca4f3aa"}
+{"index":667,"sub_uri":"Q25528","obj_uri":"Q1860","obj_label":"angol","sub_label":"Saba","lineid":804,"uuid":"39c662aa-c305-4c26-9940-70c61a368efb"}
+{"index":341,"sub_uri":"Q29999","obj_uri":"Q7411","obj_label":"holland","sub_label":"Holland Kir\u00e1lys\u00e1g","lineid":408,"uuid":"641437aa-5291-4504-9e65-b014617dbbee"}
+{"index":468,"sub_uri":"Q686","obj_uri":"Q150","obj_label":"francia","sub_label":"Vanuatu","lineid":567,"uuid":"491e3afb-e69e-469c-aac4-20c3e6e10bd6"}
+{"index":343,"sub_uri":"Q935847","obj_uri":"Q1412","obj_label":"finn","sub_label":"Viitasaari","lineid":410,"uuid":"f907f644-0cb2-4a14-92e6-bcd28aa8eab1"}
+{"index":80,"sub_uri":"Q1013","obj_uri":"Q1860","obj_label":"angol","sub_label":"Lesotho","lineid":96,"uuid":"b62bdf6f-f646-46ea-ac78-0d93d023ff62"}
+{"index":624,"sub_uri":"Q1255","obj_uri":"Q9299","obj_label":"szerb","sub_label":"Koszov\u00f3 \u00e9s Met\u00f3hia Auton\u00f3m Tartom\u00e1ny","lineid":755,"uuid":"42b14ae0-f78b-4374-8fef-b666f175f192"}
+{"index":368,"sub_uri":"Q3934","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Aszt\u00faria","lineid":441,"uuid":"9c594eba-0047-4f26-aa54-e61d31ccc23e"}
+{"index":762,"sub_uri":"Q47488","obj_uri":"Q150","obj_label":"francia","sub_label":"Nemzetk\u00f6zi B\u00fcntet\u0151b\u00edr\u00f3s\u00e1g","lineid":915,"uuid":"23ecc95c-c723-42ea-8f64-a9bfb7423aa4"}
+{"index":553,"sub_uri":"Q68972","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Liestal","lineid":672,"uuid":"42642b80-4f5b-4b21-913f-7445081df143"}
+{"index":574,"sub_uri":"Q68336","obj_uri":"Q652","obj_label":"olasz","sub_label":"Ronco sopra Ascona","lineid":697,"uuid":"4cfff3fe-31da-43b3-9603-856130014808"}
+{"index":100,"sub_uri":"Q1050","obj_uri":"Q1860","obj_label":"angol","sub_label":"Szv\u00e1zif\u00f6ld","lineid":120,"uuid":"93ebf9c7-a811-414f-980f-6394da44883d"}
+{"index":597,"sub_uri":"Q1979","obj_uri":"Q1860","obj_label":"angol","sub_label":"Prince Edward-sziget","lineid":723,"uuid":"f8e24f6a-d49c-4e2d-8d25-26b955df94fe"}
+{"index":792,"sub_uri":"Q39","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Sv\u00e1jc","lineid":952,"uuid":"31c10102-174a-48d8-aa2a-644fec9b4615"}
+{"index":625,"sub_uri":"Q5328","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Karacs\u00e1j- \u00e9s Cserkeszf\u00f6ld","lineid":756,"uuid":"7931583e-fd65-41de-8af2-b9cede9978d2"}
+{"index":565,"sub_uri":"Q69757","obj_uri":"Q150","obj_label":"francia","sub_label":"Prilly","lineid":686,"uuid":"91b4a54f-e693-41f6-bf0b-64ec2e8626ae"}
+{"index":62,"sub_uri":"Q31","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Belgium","lineid":75,"uuid":"917d1a30-152b-45c1-959d-13203beede0a"}
+{"index":289,"sub_uri":"Q69745","obj_uri":"Q150","obj_label":"francia","sub_label":"Renens (VD)","lineid":347,"uuid":"e6026589-2691-4e19-bf25-1a44502c973f"}
+{"index":717,"sub_uri":"Q216790","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Hanko","lineid":861,"uuid":"18c109ab-f2f9-4965-82fc-f0afc52e6d56"}
+{"index":448,"sub_uri":"Q1042","obj_uri":"Q150","obj_label":"francia","sub_label":"Seychelle-szigetek","lineid":545,"uuid":"feb46c0b-2284-4a4d-ba3f-afb9e8367757"}
+{"index":578,"sub_uri":"Q853673","obj_uri":"Q1412","obj_label":"finn","sub_label":"Iitti","lineid":701,"uuid":"d7f1b2ae-2f36-4d0f-bcc9-741beca7c5f2"}
+{"index":132,"sub_uri":"Q81299","obj_uri":"Q150","obj_label":"francia","sub_label":"Eur\u00f3pai Biztons\u00e1gi \u00e9s Egy\u00fcttm\u0171k\u00f6d\u00e9si Szervezet","lineid":159,"uuid":"7cb9fec2-26c9-4a15-95e2-e135216b2b5c"}
+{"index":682,"sub_uri":"Q5118","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Dageszt\u00e1n","lineid":822,"uuid":"86396a55-c7b5-4165-a9c2-d022de31230f"}
+{"index":596,"sub_uri":"Q1014","obj_uri":"Q1860","obj_label":"angol","sub_label":"Lib\u00e9ria","lineid":722,"uuid":"f1ebdd97-f39b-4bdb-805a-2dd0ffd98f6a"}
+{"index":508,"sub_uri":"Q15028","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Nemzetk\u00f6zi Szabv\u00e1ny\u00fcgyi Szervezet","lineid":618,"uuid":"95474709-ff79-4922-a582-7cdb4e2ba264"}
+{"index":243,"sub_uri":"Q25","obj_uri":"Q9309","obj_label":"walesi","sub_label":"Wales","lineid":290,"uuid":"c77ed967-ed5d-478f-9f30-d1154f5fbf85"}
+{"index":313,"sub_uri":"Q69364","obj_uri":"Q150","obj_label":"francia","sub_label":"Carouge (GE)","lineid":377,"uuid":"39de93bb-31db-4e82-8db8-3538c1a0ebc0"}
+{"index":694,"sub_uri":"Q1183","obj_uri":"Q1860","obj_label":"angol","sub_label":"Puerto Rico","lineid":836,"uuid":"99a9cad3-5970-4f32-861a-8937ce02d78a"}
+{"index":269,"sub_uri":"Q730","obj_uri":"Q7411","obj_label":"holland","sub_label":"Suriname","lineid":322,"uuid":"73a3dd45-331b-4bcd-a9b4-f12765cde8fe"}
+{"index":672,"sub_uri":"Q12755","obj_uri":"Q150","obj_label":"francia","sub_label":"Jura kanton","lineid":810,"uuid":"7b59e6d2-82c6-4233-bd33-587f73628c4d"}
+{"index":381,"sub_uri":"Q1361","obj_uri":"Q8097","obj_label":"telugu","sub_label":"Haidar\u00e1b\u00e1d","lineid":455,"uuid":"4d6d1c77-3466-4b11-ac7b-0e4386a54bf7"}
+{"index":188,"sub_uri":"Q748064","obj_uri":"Q1412","obj_label":"finn","sub_label":"Maaninka","lineid":222,"uuid":"cde59cd8-417d-409c-8d3f-9de5811c6214"}
+{"index":183,"sub_uri":"Q12724","obj_uri":"Q652","obj_label":"olasz","sub_label":"Ticino kanton","lineid":217,"uuid":"29902c77-00a2-4df2-864c-04d6484d7e9c"}
+{"index":31,"sub_uri":"Q1195","obj_uri":"Q1860","obj_label":"angol","sub_label":"Megh\u00e1laja","lineid":39,"uuid":"20cac6e9-2467-4f5a-b3f7-f6f87ab713f7"}
+{"index":736,"sub_uri":"Q69525","obj_uri":"Q150","obj_label":"francia","sub_label":"Payerne","lineid":885,"uuid":"ecce3031-f829-492e-b55d-6fa926fc086e"}
+{"index":761,"sub_uri":"Q458","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":914,"uuid":"78aed2bd-b82a-412c-a9de-17893ed0cb31"}
+{"index":348,"sub_uri":"Q1948","obj_uri":"Q1860","obj_label":"angol","sub_label":"Manitoba","lineid":416,"uuid":"a82ee3c7-0fa8-41c9-9279-70eebcdb5cdc"}
+{"index":329,"sub_uri":"Q797","obj_uri":"Q1860","obj_label":"angol","sub_label":"Alaszka","lineid":395,"uuid":"9f25c277-fa52-47fb-80f4-78e8ef86ca25"}
+{"index":322,"sub_uri":"Q1008","obj_uri":"Q150","obj_label":"francia","sub_label":"Elef\u00e1ntcsontpart","lineid":387,"uuid":"3008d7a4-729c-412b-b1b3-5378f56e26d9"}
+{"index":408,"sub_uri":"Q2009","obj_uri":"Q1860","obj_label":"angol","sub_label":"Yukon","lineid":490,"uuid":"dc24c584-ed8d-485a-b328-3aea2b6d606b"}
+{"index":353,"sub_uri":"Q986320","obj_uri":"Q1412","obj_label":"finn","sub_label":"Sipoo","lineid":423,"uuid":"28fc60fe-7d3c-403c-ad7f-2ed08d56d097"}
+{"index":256,"sub_uri":"Q334577","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Quetzaltenango","lineid":306,"uuid":"70bcf880-2125-41a8-b33e-bc020a9a9b33"}
+{"index":260,"sub_uri":"Q1558","obj_uri":"Q1860","obj_label":"angol","sub_label":"Kansas","lineid":311,"uuid":"18923b40-5b71-4abd-b4b1-125e2231a1a1"}
+{"index":270,"sub_uri":"Q1184","obj_uri":"Q1568","obj_label":"hindi","sub_label":"Dzsh\u00e1rkhand","lineid":323,"uuid":"19246330-daa4-4948-ae4b-56f493ca8c85"}
+{"index":8,"sub_uri":"Q790","obj_uri":"Q150","obj_label":"francia","sub_label":"Haiti","lineid":11,"uuid":"eeb08c78-1e02-44f1-8c11-534cec2c1845"}
+{"index":478,"sub_uri":"Q69802","obj_uri":"Q652","obj_label":"olasz","sub_label":"Camorino","lineid":581,"uuid":"620e39fc-2bd6-487e-ab13-11c95ba7af39"}
+{"index":688,"sub_uri":"Q80989","obj_uri":"Q1568","obj_label":"hindi","sub_label":"Bhop\u00e1l","lineid":830,"uuid":"84215e60-553c-4f14-9ec7-0795fd37e9ba"}
+{"index":389,"sub_uri":"Q43","obj_uri":"Q256","obj_label":"t\u00f6r\u00f6k","sub_label":"T\u00f6r\u00f6korsz\u00e1g","lineid":465,"uuid":"db5025a8-17b0-4db2-94fa-aaa9a5eabc2c"}
+{"index":78,"sub_uri":"Q1353","obj_uri":"Q58635","obj_label":"pandzs\u00e1bi","sub_label":"Delhi","lineid":93,"uuid":"aa55056e-586d-49bf-a157-f49906ee7177"}
+{"index":645,"sub_uri":"Q334","obj_uri":"Q1860","obj_label":"angol","sub_label":"Szingap\u00far","lineid":778,"uuid":"0205e63c-e22c-435b-af1f-2b7f73be1230"}
+{"index":409,"sub_uri":"Q965","obj_uri":"Q150","obj_label":"francia","sub_label":"Burkina Faso","lineid":492,"uuid":"0ec8b83a-3e7a-4beb-9dc2-3f09b66d70ca"}
+{"index":687,"sub_uri":"Q34617","obj_uri":"Q150","obj_label":"francia","sub_label":"Saint-Pierre \u00e9s Miquelon","lineid":829,"uuid":"91606b34-484a-4a44-8d8c-21a9ee3e36a6"}
+{"index":74,"sub_uri":"Q1006","obj_uri":"Q150","obj_label":"francia","sub_label":"Guinea","lineid":88,"uuid":"2dc48fba-df76-442c-95e3-719ecada155a"}
+{"index":413,"sub_uri":"Q159","obj_uri":"Q9292","obj_label":"azeri","sub_label":"Oroszorsz\u00e1g","lineid":496,"uuid":"1bbc18e1-f31b-40c3-b341-635657536845"}
+{"index":500,"sub_uri":"Q32","obj_uri":"Q150","obj_label":"francia","sub_label":"Luxemburg","lineid":608,"uuid":"309a460d-f441-432d-8fb0-4a13fb64daf9"}
+{"index":245,"sub_uri":"Q43070","obj_uri":"Q8798","obj_label":"ukr\u00e1n","sub_label":"Doneck","lineid":293,"uuid":"ff7b7f89-7268-4d64-a09f-63c3f34d8c50"}
+{"index":410,"sub_uri":"Q66471","obj_uri":"Q150","obj_label":"francia","sub_label":"Sonvilier","lineid":493,"uuid":"4870879e-97a7-4bba-af53-f7cc2675a030"}
+{"index":344,"sub_uri":"Q8828","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Mallorca","lineid":411,"uuid":"5b35e7a6-c8db-417f-9d6a-f54f9438d720"}
+{"index":190,"sub_uri":"Q113718","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Botkyrka k\u00f6zs\u00e9g","lineid":224,"uuid":"f72ddc5f-fc77-4e85-8a7c-4425df81ef9d"}
+{"index":764,"sub_uri":"Q52636","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Menorca","lineid":917,"uuid":"2b71e78d-0ad5-40ac-b9d6-36289a6d0c64"}
+{"index":244,"sub_uri":"Q47916","obj_uri":"Q1617","obj_label":"urdu","sub_label":"Lakhnau","lineid":292,"uuid":"aa85016a-df5e-4368-aec0-f8e762d84552"}
+{"index":399,"sub_uri":"Q117091","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Kalix k\u00f6zs\u00e9g","lineid":478,"uuid":"0b45bec8-3fd8-41f2-af1e-7f69fecaef6c"}
+{"index":611,"sub_uri":"Q23635","obj_uri":"Q1860","obj_label":"angol","sub_label":"Bermuda","lineid":740,"uuid":"0e127234-e6a7-4324-888c-635e48a9e6b9"}
+{"index":350,"sub_uri":"Q42262","obj_uri":"Q150","obj_label":"francia","sub_label":"Eur\u00f3pai \u0170r\u00fcgyn\u00f6ks\u00e9g","lineid":418,"uuid":"52d0913b-e4d6-453b-b129-a2d5204cef4c"}
+{"index":629,"sub_uri":"Q69401","obj_uri":"Q150","obj_label":"francia","sub_label":"Morges","lineid":760,"uuid":"287f64cc-f7fc-4e3e-b717-83808653e543"}
+{"index":116,"sub_uri":"Q78","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"B\u00e1zel","lineid":136,"uuid":"4dd232be-155c-49b1-9820-e376f12929e5"}
+{"index":600,"sub_uri":"Q55502","obj_uri":"Q397","obj_label":"latin","sub_label":"Jeruzs\u00e1lemi Kir\u00e1lys\u00e1g","lineid":726,"uuid":"f90b92cb-a0de-40c1-bedb-1e720b33fbc3"}
+{"index":732,"sub_uri":"Q221457","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Kongresszusi Lengyelorsz\u00e1g","lineid":880,"uuid":"d40f5e85-9aae-44b0-ac1b-a3756035039c"}
+{"index":303,"sub_uri":"Q25227","obj_uri":"Q1860","obj_label":"angol","sub_label":"Holland Antill\u00e1k","lineid":364,"uuid":"c00e94e0-d6c5-4e63-8b8a-332e54109b13"}
+{"index":43,"sub_uri":"Q1001927","obj_uri":"Q1412","obj_label":"finn","sub_label":"Sastamala","lineid":53,"uuid":"88c8aecb-9250-402c-b39d-d575452a3b86"}
+{"index":460,"sub_uri":"Q869","obj_uri":"Q9217","obj_label":"thai","sub_label":"Thaif\u00f6ld","lineid":558,"uuid":"e57627d2-3f84-4a7e-9d05-81085fe53caf"}
+{"index":482,"sub_uri":"Q25","obj_uri":"Q1860","obj_label":"angol","sub_label":"Wales","lineid":586,"uuid":"d3f21a38-e017-4fb3-a7bf-665974701d0a"}
+{"index":701,"sub_uri":"Q192173","obj_uri":"Q8108","obj_label":"gr\u00faz","sub_label":"Gr\u00faz ortodox egyh\u00e1z","lineid":843,"uuid":"875ae879-c8b4-4db2-ab45-a3449df7dddb"}
+{"index":706,"sub_uri":"Q812","obj_uri":"Q1860","obj_label":"angol","sub_label":"Florida","lineid":848,"uuid":"ade5c690-bd3c-414f-b450-d7e40f0c0c99"}
+{"index":528,"sub_uri":"Q774","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Guatemala","lineid":639,"uuid":"7fbd15fe-2881-407e-bdb0-abf3a733b75f"}
+{"index":28,"sub_uri":"Q204920","obj_uri":"Q7026","obj_label":"katal\u00e1n","sub_label":"az Arag\u00f3n Korona orsz\u00e1gai","lineid":36,"uuid":"16c0041e-5e24-489a-9569-3e7f1e8b511f"}
+{"index":438,"sub_uri":"Q121157","obj_uri":"Q9168","obj_label":"perzsa","sub_label":"Meshed","lineid":534,"uuid":"34fb8933-0fbd-48b6-a0eb-3547d8dad3dd"}
+{"index":639,"sub_uri":"Q235","obj_uri":"Q150","obj_label":"francia","sub_label":"Monaco","lineid":772,"uuid":"d789c6c8-4f68-4938-b1a3-6ca2ab321da1"}
+{"index":537,"sub_uri":"Q38872","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Poroszorsz\u00e1g","lineid":649,"uuid":"882c5f93-04a8-40ea-86fd-32d781c7a3ff"}
+{"index":714,"sub_uri":"Q153128","obj_uri":"Q6654","obj_label":"horv\u00e1t","sub_label":"F\u00fcggetlen Horv\u00e1t \u00c1llam","lineid":858,"uuid":"ba12f75c-a1f9-4eb7-aed1-a399006cfd75"}
+{"index":469,"sub_uri":"Q191","obj_uri":"Q9072","obj_label":"\u00e9szt","sub_label":"\u00c9sztorsz\u00e1g","lineid":568,"uuid":"0fb9d3ae-1a99-486a-a656-e98d24220256"}
+{"index":798,"sub_uri":"Q184","obj_uri":"Q9091","obj_label":"belarusz","sub_label":"Feh\u00e9roroszorsz\u00e1g","lineid":959,"uuid":"6a5c50ba-a5d4-44bd-a880-b2cc69042682"}
+{"index":796,"sub_uri":"Q11959","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Alicante","lineid":956,"uuid":"4d443058-68df-4caa-9a83-2ffc769eba91"}
+{"index":85,"sub_uri":"Q4191","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Lucerne","lineid":102,"uuid":"60e3be26-5a59-4e5b-91e2-0493b91da29d"}
+{"index":392,"sub_uri":"Q984934","obj_uri":"Q1412","obj_label":"finn","sub_label":"Hyrynsalmi","lineid":468,"uuid":"fc4cf5a7-8c33-4207-a09d-409e8d0b2434"}
+{"index":98,"sub_uri":"Q1180","obj_uri":"Q1617","obj_label":"urdu","sub_label":"Dzsammu \u00e9s Kasm\u00edr","lineid":118,"uuid":"76b3fca2-6d02-4d56-94d8-50034293805b"}
+{"index":446,"sub_uri":"Q3734","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Adigef\u00f6ld","lineid":543,"uuid":"edf02836-4f63-4abc-ae8a-e48196ce8331"}
+{"index":614,"sub_uri":"Q25396","obj_uri":"Q7411","obj_label":"holland","sub_label":"Bonaire","lineid":743,"uuid":"94e5588d-8e56-4489-978a-0af5bded5aa8"}
+{"index":369,"sub_uri":"Q881","obj_uri":"Q9199","obj_label":"vietn\u00e1mi","sub_label":"Vietn\u00e1m","lineid":443,"uuid":"349f775e-744c-4bef-b655-9bba2c54717a"}
+{"index":485,"sub_uri":"Q34","obj_uri":"Q13201","obj_label":"cig\u00e1ny","sub_label":"Sv\u00e9dorsz\u00e1g","lineid":589,"uuid":"e90a1aea-66cd-41fc-a6f5-e823f9a3700b"}
+{"index":429,"sub_uri":"Q2184","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Oroszorsz\u00e1gi Szovjet Sz\u00f6vets\u00e9gi Szocialista K\u00f6zt\u00e1rsas\u00e1g","lineid":520,"uuid":"605b472f-7da6-421a-9bb6-879bf16ca684"}
+{"index":554,"sub_uri":"Q7405","obj_uri":"Q7850","obj_label":"k\u00ednai","sub_label":"Szuj-dinasztia","lineid":673,"uuid":"b0f24ec2-6db9-419e-95d9-81e335aa1f65"}
+{"index":752,"sub_uri":"Q25230","obj_uri":"Q150","obj_label":"francia","sub_label":"Guernsey Bailiffs\u00e9g","lineid":903,"uuid":"a3ea342e-deb1-4f54-84e9-51e33537ec8c"}
+{"index":129,"sub_uri":"Q1124265","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Lendakari","lineid":153,"uuid":"a4a4ae66-bb7f-47ae-939d-acc2a8172387"}
+{"index":181,"sub_uri":"Q33","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Finnorsz\u00e1g","lineid":214,"uuid":"2594f8ee-6f99-4ed6-94c1-8047fdc686ca"}
+{"index":370,"sub_uri":"Q1246","obj_uri":"Q8748","obj_label":"alb\u00e1n","sub_label":"Koszov\u00f3","lineid":444,"uuid":"c26f6838-325e-414f-b9d1-e8f838e48a12"}
+{"index":700,"sub_uri":"Q34","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Sv\u00e9dorsz\u00e1g","lineid":842,"uuid":"7248c4b6-15ad-40cc-99e4-4fc67b3a2afe"}
+{"index":47,"sub_uri":"Q14773","obj_uri":"Q7850","obj_label":"k\u00ednai","sub_label":"Maka\u00f3","lineid":57,"uuid":"e516610d-ef51-4842-8c8a-8dc4d2e3b165"}
+{"index":475,"sub_uri":"Q29","obj_uri":"Q8752","obj_label":"baszk","sub_label":"Spanyolorsz\u00e1g","lineid":577,"uuid":"b287bd02-8abb-4a11-9173-7a2fc2b3803f"}
+{"index":567,"sub_uri":"Q70030","obj_uri":"Q652","obj_label":"olasz","sub_label":"Lamone","lineid":689,"uuid":"8ac3bca7-f903-4220-b010-29180d14d2fc"}
+{"index":601,"sub_uri":"Q1020","obj_uri":"Q1860","obj_label":"angol","sub_label":"Malawi","lineid":727,"uuid":"c041b5fb-c0c6-44c5-bae7-1bbc3eee8682"}
+{"index":258,"sub_uri":"Q27","obj_uri":"Q1860","obj_label":"angol","sub_label":"\u00cdrorsz\u00e1g","lineid":308,"uuid":"96b126ec-d7ac-4de0-bfa8-792b6f54a158"}
+{"index":143,"sub_uri":"Q33349","obj_uri":"Q8798","obj_label":"ukr\u00e1n","sub_label":"Melitopol","lineid":170,"uuid":"fd6df920-176c-4d7d-95aa-6552646b6201"}
+{"index":383,"sub_uri":"Q785","obj_uri":"Q1860","obj_label":"angol","sub_label":"Jersey","lineid":457,"uuid":"f7922bd5-66e6-46ea-ae84-8739a1c08d9f"}
+{"index":800,"sub_uri":"Q16746854","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Luhanszki N\u00e9pk\u00f6zt\u00e1rsas\u00e1g","lineid":962,"uuid":"aa3f4d2b-a503-467d-8a89-c7c589a1296f"}
+{"index":128,"sub_uri":"Q215","obj_uri":"Q9063","obj_label":"szlov\u00e9n","sub_label":"Szlov\u00e9nia","lineid":151,"uuid":"2f192618-9aa4-4191-9d52-038e56115451"}
+{"index":583,"sub_uri":"Q164819","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Gagauzia","lineid":707,"uuid":"45e1d030-31cd-49e6-8fbc-f18356566a4a"}
+{"index":115,"sub_uri":"Q64027","obj_uri":"Q150","obj_label":"francia","sub_label":"Nyon","lineid":135,"uuid":"714a34cb-4ca0-475f-a77b-f576f0c2f48b"}
+{"index":518,"sub_uri":"Q70330","obj_uri":"Q652","obj_label":"olasz","sub_label":"Ligornetto","lineid":629,"uuid":"98418d0f-b16f-499b-bc1b-dad0f25e5319"}
+{"index":363,"sub_uri":"Q52698","obj_uri":"Q150","obj_label":"francia","sub_label":"Chardonne","lineid":435,"uuid":"24601aa0-7c9b-43cf-9bf9-46f5c7ffa822"}
+{"index":467,"sub_uri":"Q16150196","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Donyecki N\u00e9pk\u00f6zt\u00e1rsas\u00e1g","lineid":566,"uuid":"8271b745-7760-4212-974b-8d5e4beb6859"}
+{"index":186,"sub_uri":"Q1037","obj_uri":"Q150","obj_label":"francia","sub_label":"Ruanda","lineid":220,"uuid":"d6d779f2-237e-4448-9b2e-24ff4b3ff901"}
+{"index":760,"sub_uri":"Q491603","obj_uri":"Q1412","obj_label":"finn","sub_label":"Kitee","lineid":913,"uuid":"5b846f22-5daa-4911-85e8-a37837ba1ea4"}
+{"index":497,"sub_uri":"Q1445","obj_uri":"Q5885","obj_label":"tamil","sub_label":"Tamiln\u00e1du","lineid":605,"uuid":"0f1aebbb-8744-459c-a599-b95e1f815a05"}
+{"index":357,"sub_uri":"Q5705","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Katal\u00f3nia","lineid":428,"uuid":"041abc44-2894-4b3c-bb2b-a68bc5913753"}
+{"index":310,"sub_uri":"Q244207","obj_uri":"Q652","obj_label":"olasz","sub_label":"Campione d\u2019Italia","lineid":374,"uuid":"add73583-2cbb-4ded-af6e-134c526e06e8"}
+{"index":214,"sub_uri":"Q47048","obj_uri":"Q1412","obj_label":"finn","sub_label":"Oulu","lineid":255,"uuid":"c83df3bc-da48-4787-b13d-e3e15bacab61"}
+{"index":296,"sub_uri":"Q318693","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Kollekt\u00edv Biztons\u00e1gi Szerz\u0151d\u00e9s Szervezete","lineid":355,"uuid":"fc8ce6ec-a013-4d45-b2c6-32a7771cc2d8"}
+{"index":431,"sub_uri":"Q1255","obj_uri":"Q8748","obj_label":"alb\u00e1n","sub_label":"Koszov\u00f3 \u00e9s Met\u00f3hia Auton\u00f3m Tartom\u00e1ny","lineid":522,"uuid":"bf0ab9c6-3625-4802-866f-6b8305c8547b"}
+{"index":464,"sub_uri":"Q28","obj_uri":"Q9067","obj_label":"magyar","sub_label":"Magyarorsz\u00e1g","lineid":563,"uuid":"b285212f-a314-4051-8515-a8a6579af38e"}
+{"index":428,"sub_uri":"Q47916","obj_uri":"Q1860","obj_label":"angol","sub_label":"Lakhnau","lineid":519,"uuid":"a8a14351-9668-4e44-87ac-48de04b2f217"}
+{"index":118,"sub_uri":"Q218","obj_uri":"Q7913","obj_label":"rom\u00e1n","sub_label":"Rom\u00e1nia","lineid":138,"uuid":"41acbe38-47bd-4578-b973-8e849dd1cb2b"}
+{"index":599,"sub_uri":"Q181633","obj_uri":"Q8798","obj_label":"ukr\u00e1n","sub_label":"Mikolajivi ter\u00fclet","lineid":725,"uuid":"7c0ab273-0e1e-4330-9a24-214c42bd9ef1"}
+{"index":563,"sub_uri":"Q68111","obj_uri":"Q652","obj_label":"olasz","sub_label":"Chiasso","lineid":684,"uuid":"a1382e90-494a-42ab-b894-f449dc715ada"}
+{"index":606,"sub_uri":"Q499404","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Arvidsjaur k\u00f6zs\u00e9g","lineid":733,"uuid":"ed685a16-23ad-4953-9f20-2f1c1833a472"}
+{"index":604,"sub_uri":"Q38511","obj_uri":"Q1412","obj_label":"finn","sub_label":"Turku","lineid":731,"uuid":"f1970f69-56b9-445c-b059-0d7c1231cbfa"}
+{"index":758,"sub_uri":"Q800","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Costa Rica","lineid":910,"uuid":"697842ff-816b-4bef-9cd0-bb465ddb17e8"}
+{"index":511,"sub_uri":"Q69245","obj_uri":"Q150","obj_label":"francia","sub_label":"Cologny","lineid":621,"uuid":"45ea2f75-abe7-4834-a8cc-c51e3053f6e2"}
+{"index":591,"sub_uri":"Q193714","obj_uri":"Q1860","obj_label":"angol","sub_label":"Palesztin Mand\u00e1tum","lineid":715,"uuid":"27e38b6d-119e-444c-bd0f-f2a512a62195"}
+{"index":653,"sub_uri":"Q668","obj_uri":"Q1568","obj_label":"hindi","sub_label":"India","lineid":786,"uuid":"2505936d-04ec-498e-8e44-2d3a15256c47"}
+{"index":283,"sub_uri":"Q69037","obj_uri":"Q150","obj_label":"francia","sub_label":"Collonge-Bellerive","lineid":340,"uuid":"75633276-958d-4b9c-94ce-474da2de6c2d"}
+{"index":404,"sub_uri":"Q39","obj_uri":"Q652","obj_label":"olasz","sub_label":"Sv\u00e1jc","lineid":486,"uuid":"08986e2b-0fc0-43f5-8bf0-d79697a8c001"}
+{"index":738,"sub_uri":"Q458","obj_uri":"Q652","obj_label":"olasz","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":887,"uuid":"5e858d6b-368b-4f0f-9ffe-f51e36457c3c"}
+{"index":263,"sub_uri":"Q11935","obj_uri":"Q652","obj_label":"olasz","sub_label":"Locarno","lineid":314,"uuid":"fdd3cd81-a2f5-4101-bcce-645612ad3ab5"}
+{"index":235,"sub_uri":"Q171965","obj_uri":"Q8798","obj_label":"ukr\u00e1n","sub_label":"Luhanszki ter\u00fclet","lineid":282,"uuid":"f1543d74-87a9-423d-943d-cd616d011d88"}
+{"index":205,"sub_uri":"Q636607","obj_uri":"Q1412","obj_label":"finn","sub_label":"Loppi","lineid":242,"uuid":"3380b42b-5987-4202-95f3-9f3a7313835a"}
+{"index":87,"sub_uri":"Q977","obj_uri":"Q150","obj_label":"francia","sub_label":"Dzsibuti","lineid":104,"uuid":"a41329ec-11c7-49c6-a2d1-a56b398e57c1"}
+{"index":449,"sub_uri":"Q458","obj_uri":"Q9056","obj_label":"cseh","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":546,"uuid":"b1a9a74f-932f-4b56-8be4-c48a727c78f6"}
+{"index":194,"sub_uri":"Q1953","obj_uri":"Q8785","obj_label":"\u00f6rm\u00e9ny","sub_label":"Jerev\u00e1n","lineid":230,"uuid":"bdd5b83b-bc6c-4d9e-b7ed-9d0bf3dc8f9f"}
+{"index":177,"sub_uri":"Q1060479","obj_uri":"Q9299","obj_label":"szerb","sub_label":"\u00c9szak-Koszov\u00f3","lineid":210,"uuid":"a798d894-70c1-4cea-8aef-bf3625e1b7eb"}
+{"index":731,"sub_uri":"Q5400","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Permi hat\u00e1rter\u00fclet","lineid":879,"uuid":"2b4085a5-37e5-4f28-b19e-f9c16e89370c"}
+{"index":267,"sub_uri":"Q11917","obj_uri":"Q150","obj_label":"francia","sub_label":"Genf kanton","lineid":320,"uuid":"bc1f4780-a798-46de-b8a9-f95a35746de8"}
+{"index":541,"sub_uri":"Q236","obj_uri":"Q8821","obj_label":"montenegr\u00f3i","sub_label":"Montenegr\u00f3","lineid":653,"uuid":"15d5afb7-1096-444b-92c0-2a417aa2ad01"}
+{"index":30,"sub_uri":"Q685","obj_uri":"Q1860","obj_label":"angol","sub_label":"Salamon-szigetek","lineid":38,"uuid":"5760878c-3a69-41b4-ac8f-12e7648c1974"}
+{"index":122,"sub_uri":"Q458","obj_uri":"Q9142","obj_label":"\u00edr","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":144,"uuid":"6ac9a04b-0434-4d54-b21e-7fa562e983e1"}
+{"index":295,"sub_uri":"Q188586","obj_uri":"Q33973","obj_label":"szic\u00edliai","sub_label":"Szic\u00edliai Kir\u00e1lys\u00e1g","lineid":354,"uuid":"88aaaf0b-d698-4985-bbec-68bb5a5e9e5e"}
+{"index":395,"sub_uri":"Q458","obj_uri":"Q1860","obj_label":"angol","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":471,"uuid":"bae5b750-1a6f-4995-bbcd-ae47dbcfea67"}
+{"index":42,"sub_uri":"Q35086","obj_uri":"Q1860","obj_label":"angol","sub_label":"D\u00e9li-Georgia \u00e9s D\u00e9li-Sandwich-szigetek","lineid":52,"uuid":"f88acc90-2f2e-4b2a-b4ae-7c33448b4bf4"}
+{"index":560,"sub_uri":"Q1408","obj_uri":"Q1860","obj_label":"angol","sub_label":"New Jersey","lineid":680,"uuid":"0d286aa9-d848-4c03-8916-bdf976b3b80c"}
+{"index":686,"sub_uri":"Q68213","obj_uri":"Q150","obj_label":"francia","sub_label":"Orbe","lineid":827,"uuid":"6ad1b18d-67c5-4cb1-b4cd-b9e253105903"}
+{"index":168,"sub_uri":"Q193367","obj_uri":"Q1412","obj_label":"finn","sub_label":"Porvoo","lineid":201,"uuid":"e742b31f-20b4-4601-96a2-01e1425207ff"}
+{"index":305,"sub_uri":"Q14274","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Aarau","lineid":368,"uuid":"d46c33d7-ddfd-4008-a4f1-747ad806afc1"}
+{"index":561,"sub_uri":"Q1030","obj_uri":"Q1860","obj_label":"angol","sub_label":"Nam\u00edbia","lineid":681,"uuid":"6520c7ab-93a2-433a-9db3-e94df5d0aa10"}
+{"index":696,"sub_uri":"Q163798","obj_uri":"Q36236","obj_label":"malaj\u00e1lam","sub_label":"Tris\u00far","lineid":838,"uuid":"d297b6fa-1f34-4e4b-a051-68427341a9d2"}
+{"index":705,"sub_uri":"Q962","obj_uri":"Q150","obj_label":"francia","sub_label":"Benin","lineid":847,"uuid":"3757034c-a9f1-45e1-98cd-5b0e99119f7f"}
+{"index":608,"sub_uri":"Q916","obj_uri":"Q5146","obj_label":"portug\u00e1l","sub_label":"Angola","lineid":735,"uuid":"d4c4cb3c-be23-4d35-99e1-b96ce283aae1"}
+{"index":633,"sub_uri":"Q458","obj_uri":"Q9078","obj_label":"lett","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":764,"uuid":"87c11a84-0c37-40c2-93a2-f1cbf5f3456b"}
+{"index":535,"sub_uri":"Q811","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Nicaragua","lineid":646,"uuid":"911bb614-c5f4-44b8-af0e-6d9f9ede10c7"}
+{"index":539,"sub_uri":"Q4628","obj_uri":"Q9035","obj_label":"d\u00e1n","sub_label":"Fer\u00f6er","lineid":651,"uuid":"a5003de4-7391-4236-aa28-7bea50c52374"}
+{"index":242,"sub_uri":"Q786","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Dominikai K\u00f6zt\u00e1rsas\u00e1g","lineid":289,"uuid":"ee0b1ea4-bd3d-4963-a773-ddbaec193ca4"}
+{"index":684,"sub_uri":"Q7184","obj_uri":"Q150","obj_label":"francia","sub_label":"\u00c9szak-atlanti Szerz\u0151d\u00e9s Szervezete","lineid":824,"uuid":"a095b7e5-811d-4f2e-a1f0-2903dceb7260"}
+{"index":488,"sub_uri":"Q12640","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Fribourg kanton","lineid":593,"uuid":"e171eb44-da16-4157-817b-06e8edbc6d25"}
+{"index":172,"sub_uri":"Q71","obj_uri":"Q150","obj_label":"francia","sub_label":"Genf","lineid":205,"uuid":"b618ae8b-7080-42eb-a38c-9ca21af3d2a5"}
+{"index":552,"sub_uri":"Q458","obj_uri":"Q7913","obj_label":"rom\u00e1n","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":671,"uuid":"1ce353c2-599b-49f3-bec6-f591da92d58f"}
+{"index":786,"sub_uri":"Q35572","obj_uri":"Q1860","obj_label":"angol","sub_label":"Eur\u00f3pai Labdar\u00fag\u00f3-sz\u00f6vets\u00e9g","lineid":946,"uuid":"da25ec33-d1ac-4593-9bc9-a422c7fef922"}
+{"index":480,"sub_uri":"Q2007","obj_uri":"Q1860","obj_label":"angol","sub_label":"\u00c9szaknyugati ter\u00fcletek","lineid":583,"uuid":"6a0c649e-ab1e-45e8-9ea1-f23a74a5bd30"}
+{"index":401,"sub_uri":"Q173","obj_uri":"Q1860","obj_label":"angol","sub_label":"Alabama","lineid":481,"uuid":"d469be31-5047-4495-88b9-89ba36310663"}
+{"index":285,"sub_uri":"Q27","obj_uri":"Q9142","obj_label":"\u00edr","sub_label":"\u00cdrorsz\u00e1g","lineid":343,"uuid":"efd873bf-ecc1-414c-81e2-538018cb8d91"}
+{"index":414,"sub_uri":"Q159","obj_uri":"Q973685","obj_label":"mari","sub_label":"Oroszorsz\u00e1g","lineid":497,"uuid":"93be1a47-2c89-40f1-9396-c6e80be601fe"}
+{"index":16,"sub_uri":"Q171852","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Odesszai ter\u00fclet","lineid":23,"uuid":"b29507f4-e9d3-45c0-a00a-dd937c899378"}
+{"index":470,"sub_uri":"Q1603","obj_uri":"Q1860","obj_label":"angol","sub_label":"Kentucky","lineid":569,"uuid":"d68b443d-2c27-4099-a901-420fe61e9d82"}
+{"index":231,"sub_uri":"Q52636","obj_uri":"Q7026","obj_label":"katal\u00e1n","sub_label":"Menorca","lineid":277,"uuid":"fd9f8675-c2f3-4cc1-a1b9-20c1891d109e"}
+{"index":347,"sub_uri":"Q510310","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Haparanda k\u00f6zs\u00e9g","lineid":415,"uuid":"0e8a42bb-b589-4405-b416-63a991e600b3"}
+{"index":314,"sub_uri":"Q53381","obj_uri":"Q652","obj_label":"olasz","sub_label":"Tolmezzo","lineid":378,"uuid":"7e930e6e-2db1-44d7-8ef4-46ec5956ff2d"}
+{"index":40,"sub_uri":"Q1005","obj_uri":"Q1860","obj_label":"angol","sub_label":"Gambia","lineid":50,"uuid":"23e8f085-2d8c-4b3b-a40c-a6ace41bc740"}
+{"index":70,"sub_uri":"Q216173","obj_uri":"Q809","obj_label":"lengyel","sub_label":"Danzig Szabad V\u00e1ros","lineid":84,"uuid":"813725ab-3e1f-4d53-b762-181b90fcc1d9"}
+{"index":170,"sub_uri":"Q1010550","obj_uri":"Q1412","obj_label":"finn","sub_label":"Pargas","lineid":203,"uuid":"95eeba68-1bda-475f-be70-cbe96f06efdc"}
+{"index":782,"sub_uri":"Q203619","obj_uri":"Q1412","obj_label":"finn","sub_label":"Kemi","lineid":940,"uuid":"ac232c2e-03f5-4832-b1d0-76c3aa57afa4"}
+{"index":198,"sub_uri":"Q12602","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Val d\u2019Aran","lineid":234,"uuid":"55febe3f-46de-491a-88af-9bd464352e4d"}
+{"index":612,"sub_uri":"Q68799","obj_uri":"Q652","obj_label":"olasz","sub_label":"Bedano","lineid":741,"uuid":"177ace50-9f45-42e4-ba1c-802c61080d3f"}
+{"index":349,"sub_uri":"Q845930","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Berg k\u00f6zs\u00e9g","lineid":417,"uuid":"b28efedf-3df8-462f-a420-f6339623840b"}
+{"index":219,"sub_uri":"Q176","obj_uri":"Q150","obj_label":"francia","sub_label":"Qu\u00e9bec","lineid":260,"uuid":"7469c504-9a44-4159-bbc4-1f4b1657d67e"}
+{"index":284,"sub_uri":"Q1112985","obj_uri":"Q7918","obj_label":"bolg\u00e1r","sub_label":"Kjusztendil megye","lineid":341,"uuid":"68c185a1-03b2-43c8-b4c8-663a1d2b2625"}
+{"index":751,"sub_uri":"Q218023","obj_uri":"Q7411","obj_label":"holland","sub_label":"Oranje Szabad\u00e1llam","lineid":901,"uuid":"58b51795-dd84-4cb2-8f97-c1ef0da573e8"}
+{"index":325,"sub_uri":"Q5785","obj_uri":"Q1860","obj_label":"angol","sub_label":"Kajm\u00e1n-szigetek","lineid":390,"uuid":"b5fdb4cb-5c89-40a7-8079-ca8687903ac6"}
+{"index":20,"sub_uri":"Q200054","obj_uri":"Q1568","obj_label":"hindi","sub_label":"Dzsamsedpur","lineid":28,"uuid":"3d887ffc-bd4b-4963-836f-2ba954e37318"}
+{"index":702,"sub_uri":"Q4040","obj_uri":"Q7026","obj_label":"katal\u00e1n","sub_label":"Arag\u00f3nia","lineid":844,"uuid":"cef1c14c-1d01-424a-87c8-1ae322934c7b"}
+{"index":51,"sub_uri":"Q853628","obj_uri":"Q1412","obj_label":"finn","sub_label":"Pirkkala","lineid":62,"uuid":"2b24da2b-af43-45e4-8127-b63bc1812eb8"}
+{"index":163,"sub_uri":"Q170770","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Moszkvai Nagyfejedelems\u00e9g","lineid":196,"uuid":"a35c128e-4161-4d49-b77d-e0c820fddbbe"}
+{"index":723,"sub_uri":"Q458","obj_uri":"Q9166","obj_label":"m\u00e1ltai","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":869,"uuid":"7ece650f-bb42-4185-a4b5-353a0b0d2c4d"}
+{"index":522,"sub_uri":"Q4948","obj_uri":"Q32724","obj_label":"Velencei nyelv","sub_label":"Velencei K\u00f6zt\u00e1rsas\u00e1g","lineid":633,"uuid":"3b94d5ca-170a-4f21-a468-bda933ba2a7d"}
+{"index":193,"sub_uri":"Q67270","obj_uri":"Q652","obj_label":"olasz","sub_label":"Caslano","lineid":229,"uuid":"a45cee2e-b60b-4ab0-9254-1a8b887895ca"}
+{"index":131,"sub_uri":"Q217","obj_uri":"Q7913","obj_label":"rom\u00e1n","sub_label":"Moldova","lineid":155,"uuid":"4cc2562b-0f74-4eca-954c-ff9a26924dca"}
+{"index":437,"sub_uri":"Q499474","obj_uri":"Q1412","obj_label":"finn","sub_label":"Kiruna k\u00f6zs\u00e9g","lineid":533,"uuid":"58815c7b-1bb2-4084-89a5-baec7b0d3959"}
+{"index":421,"sub_uri":"Q928","obj_uri":"Q1860","obj_label":"angol","sub_label":"F\u00fcl\u00f6p-szigetek","lineid":512,"uuid":"669f6be9-463e-4453-9c57-7af0e86f2187"}
+{"index":568,"sub_uri":"Q485776","obj_uri":"Q1412","obj_label":"finn","sub_label":"Ranua","lineid":691,"uuid":"97da9c2b-9fd5-4bc6-9ae8-41addabccf75"}
+{"index":65,"sub_uri":"Q4018","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Navarra","lineid":78,"uuid":"bd10e91c-2962-4b0c-9275-a0fcfc48af59"}
+{"index":590,"sub_uri":"Q204382","obj_uri":"Q1412","obj_label":"finn","sub_label":"Kouvola","lineid":714,"uuid":"d836e8a4-b629-439f-a2b4-79255654cca5"}
+{"index":766,"sub_uri":"Q133132","obj_uri":"Q150","obj_label":"francia","sub_label":"P\u00e1rizsi Komm\u00fcn","lineid":921,"uuid":"34f6ffe7-9382-402b-adcf-f983e72d9455"}
+{"index":465,"sub_uri":"Q693658","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Izabal megye","lineid":564,"uuid":"120873e8-abcd-4b6c-bc59-629c9bc0334c"}
+{"index":355,"sub_uri":"Q1757","obj_uri":"Q1412","obj_label":"finn","sub_label":"Helsinki","lineid":425,"uuid":"726442e0-794f-4559-bd35-08a7d7ffe12a"}
+{"index":220,"sub_uri":"Q2277","obj_uri":"Q397","obj_label":"latin","sub_label":"R\u00f3mai Birodalom","lineid":261,"uuid":"165ec805-98f9-4118-b355-38cb680b49ec"}
+{"index":679,"sub_uri":"Q229","obj_uri":"Q256","obj_label":"t\u00f6r\u00f6k","sub_label":"Ciprus","lineid":819,"uuid":"0fd84eef-c25e-492d-ba8d-ba15d53d06ec"}
+{"index":489,"sub_uri":"Q125761","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Nemzetk\u00f6zi Polg\u00e1ri Rep\u00fcl\u00e9si Szervezet","lineid":594,"uuid":"5c0946bc-cccb-4a1c-b6dc-1c9275b88e81"}
+{"index":149,"sub_uri":"Q739","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Kolumbia","lineid":176,"uuid":"1661a260-1343-4123-b83d-6a5b397a58d2"}
+{"index":232,"sub_uri":"Q1065","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Egyes\u00fclt Nemzetek Szervezete","lineid":278,"uuid":"f2d89b99-85e2-48f8-b6df-6bc498545f2d"}
+{"index":249,"sub_uri":"Q7730","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Zsid\u00f3 auton\u00f3m ter\u00fclet","lineid":298,"uuid":"c4f8d99a-671b-4fdf-a105-1dd43b86df5b"}
+{"index":340,"sub_uri":"Q1033","obj_uri":"Q1860","obj_label":"angol","sub_label":"Nig\u00e9ria","lineid":407,"uuid":"8249e98e-bc64-4638-98f5-616edc88dbcd"}
+{"index":334,"sub_uri":"Q37362","obj_uri":"Q1860","obj_label":"angol","sub_label":"Akrot\u00edri \u00e9s Dek\u00e9lia","lineid":401,"uuid":"d3dd42df-7d5b-4c35-8ef0-7ca349ed9d92"}
+{"index":774,"sub_uri":"Q1174","obj_uri":"Q1568","obj_label":"hindi","sub_label":"Harij\u00e1na","lineid":931,"uuid":"a718d7b5-10fd-4c5e-bc24-fde504e39064"}
+{"index":662,"sub_uri":"Q26","obj_uri":"Q1860","obj_label":"angol","sub_label":"\u00c9szak-\u00cdrorsz\u00e1g","lineid":797,"uuid":"eec8fcf0-5f6a-40cb-add3-59fc0253b75d"}
+{"index":92,"sub_uri":"Q5118","obj_uri":"Q9292","obj_label":"azeri","sub_label":"Dageszt\u00e1n","lineid":111,"uuid":"3b451daa-f711-41be-be2f-08694fd22269"}
+{"index":650,"sub_uri":"Q70","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Bern","lineid":783,"uuid":"3a63ef5f-6d18-4e02-ab68-35e9e4b9921b"}
+{"index":799,"sub_uri":"Q1498","obj_uri":"Q1568","obj_label":"hindi","sub_label":"Uttar Prades","lineid":960,"uuid":"78a19bd8-a9cf-4b0f-9cad-610c601044a5"}
+{"index":338,"sub_uri":"Q69706","obj_uri":"Q652","obj_label":"olasz","sub_label":"Brissago","lineid":405,"uuid":"b108c5e0-19d3-4cb6-9602-b0f8fca8afbb"}
+{"index":360,"sub_uri":"Q756294","obj_uri":"Q8798","obj_label":"ukr\u00e1n","sub_label":"Kr\u00edmi Auton\u00f3m K\u00f6zt\u00e1rsas\u00e1g","lineid":432,"uuid":"9025d8e7-5db2-43b1-bb8d-86ce60cb6d90"}
+{"index":317,"sub_uri":"Q162475","obj_uri":"Q9142","obj_label":"\u00edr","sub_label":"Cork megye","lineid":381,"uuid":"f6450a9d-09fa-447d-be98-72ff6044b4c1"}
+{"index":93,"sub_uri":"Q221","obj_uri":"Q9296","obj_label":"maced\u00f3n","sub_label":"\u00c9szak-Maced\u00f3nia","lineid":112,"uuid":"d745da7e-375b-4ea5-aba4-e80991580276"}
+{"index":649,"sub_uri":"Q63946","obj_uri":"Q150","obj_label":"francia","sub_label":"Yverdon-les-Bains","lineid":782,"uuid":"ddbf0bdb-7e51-446b-8b49-57ae0cc6597e"}
+{"index":748,"sub_uri":"Q34266","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Orosz Birodalom","lineid":898,"uuid":"93651c63-cddd-4706-bee6-43261ab3137c"}
+{"index":436,"sub_uri":"Q224","obj_uri":"Q6654","obj_label":"horv\u00e1t","sub_label":"Horv\u00e1torsz\u00e1g","lineid":532,"uuid":"93c76c6a-0a77-4abf-b590-9195b4d5ee6d"}
+{"index":691,"sub_uri":"Q147909","obj_uri":"Q7918","obj_label":"bolg\u00e1r","sub_label":"Bolg\u00e1r Kir\u00e1lys\u00e1g","lineid":833,"uuid":"3feaa700-ab27-4d14-aae8-ffb5342d4e3f"}
+{"index":218,"sub_uri":"Q804","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Panama","lineid":259,"uuid":"6cfcd4cf-f2fe-48de-acd1-7454da3b7c22"}
+{"index":326,"sub_uri":"Q967","obj_uri":"Q1860","obj_label":"angol","sub_label":"Burundi","lineid":391,"uuid":"2134ebad-8a2a-4ce5-addf-0f1100c1970c"}
+{"index":592,"sub_uri":"Q3680","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Krasznodari hat\u00e1rter\u00fclet","lineid":717,"uuid":"c6b01dd3-dfe1-4851-90b6-91ccc0654cd9"}
+{"index":757,"sub_uri":"Q5971","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Altaj k\u00f6zt\u00e1rsas\u00e1g","lineid":909,"uuid":"b0e5676d-5fde-4d5b-89f7-4115f1ca15a7"}
+{"index":7,"sub_uri":"Q458","obj_uri":"Q9063","obj_label":"szlov\u00e9n","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":10,"uuid":"fc39743e-8eef-43c9-a4ab-a5050738c5bd"}
+{"index":59,"sub_uri":"Q39","obj_uri":"Q150","obj_label":"francia","sub_label":"Sv\u00e1jc","lineid":72,"uuid":"19eda1c4-4e87-4b20-b4db-77fa575a786c"}
+{"index":200,"sub_uri":"Q958","obj_uri":"Q1860","obj_label":"angol","sub_label":"D\u00e9l-Szud\u00e1n","lineid":236,"uuid":"6493e1d8-13cd-47c3-9bd2-b733081d5a29"}
+{"index":549,"sub_uri":"Q188814","obj_uri":"Q9299","obj_label":"szerb","sub_label":"szerb ortodox egyh\u00e1z","lineid":668,"uuid":"0e2ccff7-fd66-48d8-8fc3-cdb978380f84"}
+{"index":656,"sub_uri":"Q1065","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Egyes\u00fclt Nemzetek Szervezete","lineid":789,"uuid":"299f49a6-dbcb-4da2-b437-a4cfdcdc028f"}
+{"index":479,"sub_uri":"Q12640","obj_uri":"Q150","obj_label":"francia","sub_label":"Fribourg kanton","lineid":582,"uuid":"ebd391df-d8f0-43e7-ae45-556f4f8a7e15"}
+{"index":587,"sub_uri":"Q829","obj_uri":"Q1860","obj_label":"angol","sub_label":"Utah","lineid":711,"uuid":"e002d625-6e3a-454a-8ccc-764d11d9329f"}
+{"index":424,"sub_uri":"Q1191","obj_uri":"Q1571","obj_label":"mar\u00e1thi","sub_label":"Mah\u00e1r\u00e1stra","lineid":515,"uuid":"5d45030c-4aef-4bc2-a46f-d910980f253d"}
+{"index":697,"sub_uri":"Q242758","obj_uri":"Q7918","obj_label":"bolg\u00e1r","sub_label":"Bolg\u00e1r ortodox egyh\u00e1z","lineid":839,"uuid":"418f808e-b6ef-4889-9248-eb79dfbc5778"}
+{"index":422,"sub_uri":"Q34","obj_uri":"Q1412","obj_label":"finn","sub_label":"Sv\u00e9dorsz\u00e1g","lineid":513,"uuid":"870bed64-48b0-4a8d-9095-328a21691e1f"}
+{"index":783,"sub_uri":"Q1649","obj_uri":"Q1860","obj_label":"angol","sub_label":"Oklahoma","lineid":941,"uuid":"582e37d1-4205-4541-8be8-582830b6e0ea"}
+{"index":603,"sub_uri":"Q985443","obj_uri":"Q1412","obj_label":"finn","sub_label":"Haukipudas","lineid":729,"uuid":"9702289c-5375-4886-9d90-ae26bb3784ae"}
+{"index":297,"sub_uri":"Q162279","obj_uri":"Q1412","obj_label":"finn","sub_label":"Kuopio","lineid":356,"uuid":"4007b150-16ea-4712-9f93-a296b256794f"}
+{"index":655,"sub_uri":"Q212056","obj_uri":"Q9246","obj_label":"mongol","sub_label":"Mongol N\u00e9pk\u00f6zt\u00e1rsas\u00e1g","lineid":788,"uuid":"2d12bef1-8829-497b-be07-c8d87d1254a8"}
+{"index":364,"sub_uri":"Q80702","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Spanyol Birodalom","lineid":437,"uuid":"91d6dea1-2fdf-4d81-9bef-21b2c6c7fea5"}
+{"index":607,"sub_uri":"Q9331","obj_uri":"Q7411","obj_label":"holland","sub_label":"Flamand K\u00f6z\u00f6ss\u00e9g","lineid":734,"uuid":"be910981-2b4b-4852-81f8-a6427b010876"}
+{"index":248,"sub_uri":"Q6023","obj_uri":"Q1412","obj_label":"finn","sub_label":"Lapua","lineid":297,"uuid":"edbf631b-517c-4338-bb14-42ccc7e2b274"}
+{"index":619,"sub_uri":"Q21203","obj_uri":"Q7411","obj_label":"holland","sub_label":"Aruba","lineid":748,"uuid":"667d8086-f33d-4c1a-aa1b-560541ed12b9"}
+{"index":250,"sub_uri":"Q972564","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Sundbyberg k\u00f6zs\u00e9g","lineid":300,"uuid":"8abad833-1ea7-4d59-816f-47fa29fd4968"}
+{"index":291,"sub_uri":"Q16150196","obj_uri":"Q8798","obj_label":"ukr\u00e1n","sub_label":"Donyecki N\u00e9pk\u00f6zt\u00e1rsas\u00e1g","lineid":349,"uuid":"d50affaf-7cb5-4c13-8068-e3a2fb66ad46"}
+{"index":262,"sub_uri":"Q258","obj_uri":"Q1860","obj_label":"angol","sub_label":"D\u00e9l-afrikai K\u00f6zt\u00e1rsas\u00e1g","lineid":313,"uuid":"667cde96-3a2a-4e07-943b-ca67bd50f6ce"}
+{"index":683,"sub_uri":"Q7779","obj_uri":"Q7737","obj_label":"orosz","sub_label":"F\u00fcggetlen \u00c1llamok K\u00f6z\u00f6ss\u00e9ge","lineid":823,"uuid":"8b57f669-aaca-4f4f-af00-fbc61d43b73b"}
+{"index":204,"sub_uri":"Q492575","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Huddinge k\u00f6zs\u00e9g","lineid":241,"uuid":"2c3ebc22-17a8-4d5d-9453-de85f973fd46"}
+{"index":69,"sub_uri":"Q5446","obj_uri":"Q973685","obj_label":"mari","sub_label":"Marif\u00f6ld","lineid":83,"uuid":"232efdcd-8433-40d3-a1fe-b36623d22253"}
+{"index":53,"sub_uri":"Q915420","obj_uri":"Q1412","obj_label":"finn","sub_label":"Loimaa","lineid":65,"uuid":"1c2e960e-1a26-4d98-aee9-da4186e76665"}
+{"index":58,"sub_uri":"Q782","obj_uri":"Q33569","obj_label":"hawaii","sub_label":"Hawaii","lineid":71,"uuid":"c2720faf-68a5-4008-9b71-6e430bdf5b72"}
+{"index":492,"sub_uri":"Q2277","obj_uri":"Q9129","obj_label":"g\u00f6r\u00f6g","sub_label":"R\u00f3mai Birodalom","lineid":598,"uuid":"eb9512f3-d478-4f6b-b3e9-9c077f2d23f6"}
+{"index":167,"sub_uri":"Q748092","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Kirkkonummi","lineid":200,"uuid":"127aab64-141c-44e6-8b80-8cf850b2e5d3"}
+{"index":133,"sub_uri":"Q3769","obj_uri":"Q150","obj_label":"francia","sub_label":"Francia Guyana","lineid":160,"uuid":"584025ae-fc9c-4b7e-81fb-e23e1e477125"}
+{"index":174,"sub_uri":"Q11911","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Bern kanton","lineid":207,"uuid":"7c5bd78d-c5fa-4b6c-9b44-a86d68a09b9f"}
+{"index":224,"sub_uri":"Q6407","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Jamali Nyenyecf\u00f6ld","lineid":266,"uuid":"e2717553-5ad0-4d68-a8d1-3475ad8f4685"}
+{"index":56,"sub_uri":"Q5481","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Tat\u00e1rf\u00f6ld","lineid":69,"uuid":"606ca948-3c1c-4ea6-8bfd-a8e53a1a0fd4"}
+{"index":462,"sub_uri":"Q81299","obj_uri":"Q652","obj_label":"olasz","sub_label":"Eur\u00f3pai Biztons\u00e1gi \u00e9s Egy\u00fcttm\u0171k\u00f6d\u00e9si Szervezet","lineid":561,"uuid":"4e920158-0058-4ddb-866c-a3a907becb05"}
+{"index":54,"sub_uri":"Q801","obj_uri":"Q9288","obj_label":"h\u00e9ber","sub_label":"Izrael","lineid":67,"uuid":"389e198e-b30f-4b23-bf62-d9acd2e3cc1a"}
+{"index":452,"sub_uri":"Q458","obj_uri":"Q9083","obj_label":"litv\u00e1n","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":549,"uuid":"013719e3-2ccf-490b-b75b-717c27a8f857"}
+{"index":359,"sub_uri":"Q1168","obj_uri":"Q1568","obj_label":"hindi","sub_label":"Cshatt\u00edszgarh","lineid":430,"uuid":"72810004-e1ee-4fdf-b9c2-173ee81084a0"}
+{"index":377,"sub_uri":"Q752470","obj_uri":"Q1412","obj_label":"finn","sub_label":"Finn ortodox egyh\u00e1z","lineid":451,"uuid":"9890be60-3a5e-4224-8a34-fa63c10b9cac"}
+{"index":107,"sub_uri":"Q181633","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Mikolajivi ter\u00fclet","lineid":127,"uuid":"f7374ac0-a4fc-4855-9724-20211ba4ab22"}
+{"index":637,"sub_uri":"Q5710","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Bask\u00edria","lineid":768,"uuid":"a0d165bc-5700-44ac-9707-176198b72d55"}
+{"index":795,"sub_uri":"Q28911","obj_uri":"Q1412","obj_label":"finn","sub_label":"Lahti","lineid":955,"uuid":"f5727da6-8fec-4560-883e-68714a4d6e47"}
+{"index":584,"sub_uri":"Q7184","obj_uri":"Q1860","obj_label":"angol","sub_label":"\u00c9szak-atlanti Szerz\u0151d\u00e9s Szervezete","lineid":708,"uuid":"8e61733b-138d-4741-859f-61054ea3e2f0"}
+{"index":123,"sub_uri":"Q114","obj_uri":"Q1860","obj_label":"angol","sub_label":"Kenya","lineid":145,"uuid":"2dd3adcf-951c-4c80-b22c-0bc918ffa974"}
+{"index":199,"sub_uri":"Q34266","obj_uri":"Q1412","obj_label":"finn","sub_label":"Orosz Birodalom","lineid":235,"uuid":"7f7ec575-6120-4ae9-af72-14df7a01ec30"}
+{"index":165,"sub_uri":"Q1041","obj_uri":"Q150","obj_label":"francia","sub_label":"Szeneg\u00e1l","lineid":198,"uuid":"aa1a70fa-8d8e-4ba9-9626-6b45b3172728"}
+{"index":725,"sub_uri":"Q131337","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Azerbajdzs\u00e1ni Szovjet Szocialista K\u00f6zt\u00e1rsas\u00e1g","lineid":873,"uuid":"81c4b6d7-cc73-4140-8fb5-f96840979b04"}
+{"index":663,"sub_uri":"Q912","obj_uri":"Q150","obj_label":"francia","sub_label":"Mali","lineid":799,"uuid":"4a5087f6-435e-4711-8bee-0a313ece9655"}
+{"index":514,"sub_uri":"Q843","obj_uri":"Q1860","obj_label":"angol","sub_label":"Pakiszt\u00e1n","lineid":624,"uuid":"a6ef28f8-a71f-4791-a783-c07e5e08fa1a"}
+{"index":202,"sub_uri":"Q458","obj_uri":"Q9067","obj_label":"magyar","sub_label":"Eur\u00f3pai Uni\u00f3","lineid":238,"uuid":"630bca96-8a06-4077-a0ac-9400ab619832"}
+{"index":209,"sub_uri":"Q510198","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Tierp k\u00f6zs\u00e9g","lineid":248,"uuid":"d1c6c487-e8ce-4b37-87ff-1f2f58f9a0f2"}
+{"index":664,"sub_uri":"Q763","obj_uri":"Q1860","obj_label":"angol","sub_label":"Saint Kitts \u00e9s Nevis","lineid":800,"uuid":"f7008d06-eb40-4308-85f5-4e06e68b7461"}
+{"index":91,"sub_uri":"Q778","obj_uri":"Q1860","obj_label":"angol","sub_label":"Bahama-szigetek","lineid":110,"uuid":"ce2a3bb4-4e4e-4226-bcca-d9cfd64552fb"}
+{"index":609,"sub_uri":"Q38511","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Turku","lineid":736,"uuid":"ce1768df-16c2-4100-8ad8-a73e7a491ca0"}
+{"index":358,"sub_uri":"Q34266","obj_uri":"Q809","obj_label":"lengyel","sub_label":"Orosz Birodalom","lineid":429,"uuid":"c3909d98-0e9c-4387-ae58-aa7d4557f3cf"}
+{"index":743,"sub_uri":"Q7768","obj_uri":"Q9217","obj_label":"thai","sub_label":"D\u00e9lkelet-\u00e1zsiai Nemzetek Sz\u00f6vets\u00e9ge","lineid":893,"uuid":"4aa4b992-be10-42f9-8e59-3bec0f4c7b72"}
+{"index":86,"sub_uri":"Q907112","obj_uri":"Q8798","obj_label":"ukr\u00e1n","sub_label":"Dnyeszter Menti K\u00f6zt\u00e1rsas\u00e1g","lineid":103,"uuid":"96c88d64-b732-4604-8a22-a0789ae679db"}
+{"index":119,"sub_uri":"Q854","obj_uri":"Q5885","obj_label":"tamil","sub_label":"Sr\u00ed Lanka","lineid":141,"uuid":"b18f3f80-1a8a-421f-a3e5-e4dcf5cd7f89"}
+{"index":402,"sub_uri":"Q161376","obj_uri":"Q1860","obj_label":"angol","sub_label":"Miss Universe","lineid":482,"uuid":"e0c7e894-289e-4a85-a7f1-f589642652d2"}
+{"index":311,"sub_uri":"Q127623","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Vantaa","lineid":375,"uuid":"348800db-678e-40bc-9e38-28475af611b3"}
+{"index":418,"sub_uri":"Q68305","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Wetzikon (ZH)","lineid":505,"uuid":"5489bd9f-88f2-429f-8442-523592b9be31"}
+{"index":746,"sub_uri":"Q1509","obj_uri":"Q1860","obj_label":"angol","sub_label":"Tennessee","lineid":896,"uuid":"11a54550-836c-4681-b4e8-d690979d2bb4"}
+{"index":279,"sub_uri":"Q983","obj_uri":"Q5146","obj_label":"portug\u00e1l","sub_label":"Egyenl\u00edt\u0151i-Guinea","lineid":335,"uuid":"7cdb7b94-01f0-4b1f-9054-9adcb4aac485"}
+{"index":272,"sub_uri":"Q5422","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Udmurtf\u00f6ld","lineid":325,"uuid":"b9419c72-0ff0-4d36-84c8-17d99565286a"}
+{"index":685,"sub_uri":"Q55502","obj_uri":"Q9129","obj_label":"g\u00f6r\u00f6g","sub_label":"Jeruzs\u00e1lemi Kir\u00e1lys\u00e1g","lineid":826,"uuid":"9e58d27c-9ddb-42a2-97b5-8f7d42c8fcae"}
+{"index":228,"sub_uri":"Q63979","obj_uri":"Q150","obj_label":"francia","sub_label":"Versoix","lineid":270,"uuid":"d58de924-bfe8-4a9d-a31c-a7f8680c700d"}
+{"index":206,"sub_uri":"Q813","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Kirgiziszt\u00e1n","lineid":243,"uuid":"a6031e96-e9ee-4960-ac81-ef98ad602b2b"}
+{"index":26,"sub_uri":"Q6563","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Krasznojarszki hat\u00e1rter\u00fclet","lineid":34,"uuid":"0b92d549-ced4-424f-bb94-eaf4c7a065bb"}
+{"index":734,"sub_uri":"Q30","obj_uri":"Q1860","obj_label":"angol","sub_label":"Amerikai Egyes\u00fclt \u00c1llamok","lineid":883,"uuid":"690fdb9f-b76c-4d4b-a9e3-2396cd1d6db9"}
+{"index":441,"sub_uri":"Q213","obj_uri":"Q9056","obj_label":"cseh","sub_label":"Csehorsz\u00e1g","lineid":537,"uuid":"a63f78e3-5ba1-45f9-95c4-9898adab5e58"}
+{"index":180,"sub_uri":"Q15124","obj_uri":"Q652","obj_label":"olasz","sub_label":"Bolzano auton\u00f3m megye","lineid":213,"uuid":"65d7922a-ba7c-414a-ab1d-4e8ae2aba27b"}
+{"index":735,"sub_uri":"Q372075","obj_uri":"Q1412","obj_label":"finn","sub_label":"Raisio","lineid":884,"uuid":"43bf9245-327f-401c-80bb-bbaa61ec3bb2"}
+{"index":375,"sub_uri":"Q7825","obj_uri":"Q150","obj_label":"francia","sub_label":"Kereskedelmi Vil\u00e1gszervezet","lineid":449,"uuid":"5e94cb9d-6eba-4b7e-86f2-e88b39360846"}
+{"index":230,"sub_uri":"Q13116","obj_uri":"Q150","obj_label":"francia","sub_label":"Benelux \u00e1llamok","lineid":276,"uuid":"16f13954-324b-4c9e-b650-e4124ccc5516"}
+{"index":472,"sub_uri":"Q4648","obj_uri":"Q9240","obj_label":"indon\u00e9z","sub_label":"Bali","lineid":574,"uuid":"b412393a-e6be-43fb-b6cf-022f812f6399"}
+{"index":586,"sub_uri":"Q105092","obj_uri":"Q397","obj_label":"latin","sub_label":"Mercia","lineid":710,"uuid":"4887faa4-b6e0-48ad-a8fb-b560da5932ab"}
+{"index":802,"sub_uri":"Q5219","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Ingusf\u00f6ld","lineid":965,"uuid":"506e98dd-b39f-4699-bf1e-5e28f729930f"}
+{"index":635,"sub_uri":"Q52631","obj_uri":"Q7026","obj_label":"katal\u00e1n","sub_label":"Ibiza","lineid":766,"uuid":"1b927bef-b871-4c86-b71a-2d9b6e62785d"}
+{"index":44,"sub_uri":"Q55502","obj_uri":"Q652","obj_label":"olasz","sub_label":"Jeruzs\u00e1lemi Kir\u00e1lys\u00e1g","lineid":54,"uuid":"af861329-24f3-49b1-9ca5-a1c6ddb55fb9"}
+{"index":25,"sub_uri":"Q664599","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Uusikaarlepyy","lineid":33,"uuid":"d79a8006-edd3-4c9b-9d9e-74111dd42852"}
+{"index":726,"sub_uri":"Q31057","obj_uri":"Q1860","obj_label":"angol","sub_label":"Norfolk-sziget","lineid":874,"uuid":"fa91a738-7a1c-4d71-a4a0-399eda757e17"}
+{"index":286,"sub_uri":"Q1007","obj_uri":"Q5146","obj_label":"portug\u00e1l","sub_label":"Bissau-Guinea","lineid":344,"uuid":"8a330454-9e3d-4468-8b8d-8d12767691e4"}
+{"index":23,"sub_uri":"Q424","obj_uri":"Q9205","obj_label":"khmer","sub_label":"Kambodzsa","lineid":31,"uuid":"de34b0ba-f794-468d-a2a8-bad74397b383"}
+{"index":95,"sub_uri":"Q1951","obj_uri":"Q1860","obj_label":"angol","sub_label":"Alberta","lineid":114,"uuid":"95bded24-5ada-499e-ba42-36b15886c440"}
+{"index":374,"sub_uri":"Q581920","obj_uri":"Q1412","obj_label":"finn","sub_label":"Utsjoki","lineid":448,"uuid":"a166293e-7f3c-46b9-a99d-7795a7b52af3"}
+{"index":457,"sub_uri":"Q1009","obj_uri":"Q150","obj_label":"francia","sub_label":"Kamerun","lineid":555,"uuid":"3ad25567-8925-4fc8-b7be-e7bdef6ff742"}
+{"index":84,"sub_uri":"Q954","obj_uri":"Q1860","obj_label":"angol","sub_label":"Zimbabwe","lineid":101,"uuid":"8f0f948a-7e23-4c04-af3f-bf391bc127e0"}
+{"index":222,"sub_uri":"Q59778","obj_uri":"Q9129","obj_label":"g\u00f6r\u00f6g","sub_label":"G\u00f6r\u00f6g ortodox egyh\u00e1z","lineid":263,"uuid":"bfd71c97-9b32-4c1b-ac3d-b4e98e263ae3"}
+{"index":631,"sub_uri":"Q1105893","obj_uri":"Q9292","obj_label":"azeri","sub_label":"Kazvin tartom\u00e1ny","lineid":762,"uuid":"9f687ccc-8fa5-4ad7-8412-b38ea042a9cf"}
+{"index":246,"sub_uri":"Q234","obj_uri":"Q7411","obj_label":"holland","sub_label":"Flandria","lineid":294,"uuid":"a6324722-bc08-47f1-9e9a-4249aee3a9b5"}
+{"index":618,"sub_uri":"Q510310","obj_uri":"Q1412","obj_label":"finn","sub_label":"Haparanda k\u00f6zs\u00e9g","lineid":747,"uuid":"4b2e6502-9df7-41ab-8220-3e25b74764c1"}
+{"index":621,"sub_uri":"Q1045","obj_uri":"Q13275","obj_label":"szom\u00e1li","sub_label":"Szom\u00e1lia","lineid":750,"uuid":"692a1b69-941c-442b-b9fc-baa82416c7eb"}
+{"index":440,"sub_uri":"Q208287","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Kauniainen","lineid":536,"uuid":"a712d6b9-8a29-415c-8be6-cfe67abba3c9"}
+{"index":144,"sub_uri":"Q216915","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Sigtuna k\u00f6zs\u00e9g","lineid":171,"uuid":"a3c9de86-1196-4cdb-8ee0-3651014164b9"}
+{"index":159,"sub_uri":"Q48329","obj_uri":"Q9027","obj_label":"sv\u00e9d","sub_label":"Mariehamn","lineid":190,"uuid":"e13cc16e-da4d-444a-92cc-b069f4bf252b"}
+{"index":367,"sub_uri":"Q133356","obj_uri":"Q8798","obj_label":"ukr\u00e1n","sub_label":"Ukr\u00e1n Szovjet Szocialista K\u00f6zt\u00e1rsas\u00e1g","lineid":440,"uuid":"4b76942b-aa3a-4b22-8574-3f17d715b2c9"}
+{"index":105,"sub_uri":"Q6543","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Hakaszf\u00f6ld","lineid":125,"uuid":"63b335f3-cc27-4705-a12c-d7823d300199"}
+{"index":777,"sub_uri":"Q1011","obj_uri":"Q5146","obj_label":"portug\u00e1l","sub_label":"Z\u00f6ld-foki K\u00f6zt\u00e1rsas\u00e1g","lineid":934,"uuid":"4700fd76-1181-44fb-a5bb-58665a659920"}
+{"index":644,"sub_uri":"Q12771","obj_uri":"Q150","obj_label":"francia","sub_label":"Vaud kanton","lineid":777,"uuid":"85e238fa-2e06-4f5b-8f04-fe67a398813d"}
+{"index":784,"sub_uri":"Q212","obj_uri":"Q8798","obj_label":"ukr\u00e1n","sub_label":"Ukrajna","lineid":944,"uuid":"f8a123b4-279d-45f5-b038-d5d281278104"}
+{"index":730,"sub_uri":"Q702","obj_uri":"Q1860","obj_label":"angol","sub_label":"Mikron\u00e9ziai Sz\u00f6vets\u00e9gi \u00c1llamok","lineid":878,"uuid":"c46a8cc6-1349-4eb4-8b9b-dd66213dc38b"}
+{"index":145,"sub_uri":"Q664599","obj_uri":"Q1412","obj_label":"finn","sub_label":"Uusikaarlepyy","lineid":172,"uuid":"f9a36358-5802-4b92-84d8-633587cf006d"}
+{"index":400,"sub_uri":"Q1211","obj_uri":"Q1860","obj_label":"angol","sub_label":"D\u00e9l-Dakota","lineid":480,"uuid":"8d8d4095-a138-45dd-8553-6843ca93fb26"}
+{"index":547,"sub_uri":"Q5985","obj_uri":"Q1412","obj_label":"finn","sub_label":"Ilmajoki","lineid":665,"uuid":"d31ff034-329b-4ece-bb55-8d4451b62035"}
+{"index":14,"sub_uri":"Q1214","obj_uri":"Q1860","obj_label":"angol","sub_label":"Wyoming","lineid":20,"uuid":"5a075b57-e642-4d72-8d44-287db247141a"}
+{"index":201,"sub_uri":"Q983","obj_uri":"Q150","obj_label":"francia","sub_label":"Egyenl\u00edt\u0151i-Guinea","lineid":237,"uuid":"1d044539-8d2c-4fd1-a555-1b2e5df348f8"}
+{"index":527,"sub_uri":"Q41984","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Nemzetk\u00f6zi Atomenergia-\u00fcgyn\u00f6ks\u00e9g","lineid":638,"uuid":"08995ecb-b989-4bc1-9a27-9ea17379c349"}
+{"index":335,"sub_uri":"Q69520","obj_uri":"Q150","obj_label":"francia","sub_label":"L'Abbaye","lineid":402,"uuid":"20a4ed4f-21ec-42de-9873-06a9c9062598"}
+{"index":763,"sub_uri":"Q180233","obj_uri":"Q1412","obj_label":"finn","sub_label":"Pori","lineid":916,"uuid":"76a0ef92-9008-4017-977c-79b4e1f201ed"}
+{"index":1,"sub_uri":"Q504637","obj_uri":"Q1321","obj_label":"spanyol","sub_label":"Alta Verapaz megye","lineid":3,"uuid":"ace6d108-cab3-4a55-9c82-9010e3ff31f9"}
+{"index":753,"sub_uri":"Q211020","obj_uri":"Q1412","obj_label":"finn","sub_label":"Imatra","lineid":904,"uuid":"ec69036b-bfab-4ce6-880c-75c52b95528b"}
+{"index":394,"sub_uri":"Q15028","obj_uri":"Q150","obj_label":"francia","sub_label":"Nemzetk\u00f6zi Szabv\u00e1ny\u00fcgyi Szervezet","lineid":470,"uuid":"8d6c9fb2-2260-4b10-8c05-3a75b96a9ffc"}
+{"index":695,"sub_uri":"Q64108","obj_uri":"Q188","obj_label":"n\u00e9met","sub_label":"Engelberg","lineid":837,"uuid":"12177758-e515-40eb-bcf6-af94e9316fb0"}
+{"index":580,"sub_uri":"Q5207","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Sztavropoli hat\u00e1rter\u00fclet","lineid":704,"uuid":"ecca1a6a-181d-4762-b0a8-158ed1f6fcb7"}
+{"index":765,"sub_uri":"Q236","obj_uri":"Q8748","obj_label":"alb\u00e1n","sub_label":"Montenegr\u00f3","lineid":918,"uuid":"861d4ff2-1d72-4f7b-b7f7-730029fec53a"}
+{"index":425,"sub_uri":"Q6809","obj_uri":"Q7737","obj_label":"orosz","sub_label":"Burj\u00e1tf\u00f6ld","lineid":516,"uuid":"45ee6c7d-ef22-4e1a-b21a-64aa9ed1273d"}

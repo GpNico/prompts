@@ -1,0 +1,39 @@
+{"index":40,"relation":"P31","template":"Mae [X] yn [Y]."}
+{"index":29,"relation":"P17","template":"Mae [X] wedi'i leoli yn [Y]."}
+{"index":22,"relation":"P30","template":"Mae [X] wedi'i leoli yn [Y]."}
+{"index":36,"relation":"P127","template":"Mae [X] yn eiddo i [Y]."}
+{"index":39,"relation":"P1001","template":"Mae [X] yn derm cyfreithiol yn [Y]."}
+{"index":2,"relation":"P279","template":"Mae [X] yn is-ddosbarth o [Y]."}
+{"index":43,"relation":"P36","template":"Prifddinas [X] yw [Y]."}
+{"index":18,"relation":"P530","template":"Mae [X] yn cynnal cysylltiadau diplomyddol ag [Y]."}
+{"index":14,"relation":"P1923","template":"Cymerodd [Y] ran yn y [X]."}
+{"index":33,"relation":"P937","template":"Roedd [X] yn arfer gweithio yn [Y]."}
+{"index":8,"relation":"P47","template":"Mae [X] yn rhannu ffin \u00e2 [Y]."}
+{"index":26,"relation":"P1412","template":"Arferai [X] gyfathrebu yn [Y]."}
+{"index":15,"relation":"P106","template":"Mae [X] yn [Y] yn \u00f4l proffesiwn."}
+{"index":42,"relation":"P159","template":"Mae pencadlys [X] yn [Y]."}
+{"index":1,"relation":"P20","template":"Bu farw [X] yn [Y]."}
+{"index":13,"relation":"P101","template":"Mae [X] yn gweithio ym maes [Y]."}
+{"index":24,"relation":"P1376","template":"[X] yw prifddinas [Y]."}
+{"index":41,"relation":"P495","template":"Cr\u00ebwyd [X] yn [Y]."}
+{"index":9,"relation":"P138","template":"Enwir [X] ar \u00f4l [Y]."}
+{"index":5,"relation":"P166","template":"Dyfarnwyd [Y] i [X]."}
+{"index":38,"relation":"P190","template":"Mae [X] ac [Y] yn ddinasoedd efeilliaid."}
+{"index":21,"relation":"P407","template":"Ysgrifennwyd [X] yn [Y]."}
+{"index":17,"relation":"P102","template":"Mae [X] yn aelod o'r blaid wleidyddol [Y]."}
+{"index":35,"relation":"P1303","template":"Mae [X] yn chwarae [Y]."}
+{"index":20,"relation":"P27","template":"Mae [X] yn ddinesydd [Y]."}
+{"index":11,"relation":"P54","template":"Mae [X] yn chwarae gyda [Y]."}
+{"index":0,"relation":"P19","template":"Ganwyd [X] yn [Y]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (ganwyd [Y])."}
+{"index":45,"relation":"P361","template":"Mae [X] yn rhan o [Y]."}
+{"index":31,"relation":"P264","template":"Cynrychiolir [X] gan label cerddoriaeth [Y]."}
+{"index":37,"relation":"P103","template":"Iaith frodorol [X] yw [Y]."}
+{"index":44,"relation":"P740","template":"Sefydlwyd [X] yn [Y]."}
+{"index":30,"relation":"P39","template":"Mae gan [X] safle [Y]."}
+{"index":6,"relation":"P449","template":"Darlledwyd [X] yn wreiddiol ar [Y]."}
+{"index":27,"relation":"P108","template":"Mae [X] yn gweithio i [Y]."}
+{"index":12,"relation":"P463","template":"Mae [X] yn aelod o [Y]."}
+{"index":48,"relation":"place_of_death","template":"Bu farw [X] yn [Y]."}
+{"index":28,"relation":"P136","template":"Mae [X] yn chwarae cerddoriaeth [Y]."}
+{"index":25,"relation":"P131","template":"Mae [X] wedi'i leoli yn [Y]."}

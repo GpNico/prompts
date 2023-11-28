@@ -1,0 +1,10 @@
+{"index":41,"relation":"P495","template":"[X] byl vytvo\u0159en v [Y]."}
+{"index":34,"relation":"P140","template":"[X] je spojen s [Y] n\u00e1bo\u017eenstv\u00edm."}
+{"index":16,"relation":"P527","template":"[X] se skl\u00e1d\u00e1 z [Y]."}
+{"index":10,"relation":"P364","template":"P\u016fvodn\u00ed jazyk [X] je [Y]."}
+{"index":40,"relation":"P31","template":"[X] je [Y]."}
+{"index":17,"relation":"P102","template":"[X] je \u010dlenem politick\u00e9 strany [Y]."}
+{"index":18,"relation":"P530","template":"[X] udr\u017euje diplomatick\u00e9 vztahy s [Y]."}
+{"index":48,"relation":"place_of_death","template":"[X] zem\u0159el v [Y]."}
+{"index":27,"relation":"P108","template":"[X] funguje pro [Y]."}
+{"index":36,"relation":"P127","template":"[X] je ve vlastnictv\u00ed [Y]."}

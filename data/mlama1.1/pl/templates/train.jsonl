@@ -1,0 +1,39 @@
+{"index":10,"relation":"P364","template":"Oryginalnym j\u0119zykiem [X] jest [Y]."}
+{"index":12,"relation":"P463","template":"[X] jest cz\u0142onkiem [Y]."}
+{"index":17,"relation":"P102","template":"[X] jest cz\u0142onkiem partii politycznej [Y]."}
+{"index":19,"relation":"P176","template":"[X] jest wytwarzany przez [Y]."}
+{"index":38,"relation":"P190","template":"[X] i [Y] to miasta partnerskie."}
+{"index":22,"relation":"P30","template":"[X] znajduje si\u0119 w [Y]."}
+{"index":45,"relation":"P361","template":"[X] jest cz\u0119\u015bci\u0105 [Y]."}
+{"index":6,"relation":"P449","template":"[X] zosta\u0142 pierwotnie wyemitowany w [Y]."}
+{"index":28,"relation":"P136","template":"[X] odtwarza muzyk\u0119 [Y]."}
+{"index":11,"relation":"P54","template":"[X] gra z [Y]."}
+{"index":20,"relation":"P27","template":"[X] jest [Y] obywatelem."}
+{"index":30,"relation":"P39","template":"[X] ma pozycj\u0119 [Y]."}
+{"index":37,"relation":"P103","template":"J\u0119zykiem ojczystym [X] jest [Y]."}
+{"index":18,"relation":"P530","template":"[X] utrzymuje stosunki dyplomatyczne z [Y]."}
+{"index":48,"relation":"place_of_death","template":"[X] zmar\u0142 w [Y]."}
+{"index":24,"relation":"P1376","template":"[X] jest stolic\u0105 [Y]."}
+{"index":40,"relation":"P31","template":"[X] to [Y]."}
+{"index":9,"relation":"P138","template":"[X] nosi imi\u0119 [Y]."}
+{"index":23,"relation":"P178","template":"[X] jest rozwijany przez [Y]."}
+{"index":27,"relation":"P108","template":"[X] dzia\u0142a dla [Y]."}
+{"index":4,"relation":"P413","template":"[X] gra na pozycji [Y]."}
+{"index":36,"relation":"P127","template":"[X] jest w\u0142asno\u015bci\u0105 [Y]."}
+{"index":42,"relation":"P159","template":"Siedziba [X] znajduje si\u0119 w [Y]."}
+{"index":13,"relation":"P101","template":"[X] pracuje w polu [Y]."}
+{"index":47,"relation":"place_of_birth","template":"[X] urodzi\u0142 si\u0119 w [Y]."}
+{"index":2,"relation":"P279","template":"[X] jest podklas\u0105 [Y]."}
+{"index":1,"relation":"P20","template":"[X] zmar\u0142 w [Y]."}
+{"index":26,"relation":"P1412","template":"[X] u\u017cywany do komunikacji w [Y]."}
+{"index":3,"relation":"P37","template":"Oficjalnym j\u0119zykiem [X] jest [Y]."}
+{"index":32,"relation":"P276","template":"[X] znajduje si\u0119 w [Y]."}
+{"index":33,"relation":"P937","template":"[X] pracowa\u0142 w [Y]."}
+{"index":29,"relation":"P17","template":"[X] znajduje si\u0119 w [Y]."}
+{"index":31,"relation":"P264","template":"[X] jest reprezentowany przez wytw\u00f3rni\u0119 muzyczn\u0105 [Y]."}
+{"index":0,"relation":"P19","template":"[X] urodzi\u0142 si\u0119 w [Y]."}
+{"index":44,"relation":"P740","template":"Firma [X] zosta\u0142a za\u0142o\u017cona w [Y]."}
+{"index":43,"relation":"P36","template":"Stolica [X] to [Y]."}
+{"index":15,"relation":"P106","template":"[X] to [Y] z zawodu."}
+{"index":46,"relation":"date_of_birth","template":"[X] (urodzony [Y])."}
+{"index":5,"relation":"P166","template":"[X] otrzyma\u0142 [Y]."}

@@ -1,0 +1,39 @@
+{"index":29,"relation":"P17","template":"[X] ligger i [Y]."}
+{"index":45,"relation":"P361","template":"[X] \u00e4r en del av [Y]."}
+{"index":24,"relation":"P1376","template":"[X] \u00e4r huvudstaden i [Y]."}
+{"index":23,"relation":"P178","template":"[X] \u00e4r utvecklad av [Y]."}
+{"index":0,"relation":"P19","template":"[X] f\u00f6ddes i [Y]."}
+{"index":44,"relation":"P740","template":"[X] grundades i [Y]."}
+{"index":30,"relation":"P39","template":"[X] har positionen [Y]."}
+{"index":14,"relation":"P1923","template":"[Y] deltog i [X]."}
+{"index":43,"relation":"P36","template":"Huvudstaden till [X] \u00e4r [Y]."}
+{"index":20,"relation":"P27","template":"[X] \u00e4r [Y] medborgare."}
+{"index":8,"relation":"P47","template":"[X] delar gr\u00e4nsen till [Y]."}
+{"index":22,"relation":"P30","template":"[X] ligger i [Y]."}
+{"index":36,"relation":"P127","template":"[X] \u00e4gs av [Y]."}
+{"index":16,"relation":"P527","template":"[X] best\u00e5r av [Y]."}
+{"index":48,"relation":"place_of_death","template":"[X] dog i [Y]."}
+{"index":5,"relation":"P166","template":"[X] tilldelades [Y]."}
+{"index":31,"relation":"P264","template":"[X] representeras av musiketiketten [Y]."}
+{"index":11,"relation":"P54","template":"[X] spelar med [Y]."}
+{"index":17,"relation":"P102","template":"[X] \u00e4r medlem i [Y] politiska partiet."}
+{"index":12,"relation":"P463","template":"[X] \u00e4r medlem i [Y]."}
+{"index":13,"relation":"P101","template":"[X] arbetar inom [Y]."}
+{"index":33,"relation":"P937","template":"[X] brukade arbeta i [Y]."}
+{"index":7,"relation":"P69","template":"[X] utbildades vid universitetet i [Y]."}
+{"index":3,"relation":"P37","template":"Det officiella spr\u00e5ket f\u00f6r [X] \u00e4r [Y]."}
+{"index":40,"relation":"P31","template":"[X] \u00e4r en [Y]."}
+{"index":2,"relation":"P279","template":"[X] \u00e4r en underklass av [Y]."}
+{"index":28,"relation":"P136","template":"[X] spelar [Y] musik."}
+{"index":37,"relation":"P103","template":"Moderspr\u00e5ket f\u00f6r [X] \u00e4r [Y]."}
+{"index":47,"relation":"place_of_birth","template":"[X] f\u00f6ddes i [Y]."}
+{"index":9,"relation":"P138","template":"[X] \u00e4r uppkallad efter [Y]."}
+{"index":19,"relation":"P176","template":"[X] produceras av [Y]."}
+{"index":18,"relation":"P530","template":"[X] uppr\u00e4tth\u00e5ller diplomatiska f\u00f6rbindelser med [Y]."}
+{"index":21,"relation":"P407","template":"[X] skrevs p\u00e5 [Y]."}
+{"index":41,"relation":"P495","template":"[X] skapades i [Y]."}
+{"index":6,"relation":"P449","template":"[X] s\u00e4ndes ursprungligen den [Y]."}
+{"index":38,"relation":"P190","template":"[X] och [Y] \u00e4r tvillingst\u00e4der."}
+{"index":25,"relation":"P131","template":"[X] ligger i [Y]."}
+{"index":27,"relation":"P108","template":"[X] fungerar f\u00f6r [Y]."}
+{"index":26,"relation":"P1412","template":"[X] brukade kommunicera i [Y]."}

@@ -1,0 +1,10 @@
+{"index":47,"relation":"place_of_birth","template":"[X] sinh n\u0103m [Y]."}
+{"index":32,"relation":"P276","template":"[X] n\u1eb1m trong [Y]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (sinh ra [Y])."}
+{"index":31,"relation":"P264","template":"[X] \u0111\u01b0\u1ee3c \u0111\u1ea1i di\u1ec7n b\u1edfi nh\u00e3n \u00e2m nh\u1ea1c [Y]."}
+{"index":26,"relation":"P1412","template":"[X] \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng \u0111\u1ec3 giao ti\u1ebfp trong [Y]."}
+{"index":19,"relation":"P176","template":"[X] \u0111\u01b0\u1ee3c s\u1ea3n xu\u1ea5t b\u1edfi [Y]."}
+{"index":44,"relation":"P740","template":"[X] \u0111\u01b0\u1ee3c th\u00e0nh l\u1eadp v\u00e0o [Y]."}
+{"index":36,"relation":"P127","template":"[X] \u0111\u01b0\u1ee3c s\u1edf h\u1eefu b\u1edfi [Y]."}
+{"index":43,"relation":"P36","template":"V\u1ed1n c\u1ee7a [X] l\u00e0 [Y]."}
+{"index":42,"relation":"P159","template":"Tr\u1ee5 s\u1edf c\u1ee7a [X] l\u00e0 \u1edf [Y]."}

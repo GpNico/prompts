@@ -1,0 +1,10 @@
+{"index":15,"relation":"P106","template":"[X] \u00e9 un [Y] de profesi\u00f3n."}
+{"index":48,"relation":"place_of_death","template":"[X] morreu en [Y]."}
+{"index":4,"relation":"P413","template":"[X] xoga na posici\u00f3n [Y]."}
+{"index":18,"relation":"P530","template":"[X] mant\u00e9n relaci\u00f3ns diplom\u00e1ticas con [Y]."}
+{"index":5,"relation":"P166","template":"[X] foi premiado con [Y]."}
+{"index":0,"relation":"P19","template":"[X] naceu en [Y]."}
+{"index":25,"relation":"P131","template":"[X] est\u00e1 situado en [Y]."}
+{"index":36,"relation":"P127","template":"[X] \u00e9 propiedade de [Y]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (nacido [Y])."}
+{"index":44,"relation":"P740","template":"[X] foi fundada en [Y]."}

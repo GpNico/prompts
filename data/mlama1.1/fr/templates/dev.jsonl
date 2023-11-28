@@ -1,0 +1,10 @@
+{"index":44,"relation":"P740","template":"[X] a \u00e9t\u00e9 fond\u00e9e en [Y]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (n\u00e9 [Y])."}
+{"index":20,"relation":"P27","template":"[X] est [Y] citoyen."}
+{"index":7,"relation":"P69","template":"[X] a fait ses \u00e9tudes \u00e0 l'Universit\u00e9 de [Y]."}
+{"index":32,"relation":"P276","template":"[X] se trouve dans [Y]."}
+{"index":41,"relation":"P495","template":"[X] a \u00e9t\u00e9 cr\u00e9\u00e9 dans [Y]."}
+{"index":42,"relation":"P159","template":"Le si\u00e8ge social de [X] est \u00e0 [Y]."}
+{"index":13,"relation":"P101","template":"[X] travaille dans le domaine de [Y]."}
+{"index":12,"relation":"P463","template":"[X] est membre de [Y]."}
+{"index":4,"relation":"P413","template":"[X] joue en position [Y]."}

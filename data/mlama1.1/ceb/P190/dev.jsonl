@@ -1,0 +1,193 @@
+{"index":591,"sub_uri":"Q8678","obj_uri":"Q1218","obj_label":"Jerusalen","sub_label":"Rio de Janeiro","lineid":610,"uuid":"31574b70-65b2-4efd-88bb-16366db1a92b"}
+{"index":290,"sub_uri":"Q1297","obj_uri":"Q1085","obj_label":"Praga","sub_label":"Chicago","lineid":299,"uuid":"131f0f9b-19d5-438f-9c74-58a729f218d5"}
+{"index":220,"sub_uri":"Q1490","obj_uri":"Q220","obj_label":"Roma","sub_label":"Tokyo","lineid":227,"uuid":"f4ab8a1a-d83f-43a0-9bd4-6dff42731269"}
+{"index":413,"sub_uri":"Q23556","obj_uri":"Q8673","obj_label":"Lagos (kapital sa distrito)","sub_label":"Atlanta","lineid":423,"uuid":"3e283a7f-63f4-408c-bc9c-7d7bcf2b50a6"}
+{"index":344,"sub_uri":"Q914","obj_uri":"Q6225","obj_label":"Coventry","sub_label":"Volgograd","lineid":354,"uuid":"57fd7a99-113d-4f41-9782-d093820cba3d"}
+{"index":440,"sub_uri":"Q270","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Warszawa","lineid":453,"uuid":"46ddc526-8d08-4113-80c3-701bbbea3aae"}
+{"index":154,"sub_uri":"Q1362","obj_uri":"Q3630","obj_label":"Daerah Khusus Ibukota Jakarta","sub_label":"Islamabad (ulohang dakbayan sa Pakistan)","lineid":159,"uuid":"9cf4d062-3986-40c7-ad5a-6c6814f08ff3"}
+{"index":737,"sub_uri":"Q1489","obj_uri":"Q3130","obj_label":"Sydney","sub_label":"Dakbayan sa Mehiko","lineid":760,"uuid":"a265ba13-0aff-4c6e-ac58-cc1bf9cd9dbd"}
+{"index":192,"sub_uri":"Q1055","obj_uri":"Q23482","obj_label":"Marseille","sub_label":"Free and Hanseatic City of Hamburg","lineid":198,"uuid":"4d0b51e3-622e-4a40-9e73-f76f99a33942"}
+{"index":503,"sub_uri":"Q3630","obj_uri":"Q727","obj_label":"Amsterdam","sub_label":"Daerah Khusus Ibukota Jakarta","lineid":517,"uuid":"be4ea2a0-76af-4b60-a479-68a7d7cb0419"}
+{"index":615,"sub_uri":"Q1461","obj_uri":"Q956","obj_label":"Beijing","sub_label":"Manila","lineid":634,"uuid":"bbbb53fb-21b0-4a65-8c81-45393b50b40c"}
+{"index":533,"sub_uri":"Q3820","obj_uri":"Q1530","obj_label":"Baghdad","sub_label":"Beirut","lineid":547,"uuid":"56456dad-39ae-49dc-a9e0-26907315a448"}
+{"index":451,"sub_uri":"Q2256","obj_uri":"Q1794","obj_label":"Frankfurt am Main","sub_label":"Birmingham (kapital sa kondado sa Hiniusang Gingharian)","lineid":464,"uuid":"516aaf73-c41c-4082-b5c5-642e72723724"}
+{"index":616,"sub_uri":"Q1489","obj_uri":"Q406","obj_label":"\u0130stanbul","sub_label":"Dakbayan sa Mehiko","lineid":635,"uuid":"41d1df3f-63d3-4ee3-8bac-a83ac912b3a0"}
+{"index":27,"sub_uri":"Q1486","obj_uri":"Q1899","obj_label":"Kiev","sub_label":"Buenos Aires","lineid":28,"uuid":"5cbb6707-59fd-4e0e-b1a6-c4f3ef3ca005"}
+{"index":799,"sub_uri":"Q19689","obj_uri":"Q1435","obj_label":"Zagreb","sub_label":"Tirana (ulohang dakbayan sa Albanya)","lineid":823,"uuid":"38ec335e-2918-4622-b57c-c6fbddbfc4e1"}
+{"index":881,"sub_uri":"Q1284","obj_uri":"Q1345","obj_label":"Philadelphia","sub_label":"Abruzzo","lineid":909,"uuid":"8b6731b5-8775-4aa7-816b-f39e6711f05e"}
+{"index":457,"sub_uri":"Q1492","obj_uri":"Q8686","obj_label":"Shanghai","sub_label":"Barcelona","lineid":471,"uuid":"13da7bc6-641c-4d6e-a0c8-63769e997af1"}
+{"index":79,"sub_uri":"Q3820","obj_uri":"Q406","obj_label":"\u0130stanbul","sub_label":"Beirut","lineid":83,"uuid":"d5daebde-bb02-4165-87c6-d2eeb078147f"}
+{"index":184,"sub_uri":"Q121157","obj_uri":"Q11739","obj_label":"Lahore (kapital sa lalawigan sa Pakistan)","sub_label":"Mashhad","lineid":189,"uuid":"13744a1d-dddf-426a-a82c-7926d9c30ec1"}
+{"index":150,"sub_uri":"Q727","obj_uri":"Q1524","obj_label":"Atenas","sub_label":"Amsterdam","lineid":155,"uuid":"a48513e0-103e-4df1-8ca4-73cd5328d627"}
+{"index":231,"sub_uri":"Q52535","obj_uri":"Q1335","obj_label":"Montevideo","sub_label":"Rosario (kapital sa munisipyo)","lineid":238,"uuid":"870d6d2f-161f-40b2-a932-cf2b86df33db"}
+{"index":794,"sub_uri":"Q649","obj_uri":"Q8684","obj_label":"Seoul","sub_label":"Moscow","lineid":818,"uuid":"ea8ccecb-5aa3-4297-a718-7b64f10a729b"}
+{"index":80,"sub_uri":"Q1850","obj_uri":"Q84","obj_label":"London","sub_label":"Phnom Penh (lalawigan)","lineid":84,"uuid":"77d6e07a-05e4-454e-8a7c-e4b53168a24d"}
+{"index":244,"sub_uri":"Q437","obj_uri":"Q1435","obj_label":"Zagreb","sub_label":"Ljubljana","lineid":252,"uuid":"f119bece-9c6d-4ce0-b7d8-a1506a2e372e"}
+{"index":702,"sub_uri":"Q1722","obj_uri":"Q11194","obj_label":"Sarajevo (ulohang dakbayan)","sub_label":"Dubrovnik (kapital sa lalawigan)","lineid":723,"uuid":"c52826de-173b-46aa-9462-21f456943aa6"}
+{"index":367,"sub_uri":"Q60","obj_uri":"Q85","obj_label":"Cairo","sub_label":"Dakbayan sa New York","lineid":377,"uuid":"1014cf71-e075-424b-8980-e348aed37d09"}
+{"index":542,"sub_uri":"Q1757","obj_uri":"Q585","obj_label":"Oslo","sub_label":"Helsinki","lineid":556,"uuid":"f96431be-8b5f-4195-bddb-783ae9e406b4"}
+{"index":516,"sub_uri":"Q597","obj_uri":"Q641","obj_label":"Venecia","sub_label":"Lisboa","lineid":530,"uuid":"ac37c93d-33fa-4e08-8b7d-84d95aaf2653"}
+{"index":936,"sub_uri":"Q216","obj_uri":"Q437","obj_label":"Ljubljana","sub_label":"Vilnius","lineid":966,"uuid":"11f2abcd-7b6e-4b8c-bae6-7ba2f223f5ef"}
+{"index":757,"sub_uri":"Q84","obj_uri":"Q585","obj_label":"Oslo","sub_label":"London","lineid":780,"uuid":"1d012193-4a65-467b-b8b9-6ad92946df91"}
+{"index":208,"sub_uri":"Q5468","obj_uri":"Q34647","obj_label":"Johannesburg","sub_label":"Durban","lineid":215,"uuid":"2a9673ec-41a1-4a29-b57c-8352dc48ffd8"}
+{"index":789,"sub_uri":"Q43070","obj_uri":"Q649","obj_label":"Moscow","sub_label":"Donetsk","lineid":813,"uuid":"590268bb-69ae-4ace-b784-2408a38af1b5"}
+{"index":478,"sub_uri":"Q1867","obj_uri":"Q16557","obj_label":"Dallas (kapital sa kondado sa Estados Unidos, Texas)","sub_label":"Taipei (ulohang dakbayan)","lineid":492,"uuid":"a47f454d-3d51-4f89-bbd6-30f138073c82"}
+{"index":709,"sub_uri":"Q1715","obj_uri":"Q23154","obj_label":"Bristol","sub_label":"Hannover (kapital sa estado pederal)","lineid":730,"uuid":"d8304c2d-d061-4000-8dc3-2e66992acc1e"}
+{"index":57,"sub_uri":"Q1524","obj_uri":"Q1563","obj_label":"La Habana","sub_label":"Atenas","lineid":61,"uuid":"62fe8111-4ff5-4259-9592-c7b0df3d8f64"}
+{"index":886,"sub_uri":"Q1781","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Budapest","lineid":914,"uuid":"75df72ce-de8e-4be9-9eb8-2250a8e2bad0"}
+{"index":288,"sub_uri":"Q1085","obj_uri":"Q1218","obj_label":"Jerusalen","sub_label":"Praga","lineid":296,"uuid":"80fafc2e-f04e-4f2d-857b-bef2fedfe935"}
+{"index":908,"sub_uri":"Q472","obj_uri":"Q1524","obj_label":"Atenas","sub_label":"Sofiya-Grad","lineid":936,"uuid":"ccbf6deb-2a50-46b9-967b-9eef5d35fe60"}
+{"index":14,"sub_uri":"Q3935","obj_uri":"Q1563","obj_label":"La Habana","sub_label":"Windhoek (ulohang dakbayan)","lineid":14,"uuid":"6a12ff5c-e123-40af-b907-c61c36874af8"}
+{"index":206,"sub_uri":"Q891","obj_uri":"Q1345","obj_label":"Philadelphia","sub_label":"Nizhniy Novgorod","lineid":213,"uuid":"54797e88-497d-47f8-8554-5b47659c8478"}
+{"index":445,"sub_uri":"Q1486","obj_uri":"Q956","obj_label":"Beijing","sub_label":"Buenos Aires","lineid":458,"uuid":"646c8d40-422e-4925-9102-ff28401754ac"}
+{"index":373,"sub_uri":"Q40269","obj_uri":"Q90","obj_label":"Paris","sub_label":"Porto Alegre","lineid":383,"uuid":"a2f0f834-3822-4bed-9832-6ce0c6b993e5"}
+{"index":221,"sub_uri":"Q1362","obj_uri":"Q3130","obj_label":"Sydney","sub_label":"Islamabad (ulohang dakbayan sa Pakistan)","lineid":228,"uuid":"89707004-8dab-41d1-88b1-cb9ea7ce838f"}
+{"index":498,"sub_uri":"Q19660","obj_uri":"Q3640","obj_label":"Ankara","sub_label":"Bucure\u0219ti (lalawigan sa Rumanya)","lineid":512,"uuid":"5c4e0412-1b79-4130-9aa4-98b9bff809c2"}
+{"index":810,"sub_uri":"Q171882","obj_uri":"Q1780","obj_label":"Bratislava","sub_label":"Larnaca (kapital sa distrito)","lineid":834,"uuid":"b81d0dad-00aa-43c8-b014-50a9abdbece5"}
+{"index":636,"sub_uri":"Q11746","obj_uri":"Q1861","obj_label":"Bangkok","sub_label":"Wuhan","lineid":655,"uuid":"2e8d1cbc-d8b4-44e2-bfa0-eada70884f84"}
+{"index":792,"sub_uri":"Q62","obj_uri":"Q597","obj_label":"Lisboa","sub_label":"San Francisco","lineid":816,"uuid":"6ec1c4d5-6850-404f-bfa0-2f5b468c29fd"}
+{"index":731,"sub_uri":"Q472","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"Sofiya-Grad","lineid":754,"uuid":"37bd76da-7d6d-461e-9993-a509ddee0277"}
+{"index":818,"sub_uri":"Q24826","obj_uri":"Q34370","obj_label":"Gemeente Rotterdam","sub_label":"Liverpool","lineid":842,"uuid":"0cd245ec-8be7-409a-845b-f506a9c8158f"}
+{"index":947,"sub_uri":"Q8684","obj_uri":"Q3616","obj_label":"Dakbayan sa Teheran","sub_label":"Seoul","lineid":977,"uuid":"31a8524b-baa8-4e23-9a91-b6d7e7ce17d5"}
+{"index":254,"sub_uri":"Q374365","obj_uri":"Q1874","obj_label":"Odessa (kapital sa lalawigan)","sub_label":"Jeddah","lineid":262,"uuid":"46762c86-2aa4-4ed4-be2e-018dbde22974"}
+{"index":629,"sub_uri":"Q216","obj_uri":"Q16572","obj_label":"Guangzhou","sub_label":"Vilnius","lineid":648,"uuid":"2b298026-e3d9-445c-9385-c7e26f56c170"}
+{"index":17,"sub_uri":"Q7903","obj_uri":"Q1490","obj_label":"Tokyo","sub_label":"Casablanca (kapital sa rehiyon)","lineid":17,"uuid":"b398a76e-7469-47dc-b554-8a10f5253fb8"}
+{"index":557,"sub_uri":"Q8686","obj_uri":"Q1492","obj_label":"Barcelona","sub_label":"Shanghai","lineid":574,"uuid":"25a6bcd4-d4c1-4e7f-9441-a266920ac9b8"}
+{"index":668,"sub_uri":"Q172","obj_uri":"Q270","obj_label":"Warszawa","sub_label":"Toronto (kapital sa lalawigan)","lineid":688,"uuid":"85452d55-e03c-47f4-91cb-e98e85dea003"}
+{"index":92,"sub_uri":"Q11462","obj_uri":"Q16572","obj_label":"Guangzhou","sub_label":"Surabaya (kapital sa lalawigan sa Indonesia)","lineid":96,"uuid":"442e80a9-fb3a-48f0-93ac-006c1cd20253"}
+{"index":507,"sub_uri":"Q585","obj_uri":"Q1748","obj_label":"Copenhagen","sub_label":"Oslo","lineid":521,"uuid":"4ad72261-52c3-4db4-8d53-82c7da89195b"}
+{"index":300,"sub_uri":"Q1773","obj_uri":"Q649","obj_label":"Moscow","sub_label":"Riga","lineid":309,"uuid":"5c41ca10-f090-4e81-a722-0775fec1f7be"}
+{"index":693,"sub_uri":"Q23482","obj_uri":"Q8686","obj_label":"Shanghai","sub_label":"Marseille","lineid":713,"uuid":"073200e4-e6d9-4d53-a869-31e154563560"}
+{"index":62,"sub_uri":"Q79848","obj_uri":"Q342043","obj_label":"Hampton","sub_label":"Southampton","lineid":66,"uuid":"e6f55111-71e5-40ad-9cc0-f6ea0dfcc730"}
+{"index":163,"sub_uri":"Q1520","obj_uri":"Q216","obj_label":"Vilnius","sub_label":"Nur-Sultan","lineid":168,"uuid":"2cc51914-2f8f-4c5d-b141-5ba66d9209df"}
+{"index":25,"sub_uri":"Q656","obj_uri":"Q495","obj_label":"Turin (kapital sa rehiyon)","sub_label":"Saint Petersburg","lineid":26,"uuid":"3af4c1d1-8034-43d9-8343-5f318cb0b00e"}
+{"index":303,"sub_uri":"Q1707","obj_uri":"Q1770","obj_label":"Tallinn","sub_label":"Kiel","lineid":312,"uuid":"525d0df5-8fe4-4a5d-8ce1-163f371471a8"}
+{"index":325,"sub_uri":"Q173985","obj_uri":"Q18125","obj_label":"Manchester","sub_label":"Faisal\u0101b\u0101d (kapital sa distrito sa Pakistan)","lineid":334,"uuid":"70cf914d-0fb3-413a-b12f-3b4b5c17e201"}
+{"index":642,"sub_uri":"Q36433","obj_uri":"Q23154","obj_label":"Bristol","sub_label":"Porto (kapital sa distrito)","lineid":661,"uuid":"6968a32e-d41a-42ef-89e1-ae133900897e"}
+{"index":196,"sub_uri":"Q956","obj_uri":"Q34647","obj_label":"Johannesburg","sub_label":"Beijing","lineid":202,"uuid":"7baba99d-8123-4aa0-83c7-b1f9c557a3e0"}
+{"index":193,"sub_uri":"Q3805","obj_uri":"Q956","obj_label":"Beijing","sub_label":"Amman","lineid":199,"uuid":"4070f3c5-ed26-4e85-a27b-cb1c220d1011"}
+{"index":923,"sub_uri":"Q986302","obj_uri":"Q1335","obj_label":"Montevideo","sub_label":"Montevideo (kapital sa kondado)","lineid":952,"uuid":"775bde9f-2e1c-4283-9865-e5f9ba8b6cad"}
+{"index":144,"sub_uri":"Q384","obj_uri":"Q11194","obj_label":"Sarajevo (ulohang dakbayan)","sub_label":"Skopje","lineid":149,"uuid":"f8e2f89a-3235-4762-9f84-498516066ee7"}
+{"index":784,"sub_uri":"Q1858","obj_uri":"Q1861","obj_label":"Bangkok","sub_label":"Hanoi","lineid":808,"uuid":"7af99336-f122-4d39-afd9-60ca5932f724"}
+{"index":687,"sub_uri":"Q8686","obj_uri":"Q1055","obj_label":"Free and Hanseatic City of Hamburg","sub_label":"Shanghai","lineid":707,"uuid":"b4ff1b28-7480-405d-a019-24b767e428d3"}
+{"index":836,"sub_uri":"Q8684","obj_uri":"Q1490","obj_label":"Tokyo","sub_label":"Seoul","lineid":860,"uuid":"d82316c2-9ef5-4e79-801d-a5699b75a583"}
+{"index":964,"sub_uri":"Q406","obj_uri":"Q7903","obj_label":"Casablanca (kapital sa rehiyon)","sub_label":"\u0130stanbul","lineid":994,"uuid":"6ffc2ef1-aa76-4f6c-97ff-d9f698551676"}
+{"index":100,"sub_uri":"Q3306","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"Panam\u00e1 (ulohang dakbayan)","lineid":104,"uuid":"8442ddd5-330d-44fe-a87b-2af627a75fcb"}
+{"index":82,"sub_uri":"Q2807","obj_uri":"Q1479","obj_label":"Bordeaux","sub_label":"Madrid","lineid":86,"uuid":"8d3e6351-5590-481b-9d6c-346c2745413f"}
+{"index":589,"sub_uri":"Q384","obj_uri":"Q406","obj_label":"\u0130stanbul","sub_label":"Skopje","lineid":608,"uuid":"f66a0630-817f-481a-8547-aff2a4688b5c"}
+{"index":237,"sub_uri":"Q172","obj_uri":"Q406","obj_label":"\u0130stanbul","sub_label":"Toronto (kapital sa lalawigan)","lineid":244,"uuid":"72a90dc4-aa77-4742-8347-e63b33e5ee79"}
+{"index":781,"sub_uri":"Q1899","obj_uri":"Q1754","obj_label":"Stockholm","sub_label":"Kiev","lineid":805,"uuid":"d092d4e4-049d-4fb1-9534-96db3b1c61b0"}
+{"index":23,"sub_uri":"Q270","obj_uri":"Q216","obj_label":"Vilnius","sub_label":"Warszawa","lineid":24,"uuid":"fb0d6904-ed89-4395-bc6c-82202d46e26f"}
+{"index":137,"sub_uri":"Q81046","obj_uri":"Q1342","obj_label":"Pittsburgh","sub_label":"Charleroi (parokya)","lineid":142,"uuid":"d5141a9c-e0f4-4b91-8b48-5bf43a434980"}
+{"index":565,"sub_uri":"Q216","obj_uri":"Q1085","obj_label":"Praga","sub_label":"Vilnius","lineid":582,"uuid":"5399c5e3-e397-48bd-8aa6-125be2949787"}
+{"index":647,"sub_uri":"Q8678","obj_uri":"Q23556","obj_label":"Atlanta","sub_label":"Rio de Janeiro","lineid":666,"uuid":"4ee68d53-6be9-4ce5-8dc1-18d293f7444c"}
+{"index":771,"sub_uri":"Q8652","obj_uri":"Q597","obj_label":"Lisboa","sub_label":"Miami (kapital sa kondado sa Estados Unidos, Florida)","lineid":795,"uuid":"c538611b-63e4-4d19-91d8-8dfa5b775f4e"}
+{"index":611,"sub_uri":"Q16572","obj_uri":"Q1861","obj_label":"Bangkok","sub_label":"Guangzhou","lineid":630,"uuid":"1ad95467-7869-4379-b6fb-fc36f96106e1"}
+{"index":280,"sub_uri":"Q2807","obj_uri":"Q1563","obj_label":"La Habana","sub_label":"Madrid","lineid":288,"uuid":"cc491377-1629-419b-b94a-c5a952ac28bd"}
+{"index":940,"sub_uri":"Q3561","obj_uri":"Q3579","obj_label":"Tripoli","sub_label":"Algiers","lineid":970,"uuid":"504889d4-bc95-40dc-a85c-604c1e6f817f"}
+{"index":670,"sub_uri":"Q8684","obj_uri":"Q3630","obj_label":"Daerah Khusus Ibukota Jakarta","sub_label":"Seoul","lineid":690,"uuid":"da4361a8-8b6a-4545-bae0-418a5a2cdecb"}
+{"index":522,"sub_uri":"Q3138","obj_uri":"Q22690","obj_label":"Metz","sub_label":"Trier (munisipyo)","lineid":536,"uuid":"5615ada7-5cfc-472b-a629-e3605cc139cd"}
+{"index":656,"sub_uri":"Q16552","obj_uri":"Q23436","obj_label":"Edinburgh (kapital sa apil sa nasod)","sub_label":"San Diego (kapital sa kondado sa Estados Unidos, California)","lineid":676,"uuid":"c16fd2d0-db2f-4c01-8102-4b01f0eda93b"}
+{"index":520,"sub_uri":"Q1963","obj_uri":"Q3616","obj_label":"Dakbayan sa Teheran","sub_label":"Khartoum","lineid":534,"uuid":"e1c195d6-8d8b-47a4-8ae9-0f804451479d"}
+{"index":385,"sub_uri":"Q1435","obj_uri":"Q8686","obj_label":"Shanghai","sub_label":"Zagreb","lineid":395,"uuid":"c9f8e97d-840d-4d68-926b-d1c7dbe483f1"}
+{"index":160,"sub_uri":"Q16010","obj_uri":"Q34370","obj_label":"Gemeente Rotterdam","sub_label":"Esch-sur-Alzette (kapital sa lalawigan)","lineid":165,"uuid":"d00c4276-805e-4fca-ada4-cef1941175e4"}
+{"index":558,"sub_uri":"Q23002","obj_uri":"Q472675","obj_label":"Frederick","sub_label":"Schifferstadt (munisipyo)","lineid":575,"uuid":"65c3186a-d6f9-4b62-87bb-78a11435fbf8"}
+{"index":423,"sub_uri":"Q270","obj_uri":"Q1867","obj_label":"Taipei (ulohang dakbayan)","sub_label":"Warszawa","lineid":433,"uuid":"787722d5-a34a-4708-a857-58a1dbee04a3"}
+{"index":90,"sub_uri":"Q33935","obj_uri":"Q641","obj_label":"Venecia","sub_label":"Tel Aviv","lineid":94,"uuid":"2f5dae56-ccd1-4e75-b40c-f4e544e13ca3"}
+{"index":32,"sub_uri":"Q1486","obj_uri":"Q1492","obj_label":"Barcelona","sub_label":"Buenos Aires","lineid":33,"uuid":"ff7e2260-21e1-4c4b-9872-7613e60c07bd"}
+{"index":513,"sub_uri":"Q2079","obj_uri":"Q1899","obj_label":"Kiev","sub_label":"Leipzig","lineid":527,"uuid":"51044718-1fc9-46ce-ac78-0e8e82871fee"}
+{"index":613,"sub_uri":"Q48320","obj_uri":"Q34932","obj_label":"Brisbane (kapital sa estado)","sub_label":"Kobe (kapital sa prepektura)","lineid":632,"uuid":"4d87d358-1c96-478c-a9b8-7f381ab39c88"}
+{"index":953,"sub_uri":"Q1563","obj_uri":"Q3616","obj_label":"Dakbayan sa Teheran","sub_label":"La Habana","lineid":983,"uuid":"720f0785-90c3-46ce-8d50-946b1d7daaf2"}
+{"index":201,"sub_uri":"Q649","obj_uri":"Q85","obj_label":"Cairo","sub_label":"Moscow","lineid":208,"uuid":"ebac42d8-6f10-4887-8da7-8059a0d380e2"}
+{"index":637,"sub_uri":"Q3561","obj_uri":"Q956","obj_label":"Beijing","sub_label":"Algiers","lineid":656,"uuid":"35e9fe11-67a7-4ad3-bf3e-f0192a6b7dcc"}
+{"index":885,"sub_uri":"Q100","obj_uri":"Q1524","obj_label":"Atenas","sub_label":"Boston (kapital sa estado)","lineid":913,"uuid":"c51ef1be-e9da-4c52-8c71-23702be558fc"}
+{"index":856,"sub_uri":"Q1731","obj_uri":"Q34370","obj_label":"Gemeente Rotterdam","sub_label":"Dresden (kapital sa estado pederal)","lineid":882,"uuid":"74939c9a-309e-4442-8604-25fdb6bbe867"}
+{"index":712,"sub_uri":"Q3761","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Accra","lineid":733,"uuid":"6baf332a-30e0-4200-b16e-7bee98abe445"}
+{"index":685,"sub_uri":"Q1757","obj_uri":"Q1085","obj_label":"Praga","sub_label":"Helsinki","lineid":705,"uuid":"4de6fa7c-d6d9-4eb7-b5f3-e75089e5882f"}
+{"index":783,"sub_uri":"Q37100","obj_uri":"Q16572","obj_label":"Guangzhou","sub_label":"Auckland","lineid":807,"uuid":"aeb22b1e-0ade-4a70-8c65-ab14383346dc"}
+{"index":619,"sub_uri":"Q5465","obj_uri":"Q34647","obj_label":"Johannesburg","sub_label":"Cape Town","lineid":638,"uuid":"90816ab9-9536-499d-a3ce-e50616ede80d"}
+{"index":471,"sub_uri":"Q207350","obj_uri":"Q2966","obj_label":"Heidelberg","sub_label":"Re\u1e96ovot","lineid":485,"uuid":"ea1d9d90-3c39-4754-828a-b5d3f72f2c1d"}
+{"index":181,"sub_uri":"Q1085","obj_uri":"Q34600","obj_label":"Kyoto","sub_label":"Praga","lineid":186,"uuid":"686562ad-bc06-4179-b6bf-2f79466c289e"}
+{"index":141,"sub_uri":"Q6487","obj_uri":"Q2684","obj_label":"Vladimir","sub_label":"Antalya (kapital sa lalawigan)","lineid":146,"uuid":"ea75cec4-6640-4eb0-bc65-8e4d9b8cd959"}
+{"index":258,"sub_uri":"Q23482","obj_uri":"Q3820","obj_label":"Beirut","sub_label":"Marseille","lineid":266,"uuid":"9fa4c257-1c76-4df1-a8bd-84f96f6a2a78"}
+{"index":950,"sub_uri":"Q8652","obj_uri":"Q2656","obj_label":"Palermo","sub_label":"Miami (kapital sa kondado sa Estados Unidos, Florida)","lineid":980,"uuid":"51f52a3e-9cb1-4a2d-b27a-c492efadf180"}
+{"index":708,"sub_uri":"Q3561","obj_uri":"Q84","obj_label":"London","sub_label":"Algiers","lineid":729,"uuid":"fca071c2-a602-4a21-8426-199f06e17be8"}
+{"index":473,"sub_uri":"Q1773","obj_uri":"Q216","obj_label":"Vilnius","sub_label":"Riga","lineid":487,"uuid":"7e9eb2e3-5e43-432f-83fc-fd96e9ad2558"}
+{"index":386,"sub_uri":"Q6576","obj_uri":"Q216","obj_label":"Vilnius","sub_label":"Irkutsk (kapital sa lalawigan sa Rusya)","lineid":396,"uuid":"afddee29-18b8-4397-a016-4f54b672f590"}
+{"index":282,"sub_uri":"Q19689","obj_uri":"Q495","obj_label":"Turin (kapital sa rehiyon)","sub_label":"Tirana (ulohang dakbayan sa Albanya)","lineid":290,"uuid":"92234b1e-1fd8-415a-8f12-2e3c94ea9750"}
+{"index":415,"sub_uri":"Q1850","obj_uri":"Q8686","obj_label":"Shanghai","sub_label":"Phnom Penh (lalawigan)","lineid":425,"uuid":"6ef3f154-c0cf-4b99-b825-362a4ed0381c"}
+{"index":239,"sub_uri":"Q597","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"Lisboa","lineid":246,"uuid":"e57ec350-edee-4dca-b9e3-3321526368b4"}
+{"index":332,"sub_uri":"Q84","obj_uri":"Q3630","obj_label":"Daerah Khusus Ibukota Jakarta","sub_label":"London","lineid":341,"uuid":"16a522a8-8848-4852-9eb8-12d66ca6bb73"}
+{"index":349,"sub_uri":"Q152368","obj_uri":"Q37320","obj_label":"Cleveland (kapital sa kondado sa Estados Unidos, Ohio)","sub_label":"Bet She'an","lineid":359,"uuid":"f6351ee9-2ab4-4157-96ea-56cd9c0906a7"}
+{"index":502,"sub_uri":"Q11194","obj_uri":"Q2634","obj_label":"Napoles","sub_label":"Sarajevo (ulohang dakbayan)","lineid":516,"uuid":"a1f9ccc0-b004-480a-af75-5a29f7b06fa4"}
+{"index":903,"sub_uri":"Q34820","obj_uri":"Q1563","obj_label":"La Habana","sub_label":"Santo Domingo","lineid":931,"uuid":"c8f02ef4-9a7a-486e-9221-cc26d0b6d26c"}
+{"index":568,"sub_uri":"Q19660","obj_uri":"Q1781","obj_label":"Budapest","sub_label":"Bucure\u0219ti (lalawigan sa Rumanya)","lineid":585,"uuid":"6df70056-3c34-46e1-9c40-68696f9d3b33"}
+{"index":207,"sub_uri":"Q374365","obj_uri":"Q1867","obj_label":"Taipei (ulohang dakbayan)","sub_label":"Jeddah","lineid":214,"uuid":"41ac84a4-1efc-49a4-bf49-3dee6d3c3bb8"}
+{"index":295,"sub_uri":"Q54880","obj_uri":"Q8818","obj_label":"Valencia (kapital sa rehiyon sa Espanya, Comunitat Valenciana, Prov\u00edncia de Val\u00e8ncia, lat 39,47, long -0,38)","sub_label":"Valencia (kapital sa estado sa Venezuela)","lineid":304,"uuid":"429ce6c2-86eb-44cd-929e-edc6f92ddffd"}
+{"index":372,"sub_uri":"Q1348","obj_uri":"Q8660","obj_label":"Karachi","sub_label":"Kolkata (kapital sa estado)","lineid":382,"uuid":"b57f14c3-c144-4e8d-9635-03ffc25e6b7f"}
+{"index":699,"sub_uri":"Q1297","obj_uri":"Q1524","obj_label":"Atenas","sub_label":"Chicago","lineid":719,"uuid":"4b5ba07b-1dc9-40a6-adb1-a3969c2b615a"}
+{"index":186,"sub_uri":"Q1524","obj_uri":"Q1085","obj_label":"Praga","sub_label":"Atenas","lineid":191,"uuid":"526490d4-9e2c-4155-979c-00d8d55b41f5"}
+{"index":396,"sub_uri":"Q3926","obj_uri":"Q1899","obj_label":"Kiev","sub_label":"Pretoria","lineid":406,"uuid":"4e1bdf9d-cb02-423e-bd5a-cad37b2a75dc"}
+{"index":116,"sub_uri":"Q1461","obj_uri":"Q649","obj_label":"Moscow","sub_label":"Manila","lineid":120,"uuid":"8effca37-62eb-4ad7-8a0a-5844c49fcde4"}
+{"index":345,"sub_uri":"Q8684","obj_uri":"Q19689","obj_label":"Tirana (ulohang dakbayan sa Albanya)","sub_label":"Seoul","lineid":355,"uuid":"6bd34250-f763-4d06-8ac5-054ce42c6b09"}
+{"index":733,"sub_uri":"Q3616","obj_uri":"Q1861","obj_label":"Bangkok","sub_label":"Dakbayan sa Teheran","lineid":756,"uuid":"6d9a673d-3919-4c75-b42b-23bb75fd6094"}
+{"index":88,"sub_uri":"Q1761","obj_uri":"Q1781","obj_label":"Budapest","sub_label":"Dublin","lineid":92,"uuid":"da87f6fc-fc44-4b54-8e98-4ed1cd34e386"}
+{"index":256,"sub_uri":"Q2079","obj_uri":"Q1891","obj_label":"Bolonia","sub_label":"Leipzig","lineid":264,"uuid":"47d33688-b6f5-43b1-8103-097fb454b6d9"}
+{"index":297,"sub_uri":"Q12439","obj_uri":"Q613","obj_label":"Dubai","sub_label":"Detroit","lineid":306,"uuid":"ae8a7794-0842-40d4-98b3-77a6f0c82219"}
+{"index":754,"sub_uri":"Q656","obj_uri":"Q994","obj_label":"K'alak'i T'bilisi","sub_label":"Saint Petersburg","lineid":777,"uuid":"c9b82c73-f42d-4abd-8db1-075503dff7ef"}
+{"index":596,"sub_uri":"Q3110","obj_uri":"Q1533","obj_label":"Caracas","sub_label":"San Salvador (ulohang dakbayan)","lineid":615,"uuid":"99378c1a-6a43-45ed-955b-1f50b9966452"}
+{"index":764,"sub_uri":"Q1874","obj_uri":"Q38283","obj_label":"Yokohama-shi (distrito sa Hapon)","sub_label":"Odessa (kapital sa lalawigan)","lineid":787,"uuid":"397c5827-e28e-4e54-8dde-1838e036afe5"}
+{"index":419,"sub_uri":"Q406","obj_uri":"Q11194","obj_label":"Sarajevo (ulohang dakbayan)","sub_label":"\u0130stanbul","lineid":429,"uuid":"0e894573-12b0-46db-a5da-4e29bd305ddb"}
+{"index":320,"sub_uri":"Q2807","obj_uri":"Q270","obj_label":"Warszawa","sub_label":"Madrid","lineid":329,"uuid":"5ba65c8c-2c10-40ff-bc53-a38f77fb6f39"}
+{"index":883,"sub_uri":"Q1899","obj_uri":"Q994","obj_label":"K'alak'i T'bilisi","sub_label":"Kiev","lineid":911,"uuid":"fa661924-1a6c-446c-84b6-59215e58fcec"}
+{"index":422,"sub_uri":"Q8686","obj_uri":"Q176","obj_label":"Qu\u00e9bec (lalawigan)","sub_label":"Shanghai","lineid":432,"uuid":"ad4e15e1-28b6-4a5e-a3ed-ab87d7d96e01"}
+{"index":710,"sub_uri":"Q19689","obj_uri":"Q19660","obj_label":"Bucure\u0219ti (lalawigan sa Rumanya)","sub_label":"Tirana (ulohang dakbayan sa Albanya)","lineid":731,"uuid":"7354fab9-6b6f-4b6d-b759-709a49946a27"}
+{"index":217,"sub_uri":"Q8684","obj_uri":"Q3130","obj_label":"Sydney","sub_label":"Seoul","lineid":224,"uuid":"813901e4-fafc-4b24-9725-d4d86060822a"}
+{"index":270,"sub_uri":"Q7880","obj_uri":"Q1899","obj_label":"Kiev","sub_label":"Toulouse","lineid":278,"uuid":"58dee490-ae36-4711-8386-a182d5264757"}
+{"index":375,"sub_uri":"Q2807","obj_uri":"Q1085","obj_label":"Praga","sub_label":"Madrid","lineid":385,"uuid":"703d82dd-deef-4546-b7d4-e91dea332411"}
+{"index":755,"sub_uri":"Q1085","obj_uri":"Q1867","obj_label":"Taipei (ulohang dakbayan)","sub_label":"Praga","lineid":778,"uuid":"77453bbf-172b-45a7-a06d-64c1826bc430"}
+{"index":726,"sub_uri":"Q374365","obj_uri":"Q7903","obj_label":"Casablanca (kapital sa rehiyon)","sub_label":"Jeddah","lineid":748,"uuid":"661242af-242e-4b8b-a152-acf459334bc5"}
+{"index":779,"sub_uri":"Q41185","obj_uri":"Q72259","obj_label":"Portsmouth (kapital sa kondado sa Hiniusang Gingharian, Inglatera, Portsmouth)","sub_label":"Caen","lineid":803,"uuid":"6f518f01-161e-4056-ac01-42692f0e307d"}
+{"index":887,"sub_uri":"Q1486","obj_uri":"Q85","obj_label":"Cairo","sub_label":"Buenos Aires","lineid":915,"uuid":"7a87eff5-6e00-48f2-a5d5-0b2504b8bdbd"}
+{"index":860,"sub_uri":"Q152467","obj_uri":"Q18419","obj_label":"Brooklyn","sub_label":"Ben\u00e9 Beraq","lineid":886,"uuid":"e5c44650-76fc-488e-b1ae-dafa4ab25837"}
+{"index":691,"sub_uri":"Q956","obj_uri":"Q1861","obj_label":"Bangkok","sub_label":"Beijing","lineid":711,"uuid":"bafcb7ec-8e61-436a-9083-02170fcd76b5"}
+{"index":101,"sub_uri":"Q649","obj_uri":"Q3820","obj_label":"Beirut","sub_label":"Moscow","lineid":105,"uuid":"006a86d9-b582-4151-a899-b89cce7a0f74"}
+{"index":314,"sub_uri":"Q3572","obj_uri":"Q1754","obj_label":"Stockholm","sub_label":"Tunis (ulohang dakbayan sa Tunisia)","lineid":323,"uuid":"7bc74829-dc83-4869-acd5-2f51401fef97"}
+{"index":872,"sub_uri":"Q437","obj_uri":"Q216","obj_label":"Vilnius","sub_label":"Ljubljana","lineid":900,"uuid":"a71b1cef-0fb6-4286-af5c-d3894855de95"}
+{"index":924,"sub_uri":"Q1899","obj_uri":"Q1524","obj_label":"Atenas","sub_label":"Kiev","lineid":953,"uuid":"5168e2cf-cda6-4369-877b-bd2112fae180"}
+{"index":711,"sub_uri":"Q102397","obj_uri":"Q37320","obj_label":"Cleveland (kapital sa kondado sa Estados Unidos, Ohio)","sub_label":"Miskolc","lineid":732,"uuid":"45af7a63-99a1-41b2-b2dc-fc096bbb16eb"}
+{"index":666,"sub_uri":"Q987","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"New Delhi","lineid":686,"uuid":"f96733d7-ffd5-4728-9fa7-40420f7e82dd"}
+{"index":842,"sub_uri":"Q2634","obj_uri":"Q1781","obj_label":"Budapest","sub_label":"Napoles","lineid":866,"uuid":"76c251d8-ed20-4067-8b91-ea5717e8eb3f"}
+{"index":592,"sub_uri":"Q8684","obj_uri":"Q3640","obj_label":"Ankara","sub_label":"Seoul","lineid":611,"uuid":"33312b36-6940-449d-851b-92cf47904b47"}
+{"index":81,"sub_uri":"Q8660","obj_uri":"Q1348","obj_label":"Kolkata (kapital sa estado)","sub_label":"Karachi","lineid":85,"uuid":"c19e658d-3092-477c-9b30-c8db61167a29"}
+{"index":688,"sub_uri":"Q1963","obj_uri":"Q85","obj_label":"Cairo","sub_label":"Khartoum","lineid":708,"uuid":"89bde1d9-8733-43ee-bc9b-941a2cadd593"}
+{"index":337,"sub_uri":"Q3141","obj_uri":"Q490","obj_label":"Milano","sub_label":"Melbourne (kapital sa estado)","lineid":346,"uuid":"663a47e3-ad3b-48df-88d8-9d365a2e7c46"}
+{"index":156,"sub_uri":"Q1953","obj_uri":"Q1874","obj_label":"Odessa (kapital sa lalawigan)","sub_label":"Yerevan (lalawigan)","lineid":161,"uuid":"d96a99f5-aafd-4a8a-88e5-048fac345885"}
+{"index":630,"sub_uri":"Q3766","obj_uri":"Q1953","obj_label":"Yerevan (lalawigan)","sub_label":"Damascus","lineid":649,"uuid":"b68583b2-070b-434f-a406-7cab76cdc79a"}
+{"index":46,"sub_uri":"Q1461","obj_uri":"Q8686","obj_label":"Shanghai","sub_label":"Manila","lineid":49,"uuid":"d0e864e7-e51e-48e6-a891-31cf0785a40e"}
+{"index":922,"sub_uri":"Q956","obj_uri":"Q2280","obj_label":"Minsk","sub_label":"Beijing","lineid":951,"uuid":"198ca45c-b2cb-497e-9dd5-84e19fcc0988"}
+{"index":261,"sub_uri":"Q3572","obj_uri":"Q1741","obj_label":"Vienna","sub_label":"Tunis (ulohang dakbayan sa Tunisia)","lineid":269,"uuid":"f5dc681b-86aa-4552-8d0b-d0d611476eff"}
+{"index":662,"sub_uri":"Q1461","obj_uri":"Q1861","obj_label":"Bangkok","sub_label":"Manila","lineid":682,"uuid":"4ab15903-1db2-4dd3-8eb5-bfeaf0e33482"}
+{"index":289,"sub_uri":"Q19689","obj_uri":"Q216","obj_label":"Vilnius","sub_label":"Tirana (ulohang dakbayan sa Albanya)","lineid":298,"uuid":"cdff441b-4f7f-486a-b05a-ce649d88fbf7"}
+{"index":835,"sub_uri":"Q908","obj_uri":"Q1953","obj_label":"Yerevan (lalawigan)","sub_label":"Rostov-na-Donu","lineid":859,"uuid":"74a80924-dd2d-452f-b266-945b1ec2fb6d"}
+{"index":765,"sub_uri":"Q656","obj_uri":"Q1055","obj_label":"Free and Hanseatic City of Hamburg","sub_label":"Saint Petersburg","lineid":789,"uuid":"2e8c875b-4564-4656-9cb3-c19a4c242d71"}
+{"index":667,"sub_uri":"Q490","obj_uri":"Q956","obj_label":"Beijing","sub_label":"Milano","lineid":687,"uuid":"7d9785e2-bcc9-4a73-86ca-5331ded52ebb"}
+{"index":528,"sub_uri":"Q1489","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"Dakbayan sa Mehiko","lineid":542,"uuid":"7c7bb6d3-823f-4d5e-90d8-d0a377e247a2"}
+{"index":94,"sub_uri":"Q11194","obj_uri":"Q3640","obj_label":"Ankara","sub_label":"Sarajevo (ulohang dakbayan)","lineid":98,"uuid":"2f455c6f-15af-42cf-9443-d4de2e2f8d14"}
+{"index":595,"sub_uri":"Q1794","obj_uri":"Q1781","obj_label":"Budapest","sub_label":"Frankfurt am Main","lineid":614,"uuid":"7e6e541a-949d-4e68-b55b-4389f5356ca2"}
+{"index":1,"sub_uri":"Q406","obj_uri":"Q1524","obj_label":"Atenas","sub_label":"\u0130stanbul","lineid":1,"uuid":"e0f0382d-6199-47fd-b089-9ac3f025de38"}
+{"index":399,"sub_uri":"Q3889","obj_uri":"Q8673","obj_label":"Lagos (kapital sa distrito)","sub_label":"Maputo","lineid":409,"uuid":"cb912863-0b41-4419-9763-aef43ba0a404"}
+{"index":625,"sub_uri":"Q1781","obj_uri":"Q1435","obj_label":"Zagreb","sub_label":"Budapest","lineid":644,"uuid":"26f5c4a0-f34d-4bc9-834c-c9263d873335"}
+{"index":397,"sub_uri":"Q19689","obj_uri":"Q1492","obj_label":"Barcelona","sub_label":"Tirana (ulohang dakbayan sa Albanya)","lineid":407,"uuid":"c70b4922-1bb3-4ff2-ad56-182c2392734e"}
+{"index":609,"sub_uri":"Q8686","obj_uri":"Q340","obj_label":"Montr\u00e9al","sub_label":"Shanghai","lineid":628,"uuid":"f3580c7d-30c3-4884-8508-4e74c98930bd"}
+{"index":177,"sub_uri":"Q1781","obj_uri":"Q36036","obj_label":"L'viv","sub_label":"Budapest","lineid":182,"uuid":"0552426c-6133-4a67-9091-26f1c1f2b968"}
+{"index":586,"sub_uri":"Q490","obj_uri":"Q2634","obj_label":"Napoles","sub_label":"Milano","lineid":605,"uuid":"bb2c5610-5fb4-4ba2-bcdc-01ba5f327af2"}
+{"index":547,"sub_uri":"Q37951","obj_uri":"Q1726","obj_label":"Munich","sub_label":"Sapporo-shi","lineid":562,"uuid":"5edefa8c-e572-4aa9-91f5-5892323b5d2c"}
+{"index":40,"sub_uri":"Q270","obj_uri":"Q1524","obj_label":"Atenas","sub_label":"Warszawa","lineid":42,"uuid":"1d530ed9-59ed-411e-bb3d-bfeb4fe51946"}
+{"index":159,"sub_uri":"Q1461","obj_uri":"Q340","obj_label":"Montr\u00e9al","sub_label":"Manila","lineid":164,"uuid":"682822e9-49ea-4f45-9186-a0b20ad41fe2"}
+{"index":524,"sub_uri":"Q1489","obj_uri":"Q1899","obj_label":"Kiev","sub_label":"Dakbayan sa Mehiko","lineid":538,"uuid":"7368e6ff-634c-4b7a-9c0d-27d434792936"}
+{"index":233,"sub_uri":"Q1741","obj_uri":"Q3711","obj_label":"Belgrado","sub_label":"Vienna","lineid":240,"uuid":"cff91787-6bce-4fb6-aa90-4a9858aff4dc"}
+{"index":77,"sub_uri":"Q12892","obj_uri":"Q41621","obj_label":"Haifa","sub_label":"Antwerpen","lineid":81,"uuid":"95b22171-2c1e-4625-b94b-b4ce5f760800"}
+{"index":875,"sub_uri":"Q468557","obj_uri":"Q778","obj_label":"Bahamas","sub_label":"Miami-Dade County","lineid":903,"uuid":"77f9bd2f-4ced-4e35-9ffd-159b70e645c9"}
+{"index":567,"sub_uri":"Q39121","obj_uri":"Q1295","obj_label":"Kreisfreie Stadt Dortmund","sub_label":"Leeds","lineid":584,"uuid":"11081704-4863-447c-9d3d-5a1ddacfba01"}
+{"index":401,"sub_uri":"Q6602","obj_uri":"Q1731","obj_label":"Dresden (kapital sa estado pederal)","sub_label":"Strasbourg","lineid":411,"uuid":"3a19ac6d-9dcc-4a1a-98c5-0acb8219e35e"}

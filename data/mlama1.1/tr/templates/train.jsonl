@@ -1,0 +1,39 @@
+{"index":2,"relation":"P279","template":"[X], [Y] 'nin bir alt s\u0131n\u0131f\u0131d\u0131r."}
+{"index":25,"relation":"P131","template":"[X], [Y] 'da bulunur."}
+{"index":33,"relation":"P937","template":"[X] [Y] 'da \u00e7al\u0131\u015f\u0131rd\u0131."}
+{"index":6,"relation":"P449","template":"[X] ba\u015flang\u0131\u00e7ta [Y] 'da yay\u0131nland\u0131."}
+{"index":28,"relation":"P136","template":"[X] [Y] m\u00fczik \u00e7alar."}
+{"index":20,"relation":"P27","template":"[X] [Y] vatanda\u015f\u0131d\u0131r."}
+{"index":47,"relation":"place_of_birth","template":"[X] [Y] 'de do\u011fdu."}
+{"index":7,"relation":"P69","template":"[X], [Y] \u00dcniversitesi'nde e\u011fitim g\u00f6rd\u00fc."}
+{"index":29,"relation":"P17","template":"[X], [Y] 'da bulunur."}
+{"index":34,"relation":"P140","template":"[X] [Y] dinine ba\u011fl\u0131d\u0131r."}
+{"index":24,"relation":"P1376","template":"[X], [Y] 'n\u0131n ba\u015fkentidir."}
+{"index":18,"relation":"P530","template":"[X] [Y] ile diplomatik ili\u015fkiler s\u00fcrd\u00fcrmektedir."}
+{"index":43,"relation":"P36","template":"[X] 'un ba\u015fkenti [Y]' dir."}
+{"index":37,"relation":"P103","template":"[X] 'un ana dili [Y]' dir."}
+{"index":14,"relation":"P1923","template":"[Y] [X] 'a kat\u0131ld\u0131."}
+{"index":11,"relation":"P54","template":"[X], [Y] ile oynuyor."}
+{"index":22,"relation":"P30","template":"[X], [Y] 'da bulunur."}
+{"index":42,"relation":"P159","template":"[X] \u015firketinin genel merkezi [Y] 'dedir."}
+{"index":19,"relation":"P176","template":"[X], [Y] taraf\u0131ndan \u00fcretilir."}
+{"index":8,"relation":"P47","template":"[X], [Y] ile s\u0131n\u0131r payla\u015f\u0131yor."}
+{"index":17,"relation":"P102","template":"[X], [Y] siyasi partisinin bir \u00fcyesidir."}
+{"index":21,"relation":"P407","template":"[X], [Y] dilinde yaz\u0131lm\u0131\u015ft\u0131r."}
+{"index":10,"relation":"P364","template":"[X] 'un orijinal dili [Y]' dir."}
+{"index":0,"relation":"P19","template":"[X] [Y] 'da do\u011fdu."}
+{"index":30,"relation":"P39","template":"[X], [Y] konumundad\u0131r."}
+{"index":41,"relation":"P495","template":"[X], [Y] 'da olu\u015fturuldu."}
+{"index":13,"relation":"P101","template":"[X], [Y] alan\u0131nda \u00e7al\u0131\u015f\u0131r."}
+{"index":1,"relation":"P20","template":"[X] [Y] 'da \u00f6ld\u00fc."}
+{"index":26,"relation":"P1412","template":"[X] [Y] 'da ileti\u015fim kurmak i\u00e7in kullan\u0131l\u0131r."}
+{"index":4,"relation":"P413","template":"[X], [Y] konumunda oynar."}
+{"index":38,"relation":"P190","template":"[X] ve [Y] ikiz \u015fehirlerdir."}
+{"index":15,"relation":"P106","template":"[X] mesle\u011fi olan bir [Y]."}
+{"index":45,"relation":"P361","template":"[X], [Y] 'nin bir par\u00e7as\u0131d\u0131r."}
+{"index":12,"relation":"P463","template":"[X], [Y] \u00fcyesidir."}
+{"index":35,"relation":"P1303","template":"[X] [Y] oynar."}
+{"index":5,"relation":"P166","template":"[X], [Y] ile \u00f6d\u00fcllendirildi."}
+{"index":9,"relation":"P138","template":"[X], [Y] 'dan sonra adland\u0131r\u0131l\u0131r."}
+{"index":23,"relation":"P178","template":"[X], [Y] taraf\u0131ndan geli\u015ftirilmi\u015ftir."}
+{"index":46,"relation":"date_of_birth","template":"[X] ([Y] do\u011fdu)."}

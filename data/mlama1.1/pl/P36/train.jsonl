@@ -1,0 +1,515 @@
+{"index":156,"sub_uri":"Q12172","obj_uri":"Q78","obj_label":"Bazylea","sub_label":"Bazylea-Miasto","lineid":175,"uuid":"f427bae8-6648-477a-be83-84d69c4aa52c"}
+{"index":514,"sub_uri":"Q12526","obj_uri":"Q1479","obj_label":"Bordeaux","sub_label":"\u017byronda","lineid":561,"uuid":"73825783-d45d-4f2a-9178-1a04cb610f2d"}
+{"index":368,"sub_uri":"Q190353","obj_uri":"Q220","obj_label":"Rzym","sub_label":"Zakon Malta\u0144ski","lineid":404,"uuid":"b032cbd1-00e8-437a-9ada-2fd2ae95164c"}
+{"index":459,"sub_uri":"Q918975","obj_uri":"Q201812","obj_label":"Huddersfield","sub_label":"Kirklees","lineid":500,"uuid":"84306efb-d78f-4e07-828b-0629893e5379"}
+{"index":317,"sub_uri":"Q523380","obj_uri":"Q216","obj_label":"Wilno","sub_label":"Litwa \u015arodkowa","lineid":349,"uuid":"361fe736-a8b7-46f2-aa56-a8762f5f146b"}
+{"index":578,"sub_uri":"Q284840","obj_uri":"Q499927","obj_label":"Moscow","sub_label":"Hrabstwo Latah","lineid":629,"uuid":"3616a83c-0f79-4d4a-b4ca-2cd56fe99973"}
+{"index":304,"sub_uri":"Q1026448","obj_uri":"Q826561","obj_label":"Halifax","sub_label":"Calderdale","lineid":335,"uuid":"8e0488b3-2bfe-4e7e-a744-c60e0220bd42"}
+{"index":280,"sub_uri":"Q467864","obj_uri":"Q19689","obj_label":"Tirana","sub_label":"Ludowa Socjalistyczna Republika Albanii","lineid":310,"uuid":"00e826dd-0835-40b0-b6ca-2c7078696e0f"}
+{"index":98,"sub_uri":"Q801","obj_uri":"Q1218","obj_label":"Jerozolima","sub_label":"Izrael","lineid":108,"uuid":"9651e646-1cde-4cc1-b957-8077c9b31253"}
+{"index":231,"sub_uri":"Q1198071","obj_uri":"Q16572","obj_label":"Kanton","sub_label":"Po\u0142udniowe Han","lineid":255,"uuid":"9a804a64-059d-4c19-8847-9f27284c28e6"}
+{"index":319,"sub_uri":"Q510947","obj_uri":"Q1375409","obj_label":"Woodstock","sub_label":"Hrabstwo Shenandoah","lineid":351,"uuid":"ba7eb9f8-8325-4719-9acd-49c040e4b72f"}
+{"index":91,"sub_uri":"Q188586","obj_uri":"Q2656","obj_label":"Palermo","sub_label":"Kr\u00f3lestwo Sycylii","lineid":101,"uuid":"795d4f36-286a-478c-bf78-0b3a7bad7866"}
+{"index":303,"sub_uri":"Q171150","obj_uri":"Q1781","obj_label":"Budapeszt","sub_label":"Kr\u00f3lestwo W\u0119gier","lineid":333,"uuid":"e94d4f46-e866-4eb2-b285-032df9a4033e"}
+{"index":153,"sub_uri":"Q211274","obj_uri":"Q270","obj_label":"Warszawa","sub_label":"Polska Rzeczpospolita Ludowa","lineid":171,"uuid":"b006569b-8bbc-4043-b31d-420ea2fc8dc7"}
+{"index":274,"sub_uri":"Q55","obj_uri":"Q727","obj_label":"Amsterdam","sub_label":"Holandia","lineid":304,"uuid":"4ee31f55-e29a-4c2e-9e45-442ddc25a107"}
+{"index":349,"sub_uri":"Q18276","obj_uri":"Q11194","obj_label":"Sarajewo","sub_label":"Kanton Sarajewo","lineid":384,"uuid":"09ff939d-d8e4-4c9d-bd27-e33b6fc2b01b"}
+{"index":522,"sub_uri":"Q858","obj_uri":"Q3766","obj_label":"Damaszek","sub_label":"Syria","lineid":570,"uuid":"055ec1a7-9625-41a6-bfd6-781afc018c35"}
+{"index":43,"sub_uri":"Q918126","obj_uri":"Q10717","obj_label":"Georgetown","sub_label":"Gujana Brytyjska","lineid":50,"uuid":"1e1d04e5-b42b-4fa8-9eac-8dbba1a4dab6"}
+{"index":17,"sub_uri":"Q2630442","obj_uri":"Q649","obj_label":"Moskwa","sub_label":"Komisariat Rzeszy Moskwa","lineid":20,"uuid":"3b3d2078-18e9-457e-a318-1ece5f03c57d"}
+{"index":614,"sub_uri":"Q1194","obj_uri":"Q1707","obj_label":"Kilonia","sub_label":"Szlezwik-Holsztyn","lineid":670,"uuid":"81edd07f-1ed8-4b3e-94a2-beb7ff999337"}
+{"index":140,"sub_uri":"Q16275","obj_uri":"Q2751","obj_label":"Siena","sub_label":"Prowincja Siena","lineid":154,"uuid":"59468f0d-0570-46ad-b1de-c06ea623c775"}
+{"index":611,"sub_uri":"Q1408","obj_uri":"Q25330","obj_label":"Trenton","sub_label":"New Jersey","lineid":666,"uuid":"9663b411-e451-4aca-aa10-b986c7f2fd95"}
+{"index":104,"sub_uri":"Q108861","obj_uri":"Q5083","obj_label":"Seattle","sub_label":"Hrabstwo King","lineid":116,"uuid":"ad63c951-8fa0-4a59-81c5-73ce3ab7ad9c"}
+{"index":478,"sub_uri":"Q736727","obj_uri":"Q2751","obj_label":"Siena","sub_label":"Republika Siene\u0144ska","lineid":521,"uuid":"8f8caad7-4143-45c0-975f-f9c7d67f632a"}
+{"index":315,"sub_uri":"Q83572","obj_uri":"Q11739","obj_label":"Lahaur","sub_label":"Imperium Sikh\u00f3w","lineid":347,"uuid":"10b791d2-567a-4894-ac7f-f12b74fef167"}
+{"index":435,"sub_uri":"Q485592","obj_uri":"Q763080","obj_label":"Greenville","sub_label":"Hrabstwo Darke","lineid":474,"uuid":"33b49eb5-d4e3-43bf-a505-5d31c84e3645"}
+{"index":408,"sub_uri":"Q5711","obj_uri":"Q1757","obj_label":"Helsinki","sub_label":"Uusimaa","lineid":447,"uuid":"7029a53c-7d9c-438d-afb8-4fb1a40d83cc"}
+{"index":185,"sub_uri":"Q161885","obj_uri":"Q84","obj_label":"Londyn","sub_label":"Kr\u00f3lestwo Wielkiej Brytanii","lineid":207,"uuid":"79388c35-f5dd-4de7-8d60-9eea9b711988"}
+{"index":257,"sub_uri":"Q1185346","obj_uri":"Q10717","obj_label":"Georgetown","sub_label":"Demerara","lineid":283,"uuid":"187b8fbc-c536-491c-8f4d-87d327318d66"}
+{"index":136,"sub_uri":"Q16139","obj_uri":"Q1891","obj_label":"Bolonia","sub_label":"Prowincja Bolonia","lineid":150,"uuid":"ff28aa4b-bec0-45df-9dc5-8eea26bebe03"}
+{"index":446,"sub_uri":"Q130637","obj_uri":"Q4093","obj_label":"Glasgow","sub_label":"Glasgow","lineid":485,"uuid":"3655bfb2-eec8-4e0e-a1b8-f963a203b588"}
+{"index":344,"sub_uri":"Q490215","obj_uri":"Q2005266","obj_label":"Macon","sub_label":"Hrabstwo Noxubee","lineid":378,"uuid":"3b1551f7-d90c-4729-a4b1-3e6035d4678b"}
+{"index":147,"sub_uri":"Q2297724","obj_uri":"Q3640","obj_label":"Ankara","sub_label":"Ankara","lineid":163,"uuid":"096712ae-16de-4f5d-b64d-ff1e90c8107d"}
+{"index":439,"sub_uri":"Q1159","obj_uri":"Q1361","obj_label":"Hajdarabad","sub_label":"Andhra Pradesh","lineid":478,"uuid":"f13e4d01-7793-4bc8-9964-8573cf6bf6ad"}
+{"index":187,"sub_uri":"Q170770","obj_uri":"Q649","obj_label":"Moskwa","sub_label":"Wielkie Ksi\u0119stwo Moskiewskie","lineid":209,"uuid":"3c15e4ce-b0c2-495b-ae15-388a5449f50d"}
+{"index":1,"sub_uri":"Q2599799","obj_uri":"Q465104","obj_label":"Brody","sub_label":"Rejon brodzki","lineid":1,"uuid":"0994628e-262a-40cd-96f6-578358f299b9"}
+{"index":119,"sub_uri":"Q33946","obj_uri":"Q1085","obj_label":"Praga","sub_label":"Czechos\u0142owacja","lineid":133,"uuid":"22f4f9d3-adca-41aa-9f17-729c1b197204"}
+{"index":517,"sub_uri":"Q33","obj_uri":"Q1757","obj_label":"Helsinki","sub_label":"Finlandia","lineid":564,"uuid":"1a3c9946-a242-437d-97a7-e263c61b6622"}
+{"index":273,"sub_uri":"Q153128","obj_uri":"Q1435","obj_label":"Zagrzeb","sub_label":"Niepodleg\u0142e Pa\u0144stwo Chorwackie","lineid":303,"uuid":"08572ab1-504d-47d0-859b-abbfb8ec78b0"}
+{"index":183,"sub_uri":"Q794","obj_uri":"Q3616","obj_label":"Teheran","sub_label":"Iran","lineid":204,"uuid":"e5af3a9b-a52b-499e-a356-b207ccd98aea"}
+{"index":561,"sub_uri":"Q3125","obj_uri":"Q175081","obj_label":"Gap","sub_label":"Alpy Wysokie","lineid":612,"uuid":"49b7fb49-7113-42d3-88bf-b09cdd2b0c36"}
+{"index":473,"sub_uri":"Q1974","obj_uri":"Q2132","obj_label":"Victoria","sub_label":"Kolumbia Brytyjska","lineid":515,"uuid":"6f4c4550-01e4-4dac-902f-ec3cd3fd54ca"}
+{"index":251,"sub_uri":"Q11079799","obj_uri":"Q21319","obj_label":"Parramatta","sub_label":"City of Parramatta","lineid":277,"uuid":"45883d9a-951d-4bf1-a532-3bfc1e81f680"}
+{"index":437,"sub_uri":"Q869","obj_uri":"Q1861","obj_label":"Bangkok","sub_label":"Tajlandia","lineid":476,"uuid":"49f63306-5b9d-4a35-ad42-f61585991e32"}
+{"index":420,"sub_uri":"Q174193","obj_uri":"Q84","obj_label":"Londyn","sub_label":"Zjednoczone Kr\u00f3lestwo Wielkiej Brytanii i Irlandii","lineid":459,"uuid":"d3735192-67a0-40e2-ad8a-b87680a2dc62"}
+{"index":214,"sub_uri":"Q389688","obj_uri":"Q5684","obj_label":"Babilon","sub_label":"Achemenidzi","lineid":237,"uuid":"0288be7b-4b79-42f8-ab3d-74fb9f3132dc"}
+{"index":309,"sub_uri":"Q16578","obj_uri":"Q862508","obj_label":"Trinidad","sub_label":"Flores","lineid":340,"uuid":"a71c6466-49f8-4226-9487-4d718b3e47af"}
+{"index":128,"sub_uri":"Q4264","obj_uri":"Q1335","obj_label":"Montevideo","sub_label":"Mercosur","lineid":142,"uuid":"9f151157-f439-4c9c-b287-7612b67fa743"}
+{"index":605,"sub_uri":"Q114","obj_uri":"Q3870","obj_label":"Nairobi","sub_label":"Kenia","lineid":657,"uuid":"773be355-d808-4a77-bdf0-e9a72752f8bb"}
+{"index":642,"sub_uri":"Q54169","obj_uri":"Q270","obj_label":"Warszawa","sub_label":"wojew\u00f3dztwo mazowieckie","lineid":701,"uuid":"3944148c-ecd9-46d5-86c6-3c06da483566"}
+{"index":586,"sub_uri":"Q106577","obj_uri":"Q90","obj_label":"Pary\u017c","sub_label":"Neustria","lineid":637,"uuid":"e1f2ed7f-ceb2-4305-98aa-781554a04d54"}
+{"index":212,"sub_uri":"Q763603","obj_uri":"Q9248","obj_label":"Baku","sub_label":"Gubernia bakijska","lineid":235,"uuid":"dfc7ae50-5612-419c-937c-e326d7090dc0"}
+{"index":442,"sub_uri":"Q20","obj_uri":"Q585","obj_label":"Oslo","sub_label":"Norwegia","lineid":481,"uuid":"cc1967a4-7f88-4ab4-8647-359a7ab19d4b"}
+{"index":440,"sub_uri":"Q62589","obj_uri":"Q1754","obj_label":"Sztokholm","sub_label":"Unia szwedzko-norweska","lineid":479,"uuid":"74ea9381-95ce-4d3c-bc31-ce130c8f9f8b"}
+{"index":302,"sub_uri":"Q1774848","obj_uri":"Q692560","obj_label":"Mao","sub_label":"Dystrykt Valverde","lineid":332,"uuid":"5c3f3ff1-7078-4ddf-93bb-a93352123c11"}
+{"index":527,"sub_uri":"Q192232","obj_uri":"Q1218","obj_label":"Jerozolima","sub_label":"Dystrykt Jerozolimy","lineid":575,"uuid":"509df8ee-9ede-45ba-bb93-c70cafd7f470"}
+{"index":232,"sub_uri":"Q184594","obj_uri":"Q183551","obj_label":"Waterford","sub_label":"Waterford","lineid":256,"uuid":"04247653-565e-41f6-8621-ec7455ee2ab6"}
+{"index":190,"sub_uri":"Q956732","obj_uri":"Q47264","obj_label":"Hassan","sub_label":"Hassan","lineid":212,"uuid":"ed5ce210-f957-41f7-842f-705217e3e039"}
+{"index":35,"sub_uri":"Q505018","obj_uri":"Q2167","obj_label":"Lund","sub_label":"gmina Lund","lineid":41,"uuid":"aa7f9891-03ee-4c2e-ab21-c5a13fc756fc"}
+{"index":247,"sub_uri":"Q1204","obj_uri":"Q28515","obj_label":"Springfield","sub_label":"Illinois","lineid":272,"uuid":"6839f290-ac98-4e53-ac34-dd899e62b88f"}
+{"index":177,"sub_uri":"Q3224","obj_uri":"Q3130","obj_label":"Sydney","sub_label":"Nowa Po\u0142udniowa Walia","lineid":198,"uuid":"7952d9a0-d4a4-423d-bd3a-3240dac62e3a"}
+{"index":479,"sub_uri":"Q113029","obj_uri":"Q192517","obj_label":"Boulder","sub_label":"Hrabstwo Boulder","lineid":522,"uuid":"395ee57c-b2fd-48be-a70d-27fe8069144d"}
+{"index":204,"sub_uri":"Q61153","obj_uri":"Q79652","obj_label":"Harrisburg","sub_label":"Hrabstwo Poinsett","lineid":227,"uuid":"2d703a8d-ae81-4907-884e-49b63c6f1860"}
+{"index":130,"sub_uri":"Q153660","obj_uri":"Q220","obj_label":"Rzym","sub_label":"W\u0142oska Republika Socjalna","lineid":144,"uuid":"e614b139-1a52-4c27-8b3c-40b783f57422"}
+{"index":336,"sub_uri":"Q1445","obj_uri":"Q1352","obj_label":"\u0106ennaj","sub_label":"Tamilnadu","lineid":370,"uuid":"86ce460d-460e-4796-b8e2-84b29f077874"}
+{"index":191,"sub_uri":"Q69808","obj_uri":"Q90","obj_label":"Pary\u017c","sub_label":"Francja Vichy","lineid":213,"uuid":"6049dc6b-889e-462b-b3e0-8ee544837654"}
+{"index":519,"sub_uri":"Q109804","obj_uri":"Q981218","obj_label":"Hereford","sub_label":"Hrabstwo Deaf Smith","lineid":566,"uuid":"d2ddefc4-1f3e-49e7-ba5d-2dea52d473d0"}
+{"index":26,"sub_uri":"Q183","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Niemcy","lineid":30,"uuid":"aa0c6755-5881-4892-8e12-e817868a3b62"}
+{"index":51,"sub_uri":"Q180114","obj_uri":"Q85","obj_label":"Kair","sub_label":"Ajjubidzi","lineid":59,"uuid":"288e997c-9531-450d-9ddb-13e17889c295"}
+{"index":376,"sub_uri":"Q179876","obj_uri":"Q189960","obj_label":"Westminster","sub_label":"Kr\u00f3lestwo Anglii","lineid":413,"uuid":"3cf98f50-f98b-4009-8aba-cec93a5d14f7"}
+{"index":515,"sub_uri":"Q15121","obj_uri":"Q490","obj_label":"Mediolan","sub_label":"Prowincja Mediolan","lineid":562,"uuid":"1c1a7df6-c61b-416d-8250-7f925f605524"}
+{"index":394,"sub_uri":"Q147909","obj_uri":"Q472","obj_label":"Sofia","sub_label":"Carstwo Bu\u0142garii","lineid":433,"uuid":"7d1c0ddf-daf5-44f5-9963-17f8f7287da0"}
+{"index":335,"sub_uri":"Q154195","obj_uri":"Q1726","obj_label":"Monachium","sub_label":"Kr\u00f3lestwo Bawarii","lineid":369,"uuid":"bd5fb169-6371-430a-8014-8bb5b8a9139c"}
+{"index":320,"sub_uri":"Q128079","obj_uri":"Q939025","obj_label":"Burlington","sub_label":"Hrabstwo Kit Carson","lineid":352,"uuid":"cda2780e-c969-4264-803d-f84fb57dfbdc"}
+{"index":347,"sub_uri":"Q11196","obj_uri":"Q11194","obj_label":"Sarajewo","sub_label":"Republika Serbska","lineid":382,"uuid":"d7fbc7dc-a5bc-4d27-b783-92d6d60e0dc1"}
+{"index":541,"sub_uri":"Q104231","obj_uri":"Q1754","obj_label":"Sztokholm","sub_label":"Sztokholm","lineid":589,"uuid":"b946776a-3b0b-447e-9b5e-ba2450b7e901"}
+{"index":71,"sub_uri":"Q493228","obj_uri":"Q1006641","obj_label":"Republic","sub_label":"Hrabstwo Ferry","lineid":81,"uuid":"fd682389-abc3-44a7-83e2-644f1899ac41"}
+{"index":509,"sub_uri":"Q23635","obj_uri":"Q30985","obj_label":"Hamilton","sub_label":"Bermudy","lineid":555,"uuid":"2b83adcd-1763-4596-9955-ebc56c031dda"}
+{"index":532,"sub_uri":"Q206926","obj_uri":"Q1774629","obj_label":"Irvine","sub_label":"North Ayrshire","lineid":580,"uuid":"4cb2d74d-d192-40ba-87a3-10b37c6efc03"}
+{"index":63,"sub_uri":"Q178283","obj_uri":"Q133315","obj_label":"Limerick","sub_label":"Limerick","lineid":73,"uuid":"627da52a-6265-4109-8a4a-6e0eb8c7e9ed"}
+{"index":382,"sub_uri":"Q80370","obj_uri":"Q159835","obj_label":"Batman","sub_label":"Batman","lineid":419,"uuid":"2a03109a-6f43-4ed5-9813-3d05c64b421c"}
+{"index":348,"sub_uri":"Q450374","obj_uri":"Q6106","obj_label":"Portland","sub_label":"Hrabstwo Multnomah","lineid":383,"uuid":"601a6ca2-7b9c-472a-ae9e-64e33f54847d"}
+{"index":139,"sub_uri":"Q497652","obj_uri":"Q956256","obj_label":"Circle","sub_label":"Hrabstwo McCone","lineid":153,"uuid":"15b151f3-183c-44bc-aaba-26de18a3ea66"}
+{"index":430,"sub_uri":"Q133356","obj_uri":"Q1899","obj_label":"Kij\u00f3w","sub_label":"Ukrai\u0144ska Socjalistyczna Republika Radziecka","lineid":469,"uuid":"7ccffda9-c105-488a-8f1d-ce1e6c13c9fe"}
+{"index":398,"sub_uri":"Q39","obj_uri":"Q70","obj_label":"Berno","sub_label":"Szwajcaria","lineid":437,"uuid":"db572b35-697c-4856-ae94-e649dc68573d"}
+{"index":7,"sub_uri":"Q1553","obj_uri":"Q28260","obj_label":"Lincoln","sub_label":"Nebraska","lineid":8,"uuid":"3bc51dee-0ae6-40ba-863f-5549382dd210"}
+{"index":326,"sub_uri":"Q61042","obj_uri":"Q79459","obj_label":"Melbourne","sub_label":"Hrabstwo Izard","lineid":359,"uuid":"fd8d6c88-90cc-4bdb-919a-014f63571dc7"}
+{"index":261,"sub_uri":"Q108058","obj_uri":"Q506439","obj_label":"Martinez","sub_label":"Hrabstwo Contra Costa","lineid":288,"uuid":"47648373-008e-4194-bd62-0ad3ead7d5fe"}
+{"index":641,"sub_uri":"Q507365","obj_uri":"Q638187","obj_label":"Lafayette","sub_label":"Hrabstwo Tippecanoe","lineid":700,"uuid":"59b89c15-9c2a-4176-bdc1-5bced3aca817"}
+{"index":365,"sub_uri":"Q209065","obj_uri":"Q1524","obj_label":"Ateny","sub_label":"Kr\u00f3lestwo Grecji","lineid":400,"uuid":"5814e2f0-b65a-4983-9ccd-275bd4bd92e2"}
+{"index":389,"sub_uri":"Q1142","obj_uri":"Q6602","obj_label":"Strasburg","sub_label":"Alzacja","lineid":427,"uuid":"877d0919-4954-4cb6-a686-0d6f729355a0"}
+{"index":635,"sub_uri":"Q36704","obj_uri":"Q3711","obj_label":"Belgrad","sub_label":"Jugos\u0142awia","lineid":694,"uuid":"2bd1480a-83ec-4489-ae2a-b613115b541a"}
+{"index":238,"sub_uri":"Q490994","obj_uri":"Q28515","obj_label":"Springfield","sub_label":"Hrabstwo Sangamon","lineid":263,"uuid":"cb9cc90f-03a4-437c-bc14-f12e2a6cab8a"}
+{"index":103,"sub_uri":"Q23106","obj_uri":"Q83065","obj_label":"Leicester","sub_label":"Leicestershire","lineid":114,"uuid":"c493ccf5-9020-4537-8986-94e5bb2acba6"}
+{"index":101,"sub_uri":"Q497172","obj_uri":"Q28206","obj_label":"Augusta","sub_label":"Hrabstwo Kennebec","lineid":111,"uuid":"e15c36a5-57fa-495e-86a9-5d061ef4d687"}
+{"index":282,"sub_uri":"Q403","obj_uri":"Q3711","obj_label":"Belgrad","sub_label":"Serbia","lineid":312,"uuid":"830019b8-cbd9-4358-bf2b-8e8d63e70716"}
+{"index":269,"sub_uri":"Q746443","obj_uri":"Q490","obj_label":"Mediolan","sub_label":"Republika Ambrozja\u0144ska","lineid":299,"uuid":"03eb4774-275a-44e4-86a3-d90118464b36"}
+{"index":11,"sub_uri":"Q62633","obj_uri":"Q1757","obj_label":"Helsinki","sub_label":"Wielkie Ksi\u0119stwo Finlandii","lineid":13,"uuid":"af4d8d27-eee5-47a2-9fff-055e3cb98298"}
+{"index":278,"sub_uri":"Q145","obj_uri":"Q84","obj_label":"Londyn","sub_label":"Wielka Brytania","lineid":308,"uuid":"038853fb-0819-4076-a6a7-60eb98028b78"}
+{"index":28,"sub_uri":"Q189912","obj_uri":"Q36405","obj_label":"Aberdeen","sub_label":"Aberdeenshire","lineid":32,"uuid":"53141b1b-c5a9-402c-8ec8-2c70e0e8c8e8"}
+{"index":640,"sub_uri":"Q54939","obj_uri":"Q8818","obj_label":"Walencja","sub_label":"Walencja","lineid":699,"uuid":"96cc5442-8a1b-4a56-9bde-fc0b973553b0"}
+{"index":254,"sub_uri":"Q1017960","obj_uri":"Q11194","obj_label":"Sarajewo","sub_label":"Novo Sarajevo","lineid":280,"uuid":"85f428cf-b3cf-4361-bda9-3f229170b4c2"}
+{"index":627,"sub_uri":"Q15175","obj_uri":"Q16572","obj_label":"Kanton","sub_label":"Guangdong","lineid":686,"uuid":"3ec7b5da-852f-4b33-8bb3-c30c4660a3c3"}
+{"index":558,"sub_uri":"Q766","obj_uri":"Q34692","obj_label":"Kingston","sub_label":"Jamajka","lineid":608,"uuid":"34697f51-47de-4b5f-b92b-849972a5ae6e"}
+{"index":489,"sub_uri":"Q156031","obj_uri":"Q1773","obj_label":"Ryga","sub_label":"Komisariat Rzeszy Wsch\u00f3d","lineid":534,"uuid":"a6ca27fa-dda5-48d1-ac1e-6684c73b60cd"}
+{"index":228,"sub_uri":"Q183498","obj_uri":"Q1780","obj_label":"Bratys\u0142awa","sub_label":"kraj bratys\u0142awski","lineid":252,"uuid":"5e209d53-0dcb-4263-aee9-4a04be8dc465"}
+{"index":511,"sub_uri":"Q12538","obj_uri":"Q7880","obj_label":"Tuluza","sub_label":"G\u00f3rna Garonna","lineid":557,"uuid":"087fb319-11c7-45f3-a6e8-c43ba516e845"}
+{"index":371,"sub_uri":"Q330158","obj_uri":"Q1354","obj_label":"Dhaka","sub_label":"Dhaka","lineid":407,"uuid":"7935902f-b52d-4684-9e53-fa870c492b5e"}
+{"index":27,"sub_uri":"Q139670","obj_uri":"Q1953","obj_label":"Erywa\u0144","sub_label":"Demokratyczna Republika Armenii","lineid":31,"uuid":"d9fd3835-c870-4ed3-a45e-d410a09562fd"}
+{"index":77,"sub_uri":"Q878319","obj_uri":"Q3711","obj_label":"Belgrad","sub_label":"Despoci Serbscy na W\u0119grzech","lineid":87,"uuid":"106f4fe4-38ad-491c-abe3-514785570f7b"}
+{"index":56,"sub_uri":"Q112456","obj_uri":"Q944375","obj_label":"Liberty","sub_label":"Hrabstwo Amite","lineid":65,"uuid":"efe6bfac-4690-460f-b643-8729962ef8a3"}
+{"index":45,"sub_uri":"Q699923","obj_uri":"Q437","obj_label":"Lublana","sub_label":"Prowincje Iliryjskie","lineid":53,"uuid":"99a3d6ad-9ed4-4985-8a07-ef0903cb5732"}
+{"index":535,"sub_uri":"Q1797336","obj_uri":"Q1538","obj_label":"Pune","sub_label":"Pune","lineid":583,"uuid":"68e36c8c-376b-495b-b480-d74a627e7a02"}
+{"index":570,"sub_uri":"Q213","obj_uri":"Q1085","obj_label":"Praga","sub_label":"Czechy","lineid":621,"uuid":"3bf53e54-010f-436b-bde8-06f74f771236"}
+{"index":471,"sub_uri":"Q478222","obj_uri":"Q7903","obj_label":"Casablanca","sub_label":"Wielka Casablanca","lineid":513,"uuid":"3a28217a-38d2-4db5-8585-deb0e5465f94"}
+{"index":372,"sub_uri":"Q23066","obj_uri":"Q192896","obj_label":"Carlisle","sub_label":"Kumbria","lineid":408,"uuid":"3cfd66cc-9e04-4419-a7ea-393a13c489c7"}
+{"index":536,"sub_uri":"Q12793","obj_uri":"Q13855","obj_label":"Vic","sub_label":"Osona","lineid":584,"uuid":"f7d52f4c-0c3c-4e4d-96e6-24d55660b773"}
+{"index":93,"sub_uri":"Q170174","obj_uri":"Q220","obj_label":"Rzym","sub_label":"Pa\u0144stwo Ko\u015bcielne","lineid":103,"uuid":"d48a0f41-a73f-4abc-911f-60074fbc00ca"}
+{"index":634,"sub_uri":"Q298","obj_uri":"Q2887","obj_label":"Santiago","sub_label":"Chile","lineid":693,"uuid":"ee10fdc1-8a9a-43c0-b271-4867251f0243"}
+{"index":443,"sub_uri":"Q1200","obj_uri":"Q1720","obj_label":"Moguncja","sub_label":"Nadrenia-Palatynat","lineid":482,"uuid":"5ed9a796-4f9c-473a-ba47-23e250e01b4a"}
+{"index":588,"sub_uri":"Q32081","obj_uri":"Q1867","obj_label":"Tajpej","sub_label":"Tajwan","lineid":639,"uuid":"d8f7723b-ea50-48eb-8fc0-bac2928f2ca9"}
+{"index":59,"sub_uri":"Q486007","obj_uri":"Q487439","obj_label":"Uralsk","sub_label":"Obw\u00f3d zachodniokazachsta\u0144ski","lineid":69,"uuid":"7bef13ca-4831-4e13-83b2-e25de8fbbcc9"}
+{"index":567,"sub_uri":"Q133132","obj_uri":"Q90","obj_label":"Pary\u017c","sub_label":"Komuna Paryska","lineid":618,"uuid":"1d3ab203-e368-4e64-a0fa-3875ece8b221"}
+{"index":65,"sub_uri":"Q726917","obj_uri":"Q37100","obj_label":"Auckland","sub_label":"Auckland","lineid":75,"uuid":"0df90e06-cb29-4f2f-97c8-27a3891cd014"}
+{"index":410,"sub_uri":"Q23077","obj_uri":"Q184090","obj_label":"Preston","sub_label":"Lancashire","lineid":449,"uuid":"c3d21b6e-b4d3-48fb-b819-811095df7cdb"}
+{"index":350,"sub_uri":"Q512901","obj_uri":"Q79638","obj_label":"Fairbanks","sub_label":"Okr\u0119g Fairbanks North Star","lineid":385,"uuid":"0e135394-be39-46be-bc85-e5b5699e6da7"}
+{"index":300,"sub_uri":"Q734","obj_uri":"Q10717","obj_label":"Georgetown","sub_label":"Gujana","lineid":330,"uuid":"071c5f13-d736-4100-8cc9-92c2ef6060f3"}
+{"index":359,"sub_uri":"Q179876","obj_uri":"Q172157","obj_label":"Winchester","sub_label":"Kr\u00f3lestwo Anglii","lineid":394,"uuid":"dd496af6-2fc1-4697-9c93-f335f9a6f665"}
+{"index":15,"sub_uri":"Q230791","obj_uri":"Q23436","obj_label":"Edynburg","sub_label":"Kr\u00f3lestwo Szkocji","lineid":17,"uuid":"c648e8a9-e84c-4a5d-abc1-9ba3bf122762"}
+{"index":94,"sub_uri":"Q169923","obj_uri":"Q129610","obj_label":"Galway","sub_label":"Galway","lineid":104,"uuid":"53bc15f7-2c1f-4de0-abed-010b3af8d142"}
+{"index":499,"sub_uri":"Q486348","obj_uri":"Q775102","obj_label":"Franklin","sub_label":"Hrabstwo Heard","lineid":544,"uuid":"b68a549a-4922-4980-bb91-a09d1d690535"}
+{"index":498,"sub_uri":"Q506376","obj_uri":"Q992560","obj_label":"Warsaw","sub_label":"Hrabstwo Kosciusko","lineid":543,"uuid":"57eb66a2-f2a8-4767-83b1-6432af4b4459"}
+{"index":57,"sub_uri":"Q15864","obj_uri":"Q727","obj_label":"Amsterdam","sub_label":"Kr\u00f3lestwo Zjednoczonych Niderland\u00f3w","lineid":66,"uuid":"ebdfb03a-8017-43af-bba3-50dd9cdca3b3"}
+{"index":549,"sub_uri":"Q178038","obj_uri":"Q2807","obj_label":"Madryt","sub_label":"Druga Republika Hiszpa\u0144ska","lineid":597,"uuid":"cad04199-2b3f-4b54-91c5-daf458e837ac"}
+{"index":250,"sub_uri":"Q80702","obj_uri":"Q2807","obj_label":"Madryt","sub_label":"Imperium hiszpa\u0144skie","lineid":275,"uuid":"56396538-2b56-4643-9880-4b09393639bf"}
+{"index":192,"sub_uri":"Q139918","obj_uri":"Q200028","obj_label":"Hamilton","sub_label":"Waikato","lineid":214,"uuid":"46c5cd67-fa4d-4d8c-9b91-4bebbbcbd5bb"}
+{"index":628,"sub_uri":"Q192435","obj_uri":"Q3579","obj_label":"Trypolis","sub_label":"Trypolitania","lineid":687,"uuid":"171ec4f6-8d28-478a-9b2f-8e643206f9e3"}
+{"index":135,"sub_uri":"Q5765","obj_uri":"Q8826","obj_label":"Palma de Mallorca","sub_label":"Baleary","lineid":149,"uuid":"b544b239-0796-4725-a191-5dabf07f761c"}
+{"index":181,"sub_uri":"Q172579","obj_uri":"Q495","obj_label":"Turyn","sub_label":"Zjednoczone Kr\u00f3lestwo W\u0142och","lineid":202,"uuid":"2085653c-a317-43a2-8612-730e62be7360"}
+{"index":340,"sub_uri":"Q490369","obj_uri":"Q945046","obj_label":"Albany","sub_label":"Hrabstwo Gentry","lineid":374,"uuid":"7fda1417-eb60-4152-a600-ecfca1d5ce24"}
+{"index":329,"sub_uri":"Q26885","obj_uri":"Q975782","obj_label":"Columbus","sub_label":"Hrabstwo Colorado","lineid":362,"uuid":"6f57955b-7b13-42bf-9ef6-3d8f3c6ba809"}
+{"index":244,"sub_uri":"Q1991965","obj_uri":"Q1085","obj_label":"Praga","sub_label":"Czeska Republika Socjalistyczna","lineid":269,"uuid":"ad6e9deb-1ec2-488e-9a2f-08e552321c08"}
+{"index":528,"sub_uri":"Q31","obj_uri":"Q239","obj_label":"Bruksela","sub_label":"Belgia","lineid":576,"uuid":"d5672fe4-0f47-4e56-8928-388e24a5f405"}
+{"index":354,"sub_uri":"Q54155","obj_uri":"Q37333","obj_label":"Lublin","sub_label":"wojew\u00f3dztwo lubelskie","lineid":389,"uuid":"ced85916-3433-470b-a3f8-f1445b1786b7"}
+{"index":127,"sub_uri":"Q252","obj_uri":"Q3630","obj_label":"D\u017cakarta","sub_label":"Indonezja","lineid":141,"uuid":"ab4757db-386b-4934-ae86-561d3f84d0af"}
+{"index":622,"sub_uri":"Q28513","obj_uri":"Q1781","obj_label":"Budapeszt","sub_label":"Austro-W\u0119gry","lineid":680,"uuid":"9c8149a0-6ed4-4e8e-83a7-e5d171d03743"}
+{"index":392,"sub_uri":"Q55502","obj_uri":"Q1218","obj_label":"Jerozolima","sub_label":"Kr\u00f3lestwo Jerozolimskie","lineid":430,"uuid":"385c3d07-ac4d-4b26-9878-9b0178637964"}
+{"index":386,"sub_uri":"Q1419574","obj_uri":"Q1899","obj_label":"Kij\u00f3w","sub_label":"wojew\u00f3dztwo kijowskie","lineid":424,"uuid":"48200e8b-20b4-433a-b915-68404403534a"}
+{"index":178,"sub_uri":"Q108111","obj_uri":"Q49243","obj_label":"Riverside","sub_label":"Hrabstwo Riverside","lineid":199,"uuid":"c9855c24-a541-4672-89d8-572fd21dc81b"}
+{"index":208,"sub_uri":"Q2347932","obj_uri":"Q216","obj_label":"Wilno","sub_label":"wojew\u00f3dztwo wile\u0144skie","lineid":231,"uuid":"77b1998c-d110-462a-92f9-aa2451841e42"}
+{"index":289,"sub_uri":"Q142","obj_uri":"Q90","obj_label":"Pary\u017c","sub_label":"Francja","lineid":319,"uuid":"054ba9b2-5448-4d98-a91c-71be1a28873a"}
+{"index":88,"sub_uri":"Q490168","obj_uri":"Q249454","obj_label":"Cambridge","sub_label":"Hrabstwo Guernsey","lineid":98,"uuid":"7c06e9b5-0f4e-4d91-8349-e216fa27e2af"}
+{"index":397,"sub_uri":"Q211091","obj_uri":"Q211870","obj_label":"Paisley","sub_label":"Renfrewshire","lineid":436,"uuid":"071c9d88-8850-4050-8d7b-5cea1e715ea9"}
+{"index":416,"sub_uri":"Q12548","obj_uri":"Q1741","obj_label":"Wiede\u0144","sub_label":"\u015awi\u0119te Cesarstwo Rzymskie","lineid":455,"uuid":"8aa45cb6-b40a-459d-9aab-220e3913b280"}
+{"index":297,"sub_uri":"Q232043","obj_uri":"Q187346","obj_label":"Konstantyna","sub_label":"Prowincja Konstantyna","lineid":327,"uuid":"c7e88c81-06b6-42ff-b123-e59bfa3b4091"}
+{"index":38,"sub_uri":"Q502294","obj_uri":"Q37836","obj_label":"Milwaukee","sub_label":"Hrabstwo Milwaukee","lineid":44,"uuid":"3ad55021-763e-46f9-8e6d-a896c45b0dea"}
+{"index":441,"sub_uri":"Q251267","obj_uri":"Q37320","obj_label":"Cleveland","sub_label":"Hrabstwo Cuyahoga","lineid":480,"uuid":"37864839-1bb9-44a3-ba2d-512a5b108c93"}
+{"index":299,"sub_uri":"Q1250763","obj_uri":"Q2656","obj_label":"Palermo","sub_label":"Emirat Sycylii","lineid":329,"uuid":"f1ff7df3-74cf-4678-9dd3-b878de7c043c"}
+{"index":150,"sub_uri":"Q30805","obj_uri":"Q85","obj_label":"Kair","sub_label":"Kair","lineid":167,"uuid":"2d081b94-ced9-4300-9528-2ac0fea8b9f3"}
+{"index":602,"sub_uri":"Q427941","obj_uri":"Q5838","obj_label":"Kabul","sub_label":"Islamski Emirat Afganistanu","lineid":653,"uuid":"478ae898-8d7b-42c2-a595-e81e1d08cbaf"}
+{"index":164,"sub_uri":"Q104285","obj_uri":"Q7880","obj_label":"Tuluza","sub_label":"Oksytania","lineid":184,"uuid":"c92d1eb6-d39d-469d-ae5f-0f234f3bdf36"}
+{"index":545,"sub_uri":"Q426398","obj_uri":"Q935334","obj_label":"Philadelphia","sub_label":"Hrabstwo Neshoba","lineid":593,"uuid":"85fc8b3a-d9aa-4c6c-8875-1eea1189b279"}
+{"index":166,"sub_uri":"Q842931","obj_uri":"Q1354","obj_label":"Dhaka","sub_label":"Pakistan Wschodni","lineid":186,"uuid":"42afe993-565f-4f3b-ba08-9f32681ef20b"}
+{"index":483,"sub_uri":"Q822","obj_uri":"Q3820","obj_label":"Bejrut","sub_label":"Liban","lineid":526,"uuid":"5b11c47c-fb54-437d-a493-19e52411c4d7"}
+{"index":243,"sub_uri":"Q902","obj_uri":"Q1354","obj_label":"Dhaka","sub_label":"Bangladesz","lineid":268,"uuid":"8516b777-1bbb-42f5-9655-ad50f1a71c4c"}
+{"index":259,"sub_uri":"Q1415585","obj_uri":"Q5838","obj_label":"Kabul","sub_label":"Islamska Republika Afganistanu","lineid":286,"uuid":"1831ad60-56a9-4ba8-a107-45914bce7373"}
+{"index":601,"sub_uri":"Q39193","obj_uri":"Q1085","obj_label":"Praga","sub_label":"Czechy","lineid":652,"uuid":"1948098d-a4e5-4abf-ba03-373467034c18"}
+{"index":148,"sub_uri":"Q487415","obj_uri":"Q1516936","obj_label":"Salmon","sub_label":"Hrabstwo Lemhi","lineid":164,"uuid":"d1b56011-7d9c-4ca1-8856-e773b1b866fc"}
+{"index":504,"sub_uri":"Q11917","obj_uri":"Q71","obj_label":"Genewa","sub_label":"Genewa","lineid":549,"uuid":"84efc815-98af-41f2-9925-bbff814cbc08"}
+{"index":643,"sub_uri":"Q234","obj_uri":"Q239","obj_label":"Bruksela","sub_label":"Flandria","lineid":702,"uuid":"1529bc81-d7bb-4d75-8546-ee866d93ee5d"}
+{"index":281,"sub_uri":"Q484367","obj_uri":"Q6178257","obj_label":"Burns","sub_label":"Hrabstwo Harney","lineid":311,"uuid":"536971cd-a76a-42b0-8f85-d855f47df8bb"}
+{"index":388,"sub_uri":"Q1211","obj_uri":"Q40747","obj_label":"Pierre","sub_label":"Dakota Po\u0142udniowa","lineid":426,"uuid":"4fb1a53b-a896-4582-9d9a-aeb909ad4d5e"}
+{"index":491,"sub_uri":"Q476757","obj_uri":"Q5838","obj_label":"Kabul","sub_label":"Demokratyczna Republika Afganistanu","lineid":536,"uuid":"a2f2b6eb-0ab9-4dec-8fc5-78880b6da540"}
+{"index":597,"sub_uri":"Q61468","obj_uri":"Q79853","obj_label":"Conway","sub_label":"Hrabstwo Faulkner","lineid":648,"uuid":"7f78ab18-a578-4506-b001-ebc995d496ab"}
+{"index":218,"sub_uri":"Q503546","obj_uri":"Q2600941","obj_label":"Clayton","sub_label":"Hrabstwo Rabun","lineid":241,"uuid":"5b3b6c36-086b-4632-8efb-07c08f2cddd4"}
+{"index":501,"sub_uri":"Q18678082","obj_uri":"Q1479","obj_label":"Bordeaux","sub_label":"Nowa Akwitania","lineid":546,"uuid":"6979b563-c775-4100-9b09-fabfb3377122"}
+{"index":194,"sub_uri":"Q494598","obj_uri":"Q2405120","obj_label":"Williamson (Wirginia Zachodnia)","sub_label":"Hrabstwo Mingo","lineid":216,"uuid":"5e6221ea-5945-483c-931f-623582152c5d"}
+{"index":123,"sub_uri":"Q712832","obj_uri":"Q615006","obj_label":"Ho","sub_label":"Region Wolta","lineid":137,"uuid":"720d98cb-b411-4ee5-8f6e-4585121b5495"}
+{"index":241,"sub_uri":"Q12536","obj_uri":"Q3766","obj_label":"Damaszek","sub_label":"Kalifat Abbasydski","lineid":266,"uuid":"3dfe628c-cfc7-42b7-b514-4d1c69264327"}
+{"index":607,"sub_uri":"Q713750","obj_uri":"Q586","obj_label":"Bonn","sub_label":"Republika Federalna Niemiec (1949\u20131990)","lineid":659,"uuid":"cebf9e56-ae2b-489d-a0e3-79c5277d8b6a"}
+{"index":143,"sub_uri":"Q2277","obj_uri":"Q16869","obj_label":"Konstantynopol","sub_label":"Cesarstwo rzymskie","lineid":158,"uuid":"b3deac49-9a98-4ca2-a576-9bdcbddcbc4a"}
+{"index":296,"sub_uri":"Q330362","obj_uri":"Q84","obj_label":"Londyn","sub_label":"Republika Angielska","lineid":326,"uuid":"fa0b1034-69b7-4598-bd05-0b18764b0999"}
+{"index":357,"sub_uri":"Q2131","obj_uri":"Q2887","obj_label":"Santiago","sub_label":"Region Metropolitalny","lineid":392,"uuid":"00ce4a48-3c67-4997-a712-6381713ceccb"}
+{"index":580,"sub_uri":"Q165154","obj_uri":"Q495","obj_label":"Turyn","sub_label":"Kr\u00f3lestwo Sardynii","lineid":631,"uuid":"75f7a8a0-7401-462d-b5d1-5c70b8466e86"}
+{"index":306,"sub_uri":"Q9903","obj_uri":"Q16666","obj_label":"Nankin","sub_label":"Ming","lineid":337,"uuid":"06516296-0b1f-4df7-94c7-a9a1b1b239b8"}
+{"index":427,"sub_uri":"Q700264","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Brandenburgia","lineid":466,"uuid":"3c8eb4f8-7d03-42cd-8380-48588405e4c4"}
+{"index":584,"sub_uri":"Q41304","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Republika Weimarska","lineid":635,"uuid":"d7e9d75c-0637-4d1f-8c4b-01ee4428907c"}
+{"index":451,"sub_uri":"Q1221","obj_uri":"Q35775","obj_label":"Boise","sub_label":"Idaho","lineid":491,"uuid":"e75dd5d5-e62f-4b0b-86c8-402161085a95"}
+{"index":288,"sub_uri":"Q188399","obj_uri":"Q1085","obj_label":"Praga","sub_label":"Kraj \u015brodkowoczeski","lineid":318,"uuid":"311a0a69-0b15-4542-ab2d-4dd0ebe2db57"}
+{"index":466,"sub_uri":"Q114904","obj_uri":"Q128069","obj_label":"Syracuse","sub_label":"Hrabstwo Onondaga","lineid":508,"uuid":"160827a7-715f-4989-a38c-8c67ee6e42d5"}
+{"index":111,"sub_uri":"Q491903","obj_uri":"Q2912504","obj_label":"Liberty","sub_label":"Hrabstwo Casey","lineid":123,"uuid":"9e440737-00bf-467d-b1d7-8f1eaed68e65"}
+{"index":395,"sub_uri":"Q15123","obj_uri":"Q2634","obj_label":"Neapol","sub_label":"Prowincja Neapol","lineid":434,"uuid":"a4f792d8-0bd9-4a7c-9451-4bbe6de3d2ee"}
+{"index":579,"sub_uri":"Q49683","obj_uri":"Q216","obj_label":"Wilno","sub_label":"Wielkie Ksi\u0119stwo Litewskie","lineid":630,"uuid":"cce5636c-d2d1-45c6-bd20-96ebdfe582a5"}
+{"index":583,"sub_uri":"Q1391","obj_uri":"Q28271","obj_label":"Annapolis","sub_label":"Maryland","lineid":634,"uuid":"890b7a8d-a1a7-47af-9bba-d4ef8dfa0fbf"}
+{"index":590,"sub_uri":"Q980","obj_uri":"Q1726","obj_label":"Monachium","sub_label":"Bawaria","lineid":641,"uuid":"2f24a18e-7bf9-41ad-93b7-7b727f32e777"}
+{"index":205,"sub_uri":"Q488201","obj_uri":"Q2101592","obj_label":"Homer","sub_label":"Hrabstwo Banks","lineid":228,"uuid":"cdeca793-6d45-4e9f-bdf2-8a4eaaa603bf"}
+{"index":48,"sub_uri":"Q1166","obj_uri":"Q28237","obj_label":"Lansing","sub_label":"Michigan","lineid":56,"uuid":"002f6abd-2104-416e-a444-1a923b3a3839"}
+{"index":237,"sub_uri":"Q225","obj_uri":"Q11194","obj_label":"Sarajewo","sub_label":"Bo\u015bnia i Hercegowina","lineid":262,"uuid":"51edf9cc-ff45-4a6f-a9e5-6e7bbd1c4aeb"}
+{"index":144,"sub_uri":"Q109820","obj_uri":"Q35775","obj_label":"Boise","sub_label":"Hrabstwo Ada","lineid":159,"uuid":"a5bd7ef1-7a94-4392-bc61-32a89e84472e"}
+{"index":324,"sub_uri":"Q9331","obj_uri":"Q239","obj_label":"Bruksela","sub_label":"Wsp\u00f3lnota flamandzka Belgii","lineid":357,"uuid":"9c7ce4f2-1489-4ea1-a691-9a198565c6ce"}
+{"index":53,"sub_uri":"Q217838","obj_uri":"Q182923","obj_label":"Stirling","sub_label":"Stirling","lineid":62,"uuid":"b3200997-74ed-4efa-99d2-c0f46be76d7c"}
+{"index":399,"sub_uri":"Q40","obj_uri":"Q1741","obj_label":"Wiede\u0144","sub_label":"Austria","lineid":438,"uuid":"a36c2ac2-4f20-461c-bc99-ec75ebaead4c"}
+{"index":18,"sub_uri":"Q491843","obj_uri":"Q2739403","obj_label":"Jackson","sub_label":"Hrabstwo Breathitt","lineid":21,"uuid":"626194d7-b4c0-4c0d-9576-fa049c85d6b2"}
+{"index":490,"sub_uri":"Q470626","obj_uri":"Q1375037","obj_label":"Amherst","sub_label":"Hrabstwo Amherst","lineid":535,"uuid":"6f142b33-a989-40f7-9c10-0a296d35efe9"}
+{"index":486,"sub_uri":"Q188712","obj_uri":"Q1490","obj_label":"Tokio","sub_label":"Imperium japo\u0144skie","lineid":529,"uuid":"d91445d2-d35a-40bc-a317-77dd7752ddcf"}
+{"index":323,"sub_uri":"Q173822","obj_uri":"Q140147","obj_label":"Brze\u015b\u0107","sub_label":"obw\u00f3d brzeski","lineid":356,"uuid":"f6b85e8b-8839-41b7-9bbb-24bf234c9b81"}
+{"index":375,"sub_uri":"Q216945","obj_uri":"Q3820","obj_label":"Bejrut","sub_label":"Gubernatorstwo D\u017cabal Lubnan","lineid":412,"uuid":"10fee22e-9811-48d2-a922-5e5ee9c5d460"}
+{"index":322,"sub_uri":"Q5481","obj_uri":"Q900","obj_label":"Kaza\u0144","sub_label":"Tatarstan","lineid":355,"uuid":"b6dde5f1-6c15-430c-8798-e4b6feb38428"}
+{"index":240,"sub_uri":"Q399","obj_uri":"Q1953","obj_label":"Erywa\u0144","sub_label":"Armenia","lineid":265,"uuid":"129adc29-18c5-4691-807c-774d8fbe82df"}
+{"index":606,"sub_uri":"Q1326742","obj_uri":"Q16666","obj_label":"Nankin","sub_label":"Po\u0142udniowe Tang","lineid":658,"uuid":"0eb79ff5-0cbd-439b-81e4-8ab7261591ed"}
+{"index":30,"sub_uri":"Q502880","obj_uri":"Q893055","obj_label":"Boone (Karolina P\u00f3\u0142nocna)","sub_label":"Hrabstwo Watauga","lineid":34,"uuid":"7db1a7d5-ea73-42d9-a33c-126bebe57f78"}
+{"index":79,"sub_uri":"Q178897","obj_uri":"Q16869","obj_label":"Konstantynopol","sub_label":"Cesarstwo \u0141aci\u0144skie","lineid":89,"uuid":"c050f5bd-6d03-4708-b13c-69fdbcde2b19"}
+{"index":330,"sub_uri":"Q15388","obj_uri":"Q1361","obj_label":"Hajdarabad","sub_label":"Rangareddi","lineid":363,"uuid":"6db784ac-92fc-457d-9273-68a9281c84ea"}
+{"index":470,"sub_uri":"Q2277","obj_uri":"Q220","obj_label":"Rzym","sub_label":"Cesarstwo rzymskie","lineid":512,"uuid":"3f21d7e7-c437-450b-bf74-5836afb3e9eb"}
+{"index":308,"sub_uri":"Q489369","obj_uri":"Q593141","obj_label":"Philip","sub_label":"Hrabstwo Haakon","lineid":339,"uuid":"146c6268-b78c-4cdc-b3d8-420c9ab85037"}
+{"index":10,"sub_uri":"Q172579","obj_uri":"Q2044","obj_label":"Florencja","sub_label":"Zjednoczone Kr\u00f3lestwo W\u0142och","lineid":12,"uuid":"6e0942fa-96c8-4a07-b72e-83519b16db11"}
+{"index":445,"sub_uri":"Q232399","obj_uri":"Q3766","obj_label":"Damaszek","sub_label":"Damaszek","lineid":484,"uuid":"e12095f3-1c20-4d37-b32f-79694ab1f786"}
+{"index":252,"sub_uri":"Q16987","obj_uri":"Q648","obj_label":"Lille","sub_label":"Nord-Pas-de-Calais","lineid":278,"uuid":"1c12616a-a006-45c2-8e57-6cb9c713f667"}
+{"index":248,"sub_uri":"Q23090","obj_uri":"Q180057","obj_label":"Lincoln","sub_label":"Lincolnshire","lineid":273,"uuid":"2a86c673-1d59-4bd0-8e6f-063fe0912275"}
+{"index":235,"sub_uri":"Q141026","obj_uri":"Q3561","obj_label":"Algier","sub_label":"Prowincja Algier","lineid":259,"uuid":"6a74c973-c294-485a-936b-9fff8f8776ee"}
+{"index":89,"sub_uri":"Q48933","obj_uri":"Q2087867","obj_label":"Center","sub_label":"Hrabstwo Oliver","lineid":99,"uuid":"573f5523-6a05-4dd0-a8bc-43fc2c654447"}
+{"index":313,"sub_uri":"Q26","obj_uri":"Q10686","obj_label":"Belfast","sub_label":"Irlandia P\u00f3\u0142nocna","lineid":345,"uuid":"0a001fed-b69a-4e80-8b3b-e3b36a63fca8"}
+{"index":46,"sub_uri":"Q1114","obj_uri":"Q1296","obj_label":"Gandawa","sub_label":"Prowincja Flandria Wschodnia","lineid":54,"uuid":"412b8748-0d98-43b5-a3aa-b1d5369d041c"}
+{"index":355,"sub_uri":"Q2006542","obj_uri":"Q8660","obj_label":"Karaczi","sub_label":"Dominium Pakistanu","lineid":390,"uuid":"a1b3e563-be09-433b-b3b7-b9a9fd5e3561"}
+{"index":81,"sub_uri":"Q379657","obj_uri":"Q958555","obj_label":"Hutchinson","sub_label":"Hrabstwo Reno","lineid":91,"uuid":"9f36d161-ca4a-4fd6-8361-3f99f3fca320"}
+{"index":255,"sub_uri":"Q1460","obj_uri":"Q2656","obj_label":"Palermo","sub_label":"Sycylia","lineid":281,"uuid":"ba151990-e609-40fe-b2a2-de3526f866ef"}
+{"index":362,"sub_uri":"Q1497633","obj_uri":"Q694780","obj_label":"Arnold","sub_label":"Gedling","lineid":397,"uuid":"d633e460-fac5-4b28-90d3-30d91e41377b"}
+{"index":264,"sub_uri":"Q2705666","obj_uri":"Q140147","obj_label":"Brze\u015b\u0107","sub_label":"wojew\u00f3dztwo poleskie","lineid":293,"uuid":"40e2f32b-68a9-420c-9835-b91b8eb21778"}
+{"index":245,"sub_uri":"Q2347909","obj_uri":"Q1354","obj_label":"Dhaka","sub_label":"Bengal Wschodni","lineid":270,"uuid":"0eb0321b-ab5a-4d79-a917-5994b5c9b271"}
+{"index":418,"sub_uri":"Q187383","obj_uri":"Q1780","obj_label":"Bratys\u0142awa","sub_label":"komitat Preszburg","lineid":457,"uuid":"2339a47c-9af2-4522-9458-1851582438e3"}
+{"index":407,"sub_uri":"Q27038","obj_uri":"Q1435","obj_label":"Zagrzeb","sub_label":"\u017bupania zagrzebska","lineid":446,"uuid":"8c5c69d1-68e2-4011-a428-160a52b9359c"}
+{"index":624,"sub_uri":"Q192959","obj_uri":"Q2280","obj_label":"Mi\u0144sk","sub_label":"obw\u00f3d mi\u0144ski","lineid":682,"uuid":"a220e15c-e175-4abe-90ef-4404349be3da"}
+{"index":384,"sub_uri":"Q164079","obj_uri":"Q1715","obj_label":"Hanower","sub_label":"Kr\u00f3lestwo Hanoweru","lineid":421,"uuid":"9b323a73-7c14-4cb9-9e5d-844cbfe24547"}
+{"index":60,"sub_uri":"Q203493","obj_uri":"Q19660","obj_label":"Bukareszt","sub_label":"Kr\u00f3lestwo Rumunii","lineid":70,"uuid":"175d07ee-75d7-4de7-9659-ca6d79501f9e"}
+{"index":333,"sub_uri":"Q16227","obj_uri":"Q2656","obj_label":"Palermo","sub_label":"Prowincja Palermo","lineid":367,"uuid":"8a30761c-4a54-4112-8645-ab686e066fea"}
+{"index":409,"sub_uri":"Q26601","obj_uri":"Q695556","obj_label":"Bryan","sub_label":"Hrabstwo Brazos","lineid":448,"uuid":"d06633fc-f9e0-4787-a1fe-642def964c29"}
+{"index":512,"sub_uri":"Q170468","obj_uri":"Q85","obj_label":"Kair","sub_label":"Zjednoczona Republika Arabska","lineid":558,"uuid":"019e693a-7dd4-420d-9e33-63eacf8d2432"}
+{"index":616,"sub_uri":"Q1494","obj_uri":"Q28198","obj_label":"Jackson","sub_label":"Missisipi","lineid":672,"uuid":"d7354ff5-8d7c-4e55-840f-44c4b0accee0"}
+{"index":134,"sub_uri":"Q45","obj_uri":"Q597","obj_label":"Lizbona","sub_label":"Portugalia","lineid":148,"uuid":"4ce7e6e7-a770-47cc-a0c1-9d2ffa52a9c3"}
+{"index":174,"sub_uri":"Q191","obj_uri":"Q1770","obj_label":"Tallinn","sub_label":"Estonia","lineid":195,"uuid":"5d31145e-f946-42d6-be48-8d15b1507324"}
+{"index":452,"sub_uri":"Q224","obj_uri":"Q1435","obj_label":"Zagrzeb","sub_label":"Chorwacja","lineid":492,"uuid":"7efebaf2-ed4c-480c-8637-cf7259965a63"}
+{"index":544,"sub_uri":"Q1509","obj_uri":"Q23197","obj_label":"Nashville","sub_label":"Tennessee","lineid":592,"uuid":"d6a640a8-b368-46fa-8bbe-6a61b9db3997"}
+{"index":124,"sub_uri":"Q5783","obj_uri":"Q8717","obj_label":"Sewilla","sub_label":"Andaluzja","lineid":138,"uuid":"0e009711-2c42-44ab-8a4c-36ccdf48626e"}
+{"index":367,"sub_uri":"Q884","obj_uri":"Q8684","obj_label":"Seul","sub_label":"Korea Po\u0142udniowa","lineid":402,"uuid":"65297ee8-0306-406f-965d-6be5cface055"}
+{"index":482,"sub_uri":"Q58759","obj_uri":"Q916314","obj_label":"Parker","sub_label":"Hrabstwo La Paz","lineid":525,"uuid":"e4fb347a-9bc7-41a9-947e-22ae83d2d128"}
+{"index":425,"sub_uri":"Q508220","obj_uri":"Q986369","obj_label":"Jacksonville","sub_label":"Hrabstwo Onslow","lineid":464,"uuid":"a3373266-e863-4f4e-b724-3b5bc088e0f3"}
+{"index":533,"sub_uri":"Q1179","obj_uri":"Q1479","obj_label":"Bordeaux","sub_label":"Akwitania","lineid":581,"uuid":"5a1fbede-b30f-4702-8f2c-dcca936bc67e"}
+{"index":432,"sub_uri":"Q280838","obj_uri":"Q1999227","obj_label":"Stanley","sub_label":"Hrabstwo Mountrail","lineid":471,"uuid":"72572d15-2fd7-4f01-b6c4-6e1ffefc10aa"}
+{"index":426,"sub_uri":"Q494146","obj_uri":"Q1184769","obj_label":"Indiana (miasto)","sub_label":"Hrabstwo Indiana","lineid":465,"uuid":"46a8ba6f-caed-4ff1-8278-cf99f7abdfc9"}
+{"index":195,"sub_uri":"Q912777","obj_uri":"Q37333","obj_label":"Lublin","sub_label":"powiat lubelski","lineid":217,"uuid":"7b64e910-e772-4c3b-ac5c-f7f9256752d5"}
+{"index":201,"sub_uri":"Q1263","obj_uri":"Q1891","obj_label":"Bolonia","sub_label":"Emilia-Romania","lineid":223,"uuid":"4117c8a0-413d-4b7b-a1dd-78d21e5606ef"}
+{"index":518,"sub_uri":"Q52502","obj_uri":"Q25287","obj_label":"G\u00f6teborg","sub_label":"Gmina G\u00f6teborg","lineid":565,"uuid":"0738356c-ea80-435e-89ca-1fdf44c6f647"}
+{"index":332,"sub_uri":"Q502483","obj_uri":"Q2027967","obj_label":"Newton","sub_label":"Hrabstwo Catawba","lineid":365,"uuid":"b2d3abd7-89f5-4316-835f-f1a1f07b3394"}
+{"index":331,"sub_uri":"Q173500","obj_uri":"Q1761","obj_label":"Dublin","sub_label":"Dublin","lineid":364,"uuid":"6c00f0f0-a338-465f-b7a3-ec8f6ecf4380"}
+{"index":351,"sub_uri":"Q243652","obj_uri":"Q1781","obj_label":"Budapeszt","sub_label":"W\u0119gierska Republika Rad","lineid":386,"uuid":"c52347a1-f0d0-4101-abdd-2365849ad254"}
+{"index":619,"sub_uri":"Q208279","obj_uri":"Q160493","obj_label":"Inverness","sub_label":"Highland","lineid":676,"uuid":"d12c8654-8f81-45c3-ab1f-8481e005c85e"}
+{"index":29,"sub_uri":"Q1415","obj_uri":"Q6346","obj_label":"Indianapolis","sub_label":"Indiana","lineid":33,"uuid":"1b17d731-b749-4cb9-946f-74fc77525144"}
+{"index":176,"sub_uri":"Q164193","obj_uri":"Q36036","obj_label":"Lw\u00f3w","sub_label":"obw\u00f3d lwowski","lineid":197,"uuid":"dbfc2389-0cda-49c5-b001-730d08d82f2f"}
+{"index":568,"sub_uri":"Q1216","obj_uri":"Q495","obj_label":"Turyn","sub_label":"Piemont","lineid":619,"uuid":"5b453777-1eb7-4e7e-90f9-f7d48455668b"}
+{"index":467,"sub_uri":"Q95088","obj_uri":"Q8717","obj_label":"Sewilla","sub_label":"Sewilla","lineid":509,"uuid":"536c1d40-b618-46fc-b6d7-f8b6537f6e4c"}
+{"index":477,"sub_uri":"Q54925","obj_uri":"Q11953","obj_label":"Guadalajara","sub_label":"Guadalajara","lineid":519,"uuid":"3a0dc821-ca63-425c-af3f-9d3848d0e44d"}
+{"index":603,"sub_uri":"Q214094","obj_uri":"Q3766","obj_label":"Damaszek","sub_label":"Hims","lineid":655,"uuid":"7ca5fbf8-a8c0-4a05-9260-609de04b5c58"}
+{"index":287,"sub_uri":"Q127513","obj_uri":"Q38283","obj_label":"Jokohama","sub_label":"Prefektura Kanagawa","lineid":317,"uuid":"662d9ed5-ff4e-4360-8cd4-1ee627089db9"}
+{"index":385,"sub_uri":"Q489481","obj_uri":"Q44989","obj_label":"Tulsa","sub_label":"Hrabstwo Tulsa","lineid":423,"uuid":"3388db9c-4893-4eda-8b64-4718c52dd4ab"}
+{"index":137,"sub_uri":"Q241","obj_uri":"Q1563","obj_label":"Hawana","sub_label":"Kuba","lineid":151,"uuid":"f2f54ed4-1c4a-4302-b9b5-61f1dd5e7042"}
+{"index":64,"sub_uri":"Q160307","obj_uri":"Q85","obj_label":"Kair","sub_label":"Kalifat Fatymid\u00f3w","lineid":74,"uuid":"9cae43a0-a4ce-4d0d-bde0-597ce4e675f9"}
+{"index":291,"sub_uri":"Q2341660","obj_uri":"Q1156","obj_label":"Mumbaj","sub_label":"Mumbai (dystrykt)","lineid":321,"uuid":"76a33f57-8cf5-4060-9073-1de1c18ecfd7"}
+{"index":197,"sub_uri":"Q240","obj_uri":"Q239","obj_label":"Bruksela","sub_label":"Region Sto\u0142eczny Brukseli","lineid":219,"uuid":"0e66c015-c22c-447e-9768-3b414ec5d13a"}
+{"index":9,"sub_uri":"Q29943","obj_uri":"Q87","obj_label":"Aleksandria","sub_label":"Aleksandria","lineid":10,"uuid":"6be22d11-8eb8-4fc5-a882-509f2a697a8e"}
+{"index":42,"sub_uri":"Q118903","obj_uri":"Q216","obj_label":"Wilno","sub_label":"Rejon wile\u0144ski","lineid":49,"uuid":"58cbee65-2667-4e88-86b4-636bde59d467"}
+{"index":497,"sub_uri":"Q50615","obj_uri":"Q585","obj_label":"Oslo","sub_label":"Akershus","lineid":542,"uuid":"377b1f7b-55b0-454e-a434-4858f23dba54"}
+{"index":72,"sub_uri":"Q12560","obj_uri":"Q406","obj_label":"Stambu\u0142","sub_label":"Imperium osma\u0144skie","lineid":82,"uuid":"7aa410cc-2f21-4a57-b39a-329968d07a82"}
+{"index":373,"sub_uri":"Q54441","obj_uri":"Q48215","obj_label":"Dover","sub_label":"Hrabstwo Strafford","lineid":410,"uuid":"db9c652e-2c14-41e9-9521-2acaaa6c81e8"}
+{"index":566,"sub_uri":"Q910648","obj_uri":"Q1461","obj_label":"Manila","sub_label":"Hiszpa\u0144skie Indie Wschodnie","lineid":617,"uuid":"3bb2a7f7-56b5-4adc-bb69-f065fd3598f3"}
+{"index":83,"sub_uri":"Q28","obj_uri":"Q1781","obj_label":"Budapeszt","sub_label":"W\u0119gry","lineid":93,"uuid":"7024c125-837e-4f50-9532-bb83d22de0e2"}
+{"index":95,"sub_uri":"Q2335128","obj_uri":"Q138311","obj_label":"Elizabeth","sub_label":"Prowincja New Jersey","lineid":105,"uuid":"ce7ce100-fbbc-4127-a930-399eff67220c"}
+{"index":109,"sub_uri":"Q209142","obj_uri":"Q4131","obj_label":"Hamilton","sub_label":"South Lanarkshire","lineid":121,"uuid":"f08810dd-265a-46c2-a489-af3675f79dcd"}
+{"index":290,"sub_uri":"Q219","obj_uri":"Q472","obj_label":"Sofia","sub_label":"Bu\u0142garia","lineid":320,"uuid":"10c574c4-cd7c-45c3-9de0-9efdaf6edbfa"}
+{"index":0,"sub_uri":"Q227","obj_uri":"Q9248","obj_label":"Baku","sub_label":"Azerbejd\u017can","lineid":0,"uuid":"cb7007d9-673f-4fa5-8308-ddf2ae28b8c2"}
+{"index":277,"sub_uri":"Q191077","obj_uri":"Q3711","obj_label":"Belgrad","sub_label":"Kr\u00f3lestwo Jugos\u0142awii","lineid":307,"uuid":"b2582129-5362-4861-94b2-52f9321edfcb"}
+{"index":613,"sub_uri":"Q172579","obj_uri":"Q220","obj_label":"Rzym","sub_label":"Zjednoczone Kr\u00f3lestwo W\u0142och","lineid":669,"uuid":"34902401-c1c4-4b04-833a-688dede2ea15"}
+{"index":379,"sub_uri":"Q140359","obj_uri":"Q1085","obj_label":"Praga","sub_label":"Pierwsza Republika Czechos\u0142owacka","lineid":416,"uuid":"f1fa4a93-31e6-414f-8010-e1fd6a5c8f73"}
+{"index":508,"sub_uri":"Q2396442","obj_uri":"Q36036","obj_label":"Lw\u00f3w","sub_label":"Kr\u00f3lestwo Galicji i Lodomerii","lineid":554,"uuid":"2acd9043-8097-4c31-ba0f-548f0debfab8"}
+{"index":271,"sub_uri":"Q41","obj_uri":"Q1524","obj_label":"Ateny","sub_label":"Grecja","lineid":301,"uuid":"81f7f2f1-b54e-4284-9659-70df795826e3"}
+{"index":429,"sub_uri":"Q1214","obj_uri":"Q39042","obj_label":"Cheyenne","sub_label":"Wyoming","lineid":468,"uuid":"0436ea87-a62f-4159-bd3f-32ed65350ed1"}
+{"index":219,"sub_uri":"Q188612","obj_uri":"Q1781","obj_label":"Budapeszt","sub_label":"Komitat Pest","lineid":242,"uuid":"15780981-8de5-421e-9acb-8d5b587a5f94"}
+{"index":500,"sub_uri":"Q199841","obj_uri":"Q131694","obj_label":"Aden","sub_label":"Ludowo-Demokratyczna Republika Jemenu","lineid":545,"uuid":"ab35028d-1b33-4016-936b-f0ea37425da8"}
+{"index":434,"sub_uri":"Q8575586","obj_uri":"Q3766","obj_label":"Damaszek","sub_label":"kalifat Umajjad\u00f3w","lineid":473,"uuid":"e38b623e-36fe-40d1-b5f5-29c93596dfba"}
+{"index":454,"sub_uri":"Q487401","obj_uri":"Q5713","obj_label":"Mary","sub_label":"Wilajet maryjski","lineid":494,"uuid":"7b176c82-7f8b-4962-8055-65fb9751eba1"}
+{"index":2,"sub_uri":"Q108418","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Hrabstwo Cook","lineid":2,"uuid":"4168a6fb-d710-4678-93f9-9447927a0a35"}
+{"index":339,"sub_uri":"Q488194","obj_uri":"Q2534070","obj_label":"Pearson","sub_label":"Hrabstwo Atkinson","lineid":373,"uuid":"c2db9548-ed2d-43d5-9632-22357cad3c0c"}
+{"index":12,"sub_uri":"Q677037","obj_uri":"Q1361","obj_label":"Hajdarabad","sub_label":"Telangana","lineid":14,"uuid":"484a9394-c718-46b4-aa57-85ccb91a48c5"}
+{"index":37,"sub_uri":"Q781165","obj_uri":"Q1016139","obj_label":"Lebanon","sub_label":"Hrabstwo Lebanon","lineid":43,"uuid":"ccc9a762-de21-466c-8eb9-4c1f2de2b6eb"}
+{"index":421,"sub_uri":"Q7318","obj_uri":"Q64","obj_label":"Berlin","sub_label":"III Rzesza","lineid":460,"uuid":"b3664ea2-fe56-444c-a875-8d0e036c51af"}
+{"index":401,"sub_uri":"Q214","obj_uri":"Q1780","obj_label":"Bratys\u0142awa","sub_label":"S\u0142owacja","lineid":440,"uuid":"60dbf7e2-05cd-4c6d-a5db-9ac2de20840d"}
+{"index":592,"sub_uri":"Q495667","obj_uri":"Q2414602","obj_label":"Alexandria","sub_label":"Hrabstwo Hanson","lineid":643,"uuid":"412cc78d-8380-4e21-aeee-7c93b3187954"}
+{"index":209,"sub_uri":"Q486081","obj_uri":"Q1762833","obj_label":"Glasgow","sub_label":"Hrabstwo Barren","lineid":232,"uuid":"20256b2c-21a5-43a7-b1c5-67ec8e2c31ef"}
+{"index":283,"sub_uri":"Q31454","obj_uri":"Q3579","obj_label":"Trypolis","sub_label":"Kr\u00f3lestwo Libii","lineid":313,"uuid":"b6e68511-a9d5-45fc-aa47-781ab3a4221e"}
+{"index":576,"sub_uri":"Q129286","obj_uri":"Q1348","obj_label":"Kolkata","sub_label":"Indie Brytyjskie","lineid":627,"uuid":"6d39f9db-9bf0-4b0f-9652-6af29553480e"}
+{"index":40,"sub_uri":"Q188586","obj_uri":"Q2634","obj_label":"Neapol","sub_label":"Kr\u00f3lestwo Sycylii","lineid":46,"uuid":"cc150ae1-2ddf-424b-abf4-c9357dad89d9"}
+{"index":577,"sub_uri":"Q8733","obj_uri":"Q956","obj_label":"Pekin","sub_label":"Dynastia Qing","lineid":628,"uuid":"5b1e5310-53f0-4267-adec-a3af6e6a61a5"}
+{"index":286,"sub_uri":"Q507078","obj_uri":"Q947115","obj_label":"Monroe","sub_label":"Parafia Ouachita","lineid":316,"uuid":"5df8814e-129f-4dd2-bbfa-a368320ce63f"}
+{"index":19,"sub_uri":"Q490386","obj_uri":"Q966428","obj_label":"Hermann","sub_label":"Hrabstwo Gasconade","lineid":22,"uuid":"7e1c50f8-327a-479c-893a-8e125a64b718"}
+{"index":345,"sub_uri":"Q133083","obj_uri":"Q34647","obj_label":"Johannesburg","sub_label":"Gauteng","lineid":380,"uuid":"a560660b-5604-48cf-9aae-996353694270"}
+{"index":316,"sub_uri":"Q29","obj_uri":"Q2807","obj_label":"Madryt","sub_label":"Hiszpania","lineid":348,"uuid":"84432391-0a6e-47c0-b74f-04997e55097d"}
+{"index":629,"sub_uri":"Q17167","obj_uri":"Q220","obj_label":"Rzym","sub_label":"republika rzymska","lineid":688,"uuid":"dad8bd2c-5124-45f0-a84f-96cf9dfd8f50"}
+{"index":448,"sub_uri":"Q488821","obj_uri":"Q743247","obj_label":"Inverness","sub_label":"Hrabstwo Citrus","lineid":487,"uuid":"cf94fa9e-3e90-41e4-9307-7587efd4c01b"}
+{"index":171,"sub_uri":"Q58686","obj_uri":"Q79823","obj_label":"Globe","sub_label":"Hrabstwo Gila","lineid":191,"uuid":"6f116bdf-c9c7-4b87-8a56-9c9345e4cf3a"}
+{"index":591,"sub_uri":"Q496900","obj_uri":"Q1345","obj_label":"Filadelfia","sub_label":"Hrabstwo Philadelphia","lineid":642,"uuid":"df640a02-508c-42e8-8a2b-6d54fc3e2ef8"}
+{"index":325,"sub_uri":"Q193714","obj_uri":"Q1218","obj_label":"Jerozolima","sub_label":"Palestyna","lineid":358,"uuid":"5275b4fe-b535-4ca1-9967-c8d512968ed1"}
+{"index":444,"sub_uri":"Q43","obj_uri":"Q3640","obj_label":"Ankara","sub_label":"Turcja","lineid":483,"uuid":"e0f885bd-4714-4984-9110-10945d1a73af"}
+{"index":419,"sub_uri":"Q490796","obj_uri":"Q2019238","obj_label":"Cherokee (Oklahoma)","sub_label":"Hrabstwo Alfalfa","lineid":458,"uuid":"0665f484-6080-42af-a941-284da05a2ff5"}
+{"index":455,"sub_uri":"Q269864","obj_uri":"Q3711","obj_label":"Belgrad","sub_label":"Socjalistyczna Republika Serbii","lineid":495,"uuid":"6ed73964-16f8-4dfc-ac6a-3c0facaa1c8e"}
+{"index":294,"sub_uri":"Q17152","obj_uri":"Q17151","obj_label":"Saloniki","sub_label":"Region Macedonia \u015arodkowa","lineid":324,"uuid":"35969665-d828-44d3-b3da-7b037bc3d3d4"}
+{"index":234,"sub_uri":"Q212","obj_uri":"Q1899","obj_label":"Kij\u00f3w","sub_label":"Ukraina","lineid":258,"uuid":"c4599062-97b8-4e48-b137-081621e8a64d"}
+{"index":406,"sub_uri":"Q1508143","obj_uri":"Q1899","obj_label":"Kij\u00f3w","sub_label":"Pa\u0144stwo Ukrai\u0144skie","lineid":445,"uuid":"bc120252-6b6f-41db-be1b-f68013f1b3ac"}
+{"index":168,"sub_uri":"Q497777","obj_uri":"Q2807","obj_label":"Madryt","sub_label":"Pierwsza Republika Hiszpa\u0144ska","lineid":188,"uuid":"c8bfe4f1-0e31-47f9-bd0d-da079912a4a7"}
+{"index":284,"sub_uri":"Q495738","obj_uri":"Q79875","obj_label":"Mobile","sub_label":"Hrabstwo Mobile","lineid":314,"uuid":"24011cfc-18bf-4698-9a00-7ca98cd99c0f"}
+{"index":285,"sub_uri":"Q16","obj_uri":"Q1930","obj_label":"Ottawa","sub_label":"Kanada","lineid":315,"uuid":"c60945a4-e0ef-46d5-92e6-fee06cc0512a"}
+{"index":34,"sub_uri":"Q23112","obj_uri":"Q350","obj_label":"Cambridge","sub_label":"Cambridgeshire","lineid":40,"uuid":"04929e30-b18b-4327-82fd-e8884a9f7439"}
+{"index":521,"sub_uri":"Q192753","obj_uri":"Q956048","obj_label":"Townsend","sub_label":"Hrabstwo Broadwater","lineid":569,"uuid":"859f9933-06f8-400f-9ff3-c1bca5c25918"}
+{"index":90,"sub_uri":"Q23135","obj_uri":"Q1646181","obj_label":"Worcester","sub_label":"Worcestershire","lineid":100,"uuid":"81cb28d4-af32-45b8-92c8-cae3543ee833"}
+{"index":39,"sub_uri":"Q135330","obj_uri":"Q2018815","obj_label":"Steele","sub_label":"Hrabstwo Kidder","lineid":45,"uuid":"db9898c5-23a7-4503-be29-d649285b4bb6"}
+{"index":574,"sub_uri":"Q458","obj_uri":"Q239","obj_label":"Bruksela","sub_label":"Unia Europejska","lineid":625,"uuid":"c1ccc1c9-17ca-46a8-b523-1ff87e891c17"}
+{"index":396,"sub_uri":"Q218","obj_uri":"Q19660","obj_label":"Bukareszt","sub_label":"Rumunia","lineid":435,"uuid":"0dc25d19-7ba5-4e64-9102-5cc9d783967b"}
+{"index":158,"sub_uri":"Q43325","obj_uri":"Q34713","obj_label":"Salzburg","sub_label":"Salzburg","lineid":177,"uuid":"82df8f2a-a45a-4e08-8b44-b964346d0b72"}
+{"index":125,"sub_uri":"Q1191","obj_uri":"Q1156","obj_label":"Mumbaj","sub_label":"Maharasztra","lineid":139,"uuid":"90e41233-fba9-4c03-a293-e82ec79b42ea"}
+{"index":220,"sub_uri":"Q108131","obj_uri":"Q18013","obj_label":"Sacramento","sub_label":"Hrabstwo Sacramento","lineid":243,"uuid":"3d06845a-3744-4925-a5a2-f38186ea4070"}
+{"index":524,"sub_uri":"Q5720","obj_uri":"Q8818","obj_label":"Walencja","sub_label":"Walencja","lineid":572,"uuid":"1f2b2f65-1d01-407a-ba0d-c4c8ab55c995"}
+{"index":186,"sub_uri":"Q1016","obj_uri":"Q3579","obj_label":"Trypolis","sub_label":"Libia","lineid":208,"uuid":"4ef63e37-79db-4b74-be46-8cb2628a3936"}
+{"index":539,"sub_uri":"Q28513","obj_uri":"Q1741","obj_label":"Wiede\u0144","sub_label":"Austro-W\u0119gry","lineid":587,"uuid":"37f0a960-f344-498a-8c09-0a8226f86734"}
+{"index":268,"sub_uri":"Q109790","obj_uri":"Q482657","obj_label":"Logan","sub_label":"Hrabstwo Cache","lineid":298,"uuid":"9b750f8b-8039-4b8f-ad21-bbfb6fe96622"}
+{"index":189,"sub_uri":"Q3258","obj_uri":"Q3114","obj_label":"Canberra","sub_label":"Australijskie Terytorium Sto\u0142eczne","lineid":211,"uuid":"edbd0e18-5403-4c17-8aaf-8817d32050f4"}
+{"index":114,"sub_uri":"Q58711","obj_uri":"Q79931","obj_label":"Prescott","sub_label":"Hrabstwo Yavapai","lineid":126,"uuid":"92689405-9757-4ff3-821a-23a779ca74fb"}
+{"index":422,"sub_uri":"Q341639","obj_uri":"Q43421","obj_label":"Richmond","sub_label":"Hrabstwo Henrico","lineid":461,"uuid":"c620d3cf-f241-4b41-b7ff-1ecd4a6ff9a6"}
+{"index":596,"sub_uri":"Q491525","obj_uri":"Q972506","obj_label":"Lexington","sub_label":"Hrabstwo Oglethorpe","lineid":647,"uuid":"6587c997-364f-466f-8adf-8e8de2e83da8"}
+{"index":621,"sub_uri":"Q1617704","obj_uri":"Q213832","obj_label":"Dudley","sub_label":"Metropolitan Borough of Dudley","lineid":679,"uuid":"65325e24-33e3-4fb8-a0e5-937886326ac1"}
+{"index":414,"sub_uri":"Q511461","obj_uri":"Q748348","obj_label":"Lisbon","sub_label":"Hrabstwo Ransom","lineid":453,"uuid":"34d8c4dc-845b-4dfc-b1f9-0dd0731e7779"}
+{"index":165,"sub_uri":"Q17","obj_uri":"Q1490","obj_label":"Tokio","sub_label":"Japonia","lineid":185,"uuid":"5d681873-ebdb-4f70-a18c-e20765b56aa5"}
+{"index":310,"sub_uri":"Q678347","obj_uri":"Q826782","obj_label":"Stafford","sub_label":"Stafford","lineid":342,"uuid":"5f98c3e4-a66b-4a3c-a841-38278ed065af"}
+{"index":173,"sub_uri":"Q3139","obj_uri":"Q33959","obj_label":"Nicea","sub_label":"Alpy Nadmorskie","lineid":194,"uuid":"3c997bf4-5abd-442d-953b-91accba51004"}
+{"index":55,"sub_uri":"Q205662","obj_uri":"Q215646","obj_label":"Edo","sub_label":"Siogunat Tokugaw\u00f3w","lineid":64,"uuid":"a931aed4-7829-44d7-b3e7-4ddebacd7e99"}
+{"index":200,"sub_uri":"Q2996231","obj_uri":"Q1899","obj_label":"Kij\u00f3w","sub_label":"Rejon kijowsko-swiatoszy\u0144ski","lineid":222,"uuid":"14eebbd4-ecd6-4738-9bb9-3c89cfaa243a"}
+{"index":595,"sub_uri":"Q167360","obj_uri":"Q597","obj_label":"Lizbona","sub_label":"Pierwsza Republika Portugalska","lineid":646,"uuid":"29082c5d-d64c-4d29-bcba-a6e5299b69bb"}
+{"index":75,"sub_uri":"Q2379199","obj_uri":"Q23436","obj_label":"Edynburg","sub_label":"Edynburg","lineid":85,"uuid":"f00968b7-a739-44ca-89b4-e8a14db0d0e1"}
+{"index":456,"sub_uri":"Q624887","obj_uri":"Q5684","obj_label":"Babilon","sub_label":"Pa\u0144stwo nowobabilo\u0144skie","lineid":497,"uuid":"43736130-8967-48a6-a2a2-7130aaf4c82d"}
+{"index":246,"sub_uri":"Q173","obj_uri":"Q29364","obj_label":"Montgomery","sub_label":"Alabama","lineid":271,"uuid":"a88e4c73-6179-42c1-9499-d2bafa2be415"}
+{"index":604,"sub_uri":"Q1371","obj_uri":"Q44564","obj_label":"Charleston","sub_label":"Wirginia Zachodnia","lineid":656,"uuid":"22d6b190-31d3-44ec-801b-8191cb2c98f1"}
+{"index":129,"sub_uri":"Q188933","obj_uri":"Q5838","obj_label":"Kabul","sub_label":"Kabul","lineid":143,"uuid":"ec6a43f2-3ea0-4bf4-9f6b-9853e3aee700"}
+{"index":100,"sub_uri":"Q491954","obj_uri":"Q758545","obj_label":"Auburn","sub_label":"Hrabstwo Androscoggin","lineid":110,"uuid":"3def56b3-7420-4e08-acf7-49e75c26c17c"}
+{"index":145,"sub_uri":"Q779","obj_uri":"Q33486","obj_label":"Hartford","sub_label":"Connecticut","lineid":161,"uuid":"a70c1b5e-f04e-484e-a3b0-dc9e9f394882"}
+{"index":472,"sub_uri":"Q262","obj_uri":"Q3561","obj_label":"Algier","sub_label":"Algieria","lineid":514,"uuid":"bf05c4de-ce84-4020-b811-0d909e052fbe"}
+{"index":272,"sub_uri":"Q238445","obj_uri":"Q8810","obj_label":"Grenada","sub_label":"Emirat Grenady","lineid":302,"uuid":"d16f2021-776c-45a5-99b4-f7cb5fcbbc35"}
+{"index":436,"sub_uri":"Q495382","obj_uri":"Q533374","obj_label":"Enterprise","sub_label":"Hrabstwo Wallowa","lineid":475,"uuid":"15c082a3-9c94-4c6f-b4c3-d2e3a02cc13a"}
+{"index":587,"sub_uri":"Q488701","obj_uri":"Q28271","obj_label":"Annapolis","sub_label":"Hrabstwo Anne Arundel","lineid":638,"uuid":"e94c5d7f-78fd-43e5-9b5f-c7c52615e1d9"}
+{"index":188,"sub_uri":"Q1364541","obj_uri":"Q184579","obj_label":"Bolton","sub_label":"Metropolitan Borough of Bolton","lineid":210,"uuid":"7376e1a3-959a-4173-8fec-dec0e182b527"}
+{"index":631,"sub_uri":"Q507000","obj_uri":"Q2455620","obj_label":"Many (Luizjana)","sub_label":"Parafia Sabine","lineid":690,"uuid":"5ce6866e-96e2-4935-b872-0c401d5fc8e4"}
+{"index":548,"sub_uri":"Q34","obj_uri":"Q1754","obj_label":"Sztokholm","sub_label":"Szwecja","lineid":596,"uuid":"a0106aa1-36c9-4a57-ac58-43c22b36938f"}
+{"index":207,"sub_uri":"Q484740","obj_uri":"Q959843","obj_label":"Jackson (Missouri)","sub_label":"Hrabstwo Cape Girardeau","lineid":230,"uuid":"05dab5fd-1714-4a8a-90a7-b1d9448a2296"}
+{"index":637,"sub_uri":"Q8828","obj_uri":"Q8826","obj_label":"Palma de Mallorca","sub_label":"Majorka","lineid":696,"uuid":"82a46e59-ec25-490e-814e-ac92d09ad701"}
+{"index":589,"sub_uri":"Q487016","obj_uri":"Q994144","obj_label":"Brunswick","sub_label":"Hrabstwo Glynn","lineid":640,"uuid":"8707aff8-7180-4831-9cb7-a9cb21903e5b"}
+{"index":236,"sub_uri":"Q191186","obj_uri":"Q54880","obj_label":"Valencia","sub_label":"Carabobo","lineid":261,"uuid":"69145308-5618-46c1-8387-938c5d32cc5c"}
+{"index":403,"sub_uri":"Q214504","obj_uri":"Q2363616","obj_label":"Bandar Labuan","sub_label":"Labuan","lineid":442,"uuid":"36ff4a75-7b51-4de2-b12b-555b9cf24142"}
+{"index":222,"sub_uri":"Q919071","obj_uri":"Q1353","obj_label":"Delhi","sub_label":"Chald\u017ciowie","lineid":246,"uuid":"22842c33-a2e0-463d-ad82-dbce3ba82901"}
+{"index":78,"sub_uri":"Q1439","obj_uri":"Q16559","obj_label":"Austin","sub_label":"Teksas","lineid":88,"uuid":"ebbc8828-f162-4037-a827-ba8681b2a434"}
+{"index":223,"sub_uri":"Q419","obj_uri":"Q2868","obj_label":"Lima","sub_label":"Peru","lineid":247,"uuid":"162f5598-2d57-4c15-bff8-46c537417fed"}
+{"index":155,"sub_uri":"Q484300","obj_uri":"Q955151","obj_label":"Butler","sub_label":"Hrabstwo Bates","lineid":174,"uuid":"326a42f8-17ba-4090-b989-9f83c017fcd3"}
+{"index":523,"sub_uri":"Q304791","obj_uri":"Q514457","obj_label":"Stevenson","sub_label":"Hrabstwo Skamania","lineid":571,"uuid":"0a0c4edf-8b82-4540-a398-acfcd8327329"}
+{"index":609,"sub_uri":"Q692912","obj_uri":"Q133073","obj_label":"Dunedin","sub_label":"Otago","lineid":664,"uuid":"ac807fd3-567e-4f2d-bfad-cd47b604ef3b"}
+{"index":562,"sub_uri":"Q502587","obj_uri":"Q1088317","obj_label":"Salem","sub_label":"Hrabstwo Salem","lineid":613,"uuid":"cda450a9-04c4-4a07-8b76-536890f8baa2"}
+{"index":358,"sub_uri":"Q1370","obj_uri":"Q43421","obj_label":"Richmond","sub_label":"Wirginia","lineid":393,"uuid":"210fa4bf-1e11-40e6-ac85-5c550df3a240"}
+{"index":305,"sub_uri":"Q1202","obj_uri":"Q1731","obj_label":"Drezno","sub_label":"Saksonia","lineid":336,"uuid":"81bc4597-4342-44f8-b16e-c00a0ec41387"}
+{"index":633,"sub_uri":"Q501074","obj_uri":"Q79247","obj_label":"Linden","sub_label":"Hrabstwo Marengo","lineid":692,"uuid":"d02824d2-a8d3-4eaa-9f4c-2dc813de63e2"}
+{"index":49,"sub_uri":"Q16665915","obj_uri":"Q90","obj_label":"Pary\u017c","sub_label":"M\u00e9tropole du Grand Paris","lineid":57,"uuid":"9c0cb520-22ee-455e-aa6d-6ad48326f1bc"}
+{"index":116,"sub_uri":"Q16183","obj_uri":"Q1449","obj_label":"Genua","sub_label":"Prowincja Genua","lineid":129,"uuid":"6e801e27-0557-44a7-ba66-39773a56df03"}
+{"index":154,"sub_uri":"Q1891143","obj_uri":"Q841979","obj_label":"Mansfield","sub_label":"Mansfield (dystrykt)","lineid":172,"uuid":"c2c1739c-12ca-43b6-95cb-63df07849650"}
+{"index":464,"sub_uri":"Q105313","obj_uri":"Q172157","obj_label":"Winchester","sub_label":"Wessex","lineid":506,"uuid":"8a63f77a-5be6-444e-a7ea-9f2610a608f3"}
+{"index":314,"sub_uri":"Q502393","obj_uri":"Q5675279","obj_label":"Columbia","sub_label":"Hrabstwo Maury","lineid":346,"uuid":"f20d355b-47fb-4ca6-ae96-973612bb7417"}
+{"index":184,"sub_uri":"Q10416611","obj_uri":"Q6343","obj_label":"Kartagina","sub_label":"kr\u00f3lestwo Wandal\u00f3w","lineid":205,"uuid":"03aa8f02-b5b5-4f75-a192-0e55f93627e1"}
+{"index":618,"sub_uri":"Q504385","obj_uri":"Q941870","obj_label":"Columbus","sub_label":"Hrabstwo Bartholomew","lineid":675,"uuid":"a8123365-53bf-481d-ac66-5d2538c15126"}
+{"index":62,"sub_uri":"Q54440","obj_uri":"Q28249","obj_label":"Concord","sub_label":"Hrabstwo Merrimack","lineid":72,"uuid":"f1f9426a-4e34-4540-a04e-f1634144c08b"}
+{"index":565,"sub_uri":"Q494536","obj_uri":"Q1518127","obj_label":"Jerome","sub_label":"Hrabstwo Jerome","lineid":616,"uuid":"147c0536-821a-446a-973c-2dca3793de7c"}
+{"index":424,"sub_uri":"Q2184","obj_uri":"Q649","obj_label":"Moskwa","sub_label":"Rosyjska Federacyjna Socjalistyczna Republika Radziecka","lineid":463,"uuid":"7e9cf4c3-345a-414e-9131-5bc170960085"}
+{"index":133,"sub_uri":"Q153136","obj_uri":"Q1741","obj_label":"Wiede\u0144","sub_label":"Monarchia Habsburg\u00f3w","lineid":147,"uuid":"5b8dfaaf-2dd4-46dd-90fb-367b28501197"}
+{"index":469,"sub_uri":"Q58688","obj_uri":"Q18575","obj_label":"Tucson","sub_label":"Hrabstwo Pima","lineid":511,"uuid":"5c4502b9-fa55-499b-baf7-74c7318b364c"}
+{"index":525,"sub_uri":"Q2895","obj_uri":"Q2280","obj_label":"Mi\u0144sk","sub_label":"Bia\u0142oruska Socjalistyczna Republika Radziecka","lineid":573,"uuid":"2bcde1b7-c1e8-44cc-bdf0-2253e6c8a9b4"}
+{"index":99,"sub_uri":"Q80434","obj_uri":"Q11751","obj_label":"Nagoja","sub_label":"Prefektura Aichi","lineid":109,"uuid":"d79f5817-8eee-42a0-8da1-3bab27ca0a66"}
+{"index":230,"sub_uri":"Q241748","obj_uri":"Q3711","obj_label":"Belgrad","sub_label":"Kr\u00f3lestwo Serbii","lineid":254,"uuid":"61cfe84a-7cee-4390-be9c-fd83f7905fc0"}
+{"index":487,"sub_uri":"Q25","obj_uri":"Q10690","obj_label":"Cardiff","sub_label":"Walia","lineid":530,"uuid":"0a5208ee-fbcb-4563-971a-3097e799a8db"}
+{"index":337,"sub_uri":"Q184","obj_uri":"Q2280","obj_label":"Mi\u0144sk","sub_label":"Bia\u0142oru\u015b","lineid":371,"uuid":"cdc60d45-b23a-44d8-aa93-8921639a912e"}
+{"index":463,"sub_uri":"Q2513167","obj_uri":"Q47716","obj_label":"Charleston","sub_label":"Prowincja Karoliny Po\u0142udniowej","lineid":505,"uuid":"924d1a80-1faf-43b6-a982-c712dfeff7a2"}
+{"index":356,"sub_uri":"Q56152","obj_uri":"Q868660","obj_label":"Kingston","sub_label":"Hrabstwo Ulster","lineid":391,"uuid":"ad1bee32-f537-48b7-b22b-af93f998eb7f"}
+{"index":417,"sub_uri":"Q1116","obj_uri":"Q12892","obj_label":"Antwerpia","sub_label":"Prowincja Antwerpia","lineid":456,"uuid":"39518246-9bcb-48e3-84a6-40bc26338391"}
+{"index":411,"sub_uri":"Q490112","obj_uri":"Q954894","obj_label":"Lebanon","sub_label":"Hrabstwo Laclede","lineid":450,"uuid":"4e380895-4ba1-4783-a41b-75b3e7a9c7c4"}
+{"index":33,"sub_uri":"Q312731","obj_uri":"Q675576","obj_label":"Pueblo","sub_label":"Hrabstwo Pueblo","lineid":38,"uuid":"f30356c9-8809-4e64-9129-6c8a664bea03"}
+{"index":84,"sub_uri":"Q496758","obj_uri":"Q602520","obj_label":"Hamilton","sub_label":"Hrabstwo Ravalli","lineid":94,"uuid":"b3b98acd-9c68-44f3-8975-53b51aa2573c"}
+{"index":460,"sub_uri":"Q16310","obj_uri":"Q641","obj_label":"Wenecja","sub_label":"Prowincja Wenecja","lineid":501,"uuid":"2c8fbfa6-ab45-410c-806a-64c8a3acb32c"}
+{"index":260,"sub_uri":"Q207162","obj_uri":"Q90","obj_label":"Pary\u017c","sub_label":"Restauracja Burbon\u00f3w","lineid":287,"uuid":"dfa191ac-e374-4938-8f57-49aa4626b18b"}
+{"index":415,"sub_uri":"Q477951","obj_uri":"Q2102518","obj_label":"Gibson (Georgia)","sub_label":"Hrabstwo Glascock","lineid":454,"uuid":"de42a28d-7ac9-46fa-aadc-34f8c7652531"}
+{"index":377,"sub_uri":"Q16287","obj_uri":"Q495","obj_label":"Turyn","sub_label":"Prowincja Turyn","lineid":414,"uuid":"884b9b99-0bfc-4b8e-a0cc-2c90411611f7"}
+{"index":529,"sub_uri":"Q201073","obj_uri":"Q19689","obj_label":"Tirana","sub_label":"Okr\u0119g Tirana","lineid":577,"uuid":"3bbad837-029e-4c0f-971a-45e45581ecba"}
+{"index":493,"sub_uri":"Q658527","obj_uri":"Q5687","obj_label":"Jerycho","sub_label":"Jerycho","lineid":538,"uuid":"82d3c701-7ff4-47f3-aa3c-97abccf3fe2b"}
+{"index":203,"sub_uri":"Q494636","obj_uri":"Q3292481","obj_label":"Athens","sub_label":"Hrabstwo McMinn","lineid":226,"uuid":"402d102a-ad79-42e6-b291-1be3c2130cb1"}
+{"index":118,"sub_uri":"Q10544","obj_uri":"Q1726","obj_label":"Monachium","sub_label":"Powiat Monachium","lineid":131,"uuid":"7a07a267-5124-4530-8e02-2ea950d6ea87"}
+{"index":68,"sub_uri":"Q2484819","obj_uri":"Q168954","obj_label":"Trypolis","sub_label":"Dystrykt Trypolis","lineid":78,"uuid":"e738ee4b-139b-438e-89df-de4506a67216"}
+{"index":537,"sub_uri":"Q484156","obj_uri":"Q983438","obj_label":"Douglas","sub_label":"Hrabstwo Converse","lineid":585,"uuid":"df1b5711-98d2-4bea-b853-465012e3e3f9"}
+{"index":298,"sub_uri":"Q511106","obj_uri":"Q755566","obj_label":"Salisbury","sub_label":"Hrabstwo Wicomico","lineid":328,"uuid":"9de7ce37-4f0e-4ffe-a75d-6ca40ef28807"}
+{"index":328,"sub_uri":"Q8177","obj_uri":"Q2966","obj_label":"Heidelberg","sub_label":"Rhein-Neckar-Kreis","lineid":361,"uuid":"c372481a-3c15-4a0e-a071-97b6132a8fd7"}
+{"index":242,"sub_uri":"Q13160","obj_uri":"Q9022","obj_label":"Guadalajara","sub_label":"Jalisco","lineid":267,"uuid":"ce895422-a4c2-41a8-947b-a141874b3016"}
+{"index":270,"sub_uri":"Q1261","obj_uri":"Q16554","obj_label":"Denver","sub_label":"Kolorado","lineid":300,"uuid":"dee75c5a-9283-4298-9594-17e150dc0484"}
+{"index":239,"sub_uri":"Q894092","obj_uri":"Q743521","obj_label":"Scarborough","sub_label":"Scarborough (borough)","lineid":264,"uuid":"c8a23d0a-2a12-44ab-9082-0270f0c340fc"}
+{"index":225,"sub_uri":"Q854","obj_uri":"Q35381","obj_label":"Kolombo","sub_label":"Sri Lanka","lineid":249,"uuid":"93dd6a19-dc17-4af9-a84e-ad1e87f873ca"}
+{"index":70,"sub_uri":"Q189592","obj_uri":"Q609235","obj_label":"Antrim (Irlandia P\u00f3\u0142nocna)","sub_label":"Hrabstwo Antrim","lineid":80,"uuid":"b9444d09-c8db-4ccb-9d5b-614e09f90747"}
+{"index":182,"sub_uri":"Q1210","obj_uri":"Q490","obj_label":"Mediolan","sub_label":"Lombardia","lineid":203,"uuid":"fd4747c1-d4d2-44c6-b97e-de6f6d6f05b0"}
+{"index":381,"sub_uri":"Q502543","obj_uri":"Q2316365","obj_label":"Atlanta","sub_label":"Hrabstwo Montmorency","lineid":418,"uuid":"dca6c20b-32e2-4d20-8a7e-727e036247f4"}
+{"index":556,"sub_uri":"Q1397","obj_uri":"Q16567","obj_label":"Columbus","sub_label":"Ohio","lineid":606,"uuid":"95cff64c-bd04-4b8f-b9b4-c47ee2693c82"}
+{"index":229,"sub_uri":"Q81931","obj_uri":"Q29364","obj_label":"Montgomery","sub_label":"Skonfederowane Stany Ameryki","lineid":253,"uuid":"20fbf8a0-ceb0-448b-be84-6b08cd065fbf"}
+{"index":279,"sub_uri":"Q23103","obj_uri":"Q201970","obj_label":"Shrewsbury","sub_label":"Shropshire","lineid":309,"uuid":"d2d83568-520a-41e0-be1a-b5cf2277ca59"}
+{"index":265,"sub_uri":"Q4948","obj_uri":"Q641","obj_label":"Wenecja","sub_label":"Republika Wenecka","lineid":294,"uuid":"72b0438e-0fba-4074-944f-b86d50ee5c8f"}
+{"index":132,"sub_uri":"Q494751","obj_uri":"Q2171593","obj_label":"Livingston","sub_label":"Hrabstwo Overton","lineid":146,"uuid":"75e264d4-04ee-42e4-8624-9be5681be4a2"}
+{"index":126,"sub_uri":"Q1185","obj_uri":"Q1355","obj_label":"Bengaluru","sub_label":"Karnataka","lineid":140,"uuid":"554c9a0f-74d4-497a-8e17-2a0cb373497a"}
+{"index":552,"sub_uri":"Q2425849","obj_uri":"Q36405","obj_label":"Aberdeen","sub_label":"Aberdeen","lineid":601,"uuid":"e8b3e0f1-0679-48be-b3d0-62eafcdf4366"}
+{"index":167,"sub_uri":"Q1240096","obj_uri":"Q1361","obj_label":"Hajdarabad","sub_label":"Hajdarabad","lineid":187,"uuid":"c1b6d7e4-6270-46e7-ae7c-aa4a7e0b1b2b"}
+{"index":117,"sub_uri":"Q865","obj_uri":"Q1867","obj_label":"Tajpej","sub_label":"Republika Chi\u0144ska","lineid":130,"uuid":"a3d669a9-4ee4-4b91-8b6c-415b84daf598"}
+{"index":480,"sub_uri":"Q42585","obj_uri":"Q1085","obj_label":"Praga","sub_label":"Kr\u00f3lestwo Czech","lineid":523,"uuid":"669632a7-16d3-4168-b1da-1af84e791e57"}
+{"index":507,"sub_uri":"Q177819","obj_uri":"Q5715","obj_label":"Memfis","sub_label":"Stare Pa\u0144stwo","lineid":553,"uuid":"5febc620-38bb-429f-8bcd-ebba49711070"}
+{"index":516,"sub_uri":"Q497880","obj_uri":"Q2343167","obj_label":"Hampton","sub_label":"Hrabstwo Hampton","lineid":563,"uuid":"71abdd70-d330-4483-94ad-44cb4d8ece79"}
+{"index":334,"sub_uri":"Q1124402","obj_uri":"Q1353","obj_label":"Delhi","sub_label":"Tughlakowie","lineid":368,"uuid":"c4a21ea1-52ba-47d4-b177-4a7be87c66c8"}
+{"index":293,"sub_uri":"Q489935","obj_uri":"Q1000148","obj_label":"Eaton","sub_label":"Hrabstwo Preble","lineid":323,"uuid":"1111cc4a-db81-401b-84ee-1435f4f68c6e"}
+{"index":66,"sub_uri":"Q759","obj_uri":"Q28249","obj_label":"Concord","sub_label":"New Hampshire","lineid":76,"uuid":"4d6baed8-446a-43d1-8439-9ddc6505575d"}
+{"index":157,"sub_uri":"Q99","obj_uri":"Q18013","obj_label":"Sacramento","sub_label":"Kalifornia","lineid":176,"uuid":"9a110dfc-6a1e-4a37-adf9-60ee8a413ae4"}
+{"index":16,"sub_uri":"Q207272","obj_uri":"Q270","obj_label":"Warszawa","sub_label":"II Rzeczpospolita","lineid":18,"uuid":"441512f3-e1ed-4fea-a959-8128db18fc31"}
+{"index":433,"sub_uri":"Q1617382","obj_uri":"Q49191","obj_label":"Portsmouth","sub_label":"Prowincja New Hampshire","lineid":472,"uuid":"c8688297-4314-48af-beed-440aa682bce9"}
+{"index":61,"sub_uri":"Q34366","obj_uri":"Q40191","obj_label":"Hobart","sub_label":"Tasmania","lineid":71,"uuid":"f96afb16-1b86-439b-b073-72d7fe9eb84e"}
+{"index":215,"sub_uri":"Q23140","obj_uri":"Q549761","obj_label":"Warwick","sub_label":"Warwickshire","lineid":238,"uuid":"73b0a3dd-55a6-4ede-ae60-015a6a84fc0a"}
+{"index":6,"sub_uri":"Q177562","obj_uri":"Q80517","obj_label":"Shreveport","sub_label":"Parafia Caddo","lineid":7,"uuid":"454ec3b3-01a1-4044-aa21-78d96ec169e7"}
+{"index":67,"sub_uri":"Q171852","obj_uri":"Q1874","obj_label":"Odessa","sub_label":"obw\u00f3d odeski","lineid":77,"uuid":"c1a95036-acb4-40dd-b227-fda918ef7d5c"}
+{"index":276,"sub_uri":"Q38","obj_uri":"Q220","obj_label":"Rzym","sub_label":"W\u0142ochy","lineid":306,"uuid":"11a1b37e-dab9-4913-8ecb-c116b0af0e09"}
+{"index":620,"sub_uri":"Q894079","obj_uri":"Q209096","obj_label":"Burnley","sub_label":"Burnley (borough)","lineid":678,"uuid":"5c35371d-58b6-429e-b832-d63cc54600ec"}
+{"index":193,"sub_uri":"Q12717","obj_uri":"Q6602","obj_label":"Strasburg","sub_label":"Dolny Ren","lineid":215,"uuid":"858ec8d0-144d-41b9-9c29-98eb4c0580c5"}
+{"index":54,"sub_uri":"Q23105","obj_uri":"Q826782","obj_label":"Stafford","sub_label":"Staffordshire","lineid":63,"uuid":"51d8687a-c539-418f-bef6-3ba6cf9e4757"}
+{"index":112,"sub_uri":"Q834486","obj_uri":"Q131694","obj_label":"Aden","sub_label":"Federacja Arabii Po\u0142udniowej","lineid":124,"uuid":"88294eaa-80d4-4d43-8990-c8cecc659c7f"}
+{"index":462,"sub_uri":"Q1773517","obj_uri":"Q994","obj_label":"Tbilisi","sub_label":"Gubernia tyfliska","lineid":504,"uuid":"a8b8887e-cc80-466c-9f4f-fd1ff966fd7a"}
+{"index":630,"sub_uri":"Q27306","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Kr\u00f3lestwo Prus","lineid":689,"uuid":"21b4be99-2acf-42f9-9df7-ae5f56b94b3b"}
+{"index":211,"sub_uri":"Q203049","obj_uri":"Q813247","obj_label":"Beatrice (Nebraska)","sub_label":"Hrabstwo Gage","lineid":234,"uuid":"471efd4f-104d-4778-9f91-2e857451a103"}
+{"index":217,"sub_uri":"Q148540","obj_uri":"Q2044","obj_label":"Florencja","sub_label":"Republika Florencka","lineid":240,"uuid":"0c8ef226-720f-4983-82a5-b415df12b7d5"}
+{"index":198,"sub_uri":"Q1989","obj_uri":"Q2123","obj_label":"Regina","sub_label":"Saskatchewan","lineid":220,"uuid":"2a735d72-5172-4f50-ac6a-8242b991029d"}
+{"index":32,"sub_uri":"Q71092","obj_uri":"Q90","obj_label":"Pary\u017c","sub_label":"II Cesarstwo Francuskie","lineid":37,"uuid":"2b9bae59-f465-4ec8-acb5-e80a7902f605"}
+{"index":8,"sub_uri":"Q23204","obj_uri":"Q172157","obj_label":"Winchester","sub_label":"Hampshire","lineid":9,"uuid":"475ea259-014d-42d0-8a86-e3431f52b6a8"}
+{"index":142,"sub_uri":"Q487704","obj_uri":"Q18094","obj_label":"Honolulu","sub_label":"Hrabstwo Honolulu","lineid":156,"uuid":"eeb6ca0d-a46c-43d0-9f99-963f898c196e"}
+{"index":617,"sub_uri":"Q1510035","obj_uri":"Q36433","obj_label":"Porto","sub_label":"Wielkie Porto","lineid":673,"uuid":"3494a19e-3929-406a-8f2d-1da889d9f3fb"}
+{"index":169,"sub_uri":"Q468557","obj_uri":"Q8652","obj_label":"Miami","sub_label":"Hrabstwo Miami-Dade","lineid":189,"uuid":"7d62cb1c-539f-414d-9878-fcdb84dcee7e"}
+{"index":542,"sub_uri":"Q1140829","obj_uri":"Q900","obj_label":"Kaza\u0144","sub_label":"Tatarska Autonomiczna Socjalistyczna Republika Radziecka","lineid":590,"uuid":"14c2c3db-248d-4fd0-a26a-2b9204f75629"}
+{"index":20,"sub_uri":"Q657004","obj_uri":"Q79990","obj_label":"Christchurch","sub_label":"Canterbury","lineid":23,"uuid":"e3a4d929-e59a-4764-8b47-0d88e79bcbbe"}
+{"index":496,"sub_uri":"Q37211","obj_uri":"Q8660","obj_label":"Karaczi","sub_label":"Sindh","lineid":541,"uuid":"9211b122-bbb6-4917-bcc1-24d7409aea0b"}
+{"index":575,"sub_uri":"Q83286","obj_uri":"Q3711","obj_label":"Belgrad","sub_label":"Socjalistyczna Federacyjna Republika Jugos\u0142awii","lineid":626,"uuid":"da83301e-b283-499e-a86f-bbd377c87520"}
+{"index":162,"sub_uri":"Q1438","obj_uri":"Q2634","obj_label":"Neapol","sub_label":"Kampania","lineid":182,"uuid":"d8a23cef-e0ce-43df-a428-bd8a9363c6bd"}
+{"index":262,"sub_uri":"Q928","obj_uri":"Q1461","obj_label":"Manila","sub_label":"Filipiny","lineid":289,"uuid":"4036d7f0-9b07-4e0f-a903-cf6571ed67f6"}
+{"index":510,"sub_uri":"Q192761","obj_uri":"Q193452","obj_label":"Armagh","sub_label":"Hrabstwo Armagh","lineid":556,"uuid":"01ddc284-5dcb-401e-98b8-8b155c4dd53b"}
+{"index":598,"sub_uri":"Q178341","obj_uri":"Q2350996","obj_label":"Webster","sub_label":"Hrabstwo Day","lineid":649,"uuid":"03994925-9523-4fe5-92f8-e8b498d48a63"}
+{"index":131,"sub_uri":"Q115551","obj_uri":"Q670929","obj_label":"Eagle","sub_label":"Hrabstwo Eagle","lineid":145,"uuid":"d5df8187-69a8-453e-8266-0f123700e0e8"}
+{"index":149,"sub_uri":"Q184599","obj_uri":"Q209126","obj_label":"Wexford","sub_label":"Wexford","lineid":166,"uuid":"04b684bc-bcd7-42da-bb55-4bf22fbcf5c1"}
+{"index":92,"sub_uri":"Q1400","obj_uri":"Q25280","obj_label":"Harrisburg","sub_label":"Pensylwania","lineid":102,"uuid":"69cf5dd6-73a8-4a99-94a8-6dd55fc88778"}
+{"index":378,"sub_uri":"Q9337","obj_uri":"Q239","obj_label":"Bruksela","sub_label":"Region Flamandzki","lineid":415,"uuid":"9aae7e8e-8992-44e3-9c83-e9f105ff5072"}
+{"index":531,"sub_uri":"Q337402","obj_uri":"Q1022973","obj_label":"Crowley","sub_label":"Parafia Acadia","lineid":579,"uuid":"758d32c2-4516-429c-b5bb-a42b65987f72"}
+{"index":343,"sub_uri":"Q458","obj_uri":"Q6602","obj_label":"Strasburg","sub_label":"Unia Europejska","lineid":377,"uuid":"a2b321ce-ef2d-4f51-88e4-70bfb2c0f83b"}
+{"index":25,"sub_uri":"Q61138","obj_uri":"Q79446","obj_label":"Camden","sub_label":"Hrabstwo Ouachita","lineid":29,"uuid":"88cb7951-a602-4add-89ad-55ea4d0ed62e"}
+{"index":438,"sub_uri":"Q161036","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Prusy","lineid":477,"uuid":"6c48d395-18b7-48c1-9c1f-986ba3b8677b"}
+{"index":534,"sub_uri":"Q118743","obj_uri":"Q2054204","obj_label":"Parsons","sub_label":"Hrabstwo Tucker","lineid":582,"uuid":"78549aad-7ec6-46cb-9693-40aca7e9b797"}
+{"index":342,"sub_uri":"Q1751495","obj_uri":"Q1780","obj_label":"Bratys\u0142awa","sub_label":"S\u0142owacka Republika Socjalistyczna","lineid":376,"uuid":"08422523-29ad-4868-9096-4ef4d2f08768"}
+{"index":108,"sub_uri":"Q483982","obj_uri":"Q39042","obj_label":"Cheyenne","sub_label":"Hrabstwo Laramie","lineid":120,"uuid":"2509ab98-ec43-4d6c-bbec-22eb9660ea0c"}
+{"index":526,"sub_uri":"Q174306","obj_uri":"Q1449","obj_label":"Genua","sub_label":"Republika Genui","lineid":574,"uuid":"2a3e3348-e56b-47f5-a6db-5320296ad332"}
+{"index":76,"sub_uri":"Q48026","obj_uri":"Q23154","obj_label":"Bristol","sub_label":"South West England","lineid":86,"uuid":"7082e5f5-ec5c-42b1-af4a-82850bb9b4de"}
+{"index":638,"sub_uri":"Q23109","obj_uri":"Q130191","obj_label":"Norwich","sub_label":"Norfolk","lineid":697,"uuid":"c1ebfae8-e883-4736-b5e2-5fcb964bc628"}
+{"index":36,"sub_uri":"Q504397","obj_uri":"Q153183","obj_label":"Graham","sub_label":"Hrabstwo Alamance","lineid":42,"uuid":"2f9fbd1f-724d-42a7-8cb3-cf8375510fb1"}
+{"index":163,"sub_uri":"Q495414","obj_uri":"Q3458928","obj_label":"Vale","sub_label":"Hrabstwo Malheur","lineid":183,"uuid":"60f45979-425f-428e-beb4-5bca3c935b1f"}
+{"index":449,"sub_uri":"Q1387","obj_uri":"Q18383","obj_label":"Providence","sub_label":"Rhode Island","lineid":489,"uuid":"75ba052f-521e-4acb-99b6-3ea153630873"}
+{"index":5,"sub_uri":"Q18677983","obj_uri":"Q6602","obj_label":"Strasburg","sub_label":"Grand Est","lineid":6,"uuid":"2df52b5c-d16d-4517-9df2-913fee016efa"}
+{"index":428,"sub_uri":"Q23082","obj_uri":"Q179815","obj_label":"Durham","sub_label":"Durham","lineid":467,"uuid":"4238c59b-d2b5-48fb-beef-af6288542225"}
+{"index":120,"sub_uri":"Q613","obj_uri":"Q612","obj_label":"Dubaj","sub_label":"Dubaj","lineid":134,"uuid":"f7f31274-fe40-4c41-adb2-03fe5392b084"}
+{"index":639,"sub_uri":"Q1342914","obj_uri":"Q179406","obj_label":"Grimsby","sub_label":"North East Lincolnshire","lineid":698,"uuid":"866f10ce-dfe3-4620-a8c9-1902f5ee7eb3"}
+{"index":121,"sub_uri":"Q28311","obj_uri":"Q1772493","obj_label":"Crosby","sub_label":"Hrabstwo Divide","lineid":135,"uuid":"3e98b48d-9983-4664-88f6-088b6b280dbc"}
+{"index":206,"sub_uri":"Q27","obj_uri":"Q1761","obj_label":"Dublin","sub_label":"Irlandia","lineid":229,"uuid":"3ff99e65-058c-494f-b452-d0af6f901017"}
+{"index":13,"sub_uri":"Q1094110","obj_uri":"Q192896","obj_label":"Carlisle","sub_label":"City of Carlisle","lineid":15,"uuid":"074fd4a8-66ab-4b78-ae5f-b77fa9b82662"}
+{"index":543,"sub_uri":"Q124943","obj_uri":"Q85","obj_label":"Kair","sub_label":"Kr\u00f3lestwo Egiptu","lineid":591,"uuid":"4a2fbd04-8e84-40ed-b3ca-5a2bdd89251b"}
+{"index":82,"sub_uri":"Q501151","obj_uri":"Q2416565","obj_label":"Greenville","sub_label":"Hrabstwo Meriwether","lineid":92,"uuid":"5666a013-25ef-4031-9cdb-a9c904e9b2e7"}
+{"index":221,"sub_uri":"Q502503","obj_uri":"Q2022826","obj_label":"Oxford","sub_label":"Hrabstwo Granville","lineid":245,"uuid":"b87cb82f-5d7a-4e2c-9a2d-d262ea4e6f76"}
+{"index":402,"sub_uri":"Q21","obj_uri":"Q84","obj_label":"Londyn","sub_label":"Anglia","lineid":441,"uuid":"ffe7fc87-597a-432b-b8a0-d393eb046dad"}
+{"index":58,"sub_uri":"Q15180","obj_uri":"Q649","obj_label":"Moskwa","sub_label":"Zwi\u0105zek Socjalistycznych Republik Radzieckich","lineid":68,"uuid":"d6fafc6b-6cb0-4542-bf60-48d5d8343814"}
+{"index":431,"sub_uri":"Q12544","obj_uri":"Q16869","obj_label":"Konstantynopol","sub_label":"Cesarstwo Bizanty\u0144skie","lineid":470,"uuid":"71f43685-0886-4a99-a808-dd8cd2d893e0"}
+{"index":485,"sub_uri":"Q211","obj_uri":"Q1773","obj_label":"Ryga","sub_label":"\u0141otwa","lineid":528,"uuid":"36e519d0-8b4c-4a69-868c-97aebcd5689f"}
+{"index":97,"sub_uri":"Q188161","obj_uri":"Q3630","obj_label":"D\u017cakarta","sub_label":"Holenderskie Indie Wschodnie","lineid":107,"uuid":"532ecbb8-911d-4d79-88e9-3b74cb1298ed"}
+{"index":175,"sub_uri":"Q3206","obj_uri":"Q3183","obj_label":"Perth","sub_label":"Australia Zachodnia","lineid":196,"uuid":"b1321783-f435-40b6-8b99-9ba1a292e8e3"}
+{"index":450,"sub_uri":"Q109709","obj_uri":"Q668546","obj_label":"Davis","sub_label":"Hrabstwo Yolo","lineid":490,"uuid":"7ec42ef7-4a33-45d7-bfd3-3212a99c60dd"}
+{"index":476,"sub_uri":"Q374604","obj_uri":"Q606988","obj_label":"Pratt","sub_label":"Hrabstwo Pratt","lineid":518,"uuid":"f23de1f0-8839-4525-8e9a-fa74f68b6a4f"}
+{"index":321,"sub_uri":"Q485213","obj_uri":"Q839802","obj_label":"Fulton","sub_label":"Hrabstwo Callaway","lineid":354,"uuid":"bd5d63aa-854e-49cb-96d8-8132eb62ec73"}
+{"index":263,"sub_uri":"Q1425322","obj_uri":"Q900","obj_label":"Kaza\u0144","sub_label":"Gubernia kaza\u0144ska","lineid":290,"uuid":"3287017a-ce5d-4103-9f9f-d2d1e5b8137a"}
+{"index":311,"sub_uri":"Q23111","obj_uri":"Q184775","obj_label":"Ipswich","sub_label":"Suffolk","lineid":343,"uuid":"730ee959-2dec-430b-ba0e-16399009eb2c"}
+{"index":481,"sub_uri":"Q1697","obj_uri":"Q649","obj_label":"Moskwa","sub_label":"Obw\u00f3d moskiewski","lineid":524,"uuid":"933a7b35-baa8-419e-bb5f-7986c34b9932"}
+{"index":161,"sub_uri":"Q796","obj_uri":"Q1530","obj_label":"Bagdad","sub_label":"Irak","lineid":181,"uuid":"6174d316-33a4-4851-9101-e0ba00d4e88a"}
+{"index":363,"sub_uri":"Q131337","obj_uri":"Q9248","obj_label":"Baku","sub_label":"Azerbejd\u017ca\u0144ska Socjalistyczna Republika Radziecka","lineid":398,"uuid":"ca74b6b9-6a01-46e8-ae8b-4dabf8a1528c"}
+{"index":520,"sub_uri":"Q485646","obj_uri":"Q685335","obj_label":"Portsmouth","sub_label":"Hrabstwo Scioto","lineid":568,"uuid":"131166b0-6169-4e1e-a243-c26f1bce4e92"}
+{"index":146,"sub_uri":"Q22","obj_uri":"Q23436","obj_label":"Edynburg","sub_label":"Szkocja","lineid":162,"uuid":"8e839b14-3d8c-470b-afc1-d439515910c3"}
+{"index":387,"sub_uri":"Q50625","obj_uri":"Q26793","obj_label":"Bergen","sub_label":"Hordaland","lineid":425,"uuid":"613cb597-803f-42dc-a928-fedb1f025006"}
+{"index":24,"sub_uri":"Q55095","obj_uri":"Q235","obj_label":"Monako","sub_label":"La Condamine","lineid":28,"uuid":"81ad99cc-6d5e-48aa-ab8a-8cd91fdec383"}
+{"index":341,"sub_uri":"Q12771","obj_uri":"Q807","obj_label":"Lozanna","sub_label":"Vaud","lineid":375,"uuid":"7c072b56-cd94-4355-9e0d-fce4c7cc2bbd"}
+{"index":503,"sub_uri":"Q47967","obj_uri":"Q18125","obj_label":"Manchester","sub_label":"North West England","lineid":548,"uuid":"20d871a5-9096-4d94-b661-7079dfecc6f3"}
+{"index":22,"sub_uri":"Q1951","obj_uri":"Q2096","obj_label":"Edmonton","sub_label":"Alberta","lineid":26,"uuid":"b29289d1-a758-43f2-9561-773f8c1d9efb"}
+{"index":626,"sub_uri":"Q495344","obj_uri":"Q944507","obj_label":"Pendleton","sub_label":"Hrabstwo Umatilla","lineid":685,"uuid":"ba5c0a6a-2a54-4ea1-9919-f54a0e0f2aaf"}
+{"index":86,"sub_uri":"Q191075","obj_uri":"Q1530","obj_label":"Bagdad","sub_label":"Bagdad","lineid":96,"uuid":"00778e74-5e07-49fd-8eaf-770382192a46"}
+{"index":412,"sub_uri":"Q617375","obj_uri":"Q34664","obj_label":"Hiroszima","sub_label":"Prefektura Hiroszima","lineid":451,"uuid":"2cad7f6f-ff03-45aa-866b-5eb8a3ae38ad"}
+{"index":615,"sub_uri":"Q37","obj_uri":"Q216","obj_label":"Wilno","sub_label":"Litwa","lineid":671,"uuid":"70ab1e7b-d90d-4778-be18-cccf7f412c42"}
+{"index":102,"sub_uri":"Q188801","obj_uri":"Q288781","obj_label":"Kensington","sub_label":"Royal Borough of Kensington and Chelsea","lineid":113,"uuid":"cc29b37b-cecc-4464-b23b-2c1b71b27ad2"}
+{"index":256,"sub_uri":"Q215530","obj_uri":"Q1761","obj_label":"Dublin","sub_label":"Kr\u00f3lestwo Irlandii","lineid":282,"uuid":"d75ae4dc-f3c3-4337-9456-0e2f6ddcd55e"}
+{"index":327,"sub_uri":"Q191670","obj_uri":"Q19660","obj_label":"Bukareszt","sub_label":"Okr\u0119g Ilfov","lineid":360,"uuid":"857dcc93-25ba-4ad2-8032-142148144fc4"}

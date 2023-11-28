@@ -17,7 +17,8 @@ class PromptClassifier:
                  tokenizer,
                  device: str,
                  batch_size: int,
-                 cls: str):
+                 cls: str,
+                 cls_what: str):
         """
             Args:
                 model (HuggingFace model) model used to compute NLL & Perplexity
@@ -29,8 +30,11 @@ class PromptClassifier:
         assert cls in ['last_nll', 
                        'last_perplexity',
                        'linear_nn',
-                       'logistic_reg']
+                       'logistic_reg',
+                       'last_nll_reg',
+                       'cluster-pca']
         self.cls = cls
+        self.cls_what = cls_what
         
         # init threshold
         self.threshold = 0.
@@ -94,7 +98,7 @@ class PromptClassifier:
                 "results",
                 "cls",
                 f"{self.cls}",
-                f"{self.model_name}_roc_curve.png"
+                f"{self.model_name}_{self.cls_what}_roc_curve.png"
             )
         )
         plt.close()
@@ -129,7 +133,7 @@ class PromptClassifier:
         thresholds, fprs, tprs = self.compute_roc_curve(dataset = dataset)
         optimal_value = - np.inf
         for k, thresh in enumerate(thresholds):
-            val = tpr_coeff * tprs[k] * (1 - tpr_coeff) * fprs[k]
+            val = tpr_coeff * tprs[k] - (1 - tpr_coeff) * fprs[k]
             if optimal_value < val:
                 self.threshold = thresh
                 self.tpr = tprs[k]
@@ -200,9 +204,9 @@ class PromptClassifier:
             
             print("last_nll_mean ", self.last_nll_mean)
             return
-        elif self.cls in ['logistic_reg']:
-            if self.cls == 'logistic_reg':
-                self.reg = LogisticRegression()
+        elif self.cls in ['logistic_reg', 'last_nll_reg']:
+            
+            self.reg = LogisticRegression()
                 
             input_ids0 = dataset['0']
             input_ids1 = dataset['1']
@@ -210,7 +214,10 @@ class PromptClassifier:
             res0 = self._compute_nll_perplexity(input_ids = input_ids0)
             res1 = self._compute_nll_perplexity(input_ids = input_ids1)
             
-            X = torch.cat((res0['nll'][:,1:-1], res1['nll'][:,1:-1]))
+            if self.cls == 'logistic_reg':
+                X = torch.cat((res0['nll'][:,1:-1], res1['nll'][:,1:-1]))
+            elif self.cls == 'last_nll_reg':
+                X = torch.cat((res0['nll'][:,-2].view(-1,1), res1['nll'][:,-2].view(-1,1)))
             y = torch.cat((torch.zeros(input_ids0.shape[0]), 
                            torch.ones(input_ids1.shape[0])))
             
@@ -227,7 +234,7 @@ class PromptClassifier:
             Compute tp, fp, etc...
         """
         
-        if self.cls in ['last_nll', 'last_perplexity', 'logistic_reg']:
+        if self.cls in ['last_nll', 'last_perplexity', 'logistic_reg', 'last_nll_reg']:
             # non-prompt
             preds0 = self.predict(input_ids = dataset['0']) # shape (DS)
             targets0 = torch.zeros_like(preds0)
@@ -257,17 +264,34 @@ class PromptClassifier:
             
             preds = torch.zeros(input_ids.shape[0])
             
+            # Fetch [SEP] token id
+            batch_idx, sep_idx = torch.where(input_ids == self.tokenizer.sep_token_id)
+            
             if self.cls == 'last_nll':
-                preds[torch.where( res['nll'][:,-2] < (1 - self.threshold)*self.last_nll_mean )[0]] = 1
+                #preds[torch.where( res['nll'][:,-2] < (1 - self.threshold)*self.last_nll_mean )[0]] = 1
+                try:
+                    preds[torch.where( res['nll'][batch_idx, sep_idx - 1] < (1 - self.threshold)*self.last_nll_mean )[0]] = 1
+                except:
+                    print("error")
+                    print('batch_idx')
+                    print(batch_idx)
+                    print('sep_idx')
+                    print(sep_idx)
+                    print('nll')
+                    print(res['nll'])
+                    exit(0)
             elif self.cls == 'last_perplexity':
                 preds[torch.where( res['perplexity'][:,-2] < (1 - self.threshold)*self.last_nll_mean )[0]] = 1
             return preds
 
-        elif self.cls == 'logistic_reg':
+        elif self.cls in ['logistic_reg', 'last_nll_reg']:
             
             res = self._compute_nll_perplexity(input_ids = input_ids)
             
-            preds = self.reg.predict_proba( res['nll'][:,1:-1].numpy() )
+            if self.cls == 'logistic_reg':
+                preds = self.reg.predict_proba( res['nll'][:,1:-1].numpy() )
+            elif self.cls == 'last_nll_reg':
+                preds = self.reg.predict_proba( res['nll'][:,-2].view(-1,1).numpy() )
             
             return 1.*(torch.tensor(preds) >= self.threshold)
     
@@ -324,9 +348,15 @@ class PromptClassifier:
         H = - (probs * torch.log(probs)).sum(axis = 1) # entropy base e
         return torch.exp(H) # shape BS
     
-    def tokenize(self, sentences: list) -> torch.Tensor:
-        sentences_tok = [
-                            [self.token2id['[CLS]']] + [self.token2id[tok] for tok in sentence.split(' ')] + [self.token2id['[SEP]']]\
-                            for sentence in sentences
-                        ]
-        return torch.tensor(sentences_tok)
+    def tokenize(self, sentences: list, autoprompt: bool = False) -> torch.Tensor:
+        if autoprompt:
+            sentences_tok = [
+                                [self.token2id['[CLS]']] + [self.token2id[tok] for tok in sentence.split(' ')] + [self.token2id['[SEP]']]\
+                                for sentence in sentences
+                            ]
+            return torch.tensor(sentences_tok)
+        else:
+            encodings = self.tokenizer(sentences, padding = True, return_tensors = 'pt')
+            input_ids = encodings.input_ids
+            return input_ids
+        

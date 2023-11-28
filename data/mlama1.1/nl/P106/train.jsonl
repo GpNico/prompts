@@ -1,0 +1,756 @@
+{"index":666,"sub_uri":"Q3543736","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Alisa Reyes","lineid":675,"uuid":"d732c39f-e03a-42e8-b9ef-04af41c5a745"}
+{"index":720,"sub_uri":"Q1602312","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Mark Andrew Green","lineid":729,"uuid":"4f12e235-2bcc-4f5e-8856-765b5eab5098"}
+{"index":364,"sub_uri":"Q5216345","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Daniel Abineri","lineid":370,"uuid":"31fb0f03-4c14-4a4f-bc70-86cae8712987"}
+{"index":347,"sub_uri":"Q1896776","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Paul Hellyer","lineid":353,"uuid":"d56e47d9-2556-498b-9c77-36889ab7ec0f"}
+{"index":98,"sub_uri":"Q6077558","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Isabel Bassett","lineid":98,"uuid":"2007a776-11f0-4a6d-aab8-bef228a36475"}
+{"index":658,"sub_uri":"Q4777685","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Anu Choudhury","lineid":667,"uuid":"3e9bb6c9-a5b7-44ae-8f76-6923bf2a1a68"}
+{"index":628,"sub_uri":"Q7560899","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Sondra Gotlieb","lineid":637,"uuid":"71bd3bfb-3c90-44a6-a84f-4e21bd928bdc"}
+{"index":741,"sub_uri":"Q338177","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Jack Wild","lineid":751,"uuid":"81440f17-1231-4ade-9faf-ddfefd46c3f1"}
+{"index":224,"sub_uri":"Q8062173","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Yuvraj Hans","lineid":228,"uuid":"b247392f-221a-4cd8-b951-b8508b2fbbb1"}
+{"index":921,"sub_uri":"Q297032","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Georgi Lvov","lineid":933,"uuid":"452d3302-ed76-48f1-a1ab-379ddd531f0b"}
+{"index":72,"sub_uri":"Q232449","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"BoA","lineid":72,"uuid":"cf842ac9-0f40-4da5-8e87-7ab2b28a8567"}
+{"index":294,"sub_uri":"Q1400040","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Hamdin Sabahi","lineid":299,"uuid":"3a33aead-576f-45aa-8a49-af06f9c8484d"}
+{"index":285,"sub_uri":"Q3177547","obj_uri":"Q214917","obj_label":"toneelschrijver","sub_label":"Jerzy Jurandot","lineid":290,"uuid":"da6b7d5a-a0f6-4a4a-b6b5-c12ec50dd429"}
+{"index":590,"sub_uri":"Q1654408","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Tomomi Inada","lineid":599,"uuid":"3087a481-4c29-4954-ae9c-5620d6364a9d"}
+{"index":344,"sub_uri":"Q7630724","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Subair","lineid":350,"uuid":"0e3b3941-5bb8-4291-8c5a-d02812a3b4f9"}
+{"index":36,"sub_uri":"Q5034036","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Colleen Zenk Pinter","lineid":36,"uuid":"bd8ee8a9-bcd7-423c-a17b-d88b92826a46"}
+{"index":758,"sub_uri":"Q2337623","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Adolf Dymsza","lineid":768,"uuid":"f9f1fa11-0c81-4d06-ad02-f7874868530a"}
+{"index":507,"sub_uri":"Q1226650","obj_uri":"Q36834","obj_label":"componist","sub_label":"Dino Saluzzi","lineid":515,"uuid":"57d9dfd9-1193-449d-85c9-427420e34362"}
+{"index":101,"sub_uri":"Q388181","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Joan Marion","lineid":101,"uuid":"d8db4ee0-f8e1-46fa-af81-3642c65529ee"}
+{"index":804,"sub_uri":"Q5585391","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Gordon Kahn","lineid":815,"uuid":"5ad3cbe9-57b2-4184-9cbf-769203bd4b83"}
+{"index":776,"sub_uri":"Q168431","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Ignazio Silone","lineid":786,"uuid":"e83ea557-cac0-45c9-a601-ebf9d9bb4368"}
+{"index":345,"sub_uri":"Q7823217","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Tony Pua","lineid":351,"uuid":"b14fb3ab-14bd-4b57-8ea9-b3d18f620647"}
+{"index":380,"sub_uri":"Q296325","obj_uri":"Q39631","obj_label":"arts","sub_label":"Ctesias","lineid":386,"uuid":"b4a0e0d3-3514-49f3-bae0-4d4a56f1e8e3"}
+{"index":567,"sub_uri":"Q433044","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Anna Neagle","lineid":576,"uuid":"e90c5673-ed9e-49f2-b50c-9f0efe18a60c"}
+{"index":210,"sub_uri":"Q4897608","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Beth Ostrosky Stern","lineid":214,"uuid":"cfb3c814-ac47-4fd4-8361-e4a3d3be3c1a"}
+{"index":286,"sub_uri":"Q316820","obj_uri":"Q486748","obj_label":"pianist","sub_label":"Ferenc Erkel","lineid":291,"uuid":"d5022b7f-8036-41d8-a43e-8c2835c1e282"}
+{"index":195,"sub_uri":"Q381150","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Nuri al-Said","lineid":198,"uuid":"ff58470c-1734-403d-945d-519f740dcf50"}
+{"index":144,"sub_uri":"Q1341491","obj_uri":"Q36834","obj_label":"componist","sub_label":"Taku Iwasaki","lineid":145,"uuid":"386c98db-8cfe-427f-8d3f-31e5f6b34681"}
+{"index":714,"sub_uri":"Q6074798","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Irving Shulman","lineid":723,"uuid":"c5fa0915-4eb6-45f5-939f-7d4d2106385a"}
+{"index":851,"sub_uri":"Q191408","obj_uri":"Q486748","obj_label":"pianist","sub_label":"Francis Poulenc","lineid":862,"uuid":"cd2c4272-9bf0-4621-9d4c-77da2c7ac3a8"}
+{"index":928,"sub_uri":"Q5042495","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Harris Allan","lineid":940,"uuid":"aea4ccb1-ae0c-4cf6-894b-ed9d5a538b0d"}
+{"index":651,"sub_uri":"Q289729","obj_uri":"Q4610556","obj_label":"model","sub_label":"Rie Miyazawa","lineid":660,"uuid":"bdf31300-524f-46a1-8bc4-bbc0d5c18b1e"}
+{"index":448,"sub_uri":"Q1036665","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Noriyuki Higashiyama","lineid":455,"uuid":"cd48241a-e40e-48ba-b13d-6268189d8219"}
+{"index":127,"sub_uri":"Q2402538","obj_uri":"Q49757","obj_label":"dichter","sub_label":"James Broughton","lineid":127,"uuid":"4cc718b8-33f2-4812-b5f9-2dc4e363f7b7"}
+{"index":932,"sub_uri":"Q3568804","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"William Conselman","lineid":944,"uuid":"5f005604-f903-46ea-9d80-d474bd12ccaf"}
+{"index":309,"sub_uri":"Q142025","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Peter Arnett","lineid":315,"uuid":"a12e7203-b4e5-4fa2-ab29-9ed1de85d27b"}
+{"index":800,"sub_uri":"Q643537","obj_uri":"Q36834","obj_label":"componist","sub_label":"Jehan Titelouze","lineid":811,"uuid":"46ba6f28-d150-43ce-ad27-204bd891a7d4"}
+{"index":931,"sub_uri":"Q361386","obj_uri":"Q593644","obj_label":"scheikundige","sub_label":"Edward Frankland","lineid":943,"uuid":"b3fee1d0-b590-4f29-991e-ed55847cb142"}
+{"index":799,"sub_uri":"Q16030105","obj_uri":"Q42973","obj_label":"architect","sub_label":"Joseph Evans Sperry","lineid":810,"uuid":"ba4ca46e-514f-4c25-8bae-1f1f9509054d"}
+{"index":802,"sub_uri":"Q462364","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Gustave Kahn","lineid":813,"uuid":"288a5c7e-a5ba-490d-a08a-85d1820122d7"}
+{"index":246,"sub_uri":"Q454188","obj_uri":"Q36834","obj_label":"componist","sub_label":"Jeff Beal","lineid":251,"uuid":"5bc9e7fa-6366-4353-864a-39dad12aa73c"}
+{"index":684,"sub_uri":"Q889516","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Keen Johnson","lineid":693,"uuid":"adb25463-f695-4cbd-b3c1-a2396f7b97cf"}
+{"index":158,"sub_uri":"Q710988","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Jude Wanniski","lineid":160,"uuid":"4d710778-dd62-41bc-88ab-c31d7a9eef44"}
+{"index":688,"sub_uri":"Q3959831","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Shruti Sharma","lineid":697,"uuid":"ab2f9fe1-19e3-4e75-8902-38b8d7ff7c62"}
+{"index":298,"sub_uri":"Q432686","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Ann Cusack","lineid":303,"uuid":"a04fc6ae-3c9d-4e42-902a-f6034e09ffca"}
+{"index":569,"sub_uri":"Q1319846","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Raoul Trujillo","lineid":578,"uuid":"e871f420-040d-4b5e-b88b-21499199689c"}
+{"index":228,"sub_uri":"Q3081707","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Ib Melchior","lineid":232,"uuid":"7272c75b-04ac-4973-9af7-b284c42eb646"}
+{"index":16,"sub_uri":"Q1358852","obj_uri":"Q193391","obj_label":"diplomaat","sub_label":"Ernst Jaakson","lineid":16,"uuid":"37be822f-e4fd-487c-90ff-7562d59307f6"}
+{"index":124,"sub_uri":"Q542039","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Giovanni Battista Guarini","lineid":124,"uuid":"3f5400a5-2909-40ce-9ed1-8d1644564314"}
+{"index":853,"sub_uri":"Q6104622","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"J. Anthony Lukas","lineid":864,"uuid":"50caaaac-a4af-49b4-aae2-c54b594d43f1"}
+{"index":506,"sub_uri":"Q3350627","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Olive Blakeney","lineid":514,"uuid":"3fd1e545-4d0d-4522-8a09-53a1c351959a"}
+{"index":473,"sub_uri":"Q6886381","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Moammar Rana","lineid":480,"uuid":"dc860681-9254-41d3-8132-2182ad987122"}
+{"index":916,"sub_uri":"Q1611358","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Hermann Hagedorn","lineid":928,"uuid":"64a5ef9e-61c4-459d-96a2-606bf962bedf"}
+{"index":667,"sub_uri":"Q3856888","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Michie Mee","lineid":676,"uuid":"b671d454-4066-4026-b4e3-779a8f4847fa"}
+{"index":749,"sub_uri":"Q521249","obj_uri":"Q193391","obj_label":"diplomaat","sub_label":"Grigore Gafencu","lineid":759,"uuid":"fc779794-7dca-470b-8c00-f37d2e76e9ea"}
+{"index":35,"sub_uri":"Q3102176","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Georges Altman","lineid":35,"uuid":"c759bdb4-33c5-417f-9915-c2b797395962"}
+{"index":218,"sub_uri":"Q269927","obj_uri":"Q214917","obj_label":"toneelschrijver","sub_label":"David Mamet","lineid":222,"uuid":"46e64909-6443-4170-89e1-fded92c01b15"}
+{"index":42,"sub_uri":"Q5543447","obj_uri":"Q193391","obj_label":"diplomaat","sub_label":"George Pitt, 1st Baron Rivers","lineid":42,"uuid":"f5712486-2ed9-4004-bd72-b734e27f2e6c"}
+{"index":303,"sub_uri":"Q334272","obj_uri":"Q82955","obj_label":"politicus","sub_label":"George Ward Hunt","lineid":309,"uuid":"fd4c54e2-9367-4e48-91e1-56af41c86451"}
+{"index":516,"sub_uri":"Q1236681","obj_uri":"Q486748","obj_label":"pianist","sub_label":"Albert Dailey","lineid":524,"uuid":"fd6225bf-97e8-4ee3-8975-e07c9de7555b"}
+{"index":839,"sub_uri":"Q368071","obj_uri":"Q36834","obj_label":"componist","sub_label":"Valentino Bucchi","lineid":850,"uuid":"b9db377f-e4a8-4e13-91b0-c7b25e49b01a"}
+{"index":698,"sub_uri":"Q535841","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Marpessa Dawn","lineid":707,"uuid":"55188172-6b57-4f52-9f2f-adfb654340da"}
+{"index":108,"sub_uri":"Q7145614","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Patricia Haines","lineid":108,"uuid":"36334967-d005-4ba7-b375-eb675636cd76"}
+{"index":707,"sub_uri":"Q91508","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Maren Ade","lineid":716,"uuid":"a6f0f094-84e4-4be9-9bd4-7b7fe9d4d8d2"}
+{"index":62,"sub_uri":"Q8059689","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Ysanne Churchman","lineid":62,"uuid":"f507bf8e-e728-4432-9a06-5cacc880692d"}
+{"index":377,"sub_uri":"Q881971","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Bryant Butler Brooks","lineid":383,"uuid":"4f5d1932-1705-4442-ae18-a2993d64d94a"}
+{"index":787,"sub_uri":"Q6118146","obj_uri":"Q6625963","obj_label":"romanschrijver","sub_label":"Samuel Jackson Pratt","lineid":798,"uuid":"ba1c8d47-8722-4e24-95bd-194e0502395a"}
+{"index":786,"sub_uri":"Q4722604","obj_uri":"Q42973","obj_label":"architect","sub_label":"Alfred Easton Poor","lineid":797,"uuid":"e65ebcbf-eb27-4ca3-bce5-676cd09cde30"}
+{"index":504,"sub_uri":"Q5350094","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Eja","lineid":512,"uuid":"1d3e8c8c-860e-4c90-ae44-0909f4ce93ef"}
+{"index":780,"sub_uri":"Q235354","obj_uri":"Q6625963","obj_label":"romanschrijver","sub_label":"Mary Renault","lineid":790,"uuid":"98dbb1c3-30d7-4700-811d-246e1d615575"}
+{"index":597,"sub_uri":"Q137911","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Joyce Quin, Baroness Quin","lineid":606,"uuid":"c6fb7cf4-c58d-4543-8459-c7739390ce25"}
+{"index":151,"sub_uri":"Q993459","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Bruno Lawrence","lineid":152,"uuid":"ab1d40d1-b9c0-4842-b80d-3fe9d71aa6a1"}
+{"index":171,"sub_uri":"Q57449","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Ian Khama","lineid":173,"uuid":"bfe6e98f-e2dc-428f-8468-84a1943cd115"}
+{"index":91,"sub_uri":"Q158650","obj_uri":"Q36834","obj_label":"componist","sub_label":"Paul Abraham","lineid":91,"uuid":"7980ff8d-eec3-4738-997f-d74663c13ca1"}
+{"index":114,"sub_uri":"Q1563866","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Don Durant","lineid":114,"uuid":"a867ef49-57af-4634-a7ab-bda178c6057e"}
+{"index":145,"sub_uri":"Q524266","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Jack Buetel","lineid":146,"uuid":"6cf24d27-b206-48e7-9d92-a3d5d2ac7c4f"}
+{"index":843,"sub_uri":"Q6748318","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Mandy Rain","lineid":854,"uuid":"0d3e642a-6301-407a-b2c0-4d422be8c675"}
+{"index":48,"sub_uri":"Q1339625","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Randall Wallace","lineid":48,"uuid":"695918de-698d-4819-9dee-d7de8ef94da4"}
+{"index":112,"sub_uri":"Q5307169","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Drew Droege","lineid":112,"uuid":"5864c338-d96a-4dcc-92a0-c26d657b0dc5"}
+{"index":934,"sub_uri":"Q5515685","obj_uri":"Q864503","obj_label":"bioloog","sub_label":"Gabriel Horn","lineid":946,"uuid":"9b8f6fce-f319-43c4-b274-3cc270be2720"}
+{"index":353,"sub_uri":"Q1888972","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Robert Hamilton Bruce Lockhart","lineid":359,"uuid":"dd8a5444-0a01-41a1-b423-0f9a46071401"}
+{"index":162,"sub_uri":"Q863206","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Billy Roche","lineid":164,"uuid":"22eefc35-9606-441e-b2ab-5dbcbffb3231"}
+{"index":685,"sub_uri":"Q4727067","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Alison Faith Levy","lineid":694,"uuid":"c9e271b4-39bd-43a9-be8a-8a493b0e1533"}
+{"index":918,"sub_uri":"Q1586690","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Harry Owens","lineid":930,"uuid":"a1830b38-16df-4cc9-9678-248a9c0a31d7"}
+{"index":204,"sub_uri":"Q278657","obj_uri":"Q33999","obj_label":"acteur","sub_label":"A. Edward Sutherland","lineid":208,"uuid":"b8bd2a9b-2b5c-4294-b684-a9b419afb689"}
+{"index":423,"sub_uri":"Q381397","obj_uri":"Q133485","obj_label":"rabbijn","sub_label":"Menachem Mendel Schneerson","lineid":430,"uuid":"9a12c429-3773-455a-b84e-70ee28c857f3"}
+{"index":482,"sub_uri":"Q370241","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Rowland Hill","lineid":489,"uuid":"38d27be1-f284-4626-a92e-e8422a0cc862"}
+{"index":421,"sub_uri":"Q77901","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Hugo Eberlein","lineid":428,"uuid":"974723e3-2faf-420a-8c3a-dcadfc9c7abf"}
+{"index":184,"sub_uri":"Q4685181","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Adrian Lewis Morgan","lineid":186,"uuid":"44daa709-4e02-404c-bdb0-dc134f98fdd5"}
+{"index":558,"sub_uri":"Q550701","obj_uri":"Q36834","obj_label":"componist","sub_label":"Louis Moreau Gottschalk","lineid":566,"uuid":"fd8d9cf4-5576-44c5-979b-90118611af49"}
+{"index":18,"sub_uri":"Q653588","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Giacinto Andrea Cicognini","lineid":18,"uuid":"de0df55e-e08b-4cd2-a662-76356d0b1f7b"}
+{"index":408,"sub_uri":"Q6483645","obj_uri":"Q644687","obj_label":"illustrator","sub_label":"Lancelot Speed","lineid":415,"uuid":"36b379b1-9a78-4d42-9eaa-5cd5f8d450e6"}
+{"index":222,"sub_uri":"Q4884009","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Bellina Logan","lineid":226,"uuid":"665df146-fbe0-4e1a-9212-b04144de29bb"}
+{"index":216,"sub_uri":"Q5563846","obj_uri":"Q170790","obj_label":"wiskundige","sub_label":"Giovanni Francesco Sagredo","lineid":220,"uuid":"9e700594-b365-4141-b0e4-8495c41ac8c4"}
+{"index":68,"sub_uri":"Q3177696","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Jessie Hill","lineid":68,"uuid":"9c59d7b9-51aa-4026-b9da-34d8627727f5"}
+{"index":331,"sub_uri":"Q4535926","obj_uri":"Q486748","obj_label":"pianist","sub_label":"Oxana Yablonskaya","lineid":337,"uuid":"5cb7ead4-0418-4dec-b6e0-ad62e1dc3a8a"}
+{"index":168,"sub_uri":"Q4772211","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Anthony Cannella","lineid":170,"uuid":"d40cb120-80bb-4092-9503-f767a311d542"}
+{"index":85,"sub_uri":"Q151231","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Annie Lennox","lineid":85,"uuid":"838b47ad-5702-4760-9b66-953b8cd9f879"}
+{"index":4,"sub_uri":"Q1033016","obj_uri":"Q4610556","obj_label":"model","sub_label":"Halle Berry","lineid":4,"uuid":"3e4b3299-cd26-4cc7-86bc-585d75ef1ae0"}
+{"index":235,"sub_uri":"Q332756","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Ruggeru S\u00e8ttimu","lineid":240,"uuid":"974d0e35-7db5-4a39-8cd1-5d7637848bbf"}
+{"index":546,"sub_uri":"Q971436","obj_uri":"Q36834","obj_label":"componist","sub_label":"Isidore de Lara","lineid":554,"uuid":"f4e21c5b-5f0f-4718-8ce5-43a4e5ee3fbb"}
+{"index":325,"sub_uri":"Q3241349","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Linda Kaye Henning","lineid":331,"uuid":"870de1dc-458c-4537-bd0e-c148be342da2"}
+{"index":624,"sub_uri":"Q526220","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Frank Knox","lineid":633,"uuid":"321f24a0-fc35-4bb6-9c2a-0f8659b0be41"}
+{"index":472,"sub_uri":"Q5585574","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Gordon Mills","lineid":479,"uuid":"16641fb2-4a7f-46fe-9956-2a827d3dd50f"}
+{"index":253,"sub_uri":"Q5246461","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Dean Silvers","lineid":258,"uuid":"eaec909f-2fd7-4a76-bab5-17300526f00d"}
+{"index":774,"sub_uri":"Q3101978","obj_uri":"Q33999","obj_label":"acteur","sub_label":"George Waggner","lineid":784,"uuid":"271012fa-df88-4923-b8dd-4bb8b1004a81"}
+{"index":600,"sub_uri":"Q6849466","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Mikey North","lineid":609,"uuid":"a0c576b5-5dc7-404d-ac4a-4ba4660bd115"}
+{"index":764,"sub_uri":"Q776756","obj_uri":"Q36834","obj_label":"componist","sub_label":"Jacobo Ficher","lineid":774,"uuid":"8a1d90b4-5bef-4f60-b4d9-010f6e8d09e0"}
+{"index":206,"sub_uri":"Q545441","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Leyla Saz","lineid":210,"uuid":"a5f1e67d-a156-45f8-9049-8966cc1ce75f"}
+{"index":834,"sub_uri":"Q969806","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Mark Schwahn","lineid":845,"uuid":"ef4eab03-946c-483f-998e-6662740f099f"}
+{"index":41,"sub_uri":"Q215783","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Konrad Ekhof","lineid":41,"uuid":"f1c8057b-8cb5-4163-a59d-184538d32a53"}
+{"index":870,"sub_uri":"Q4133319","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Janet Gunn","lineid":881,"uuid":"9ca3141f-ad37-4466-9a7d-dd4ee54c6ebc"}
+{"index":941,"sub_uri":"Q1236254","obj_uri":"Q486748","obj_label":"pianist","sub_label":"Dolo Coker","lineid":953,"uuid":"dbf544dd-80c8-479f-87dc-a9b8d1cf95ab"}
+{"index":936,"sub_uri":"Q169566","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"H. P. Lovecraft","lineid":948,"uuid":"1ddb42e2-31ea-45bc-886d-db463d3e4d0a"}
+{"index":912,"sub_uri":"Q114683","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Martin Kosleck","lineid":924,"uuid":"644525ce-5ae7-46f0-abab-6961b373eb04"}
+{"index":872,"sub_uri":"Q963044","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Allen Toussaint","lineid":883,"uuid":"e8d77cc4-9ce0-4665-b909-2c668c037042"}
+{"index":193,"sub_uri":"Q715330","obj_uri":"Q222344","obj_label":"cameraregisseur","sub_label":"Andrew Lau","lineid":196,"uuid":"e3c989ce-2110-4baa-b4d9-6b88a00e443e"}
+{"index":496,"sub_uri":"Q5077685","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Charles FitzGerald, 1st Baron Lecale","lineid":503,"uuid":"5b77ae36-7f6d-4abc-89ba-dddaeeeea58d"}
+{"index":926,"sub_uri":"Q7451746","obj_uri":"Q193391","obj_label":"diplomaat","sub_label":"Sepala Attygalle","lineid":938,"uuid":"4f53b369-2d6a-42a0-8382-3c6aec5d6d7a"}
+{"index":888,"sub_uri":"Q4758495","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Andrew Salkey","lineid":899,"uuid":"f249494a-665b-4dd4-8cfb-e72678ca5f65"}
+{"index":406,"sub_uri":"Q5937131","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Josephine Mitchell","lineid":413,"uuid":"91885907-9da9-47c8-9e37-5bfc324975c7"}
+{"index":755,"sub_uri":"Q4701812","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Akshay Kumar Boral","lineid":765,"uuid":"06864985-76ea-45aa-a97c-b721bbcb588a"}
+{"index":737,"sub_uri":"Q7447162","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Sekhar Menon","lineid":747,"uuid":"99cbf874-27e2-4ad8-b0da-228135b729bf"}
+{"index":29,"sub_uri":"Q1557469","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Guy Doleman","lineid":29,"uuid":"017774b2-dd52-4dfe-aa2a-c02e43006ab8"}
+{"index":647,"sub_uri":"Q235470","obj_uri":"Q4964182","obj_label":"filosoof","sub_label":"Martha Nussbaum","lineid":656,"uuid":"d8ecd395-6e35-45bf-80b7-d85ad033a588"}
+{"index":514,"sub_uri":"Q898188","obj_uri":"Q214917","obj_label":"toneelschrijver","sub_label":"Menyh\u00e9rt Lengyel","lineid":522,"uuid":"47e4f344-76e0-4d9d-bcf1-767b980509b8"}
+{"index":54,"sub_uri":"Q5125741","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Clancy Cooper","lineid":54,"uuid":"a75a3fe5-1aee-401c-b867-411598f5ad6e"}
+{"index":781,"sub_uri":"Q4312433","obj_uri":"Q36834","obj_label":"componist","sub_label":"John Jacob Niles","lineid":791,"uuid":"36bdf3e7-2898-4052-a074-6f233928cd29"}
+{"index":314,"sub_uri":"Q7175745","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Peter McCardle","lineid":320,"uuid":"d26a8000-c70d-420a-9a14-6dffd8bdcd74"}
+{"index":486,"sub_uri":"Q522744","obj_uri":"Q11063","obj_label":"astronoom","sub_label":"Lawrence Hargrave","lineid":493,"uuid":"0982cbca-4160-4c47-b259-d93dd5d6130d"}
+{"index":323,"sub_uri":"Q331893","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Nikolaj Frederik Severin Grundtvig","lineid":329,"uuid":"1446b5c9-954e-48ba-8947-39fab25b14f2"}
+{"index":487,"sub_uri":"Q1096417","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Claude Antoine Dacosta","lineid":494,"uuid":"d696c0cd-86dd-4926-bf17-f070527f3478"}
+{"index":238,"sub_uri":"Q15246610","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Five Star Krishna","lineid":243,"uuid":"050a3914-6231-423d-8796-cb0ceac60ff7"}
+{"index":248,"sub_uri":"Q205282","obj_uri":"Q82955","obj_label":"politicus","sub_label":"William Jennings Bryan","lineid":253,"uuid":"d0a18ab0-1d7b-4bd8-9599-26ba874f385f"}
+{"index":12,"sub_uri":"Q704768","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Humphrey Cobb","lineid":12,"uuid":"42e495ba-26f4-4b98-a56f-adef6f79a18b"}
+{"index":105,"sub_uri":"Q1361333","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Viktor Uspaskich","lineid":105,"uuid":"551aea28-6c60-4f4d-a17b-2fa9fa082c2f"}
+{"index":773,"sub_uri":"Q1288248","obj_uri":"Q644687","obj_label":"illustrator","sub_label":"John Sell Cotman","lineid":783,"uuid":"9719ec9a-0eff-4851-83a3-fe936032f593"}
+{"index":186,"sub_uri":"Q443528","obj_uri":"Q6625963","obj_label":"romanschrijver","sub_label":"J.B. Priestley","lineid":189,"uuid":"6feecb42-b22f-4db8-9810-a3cb1c152cc2"}
+{"index":366,"sub_uri":"Q6163217","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Jason Paige","lineid":372,"uuid":"5770eb30-125f-4cb6-85d9-96fb138cfd55"}
+{"index":797,"sub_uri":"Q99064","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Simon Gosejohann","lineid":808,"uuid":"a92e4a0e-6692-4209-84b2-68c5218ffda3"}
+{"index":634,"sub_uri":"Q6297633","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Joyce Steele","lineid":643,"uuid":"dd6ac2fe-a6cd-4f3d-bfe8-028bccc67c51"}
+{"index":527,"sub_uri":"Q470190","obj_uri":"Q33999","obj_label":"acteur","sub_label":"James Arness","lineid":535,"uuid":"76a3e2cb-98a4-4549-b93a-bddc1c899b69"}
+{"index":279,"sub_uri":"Q1295611","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Toby Emmerich","lineid":284,"uuid":"bd98053e-9e41-42a3-9a59-050ea5bf22fa"}
+{"index":613,"sub_uri":"Q6551796","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Linda Marlowe","lineid":622,"uuid":"5f95f569-c744-4011-a1f7-38375199c9bf"}
+{"index":801,"sub_uri":"Q2655222","obj_uri":"Q486748","obj_label":"pianist","sub_label":"Eugeniusz Knapik","lineid":812,"uuid":"06c0a62d-c9d5-4873-b89f-1362a4c4677c"}
+{"index":103,"sub_uri":"Q4922841","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Mitr Chaibancha","lineid":103,"uuid":"3f305a82-1a92-423f-b5de-e072568c07b7"}
+{"index":712,"sub_uri":"Q256657","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Miha Mazzini","lineid":721,"uuid":"c7e70b5e-e0ec-4989-b9b5-4ff42e0bfb36"}
+{"index":230,"sub_uri":"Q6123531","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Jaideep Sahni","lineid":234,"uuid":"41a48d4d-d1df-42b8-bb35-e1d28e3d7e19"}
+{"index":81,"sub_uri":"Q3609210","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Aldo Fiorelli","lineid":81,"uuid":"262e6542-5e9f-4330-9b99-dc2b2e8b1cba"}
+{"index":868,"sub_uri":"Q2128025","obj_uri":"Q245068","obj_label":"komiek","sub_label":"Steve Hughes","lineid":879,"uuid":"833cac5b-a3dc-457b-a6f2-3d70f196702a"}
+{"index":775,"sub_uri":"Q158225","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Aruna Irani","lineid":785,"uuid":"400bd6a0-2e57-4530-af9d-7b5eebff6c03"}
+{"index":759,"sub_uri":"Q34389","obj_uri":"Q36834","obj_label":"componist","sub_label":"Whitney Houston","lineid":769,"uuid":"a7686d90-917c-48ae-8ca5-adcdcd2e8aa5"}
+{"index":593,"sub_uri":"Q1349289","obj_uri":"Q40348","obj_label":"advocaat","sub_label":"Maurice Joly","lineid":602,"uuid":"bb8e6966-9ffd-45a4-b842-6d969cf84753"}
+{"index":495,"sub_uri":"Q731046","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Albert Sharpe","lineid":502,"uuid":"a248605d-6497-41c3-a656-8052ce442caa"}
+{"index":806,"sub_uri":"Q2499406","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Roger Pigaut","lineid":817,"uuid":"6407494d-05cd-455d-bb5c-360226bcb25f"}
+{"index":84,"sub_uri":"Q6284503","obj_uri":"Q486748","obj_label":"pianist","sub_label":"Joseph Kalichstein","lineid":84,"uuid":"71de3b8a-c35b-414f-a00b-8aac00edd8c3"}
+{"index":463,"sub_uri":"Q104699","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Margarete Schlegel","lineid":470,"uuid":"0e648cb3-50b0-4e2b-a15b-8d0213b776cb"}
+{"index":126,"sub_uri":"Q621380","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Yoo So-young","lineid":126,"uuid":"a60e2a2e-58ef-49b4-93fb-99691e6161fc"}
+{"index":256,"sub_uri":"Q432793","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Alston G. Dayton","lineid":261,"uuid":"2d169f82-9080-4172-b5a4-3199c1550bff"}
+{"index":532,"sub_uri":"Q7175583","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Peter Macdissi","lineid":540,"uuid":"4fa8cbf3-e6b7-4395-9675-adf1c9aa25ba"}
+{"index":919,"sub_uri":"Q262608","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Abel Ferrara","lineid":931,"uuid":"63ce4e53-75f0-4e9c-87f5-a9fe621314ef"}
+{"index":510,"sub_uri":"Q434805","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Augusto Boal","lineid":518,"uuid":"d8521929-763a-4b5d-a4df-1b67f5c9004b"}
+{"index":484,"sub_uri":"Q3846082","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Noon Meem Rashid","lineid":491,"uuid":"35726e9d-ae34-42ba-a6f9-5f1cb473d30d"}
+{"index":291,"sub_uri":"Q5228638","obj_uri":"Q36834","obj_label":"componist","sub_label":"Dave Darling","lineid":296,"uuid":"2c36d022-835b-4e7a-bdbc-37ae59d81f8c"}
+{"index":580,"sub_uri":"Q2087464","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Tico Wells","lineid":589,"uuid":"59319ef5-d213-42e7-b620-0ef77b6f3c65"}
+{"index":129,"sub_uri":"Q78758","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Carl Mayer","lineid":130,"uuid":"cb13e1e5-1081-493f-84f5-f5986e9ce33c"}
+{"index":354,"sub_uri":"Q552049","obj_uri":"Q219477","obj_label":"missionaris","sub_label":"Georg Joseph Kamel","lineid":360,"uuid":"e116c5ae-9e61-40ff-8f0f-6bc091459c15"}
+{"index":939,"sub_uri":"Q6105857","obj_uri":"Q49757","obj_label":"dichter","sub_label":"J. Gwyn Griffiths","lineid":951,"uuid":"5359a822-75b2-4689-864e-27854b7e230b"}
+{"index":198,"sub_uri":"Q1190693","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Jack Huston","lineid":201,"uuid":"15f1e41e-a0d0-4d13-83d2-914bc87f27b6"}
+{"index":260,"sub_uri":"Q436546","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Rebecca Cartwright","lineid":265,"uuid":"e12d7fdb-e99f-43d8-a96d-551ac4c4db93"}
+{"index":896,"sub_uri":"Q12064924","obj_uri":"Q49757","obj_label":"dichter","sub_label":"John Boyle O'Reilly","lineid":907,"uuid":"0eb4b345-7959-43e1-85fe-b8b0b936c249"}
+{"index":319,"sub_uri":"Q488864","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Kim Sun-a","lineid":325,"uuid":"9501a638-a96f-4ddf-859e-cf9c736ff661"}
+{"index":644,"sub_uri":"Q2982621","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Colin Kenny","lineid":653,"uuid":"810994be-0494-44ca-a645-5a10210e9dfb"}
+{"index":784,"sub_uri":"Q1352701","obj_uri":"Q42973","obj_label":"architect","sub_label":"Julius Shulman","lineid":794,"uuid":"51287f85-cffd-4592-bf1b-151232d515f6"}
+{"index":111,"sub_uri":"Q11800672","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Herbert Leon","lineid":111,"uuid":"a9e9b46d-61ba-4b4e-b7d8-87c56538d8c8"}
+{"index":638,"sub_uri":"Q1288128","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Berry Berenson","lineid":647,"uuid":"0de08d5f-24e2-4082-9318-b47bf2abe360"}
+{"index":305,"sub_uri":"Q231237","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Karen Gillan","lineid":311,"uuid":"3e9952b8-b899-4520-8f01-d57080947f20"}
+{"index":708,"sub_uri":"Q7690776","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Te Ata Fisher","lineid":717,"uuid":"9cd4ae9e-dc06-490f-8d7a-e7674e93267e"}
+{"index":471,"sub_uri":"Q192111","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Yun Chi-ho","lineid":478,"uuid":"491c1079-d124-423e-97b2-fa4efa6bd2f4"}
+{"index":411,"sub_uri":"Q469571","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Anna Louisa Karsch","lineid":418,"uuid":"1530e3bb-f9a9-4076-8de7-b72d74e8ce34"}
+{"index":376,"sub_uri":"Q2027579","obj_uri":"Q842782","obj_label":"detective","sub_label":"John Munch","lineid":382,"uuid":"fc55e20b-0ada-4bf0-93e8-12fb6ba1f36f"}
+{"index":588,"sub_uri":"Q3147274","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Ian Hanomansing","lineid":597,"uuid":"f4d45110-befa-42ea-81f0-f38ffa026eb7"}
+{"index":692,"sub_uri":"Q7659423","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Sy Smith","lineid":701,"uuid":"83b64c9b-5a82-4404-a094-d0f61b73e600"}
+{"index":940,"sub_uri":"Q4967637","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Henny Moan","lineid":952,"uuid":"0977e31e-487f-4929-93b9-f0e8bf91c13b"}
+{"index":538,"sub_uri":"Q441514","obj_uri":"Q185351","obj_label":"jurist","sub_label":"Martha Fineman","lineid":546,"uuid":"199f7db5-2e99-438e-9ba8-d80468f9b39f"}
+{"index":385,"sub_uri":"Q3787242","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Howard Sounes","lineid":391,"uuid":"c2ed6c20-c613-4264-946f-4b64a969a59b"}
+{"index":369,"sub_uri":"Q4790130","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Ari Telch","lineid":375,"uuid":"b3befe71-d494-4ca4-b557-06c212239c34"}
+{"index":917,"sub_uri":"Q629955","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Malcolm Keen","lineid":929,"uuid":"aa952e59-9317-43a5-851b-ccd15ca85e30"}
+{"index":631,"sub_uri":"Q1055604","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Anne Watanabe","lineid":640,"uuid":"d7d7bc2f-787a-456f-990c-279d4f5f5ebb"}
+{"index":700,"sub_uri":"Q4933931","obj_uri":"Q6625963","obj_label":"romanschrijver","sub_label":"Bob Shacochis","lineid":709,"uuid":"6686d745-1dc6-4ef8-8262-2bbeedcbdb68"}
+{"index":576,"sub_uri":"Q1281950","obj_uri":"Q169470","obj_label":"natuurkundige","sub_label":"Rodolfo Gambini","lineid":585,"uuid":"c515a6ec-d7ab-4318-b5db-9bc8ea95fba9"}
+{"index":73,"sub_uri":"Q6254629","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"John Rentoul","lineid":73,"uuid":"92c8d880-9513-4d4f-af00-449773a2bb95"}
+{"index":611,"sub_uri":"Q965951","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Rick Genest","lineid":620,"uuid":"e390962d-0627-481a-9de1-f91dfc814be2"}
+{"index":696,"sub_uri":"Q3281665","obj_uri":"Q39631","obj_label":"arts","sub_label":"Malcolm Arthur Smith","lineid":705,"uuid":"fdd33c85-0406-464a-b17f-be1c933de2bf"}
+{"index":365,"sub_uri":"Q452761","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Giannina Braschi","lineid":371,"uuid":"7ddb1a9e-9c4a-420d-8428-98baf41d1941"}
+{"index":691,"sub_uri":"Q40688","obj_uri":"Q188094","obj_label":"econoom","sub_label":"Yanis Varoufakis","lineid":700,"uuid":"352d003c-d9e0-4955-8311-90cacb63165d"}
+{"index":201,"sub_uri":"Q1508542","obj_uri":"Q82955","obj_label":"politicus","sub_label":"George Washington Julian","lineid":205,"uuid":"1716e1c8-4309-4c24-b2ce-b7d83dc82d2b"}
+{"index":742,"sub_uri":"Q1164744","obj_uri":"Q170790","obj_label":"wiskundige","sub_label":"Manuel Sadosky","lineid":752,"uuid":"72affd22-5431-4646-8513-4a7e98b54a63"}
+{"index":541,"sub_uri":"Q15214868","obj_uri":"Q4610556","obj_label":"model","sub_label":"Jourdan Miller","lineid":549,"uuid":"078e1c1f-f773-4b41-9d49-932ae21bfc64"}
+{"index":654,"sub_uri":"Q7650949","obj_uri":"Q33231","obj_label":"fotograaf","sub_label":"Suzanne Roberts","lineid":663,"uuid":"0eef2bce-5a6e-4010-a7cb-6e2e7e9e067c"}
+{"index":219,"sub_uri":"Q3725484","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Ennio Girolami","lineid":223,"uuid":"8c356400-0ac3-4c43-b7d4-e7aab45c0f82"}
+{"index":120,"sub_uri":"Q1370358","obj_uri":"Q4773904","obj_label":"antropoloog","sub_label":"James Mooney","lineid":120,"uuid":"bee3a9f0-4b20-471b-8a73-e86acc9c1e63"}
+{"index":502,"sub_uri":"Q952730","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Hugo Stiglitz","lineid":510,"uuid":"88279dc9-04f7-48e1-8128-ac672d115cec"}
+{"index":908,"sub_uri":"Q72756","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Raoul Walsh","lineid":920,"uuid":"2610cf8f-a882-4484-961e-6a961fd3632a"}
+{"index":565,"sub_uri":"Q7650986","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Suzanne Virdee","lineid":574,"uuid":"5d8cb223-b9f5-40ad-a533-81ebaa5f015e"}
+{"index":268,"sub_uri":"Q1341481","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Robert Lepage","lineid":273,"uuid":"f9dd7bc0-a7a4-4833-90c8-971dba95bf70"}
+{"index":678,"sub_uri":"Q1336157","obj_uri":"Q36834","obj_label":"componist","sub_label":"Ronan Hardiman","lineid":687,"uuid":"95a96e1e-f87d-4889-8ad8-628922fcd3aa"}
+{"index":525,"sub_uri":"Q103114","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Michel Houellebecq","lineid":533,"uuid":"16c6feb4-076d-4b90-9df9-e469dbb94285"}
+{"index":812,"sub_uri":"Q5239519","obj_uri":"Q33999","obj_label":"acteur","sub_label":"David Scarboro","lineid":823,"uuid":"c91f4a52-9a89-4d95-9742-c021a2fc9fc7"}
+{"index":459,"sub_uri":"Q7630722","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Subagio Sastrowardoyo","lineid":466,"uuid":"8e55ce79-0e9e-4a03-b4b9-8fc3fe15a87b"}
+{"index":587,"sub_uri":"Q110719","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Oskar Lafontaine","lineid":596,"uuid":"0689b1c4-f9f0-4448-a24e-d4f50176e4ea"}
+{"index":636,"sub_uri":"Q4912090","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Billy Aaron Brown","lineid":645,"uuid":"6feb54d9-2e6d-4327-b22d-93c8b1599166"}
+{"index":904,"sub_uri":"Q1210511","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Didier Bourdon","lineid":916,"uuid":"8261d912-2206-4bf9-a9a3-48adb46073b6"}
+{"index":24,"sub_uri":"Q1336512","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Genki Sudo","lineid":24,"uuid":"c9b76b88-67f7-4cf6-8e00-cbc358e0b346"}
+{"index":444,"sub_uri":"Q3278093","obj_uri":"Q486748","obj_label":"pianist","sub_label":"Cristina Ortiz","lineid":451,"uuid":"c18d468a-687f-44f4-924c-0c1feced4493"}
+{"index":382,"sub_uri":"Q2580230","obj_uri":"Q82955","obj_label":"politicus","sub_label":"William Pember Reeves","lineid":388,"uuid":"3a5f5aa2-29db-4047-972f-afc11db96d4d"}
+{"index":226,"sub_uri":"Q740062","obj_uri":"Q1114448","obj_label":"cartoonist","sub_label":"Lewis Trondheim","lineid":230,"uuid":"9ad7429a-f339-404c-8465-c5d38095ff3b"}
+{"index":890,"sub_uri":"Q982721","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Nureddin Pasha","lineid":901,"uuid":"084da921-058a-4418-a15a-71c3e680bf69"}
+{"index":701,"sub_uri":"Q1510198","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Gerard Soeteman","lineid":710,"uuid":"d9ab464d-6339-40fc-8915-dd61e89c47b2"}
+{"index":470,"sub_uri":"Q3362899","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Niyi Osundare","lineid":477,"uuid":"d4598aaf-1129-498b-a6b6-4da9aca5e5a4"}
+{"index":293,"sub_uri":"Q1328764","obj_uri":"Q486748","obj_label":"pianist","sub_label":"Julius Katchen","lineid":298,"uuid":"e7aec0de-32b5-43c3-abce-535c85c2c49b"}
+{"index":687,"sub_uri":"Q12585485","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Gu Seung-hyeon","lineid":696,"uuid":"5b93bd84-b5bf-4311-ba42-bc590e82e030"}
+{"index":606,"sub_uri":"Q5311699","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Dude Harlino","lineid":615,"uuid":"be1044ff-519f-456d-9a7f-5511893dfe50"}
+{"index":361,"sub_uri":"Q260318","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Joan Leslie","lineid":367,"uuid":"4ec3288d-16e8-45f5-864c-790e62b45732"}
+{"index":858,"sub_uri":"Q288970","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Nadja Tiller","lineid":869,"uuid":"1e22fa79-8e17-4c3b-9704-de450ac5968b"}
+{"index":368,"sub_uri":"Q464474","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Josefina Pl\u00e1","lineid":374,"uuid":"9b8e3b58-0d93-4146-b9ad-79141dd6673f"}
+{"index":814,"sub_uri":"Q131324","obj_uri":"Q4610556","obj_label":"model","sub_label":"Janet Jackson","lineid":825,"uuid":"ccdaeb75-ce16-4937-96bb-a184b2d10f63"}
+{"index":702,"sub_uri":"Q6860813","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Milt Kogan","lineid":711,"uuid":"2b3dcb18-7fd2-4ef5-9c3d-edcefff5acea"}
+{"index":367,"sub_uri":"Q685214","obj_uri":"Q36834","obj_label":"componist","sub_label":"Earl Zindars","lineid":373,"uuid":"d870bb18-14ae-47b3-95c6-035a9e4adb6e"}
+{"index":897,"sub_uri":"Q3386510","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Pierre Paradis","lineid":908,"uuid":"6884ed17-cbba-4844-bc4c-4d64da0e183c"}
+{"index":47,"sub_uri":"Q232491","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Lee Hyori","lineid":47,"uuid":"f7c64c04-6de3-4f11-930d-1f031e88647c"}
+{"index":803,"sub_uri":"Q569649","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Anselmo Duarte","lineid":814,"uuid":"224e1178-e442-477d-9b24-0587b7f852c0"}
+{"index":485,"sub_uri":"Q6858514","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Millard Lampell","lineid":492,"uuid":"90347de6-6e04-4550-98c7-1ddec6929691"}
+{"index":163,"sub_uri":"Q1811634","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Ledisi","lineid":165,"uuid":"6efe3e5f-2e87-4259-a78e-3f9d5d8080f6"}
+{"index":343,"sub_uri":"Q436687","obj_uri":"Q33231","obj_label":"fotograaf","sub_label":"Marion Post Wolcott","lineid":349,"uuid":"ec3e229e-0839-42d9-b28d-f4b2a69f4c51"}
+{"index":447,"sub_uri":"Q6831036","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Michael Healy-Rae","lineid":454,"uuid":"37f393af-f4de-487b-bd66-863fdf824034"}
+{"index":438,"sub_uri":"Q2074623","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Peter Early","lineid":445,"uuid":"f60824e1-ea37-4d26-9013-6c30f8689453"}
+{"index":509,"sub_uri":"Q5719311","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Henry Chaplin, 1st Viscount Chaplin","lineid":517,"uuid":"901f19a8-efe9-4bdf-950a-d44ddb7c891a"}
+{"index":221,"sub_uri":"Q46052","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Anders Fogh Rasmussen","lineid":225,"uuid":"6e30ca1a-c6ea-499f-8b6d-5f072bd79008"}
+{"index":945,"sub_uri":"Q739031","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Giuseppe Saracco","lineid":957,"uuid":"565c928c-aee2-41e5-beba-d44f6fa225ac"}
+{"index":788,"sub_uri":"Q5401244","obj_uri":"Q214917","obj_label":"toneelschrijver","sub_label":"Esther McCracken","lineid":799,"uuid":"416ab2f4-898a-4f40-be11-43345e5343fc"}
+{"index":40,"sub_uri":"Q715315","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Arturo Jauretche","lineid":40,"uuid":"17fe062d-1964-489d-9816-db43c7cd5d3d"}
+{"index":359,"sub_uri":"Q6175894","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Jeffrey Carlson","lineid":365,"uuid":"854a9aa1-0d10-4ad3-89f8-7fe65e11eab8"}
+{"index":809,"sub_uri":"Q13473716","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Jancee Dunn","lineid":820,"uuid":"371c7c5f-b584-46ff-a438-710abdda435f"}
+{"index":297,"sub_uri":"Q5037600","obj_uri":"Q36834","obj_label":"componist","sub_label":"Caradog Roberts","lineid":302,"uuid":"e2e1abab-0465-4c49-a7b0-84fc3258ad99"}
+{"index":316,"sub_uri":"Q926078","obj_uri":"Q36834","obj_label":"componist","sub_label":"Micachu","lineid":322,"uuid":"437b2c74-d26d-443a-96c9-5d5edf94bb25"}
+{"index":694,"sub_uri":"Q19666804","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Bryshere Y. Gray","lineid":703,"uuid":"1941b73e-d048-4066-bcc2-b041e1b934c6"}
+{"index":37,"sub_uri":"Q597350","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Nicolle Dickson","lineid":37,"uuid":"aa93b207-7489-488d-8811-f52ce08b7aab"}
+{"index":474,"sub_uri":"Q5451106","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Fiona Russell Powell","lineid":481,"uuid":"45ca7eba-5691-47bc-8150-35a223627fb0"}
+{"index":69,"sub_uri":"Q15915722","obj_uri":"Q170790","obj_label":"wiskundige","sub_label":"Leila Schneps","lineid":69,"uuid":"a8bde1db-f1ee-4218-a737-39bcbc137a5b"}
+{"index":251,"sub_uri":"Q5110448","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Christiane Noll","lineid":256,"uuid":"05935029-9fb7-43e7-b392-e6658f13abf5"}
+{"index":614,"sub_uri":"Q7293410","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Rannvijay Singh","lineid":623,"uuid":"bfb6d368-a9f6-44dc-b09f-41639ebc7030"}
+{"index":181,"sub_uri":"Q272296","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Lisa Ryder","lineid":183,"uuid":"d0eded35-4186-4e92-9190-610b6ae15644"}
+{"index":669,"sub_uri":"Q621197","obj_uri":"Q42973","obj_label":"architect","sub_label":"Paul Hedqvist","lineid":678,"uuid":"003071e9-0550-4f6b-a67a-21137c879bf1"}
+{"index":7,"sub_uri":"Q528856","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Lusia Strus","lineid":7,"uuid":"5cea284d-4d98-4255-b029-67d6273e2614"}
+{"index":846,"sub_uri":"Q3081347","obj_uri":"Q6625963","obj_label":"romanschrijver","sub_label":"Shungiku Uchida","lineid":857,"uuid":"ba30e445-604c-40a0-889f-826c8f0709da"}
+{"index":740,"sub_uri":"Q3016485","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Darrell Roodt","lineid":750,"uuid":"0f3bf6fd-af1f-40fe-97f7-d59168c09fcc"}
+{"index":681,"sub_uri":"Q3015074","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Danielle Winits","lineid":690,"uuid":"daa36647-84bd-4e2b-99c4-d3e3deee83e3"}
+{"index":735,"sub_uri":"Q13560453","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Edy Ganem","lineid":745,"uuid":"409ac92d-77b5-4761-8f09-29c458227fcb"}
+{"index":545,"sub_uri":"Q1411012","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Jeremy Allen White","lineid":553,"uuid":"a47ddb91-121c-4c89-8435-26cf86a757ae"}
+{"index":49,"sub_uri":"Q17388534","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Nick Lashley","lineid":49,"uuid":"b0837899-aed6-4415-a3fd-796ab99eacb1"}
+{"index":727,"sub_uri":"Q403740","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Mustafa Khalil","lineid":736,"uuid":"c7f542b4-84c5-4086-9274-b292f59b77c3"}
+{"index":227,"sub_uri":"Q4754994","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Andrea Byrne","lineid":231,"uuid":"6fb79119-609c-4ceb-a48e-5d6b8272706a"}
+{"index":533,"sub_uri":"Q868","obj_uri":"Q170790","obj_label":"wiskundige","sub_label":"Aristoteles","lineid":541,"uuid":"5ba2c488-93dc-4a5b-988e-92ba1ccaef7e"}
+{"index":136,"sub_uri":"Q2408009","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Cheryl Tiegs","lineid":137,"uuid":"3ca8e378-5806-4aa2-8ba0-780b95e2c431"}
+{"index":211,"sub_uri":"Q5039870","obj_uri":"Q245068","obj_label":"komiek","sub_label":"Carl Barron","lineid":215,"uuid":"4ec01f97-c82c-45bd-b7f1-2d6be5a32945"}
+{"index":30,"sub_uri":"Q1193185","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Huo Guang","lineid":30,"uuid":"75f770c6-2265-4294-80a7-79ef21f2c0e9"}
+{"index":830,"sub_uri":"Q92957","obj_uri":"Q170790","obj_label":"wiskundige","sub_label":"Avi Wigderson","lineid":841,"uuid":"3b28f423-f1f5-4110-9508-d7fd38b6d77c"}
+{"index":313,"sub_uri":"Q16244614","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Maynard Sonntag","lineid":319,"uuid":"1bce2eeb-ef18-4c4b-b44f-2285988fae90"}
+{"index":269,"sub_uri":"Q4119","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Adam Carolla","lineid":274,"uuid":"42e5b3f6-bac0-4c66-92db-261732a28223"}
+{"index":147,"sub_uri":"Q76924","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Karl-Theodor zu Guttenberg","lineid":148,"uuid":"39660fe3-626a-4b2b-84fd-c91d9cfd343e"}
+{"index":738,"sub_uri":"Q6785820","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Mat Fraser","lineid":748,"uuid":"99bc66ca-48ea-46f0-8228-3e53183a3405"}
+{"index":695,"sub_uri":"Q287572","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Rebecca Pidgeon","lineid":704,"uuid":"c801e01d-b18a-4e87-85db-8bed2bd2f39e"}
+{"index":627,"sub_uri":"Q181665","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Agostinho Neto","lineid":636,"uuid":"fbbeb7f3-c552-446a-a788-7f129e87b552"}
+{"index":511,"sub_uri":"Q4773411","obj_uri":"Q846750","obj_label":"jockey","sub_label":"Anthony S. Cruz","lineid":519,"uuid":"1fbba3bb-a651-443a-b215-5bb2b69522bb"}
+{"index":20,"sub_uri":"Q5673877","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Harshika Poonacha","lineid":20,"uuid":"07646bd8-519d-4d06-ad85-663c3f4be3ab"}
+{"index":348,"sub_uri":"Q5723837","obj_uri":"Q214917","obj_label":"toneelschrijver","sub_label":"Henry James Byron","lineid":354,"uuid":"11b0dad2-e250-49a7-b51e-d2006bd366ed"}
+{"index":596,"sub_uri":"Q546408","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Karle Warren","lineid":605,"uuid":"35d3dcc5-f4b9-483e-8f02-1c7a6201ffed"}
+{"index":45,"sub_uri":"Q336074","obj_uri":"Q245068","obj_label":"komiek","sub_label":"Christopher Guest","lineid":45,"uuid":"808b669d-d6b7-45f5-9e79-5a9c439cdb89"}
+{"index":693,"sub_uri":"Q2959759","obj_uri":"Q214917","obj_label":"toneelschrijver","sub_label":"Charles Marowitz","lineid":702,"uuid":"d28dbd80-4760-4092-a1f6-512d31159a28"}
+{"index":336,"sub_uri":"Q5018152","obj_uri":"Q36834","obj_label":"componist","sub_label":"Cal Lampley","lineid":342,"uuid":"e5230120-4dfe-4d47-96e5-c99816c3de3f"}
+{"index":9,"sub_uri":"Q1439893","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Mino Guerrini","lineid":9,"uuid":"ebaeee88-413b-4f87-bd7d-4b31547f2460"}
+{"index":67,"sub_uri":"Q161846","obj_uri":"Q170790","obj_label":"wiskundige","sub_label":"Kazimierz Kuratowski","lineid":67,"uuid":"6457bd0d-40b3-4198-b071-26a83c54d8c5"}
+{"index":915,"sub_uri":"Q212632","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Andrej Bely","lineid":927,"uuid":"e15c4588-f6ea-42cf-978e-e3d92ba3e7c5"}
+{"index":273,"sub_uri":"Q513159","obj_uri":"Q170790","obj_label":"wiskundige","sub_label":"Jean Henri van Swinden","lineid":278,"uuid":"f64343ec-20d3-43dc-9073-e97510c83930"}
+{"index":492,"sub_uri":"Q5718544","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Henry Brassey","lineid":499,"uuid":"42265ad3-28e5-462e-8ada-c0c5678afe25"}
+{"index":767,"sub_uri":"Q2057791","obj_uri":"Q39631","obj_label":"arts","sub_label":"Patrick Manson","lineid":777,"uuid":"d6593503-38a0-4254-bc39-25a53f990205"}
+{"index":705,"sub_uri":"Q6939254","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Murray Grand","lineid":714,"uuid":"67a8ffd5-7954-4d29-8ff3-9a29e9bbcf5a"}
+{"index":352,"sub_uri":"Q7436236","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Scott Devours","lineid":358,"uuid":"93d59366-e70d-4e31-8bd7-5ca7da28ece3"}
+{"index":845,"sub_uri":"Q3268879","obj_uri":"Q36834","obj_label":"componist","sub_label":"David Monrad Johansen","lineid":856,"uuid":"33283d2d-bc95-43f5-a53e-50c549423706"}
+{"index":74,"sub_uri":"Q3270144","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Edmond Leung","lineid":74,"uuid":"912973af-d916-44f5-807c-409f58d21048"}
+{"index":524,"sub_uri":"Q913341","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"John Farrar","lineid":532,"uuid":"877392fa-85db-4074-b839-e02f180ae565"}
+{"index":5,"sub_uri":"Q369787","obj_uri":"Q36834","obj_label":"componist","sub_label":"Biagio Marini","lineid":5,"uuid":"21a3f686-076b-458d-a515-dee6106e387b"}
+{"index":213,"sub_uri":"Q155775","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Hugh Bonneville","lineid":217,"uuid":"825cb204-1acc-4c37-9157-4ea25cfd1a3e"}
+{"index":856,"sub_uri":"Q687218","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Robert Rusler","lineid":867,"uuid":"f10b36d8-de0f-475e-a4df-3ba37f7ea30d"}
+{"index":284,"sub_uri":"Q509900","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Santiago Segura","lineid":289,"uuid":"9d5c6684-6bd5-4068-a05d-7aebc0d62709"}
+{"index":63,"sub_uri":"Q6226301","obj_uri":"Q82955","obj_label":"politicus","sub_label":"John Clayton Allen","lineid":63,"uuid":"4172ed19-d0ac-4808-a5a2-e8c9a6729243"}
+{"index":86,"sub_uri":"Q1351738","obj_uri":"Q33231","obj_label":"fotograaf","sub_label":"John Adams Whipple","lineid":86,"uuid":"bd882aaf-2f9e-4e0b-b437-9e72f367ec53"}
+{"index":97,"sub_uri":"Q3554552","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Vanessa Ray","lineid":97,"uuid":"c3bcbb5a-40bf-4311-9f24-d01711f83188"}
+{"index":428,"sub_uri":"Q5442323","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Felix Salmon","lineid":435,"uuid":"a30f9a7f-1b66-42b9-b415-b05e2385b94c"}
+{"index":14,"sub_uri":"Q461872","obj_uri":"Q11631","obj_label":"ruimtevaarder","sub_label":"Gregory Chamitoff","lineid":14,"uuid":"aba27c16-7c23-437c-9077-60dacaf2ff67"}
+{"index":882,"sub_uri":"Q436722","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Sue Lyon","lineid":893,"uuid":"5e0bdf37-77cc-4ca3-b94d-82704d2406e6"}
+{"index":208,"sub_uri":"Q1203911","obj_uri":"Q36834","obj_label":"componist","sub_label":"Guy Babylon","lineid":212,"uuid":"7e91f0f1-8adc-40a1-8450-c8511bc03e2c"}
+{"index":310,"sub_uri":"Q237833","obj_uri":"Q6625963","obj_label":"romanschrijver","sub_label":"George Santayana","lineid":316,"uuid":"13b9255a-7322-4f36-b418-d56c40e05234"}
+{"index":87,"sub_uri":"Q102851","obj_uri":"Q4964182","obj_label":"filosoof","sub_label":"Bo\u00ebthius","lineid":87,"uuid":"18e51fbd-f48b-4c00-9902-da197e72b1e8"}
+{"index":672,"sub_uri":"Q873921","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Akira Emoto","lineid":681,"uuid":"e7c67363-ef6a-4537-8f77-92a0eb89b9d9"}
+{"index":598,"sub_uri":"Q6371886","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Karl Hampton","lineid":607,"uuid":"8877b186-d46b-4094-b531-278123422236"}
+{"index":330,"sub_uri":"Q683907","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Samuel Hill-Wood","lineid":336,"uuid":"228cd58c-2d5a-4c2a-8d31-2ea189423c44"}
+{"index":835,"sub_uri":"Q7816567","obj_uri":"Q6625963","obj_label":"romanschrijver","sub_label":"Tom Leopold","lineid":846,"uuid":"a7887096-c44a-4530-955c-dc0713a48e72"}
+{"index":848,"sub_uri":"Q1928195","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Michael Kidd","lineid":859,"uuid":"bbd26205-8edd-4652-b03f-06459970d647"}
+{"index":566,"sub_uri":"Q14941573","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Grace Chan","lineid":575,"uuid":"0eeec9c6-6170-456d-8ccc-95d0aed5990d"}
+{"index":586,"sub_uri":"Q2883923","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Barbara Britton","lineid":595,"uuid":"adb8ba2d-3376-40fa-ada4-35fd7d78e77a"}
+{"index":429,"sub_uri":"Q290502","obj_uri":"Q6625963","obj_label":"romanschrijver","sub_label":"Cristina Peri Rossi","lineid":436,"uuid":"7fdbccfb-b1c1-4d0f-99c0-aa69e4b996b9"}
+{"index":242,"sub_uri":"Q2528681","obj_uri":"Q486748","obj_label":"pianist","sub_label":"Abdel Rachman El Bacha","lineid":247,"uuid":"8f67c4a7-5b80-4791-b7f6-309a64ad50e4"}
+{"index":34,"sub_uri":"Q77183","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Wilhelm Marx","lineid":34,"uuid":"022c84c3-c158-4f80-bfe3-a085bcaa55e1"}
+{"index":554,"sub_uri":"Q2076016","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Peter Jason","lineid":562,"uuid":"3126453b-0b5c-47d2-a969-fe14441dba0b"}
+{"index":675,"sub_uri":"Q1374916","obj_uri":"Q486748","obj_label":"pianist","sub_label":"Luis Russell","lineid":684,"uuid":"4fbab3ba-9731-423e-aba5-36b44d9485cc"}
+{"index":641,"sub_uri":"Q15490298","obj_uri":"Q6625963","obj_label":"romanschrijver","sub_label":"Michael Kimball","lineid":650,"uuid":"853b7a0b-5fdd-431c-b632-1126b2aaac54"}
+{"index":790,"sub_uri":"Q26208","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Carlo Lizzani","lineid":801,"uuid":"68584c5a-4567-4b8d-9266-78b42b090d04"}
+{"index":17,"sub_uri":"Q3026290","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Dianne Kay","lineid":17,"uuid":"e44da599-c2b1-4521-8836-0fa13c068d27"}
+{"index":943,"sub_uri":"Q5218755","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Daniel Showalter","lineid":955,"uuid":"4ba9466f-fc80-490e-9a4b-40041374f1cc"}
+{"index":725,"sub_uri":"Q380575","obj_uri":"Q593644","obj_label":"scheikundige","sub_label":"Kikunae Ikeda","lineid":734,"uuid":"9eb57ef9-a057-436a-9bb6-07338fda719f"}
+{"index":164,"sub_uri":"Q187241","obj_uri":"Q169470","obj_label":"natuurkundige","sub_label":"Augustin-Jean Fresnel","lineid":166,"uuid":"cc767900-fdc5-437b-92af-a314b1cdac16"}
+{"index":289,"sub_uri":"Q5268911","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Dhananjay Singh","lineid":294,"uuid":"cffaa95d-e001-4fa3-9f42-1b45619cc448"}
+{"index":457,"sub_uri":"Q2773125","obj_uri":"Q486748","obj_label":"pianist","sub_label":"Louis Alter","lineid":464,"uuid":"2b51c58a-c465-4bff-b984-6ceddd8f552a"}
+{"index":232,"sub_uri":"Q438134","obj_uri":"Q212980","obj_label":"psycholoog","sub_label":"Torey Hayden","lineid":236,"uuid":"770bb3a8-9175-42f4-a708-6c890b67fa1e"}
+{"index":104,"sub_uri":"Q5592","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Michelangelo Buonarroti","lineid":104,"uuid":"eded8783-1a28-4e90-b54c-14bb858db1bd"}
+{"index":451,"sub_uri":"Q5536895","obj_uri":"Q36834","obj_label":"componist","sub_label":"George Bennard","lineid":458,"uuid":"378e4151-82a8-46d1-b1b7-6eeb2090e61c"}
+{"index":407,"sub_uri":"Q1385654","obj_uri":"Q33231","obj_label":"fotograaf","sub_label":"Nils Strindberg","lineid":414,"uuid":"f1e49753-3067-4b5d-ab10-019d9384b931"}
+{"index":80,"sub_uri":"Q6099872","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Ivy Ho","lineid":80,"uuid":"46964930-7523-4e8f-bf0d-b886599d7d05"}
+{"index":462,"sub_uri":"Q581084","obj_uri":"Q11063","obj_label":"astronoom","sub_label":"Robert d'Escourt Atkinson","lineid":469,"uuid":"2a917c28-8e0a-4fd6-a2af-ad93835917bb"}
+{"index":748,"sub_uri":"Q928350","obj_uri":"Q42973","obj_label":"architect","sub_label":"Cigoli","lineid":758,"uuid":"7ea9ff44-99c8-479e-8631-b44e30a42c3d"}
+{"index":317,"sub_uri":"Q113113","obj_uri":"Q42973","obj_label":"architect","sub_label":"Alexander Wittek","lineid":323,"uuid":"f5b5f8d7-d147-4969-a380-4e6abe9cecc6"}
+{"index":595,"sub_uri":"Q45662","obj_uri":"Q193391","obj_label":"diplomaat","sub_label":"Klemens von Metternich","lineid":604,"uuid":"4606905e-4831-4e68-9cfb-131834d82879"}
+{"index":579,"sub_uri":"Q368037","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Wes Bentley","lineid":588,"uuid":"52ee3a40-08a4-40ff-adf0-ab007b989ebd"}
+{"index":160,"sub_uri":"Q460358","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Yael Abecassis","lineid":162,"uuid":"a93f26b8-fb79-4595-927d-75acfcbeda43"}
+{"index":55,"sub_uri":"Q3354983","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Hauk Aabel","lineid":55,"uuid":"7df5e44c-0ea2-42df-beac-e98a55ca0f55"}
+{"index":337,"sub_uri":"Q1351201","obj_uri":"Q1114448","obj_label":"cartoonist","sub_label":"Gary Panter","lineid":343,"uuid":"bfdb0a11-3e11-487a-b5d9-7be1f2cf6cdc"}
+{"index":499,"sub_uri":"Q551953","obj_uri":"Q4610556","obj_label":"model","sub_label":"Paulo Pires","lineid":506,"uuid":"67143870-c8a8-4962-893f-08d177fdd508"}
+{"index":116,"sub_uri":"Q268917","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Lee Aaron","lineid":116,"uuid":"f7272d6e-8355-4519-aa6a-1e61b45b3ebf"}
+{"index":346,"sub_uri":"Q5545127","obj_uri":"Q36834","obj_label":"componist","sub_label":"George Thalben-Ball","lineid":352,"uuid":"8ac12696-4c23-4320-88bd-6c338ea5f6d7"}
+{"index":465,"sub_uri":"Q4409910","obj_uri":"Q42973","obj_label":"architect","sub_label":"Michel Mossessian","lineid":472,"uuid":"2e577422-c812-4dce-81af-0d144d267059"}
+{"index":179,"sub_uri":"Q6286978","obj_uri":"Q593644","obj_label":"scheikundige","sub_label":"Joseph Shivers","lineid":181,"uuid":"2be45f2a-fd0d-449c-ae66-4cd697edc082"}
+{"index":923,"sub_uri":"Q7187235","obj_uri":"Q674426","obj_label":"conservator","sub_label":"Phong Bui","lineid":935,"uuid":"d1142c5d-492b-4276-b1fc-894c521ad410"}
+{"index":837,"sub_uri":"Q6228548","obj_uri":"Q82955","obj_label":"politicus","sub_label":"John Danvers","lineid":848,"uuid":"58c030ed-5069-4f5c-baaf-89a553559137"}
+{"index":676,"sub_uri":"Q333411","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Ilia Tsjavtsjavadze","lineid":685,"uuid":"82ea9cad-270e-4aa6-83f5-91bc0757833e"}
+{"index":397,"sub_uri":"Q3121425","obj_uri":"Q36834","obj_label":"componist","sub_label":"Thomas Troelsen","lineid":403,"uuid":"835fd949-8109-40ae-a2d8-1d3fb6c00809"}
+{"index":549,"sub_uri":"Q2991961","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Conchita Montenegro","lineid":557,"uuid":"e1fa667a-ee18-4228-b66e-4470870e76e1"}
+{"index":729,"sub_uri":"Q1702838","obj_uri":"Q36834","obj_label":"componist","sub_label":"Jon Rose","lineid":738,"uuid":"a637cb02-740b-4d26-bd59-85a98e1e8120"}
+{"index":556,"sub_uri":"Q712704","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Robert David Hall","lineid":564,"uuid":"b8bf21ed-fe84-4f76-a81a-c01c5c2c968b"}
+{"index":873,"sub_uri":"Q332493","obj_uri":"Q82955","obj_label":"politicus","sub_label":"George Osborne","lineid":884,"uuid":"2af7874d-1768-4fe3-888f-71150a69fa32"}
+{"index":718,"sub_uri":"Q448594","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Esther Ralston","lineid":727,"uuid":"e9dbb03e-4d65-432e-a415-4f4d9b0561d7"}
+{"index":925,"sub_uri":"Q16732268","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"John McCurry","lineid":937,"uuid":"5a8d5d5b-c07b-4bbe-b95f-4e8137fdce38"}
+{"index":170,"sub_uri":"Q5237377","obj_uri":"Q33999","obj_label":"acteur","sub_label":"David McIlwraith","lineid":172,"uuid":"cda4de0d-3f8b-4a9e-9db3-82682fd7af79"}
+{"index":21,"sub_uri":"Q4009034","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Vauro Senesi","lineid":21,"uuid":"5b22691b-1a55-4c02-9df3-f025671953da"}
+{"index":290,"sub_uri":"Q1680343","obj_uri":"Q49757","obj_label":"dichter","sub_label":"James Elroy Flecker","lineid":295,"uuid":"fc49b393-51bb-4697-9d1a-0382cc401412"}
+{"index":90,"sub_uri":"Q6938775","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Murli Deora","lineid":90,"uuid":"0a0acd28-f385-4257-b40a-0e49483e7964"}
+{"index":240,"sub_uri":"Q294225","obj_uri":"Q36834","obj_label":"componist","sub_label":"Enrique Granados","lineid":245,"uuid":"5b3589cb-350f-495d-94b9-705563c8982f"}
+{"index":721,"sub_uri":"Q6172052","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Jeanne Coyne","lineid":730,"uuid":"de9ca3eb-9267-4ae1-b3aa-5e005134018b"}
+{"index":572,"sub_uri":"Q57275","obj_uri":"Q36834","obj_label":"componist","sub_label":"Ermanno Wolf-Ferrari","lineid":581,"uuid":"33fb7306-cfca-47dd-a42e-b458bbe8230f"}
+{"index":92,"sub_uri":"Q256613","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Lisa Nicole Carson","lineid":92,"uuid":"43855c4f-2765-4131-ae59-6a3f299ea7ac"}
+{"index":938,"sub_uri":"Q2057723","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Patrick Joseph Sullivan","lineid":950,"uuid":"9af38e89-3a72-4dcc-85c9-c81110da62c6"}
+{"index":750,"sub_uri":"Q5290518","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Dominic Dierkes","lineid":760,"uuid":"3c994a19-241e-4edf-bc9e-e96ab279b93c"}
+{"index":56,"sub_uri":"Q6262050","obj_uri":"Q33999","obj_label":"acteur","sub_label":"John Vivyan","lineid":56,"uuid":"62c58681-ff40-457c-9d34-f2f9c047a2fe"}
+{"index":813,"sub_uri":"Q1346309","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Eoin Ryan, Jnr","lineid":824,"uuid":"58cb7458-6f8a-4ace-9df9-86ba054823ae"}
+{"index":855,"sub_uri":"Q354695","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Yakubu Gowon","lineid":866,"uuid":"19f06e6c-d71e-4adb-aa1a-8d61303484cb"}
+{"index":726,"sub_uri":"Q333615","obj_uri":"Q6625963","obj_label":"romanschrijver","sub_label":"Raymond Radiguet","lineid":735,"uuid":"c1bdbdb5-d410-41a9-8f7d-e90052cdd874"}
+{"index":76,"sub_uri":"Q1520505","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Margherita Missoni","lineid":76,"uuid":"ddba91a0-ea80-48fb-959d-a848d03070d6"}
+{"index":318,"sub_uri":"Q878336","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Gianfranco Terenzi","lineid":324,"uuid":"33ab88a2-4f4e-412d-b042-a959bee0b3e8"}
+{"index":288,"sub_uri":"Q697765","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Rudolf Maister","lineid":293,"uuid":"6087174b-c3fe-4984-8cbd-89b49288afd7"}
+{"index":100,"sub_uri":"Q6832732","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Michael McKell","lineid":100,"uuid":"8ba0c39c-de76-4a09-b7bd-ffd87ddc9e39"}
+{"index":893,"sub_uri":"Q589313","obj_uri":"Q36834","obj_label":"componist","sub_label":"Anton Fier","lineid":904,"uuid":"b3051a41-d94f-4a79-a801-cfd03973b143"}
+{"index":79,"sub_uri":"Q4164786","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Emad Hamdy","lineid":79,"uuid":"6936ed05-1e45-4ac3-badc-126dfa0e5947"}
+{"index":642,"sub_uri":"Q453011","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Jacques Werup","lineid":651,"uuid":"cbb7c5af-7873-41b2-a15f-daaf7bc082e2"}
+{"index":441,"sub_uri":"Q1230528","obj_uri":"Q170790","obj_label":"wiskundige","sub_label":"Giovanni Poleni","lineid":448,"uuid":"7420c262-7821-4732-9d40-943253740089"}
+{"index":125,"sub_uri":"Q713949","obj_uri":"Q36834","obj_label":"componist","sub_label":"Roberto Gerhard","lineid":125,"uuid":"fadb3421-6609-4f3a-a786-f354e9500956"}
+{"index":771,"sub_uri":"Q446692","obj_uri":"Q11631","obj_label":"ruimtevaarder","sub_label":"Dumitru Prunariu","lineid":781,"uuid":"2340900e-27ef-4812-ad46-cd4af2308461"}
+{"index":464,"sub_uri":"Q929634","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Tom Verica","lineid":471,"uuid":"cf2e5997-4c84-4926-a167-56c369cfa95a"}
+{"index":768,"sub_uri":"Q7369349","obj_uri":"Q188094","obj_label":"econoom","sub_label":"Ross Garnaut","lineid":778,"uuid":"50326486-f9e9-4c1c-a1fc-b6dc5b0afabe"}
+{"index":320,"sub_uri":"Q65201","obj_uri":"Q170790","obj_label":"wiskundige","sub_label":"Richard Brauer","lineid":326,"uuid":"07eb037c-52a8-4b76-9051-61578723b1c0"}
+{"index":751,"sub_uri":"Q3546093","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Iliana Fox","lineid":761,"uuid":"0c63fdee-2eb7-460c-9272-e5561496f769"}
+{"index":271,"sub_uri":"Q517576","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Anya Lahiri","lineid":276,"uuid":"d9e252b7-3b9b-4fbf-bdc4-e44249273db3"}
+{"index":94,"sub_uri":"Q135106","obj_uri":"Q42857","obj_label":"profeet","sub_label":"Habakuk","lineid":94,"uuid":"3b30816f-e294-4004-beb4-97959b2e871c"}
+{"index":900,"sub_uri":"Q3115598","obj_uri":"Q36834","obj_label":"componist","sub_label":"M. S. Viswanathan","lineid":911,"uuid":"19ff7e18-2059-478f-8081-d000f601e7fe"}
+{"index":332,"sub_uri":"Q1443042","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Frank Comerford Walker","lineid":338,"uuid":"7756f99c-add3-433b-9fef-573413f97587"}
+{"index":836,"sub_uri":"Q6299988","obj_uri":"Q36834","obj_label":"componist","sub_label":"Juan Hidalgo Codorniu","lineid":847,"uuid":"3b3eaf95-da98-471e-8f1a-c3ffac918063"}
+{"index":543,"sub_uri":"Q189080","obj_uri":"Q33231","obj_label":"fotograaf","sub_label":"Lou Reed","lineid":551,"uuid":"72a61049-04c5-427a-8c85-946764e1c437"}
+{"index":384,"sub_uri":"Q1069140","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Luis Miguel","lineid":390,"uuid":"5af62354-26e0-4033-89f7-76915ed95def"}
+{"index":292,"sub_uri":"Q7345768","obj_uri":"Q170790","obj_label":"wiskundige","sub_label":"Robert I. Soare","lineid":297,"uuid":"c078d165-2933-4320-9091-7d7e793efca1"}
+{"index":437,"sub_uri":"Q1031880","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Thomas de Waal","lineid":444,"uuid":"1df34285-7ead-43fe-857c-c58eb7d8d06c"}
+{"index":460,"sub_uri":"Q7599745","obj_uri":"Q36834","obj_label":"componist","sub_label":"Stanley Lebowsky","lineid":467,"uuid":"e75e8e8b-5d9f-40e6-95b2-55e08ece70c5"}
+{"index":686,"sub_uri":"Q72295","obj_uri":"Q36834","obj_label":"componist","sub_label":"Marco Minnemann","lineid":695,"uuid":"2ee3f3e1-d987-42af-987a-f42e8129e02e"}
+{"index":60,"sub_uri":"Q3519929","obj_uri":"Q36834","obj_label":"componist","sub_label":"Bombay Jayashri","lineid":60,"uuid":"9ca7ca31-8b76-424a-9dc8-8e2131873d0e"}
+{"index":283,"sub_uri":"Q63408","obj_uri":"Q4964182","obj_label":"filosoof","sub_label":"Arthur Drews","lineid":288,"uuid":"fa9a7c91-56a0-40ea-ad55-3a9b472be44d"}
+{"index":838,"sub_uri":"Q6243383","obj_uri":"Q49757","obj_label":"dichter","sub_label":"John Koethe","lineid":849,"uuid":"d67a6cfa-7461-4fad-aea1-59bacc2597fd"}
+{"index":920,"sub_uri":"Q3876879","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Nikki Giovanni","lineid":932,"uuid":"8f7cae91-5a6a-4e1d-b226-aedd025c6a8f"}
+{"index":637,"sub_uri":"Q5482528","obj_uri":"Q6625963","obj_label":"romanschrijver","sub_label":"Francis Stuart","lineid":646,"uuid":"cf866e36-38b2-43fe-b166-bf8dcc95b063"}
+{"index":270,"sub_uri":"Q3743178","obj_uri":"Q49757","obj_label":"dichter","sub_label":"John Gawsworth","lineid":275,"uuid":"56060c1a-e489-46f4-bc0e-81883b265927"}
+{"index":53,"sub_uri":"Q1909586","obj_uri":"Q6625963","obj_label":"romanschrijver","sub_label":"Matthew Sharpe","lineid":53,"uuid":"b7669794-d399-404f-9e09-ac4a3cb99775"}
+{"index":39,"sub_uri":"Q506972","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Andrew Ross Sorkin","lineid":39,"uuid":"ce7367bc-5069-4825-848d-dc7be8e51b22"}
+{"index":927,"sub_uri":"Q2639476","obj_uri":"Q33999","obj_label":"acteur","sub_label":"John Cygan","lineid":939,"uuid":"dc7926e7-1cda-4fe0-8c28-88e3acf0f751"}
+{"index":58,"sub_uri":"Q887890","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Bob Dorough","lineid":58,"uuid":"2089ad06-c6de-4906-819d-b43b50165ba8"}
+{"index":165,"sub_uri":"Q527402","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Ellen Dubin","lineid":167,"uuid":"87cc381b-85ff-498b-964b-47973817cfa5"}
+{"index":895,"sub_uri":"Q723648","obj_uri":"Q214917","obj_label":"toneelschrijver","sub_label":"Henri Meilhac","lineid":906,"uuid":"c8323dd1-2bf6-4c84-a1d5-3f99d9a45b45"}
+{"index":709,"sub_uri":"Q263104","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Kinuyo Tanaka","lineid":718,"uuid":"a3d5cbb0-1856-473c-be82-756b8146e433"}
+{"index":646,"sub_uri":"Q1194472","obj_uri":"Q193391","obj_label":"diplomaat","sub_label":"Arinori Mori","lineid":655,"uuid":"10264da2-2c39-4ca8-a57a-c0dd522c2210"}
+{"index":295,"sub_uri":"Q7332293","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Rico Yan","lineid":300,"uuid":"404af133-fcf5-4701-9ca6-5cf0d733ec4b"}
+{"index":134,"sub_uri":"Q4131386","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Polina Gagarina","lineid":135,"uuid":"19130357-5eef-43e5-b553-fe6611e2dec1"}
+{"index":887,"sub_uri":"Q3543507","obj_uri":"Q245068","obj_label":"komiek","sub_label":"Vic Sotto","lineid":898,"uuid":"bbcaef14-9bd0-4724-93da-6dd872cb9630"}
+{"index":360,"sub_uri":"Q203223","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Ciara","lineid":366,"uuid":"30a5e9c5-f913-45db-a63f-da25a5910578"}
+{"index":220,"sub_uri":"Q7441294","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Sean Nelson","lineid":224,"uuid":"c74dacae-90ea-4e02-a97d-641de436f774"}
+{"index":415,"sub_uri":"Q967163","obj_uri":"Q33231","obj_label":"fotograaf","sub_label":"Edward Burtynsky","lineid":422,"uuid":"aebfa7f8-49f4-4e42-b14e-6688d1f349fb"}
+{"index":357,"sub_uri":"Q16731883","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Joe Malloori","lineid":363,"uuid":"d8ea0836-8088-4d80-8e59-1cfe9d55916b"}
+{"index":753,"sub_uri":"Q331298","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"John Horgan","lineid":763,"uuid":"444708a2-b581-461c-8b07-d62292fae97f"}
+{"index":334,"sub_uri":"Q1930982","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Michelan Sisti","lineid":340,"uuid":"700a0372-805a-4da7-94c9-c09f40fecd28"}
+{"index":599,"sub_uri":"Q14945676","obj_uri":"Q82955","obj_label":"politicus","sub_label":"William Bowen Rowlands","lineid":608,"uuid":"6f28dbe2-9958-4a2b-aff2-2aca5f1e0bf3"}
+{"index":419,"sub_uri":"Q6774672","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Marti Emerald","lineid":426,"uuid":"71b93179-41b8-4e0a-88bb-3cd1c20763bb"}
+{"index":849,"sub_uri":"Q310341","obj_uri":"Q188094","obj_label":"econoom","sub_label":"Antonio Negri","lineid":860,"uuid":"0e3f4e47-69f2-45ea-aa48-bba5b3196745"}
+{"index":601,"sub_uri":"Q73012","obj_uri":"Q170790","obj_label":"wiskundige","sub_label":"Hans Heinrich Wilhelm Magnus","lineid":610,"uuid":"b50b4719-b3c8-4243-96f2-639e62664155"}
+{"index":426,"sub_uri":"Q2134323","obj_uri":"Q36834","obj_label":"componist","sub_label":"Raynor Taylor","lineid":433,"uuid":"192002ed-2f1b-4304-8898-742ba3623859"}
+{"index":878,"sub_uri":"Q1802106","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Rory O'Hanlon","lineid":889,"uuid":"e7b8f06d-d05e-4f1b-860e-5d4ab84fa379"}
+{"index":589,"sub_uri":"Q2744537","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Vondell Darr","lineid":598,"uuid":"8b38f5a0-73e5-420b-9172-c98e75831507"}
+{"index":393,"sub_uri":"Q763546","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Nolan Gerard Funk","lineid":399,"uuid":"a4f094a4-8d02-4e74-a711-c0b380f63172"}
+{"index":139,"sub_uri":"Q1047","obj_uri":"Q808967","obj_label":"barrister","sub_label":"Jawaharlal Nehru","lineid":140,"uuid":"34c42dc5-9f4c-479f-9b60-376514052aa5"}
+{"index":306,"sub_uri":"Q1204543","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Mayuko Fukuda","lineid":312,"uuid":"da83d0d1-5aa7-49fb-bbdf-1a455f201428"}
+{"index":621,"sub_uri":"Q16211242","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Mathira","lineid":630,"uuid":"4069dee1-ddaa-47cf-b724-9178ebee40dc"}
+{"index":57,"sub_uri":"Q5342609","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Edward Dodsley Barrow","lineid":57,"uuid":"8858e49d-626b-4735-a929-bc098e458e68"}
+{"index":847,"sub_uri":"Q1367289","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Michael Masser","lineid":858,"uuid":"3051233d-3db3-4dc7-b64d-f64b1000b729"}
+{"index":197,"sub_uri":"Q11819772","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Ryu Hyeon-kyeong","lineid":200,"uuid":"64dc3699-d651-4199-bef9-008d59179364"}
+{"index":520,"sub_uri":"Q2138560","obj_uri":"Q33231","obj_label":"fotograaf","sub_label":"James Craig Annan","lineid":528,"uuid":"0099e9e7-2305-486c-a19c-130a7b0ccbde"}
+{"index":844,"sub_uri":"Q686050","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Ignaz Paul Vital Troxler","lineid":855,"uuid":"4bffa121-3ea2-4751-9dab-4302c5746b1a"}
+{"index":653,"sub_uri":"Q7049739","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Noon Meem Danish","lineid":662,"uuid":"79942166-349e-4062-b98c-4979c260ca83"}
+{"index":828,"sub_uri":"Q6409539","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Kim Walker-Smith","lineid":839,"uuid":"1b503c72-e618-41f6-bad2-5f8d314acd49"}
+{"index":933,"sub_uri":"Q3383670","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Pierre Alcover","lineid":945,"uuid":"d33d4cc7-163e-432c-b6df-ba3dafdb64c7"}
+{"index":649,"sub_uri":"Q34474","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Aleksandr Solzjenitsyn","lineid":658,"uuid":"0112c7ee-9eac-49ee-b12b-11fb1d12c8ff"}
+{"index":200,"sub_uri":"Q5292737","obj_uri":"Q6625963","obj_label":"romanschrijver","sub_label":"Don Hannah","lineid":204,"uuid":"f373cb8b-96ee-4847-8315-a6daa8472d76"}
+{"index":130,"sub_uri":"Q7686185","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Tariq Saleh","lineid":131,"uuid":"9e556335-d750-419c-b78b-e4291db4f417"}
+{"index":461,"sub_uri":"Q623856","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Choi Myung-gil","lineid":468,"uuid":"dc438e1e-ade4-4998-b81e-15cc2acf20bc"}
+{"index":540,"sub_uri":"Q3087186","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Frederick W. Seward","lineid":548,"uuid":"49475131-b5b7-453f-b166-fceb59a7906c"}
+{"index":394,"sub_uri":"Q6395392","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Kether Donohue","lineid":400,"uuid":"c6b1c96f-178b-42f7-ae73-75ddbd5b4db6"}
+{"index":278,"sub_uri":"Q705626","obj_uri":"Q11631","obj_label":"ruimtevaarder","sub_label":"Wang Yaping","lineid":283,"uuid":"8735e72e-1b89-430a-bf9f-8f0a73d11782"}
+{"index":794,"sub_uri":"Q5372047","obj_uri":"Q6625963","obj_label":"romanschrijver","sub_label":"Emily Barton","lineid":805,"uuid":"ecdbd308-8dbd-4712-8549-0cb1429c2917"}
+{"index":728,"sub_uri":"Q4805770","obj_uri":"Q188094","obj_label":"econoom","sub_label":"Ashok Mitra","lineid":737,"uuid":"5da64c80-00d9-4c73-a664-d230fff724de"}
+{"index":930,"sub_uri":"Q1403491","obj_uri":"Q170790","obj_label":"wiskundige","sub_label":"Walter Noll","lineid":942,"uuid":"8698592e-24a4-412b-afdf-e98b20daf0c3"}
+{"index":182,"sub_uri":"Q333652","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Cledwyn Hughes, Baron Cledwyn of Penrhos","lineid":184,"uuid":"b82776fb-9e2f-4450-9f6a-d83297b37d29"}
+{"index":370,"sub_uri":"Q2491621","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Ron Rash","lineid":376,"uuid":"c6b3e2c9-39bd-4772-a127-ee6c230f8fdd"}
+{"index":609,"sub_uri":"Q2884044","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Barbara Tyson","lineid":618,"uuid":"65d3b3a7-18fb-4472-b957-755fe70e3f0f"}
+{"index":529,"sub_uri":"Q7383111","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Ruth Marshall","lineid":537,"uuid":"f7b708d9-763d-4ba1-8e65-83431b64dc27"}
+{"index":568,"sub_uri":"Q363513","obj_uri":"Q133485","obj_label":"rabbijn","sub_label":"Jehoeda L\u00f6w","lineid":577,"uuid":"599367c8-96bd-401d-b5e0-ae8c12c3b293"}
+{"index":427,"sub_uri":"Q1151944","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Mary-Kate Olsen","lineid":434,"uuid":"02b31dc0-d477-409a-a9b8-64115b8a6e80"}
+{"index":559,"sub_uri":"Q6733904","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Maheswari","lineid":567,"uuid":"a066a131-668e-4aa7-9110-683b45b95344"}
+{"index":356,"sub_uri":"Q285444","obj_uri":"Q36834","obj_label":"componist","sub_label":"Madeleine Peyroux","lineid":362,"uuid":"ed33339b-f134-4427-ba7a-9f5818cdd598"}
+{"index":818,"sub_uri":"Q312575","obj_uri":"Q188094","obj_label":"econoom","sub_label":"Clive Granger","lineid":829,"uuid":"df10658a-dc54-437b-9f1a-bfff21ea4045"}
+{"index":159,"sub_uri":"Q4805450","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Ashley Gorley","lineid":161,"uuid":"659fec67-2c43-42f1-aba3-4665c93dd7ff"}
+{"index":381,"sub_uri":"Q6173385","obj_uri":"Q36834","obj_label":"componist","sub_label":"Jeff Bova","lineid":387,"uuid":"cb1fef77-5278-49a9-8b4e-8b6d6bffd863"}
+{"index":442,"sub_uri":"Q2783028","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Edmond Panariti","lineid":449,"uuid":"e875b5b0-25c8-43e3-b9b5-e015775f4af5"}
+{"index":113,"sub_uri":"Q3505636","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Susanna Haavisto","lineid":113,"uuid":"372e422f-8e42-447d-b68f-bc237f617477"}
+{"index":883,"sub_uri":"Q636680","obj_uri":"Q33999","obj_label":"acteur","sub_label":"William S. Hart","lineid":894,"uuid":"761eaa71-c0a5-4ea3-9e55-d2ad13e0f357"}
+{"index":78,"sub_uri":"Q332405","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Stafford Cripps","lineid":78,"uuid":"b69c881a-6224-4f30-b2c2-2449072c06f9"}
+{"index":555,"sub_uri":"Q421581","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Akshaye Khanna","lineid":563,"uuid":"61e178e5-a1a1-4e0b-8e4b-ac6073bed7dc"}
+{"index":515,"sub_uri":"Q462786","obj_uri":"Q765778","obj_label":"organist","sub_label":"Johann Peter Kellner","lineid":523,"uuid":"ef1fc6b6-5c94-4304-b055-02201abd69cd"}
+{"index":11,"sub_uri":"Q453980","obj_uri":"Q644687","obj_label":"illustrator","sub_label":"Quentin Blake","lineid":11,"uuid":"26ec97ca-bf18-460b-bc0b-34df502a4c59"}
+{"index":434,"sub_uri":"Q325406","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Paul Mercurio","lineid":441,"uuid":"3e0fd055-0d15-4869-a87a-3eb641493a31"}
+{"index":493,"sub_uri":"Q3040538","obj_uri":"Q193391","obj_label":"diplomaat","sub_label":"Manuel Aznar Zubigaray","lineid":500,"uuid":"6bae4a13-19ee-4989-bc0b-349a74dd77a6"}
+{"index":229,"sub_uri":"Q6219553","obj_uri":"Q82955","obj_label":"politicus","sub_label":"John Ashburnham, 1st Baron Ashburnham","lineid":233,"uuid":"f91a63fa-fcd3-4d0b-b551-61fbf67f6363"}
+{"index":450,"sub_uri":"Q561080","obj_uri":"Q36834","obj_label":"componist","sub_label":"Bertold Hummel","lineid":457,"uuid":"5b86d051-fba0-4b1f-8547-4383e6988961"}
+{"index":901,"sub_uri":"Q708266","obj_uri":"Q36834","obj_label":"componist","sub_label":"Steve Swallow","lineid":912,"uuid":"d9aadb4e-e621-4a44-9bd9-4e438156ce72"}
+{"index":864,"sub_uri":"Q85633","obj_uri":"Q36834","obj_label":"componist","sub_label":"Anton Walter","lineid":875,"uuid":"2b6ef847-3799-4610-9a78-96fc4360f87d"}
+{"index":217,"sub_uri":"Q5702657","obj_uri":"Q245068","obj_label":"komiek","sub_label":"Helen Lederer","lineid":221,"uuid":"039c9ffd-7d68-41f0-b2d6-9c8d11147953"}
+{"index":860,"sub_uri":"Q8013623","obj_uri":"Q49757","obj_label":"dichter","sub_label":"William John Gruffydd","lineid":871,"uuid":"95b14848-523e-4f2c-88f7-2fdbf199feb5"}
+{"index":677,"sub_uri":"Q352684","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Manilius","lineid":686,"uuid":"149554d1-b854-449d-bb51-ce4d1d5b32d5"}
+{"index":236,"sub_uri":"Q5732965","obj_uri":"Q33231","obj_label":"fotograaf","sub_label":"Herb Greene","lineid":241,"uuid":"4bffa599-0678-4406-a5b0-0ba62063019d"}
+{"index":358,"sub_uri":"Q4992198","obj_uri":"Q1075651","obj_label":"toetsenist","sub_label":"Butch Taylor","lineid":364,"uuid":"16c97d04-fd08-40d7-9752-3c33328e1286"}
+{"index":287,"sub_uri":"Q7650809","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Suzanne Crouch","lineid":292,"uuid":"23ff5488-34ce-4107-9f3d-7e23ed3fe76c"}
+{"index":663,"sub_uri":"Q525363","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Barbara Vucanovich","lineid":672,"uuid":"46c417e4-ee6f-4115-954c-9dd26d63613d"}
+{"index":732,"sub_uri":"Q919789","obj_uri":"Q36834","obj_label":"componist","sub_label":"Giovanni Battista Vitali","lineid":742,"uuid":"02ef98af-9976-4b0b-8b8e-318fcfc511e3"}
+{"index":633,"sub_uri":"Q920665","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Jerry Ragovoy","lineid":642,"uuid":"70a0b590-55a6-491b-b46a-d05078b7eda0"}
+{"index":819,"sub_uri":"Q3438745","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Roger Bowen","lineid":830,"uuid":"11eef881-3bd4-4973-91d0-f7cf9292c117"}
+{"index":880,"sub_uri":"Q5289370","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Dolly Wells","lineid":891,"uuid":"9fcd83c0-828b-4afb-8d3c-6097f08ada2e"}
+{"index":914,"sub_uri":"Q4295","obj_uri":"Q4964182","obj_label":"filosoof","sub_label":"Petrus Abaelardus","lineid":926,"uuid":"40776409-7624-451b-86e2-c90a14802c5b"}
+{"index":503,"sub_uri":"Q232451","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Madhuri Dixit","lineid":511,"uuid":"bd27f636-5437-47b2-96bc-4a37d65c512d"}
+{"index":202,"sub_uri":"Q7615051","obj_uri":"Q36834","obj_label":"componist","sub_label":"Steven Mercurio","lineid":206,"uuid":"ecc514ec-eeb5-4a0b-9356-1aac20191490"}
+{"index":398,"sub_uri":"Q712961","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Krister Henriksson","lineid":404,"uuid":"5a91b305-7c79-4b44-9fe2-bb78e1031fdb"}
+{"index":859,"sub_uri":"Q3505815","obj_uri":"Q214917","obj_label":"toneelschrijver","sub_label":"Sutton Vane","lineid":870,"uuid":"a3bf89ad-c2fc-423a-9cba-4eaceef925b7"}
+{"index":501,"sub_uri":"Q4722844","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Alfred Hickman","lineid":509,"uuid":"5e979803-6681-4b22-a01e-9ec1280eaa33"}
+{"index":122,"sub_uri":"Q7340444","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Rob Owen (journalist)","lineid":122,"uuid":"f5a8fc67-b31b-4ff0-b637-5209e87ab82e"}
+{"index":355,"sub_uri":"Q706287","obj_uri":"Q36834","obj_label":"componist","sub_label":"Giovanni Maria Nanino","lineid":361,"uuid":"e5579bf2-b1d0-4703-9592-a9dae6f47384"}
+{"index":808,"sub_uri":"Q77322","obj_uri":"Q170790","obj_label":"wiskundige","sub_label":"Rudolf Lipschitz","lineid":819,"uuid":"ae07af59-4aad-4063-bd60-34533394902e"}
+{"index":167,"sub_uri":"Q6150056","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Jan Tennant","lineid":169,"uuid":"f976468e-6f68-4fc4-ae3e-088215475d8e"}
+{"index":187,"sub_uri":"Q16192949","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Amy Stoch","lineid":190,"uuid":"15e0c6b7-efcf-4c49-a3f9-5b1db6c0b8d7"}
+{"index":374,"sub_uri":"Q255720","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Lori Singer","lineid":380,"uuid":"89cd3c1c-9a9b-49e7-872c-706b91a0f862"}
+{"index":82,"sub_uri":"Q6775090","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Martin Burrell","lineid":82,"uuid":"7a058da4-bb15-48ab-9ad4-366099b7670e"}
+{"index":274,"sub_uri":"Q1173432","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Davey Lee","lineid":279,"uuid":"5d4f20ac-d1c1-4369-92ba-a14d01ae89e7"}
+{"index":661,"sub_uri":"Q4719125","obj_uri":"Q520549","obj_label":"geoloog","sub_label":"Alexander Henry Green","lineid":670,"uuid":"939ca411-6f02-4ed9-bd50-a76aef649177"}
+{"index":249,"sub_uri":"Q7160370","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Peer Guldbrandsen","lineid":254,"uuid":"c5e591c4-434f-4a87-b6cd-7656a5b310aa"}
+{"index":209,"sub_uri":"Q5240915","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"David Weigel","lineid":213,"uuid":"15a055ce-6a0e-4f0d-8baa-4f337a9e28f3"}
+{"index":6,"sub_uri":"Q4958871","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Melinda Kinnaman","lineid":6,"uuid":"438ade26-bea1-4f6c-8e6e-4ca02d753d75"}
+{"index":152,"sub_uri":"Q176372","obj_uri":"Q49757","obj_label":"dichter","sub_label":"David Gascoyne","lineid":153,"uuid":"53d9c938-a3f6-4dc1-aa45-f7a991302099"}
+{"index":563,"sub_uri":"Q1345514","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Michael Penn","lineid":572,"uuid":"3721fc3d-a256-49fb-82b6-c3d1ece0a246"}
+{"index":264,"sub_uri":"Q6202728","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Jinpachi Nezu","lineid":269,"uuid":"23235406-0845-4752-8b1f-fb6408b7e2ba"}
+{"index":854,"sub_uri":"Q715859","obj_uri":"Q36834","obj_label":"componist","sub_label":"Phil Coulter","lineid":865,"uuid":"2ddb0b63-6508-4fce-b97b-845dafc99211"}
+{"index":476,"sub_uri":"Q5653779","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Harald Gram","lineid":483,"uuid":"cb7526fe-f46d-4536-b9de-e3f86c90efaf"}
+{"index":659,"sub_uri":"Q332632","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Eduardo De Filippo","lineid":668,"uuid":"8ccfbff0-f040-4529-ae65-f2bf5dab6f64"}
+{"index":747,"sub_uri":"Q947387","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Graham Linehan","lineid":757,"uuid":"fcfed58e-adfc-40bc-8049-981cd4dee16b"}
+{"index":783,"sub_uri":"Q538204","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Serhij Taruta","lineid":793,"uuid":"ec2fcb18-f596-4bcd-bede-6cbf5366b7de"}
+{"index":32,"sub_uri":"Q440070","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Lark Voorhies","lineid":32,"uuid":"09f5fdec-2b38-44cd-9d12-bdec15e68f41"}
+{"index":430,"sub_uri":"Q980662","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Chris Brochu","lineid":437,"uuid":"70debcc7-03c1-43a2-a0b7-a9e2f6318764"}
+{"index":564,"sub_uri":"Q3129564","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Heitor Dhalia","lineid":573,"uuid":"7d4325ce-94e7-4467-858c-5d536f4766f6"}
+{"index":59,"sub_uri":"Q3264599","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Luana Walters","lineid":59,"uuid":"934e8186-d8b2-4b0b-a05a-0406a3452a2f"}
+{"index":610,"sub_uri":"Q2938882","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Carl Colpaert","lineid":619,"uuid":"27a015e1-b77e-4312-ae8e-3e842f729f00"}
+{"index":65,"sub_uri":"Q57686","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Gedeon Burkhard","lineid":65,"uuid":"4b35a098-c36c-43cc-b074-a4ae82fc898b"}
+{"index":591,"sub_uri":"Q3097878","obj_uri":"Q42973","obj_label":"architect","sub_label":"Jon Jerde","lineid":600,"uuid":"52cb14e8-8654-4f3e-87eb-07a5c873f3d0"}
+{"index":231,"sub_uri":"Q7352716","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Robin Phillips","lineid":235,"uuid":"7f5bba8f-4f3a-40aa-ad33-6840ea3c2f42"}
+{"index":903,"sub_uri":"Q888465","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Said Mohamed Djohar","lineid":915,"uuid":"43dc1a58-80a0-40ac-98a4-3cafce10c3f2"}
+{"index":109,"sub_uri":"Q7308650","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Reginald Cooray","lineid":109,"uuid":"93092075-9ac6-48a1-8e1d-2ac4c3aa7a87"}
+{"index":832,"sub_uri":"Q442983","obj_uri":"Q170790","obj_label":"wiskundige","sub_label":"William Burnside","lineid":843,"uuid":"bad64112-2b3e-4827-96d8-1a52703b829f"}
+{"index":608,"sub_uri":"Q4859089","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Barbara Leigh","lineid":617,"uuid":"eaf39ee0-72a0-4c49-b6c0-ba4fcc05d5b3"}
+{"index":265,"sub_uri":"Q328515","obj_uri":"Q133485","obj_label":"rabbijn","sub_label":"Moshe Levinger","lineid":270,"uuid":"3d62b2a5-6d6f-48a3-968b-8b485c2c696f"}
+{"index":154,"sub_uri":"Q715990","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Wang Lequan","lineid":155,"uuid":"e0c6e7a3-f6f7-484a-83c8-e7897a0fdc20"}
+{"index":796,"sub_uri":"Q6308875","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Juliet Ibrahim","lineid":807,"uuid":"06464116-f796-4c0b-ac80-159b8656cc51"}
+{"index":166,"sub_uri":"Q293057","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Saskia Mulder","lineid":168,"uuid":"4937fe27-3b02-4fe8-be07-662208041fe4"}
+{"index":480,"sub_uri":"Q443721","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Bonnie Pointer","lineid":487,"uuid":"d38bad88-8000-44ae-b6dc-4545102f904a"}
+{"index":577,"sub_uri":"Q229840","obj_uri":"Q6625963","obj_label":"romanschrijver","sub_label":"Annie Proulx","lineid":586,"uuid":"dd157748-035c-4732-a97c-6ec03aa3d62b"}
+{"index":757,"sub_uri":"Q1332885","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Julian Beck","lineid":767,"uuid":"69d7acb9-999a-4aa7-9662-f3540ffc0b6a"}
+{"index":446,"sub_uri":"Q6523730","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Leo Fong","lineid":453,"uuid":"d195a4e7-1e54-4244-96da-4125eccf05db"}
+{"index":257,"sub_uri":"Q155879","obj_uri":"Q486748","obj_label":"pianist","sub_label":"Diana Krall","lineid":262,"uuid":"75b7e4ff-a4d7-4f13-b9bd-234c15b7defd"}
+{"index":615,"sub_uri":"Q5239090","obj_uri":"Q593644","obj_label":"scheikundige","sub_label":"David Rivett","lineid":624,"uuid":"e5649b0d-5707-44ba-82af-acdfe4831057"}
+{"index":277,"sub_uri":"Q1834571","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Nida Blanca","lineid":282,"uuid":"df56aa7f-0f9a-4d05-9c5b-386c428d9d1a"}
+{"index":191,"sub_uri":"Q2183113","obj_uri":"Q593644","obj_label":"scheikundige","sub_label":"Johann Moriaen","lineid":194,"uuid":"4311caa5-5e46-42e8-bd8b-d335d805992c"}
+{"index":454,"sub_uri":"Q4139958","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Mia Freedman","lineid":461,"uuid":"c18e9d9a-e52c-4f18-96e7-6b08f7660238"}
+{"index":123,"sub_uri":"Q333106","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Hilaire Belloc","lineid":123,"uuid":"6f695a03-078b-4224-940a-0fee26422925"}
+{"index":500,"sub_uri":"Q16879447","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Femi Jacobs","lineid":507,"uuid":"64b2e31a-ce62-4a37-aaa0-e4f45643bae5"}
+{"index":640,"sub_uri":"Q3371512","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Michael Romanoff","lineid":649,"uuid":"7521a392-d91a-41dc-b05c-9f560d5493db"}
+{"index":244,"sub_uri":"Q931624","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Marcello Fondato","lineid":249,"uuid":"a90379bf-c2ee-4ccd-a3f9-1639c479e049"}
+{"index":550,"sub_uri":"Q533931","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Bibb Graves","lineid":558,"uuid":"a39ef5a9-057a-4c38-8fe7-ddc57cc392cf"}
+{"index":665,"sub_uri":"Q4766268","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Ann Bell","lineid":674,"uuid":"3ae9f155-7c9e-4e77-a8d9-42dcbff21efd"}
+{"index":328,"sub_uri":"Q375826","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Nan Wood Honeyman","lineid":334,"uuid":"3ecf0088-f0e8-43d5-8c85-ff303b684bb7"}
+{"index":547,"sub_uri":"Q6024866","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Indila","lineid":555,"uuid":"cb398816-c2bf-4e0a-9f82-1ac52b6e9e61"}
+{"index":754,"sub_uri":"Q3461875","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Danny Dayton","lineid":764,"uuid":"79256770-0905-45e0-afa4-f9a64275f537"}
+{"index":744,"sub_uri":"Q205782","obj_uri":"Q169470","obj_label":"natuurkundige","sub_label":"Sivaramakrishna Chandrasekhar","lineid":754,"uuid":"7252ded8-21fe-429e-9193-4d73f3d4d5b7"}
+{"index":690,"sub_uri":"Q712964","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Darius McCrary","lineid":699,"uuid":"d5095556-30b9-4f0a-9c83-c96deb22b805"}
+{"index":603,"sub_uri":"Q7945328","obj_uri":"Q36834","obj_label":"componist","sub_label":"W. Arundel Orchard","lineid":612,"uuid":"357c3edc-53ba-44be-b57a-fa067c434556"}
+{"index":225,"sub_uri":"Q122335","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Ken Murray","lineid":229,"uuid":"38dbc562-23e8-486d-a873-8735fd584055"}
+{"index":258,"sub_uri":"Q344930","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Evan Bayh","lineid":263,"uuid":"b5635b34-6f59-4481-adec-c97274ac3432"}
+{"index":143,"sub_uri":"Q1351239","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Eric Etebari","lineid":144,"uuid":"f40f8e2e-5f02-45ae-baec-4bcb1de31493"}
+{"index":582,"sub_uri":"Q16151672","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Mary Collinson","lineid":591,"uuid":"86219f99-0740-432c-9295-4d0efedc6c81"}
+{"index":395,"sub_uri":"Q929146","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Daeg Faerch","lineid":401,"uuid":"cc3df1ea-f831-4149-85fd-47160669ba47"}
+{"index":455,"sub_uri":"Q3395392","obj_uri":"Q245068","obj_label":"komiek","sub_label":"Craig Charles","lineid":462,"uuid":"3e518207-8244-41bb-a654-4a4b864409cb"}
+{"index":190,"sub_uri":"Q230795","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Diablo Cody","lineid":193,"uuid":"176379ce-a4d4-41d3-a6a0-08f9be206c4a"}
+{"index":95,"sub_uri":"Q671601","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Jean-Joseph Rabearivelo","lineid":95,"uuid":"3e56bc2f-3039-41dd-830c-ab1a3427a494"}
+{"index":141,"sub_uri":"Q494586","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Michael Denis","lineid":142,"uuid":"b678a85a-d206-4955-995d-09654bf71625"}
+{"index":825,"sub_uri":"Q1079243","obj_uri":"Q36834","obj_label":"componist","sub_label":"Christian Darnton","lineid":836,"uuid":"b05edd81-e7d2-4be0-b9ab-4f3209aacae7"}
+{"index":478,"sub_uri":"Q6266515","obj_uri":"Q486748","obj_label":"pianist","sub_label":"Johnny Costa","lineid":485,"uuid":"98fbcd59-f6cf-4b4d-ba59-6c19644adf90"}
+{"index":390,"sub_uri":"Q2141036","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Ron Shelton","lineid":396,"uuid":"834f073a-9421-46b9-a7bf-d4b95dfdd541"}
+{"index":578,"sub_uri":"Q2948623","obj_uri":"Q486748","obj_label":"pianist","sub_label":"August Winding","lineid":587,"uuid":"80256519-0fc5-41a4-8333-b9cd7684b3a0"}
+{"index":414,"sub_uri":"Q875629","obj_uri":"Q212980","obj_label":"psycholoog","sub_label":"Egon Brunswik","lineid":421,"uuid":"fd02b87c-b7b2-480f-ab80-4801637ceeb2"}
+{"index":185,"sub_uri":"Q13580338","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Henry Pottinger Stephens","lineid":188,"uuid":"c0b806d2-a330-443d-9aa9-5475e043dfda"}
+{"index":449,"sub_uri":"Q7293190","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Ranjitha","lineid":456,"uuid":"57092c1e-8555-43c8-a1f9-a8724ae11116"}
+{"index":779,"sub_uri":"Q3301207","obj_uri":"Q211346","obj_label":"psychiater","sub_label":"Maurice Nicoll","lineid":789,"uuid":"2814f88f-7567-4d3a-852c-ab39a1427fa4"}
+{"index":537,"sub_uri":"Q7344990","obj_uri":"Q4964182","obj_label":"filosoof","sub_label":"Robert Grudin","lineid":545,"uuid":"ae46608e-9bd8-401e-a278-c29c9a6ccef0"}
+{"index":522,"sub_uri":"Q172877","obj_uri":"Q11063","obj_label":"astronoom","sub_label":"Arno A. Penzias","lineid":530,"uuid":"6b23b87b-18d4-4b8f-a37a-b37d6fdc9679"}
+{"index":869,"sub_uri":"Q673468","obj_uri":"Q170790","obj_label":"wiskundige","sub_label":"Paolo Casati","lineid":880,"uuid":"b6bf1950-bac2-4842-af8a-5eb964a538d2"}
+{"index":400,"sub_uri":"Q7197175","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Pip Carter","lineid":406,"uuid":"ecd5e7c5-29d2-4234-98e5-7ca91bd61a2d"}
+{"index":276,"sub_uri":"Q13529930","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Sir William Hart Dyke, 7th Baronet","lineid":281,"uuid":"90612488-23fa-45b5-9dfa-d431c08485b3"}
+{"index":135,"sub_uri":"Q2589401","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Pat Crowley","lineid":136,"uuid":"fa488cf6-2cf7-4549-829d-f9c3a6e5d1a8"}
+{"index":765,"sub_uri":"Q223545","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Daniel Tompkins","lineid":775,"uuid":"bbe99217-fef0-4fbe-be9f-e0f376abd532"}
+{"index":282,"sub_uri":"Q7794762","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Thomas W. Knox","lineid":287,"uuid":"8876fc27-83e7-4ef7-8de7-50086e2865cc"}
+{"index":821,"sub_uri":"Q201433","obj_uri":"Q214917","obj_label":"toneelschrijver","sub_label":"Dorothy Hewett","lineid":832,"uuid":"4586824a-7c43-4c74-9902-7e6d7fe1403d"}
+{"index":756,"sub_uri":"Q5534740","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Geoffrey Lehmann","lineid":766,"uuid":"8348de19-12d4-45cb-98a0-bb16600d208c"}
+{"index":150,"sub_uri":"Q3595520","obj_uri":"Q182436","obj_label":"bibliothecaris","sub_label":"John Cotton Dana","lineid":151,"uuid":"4e6a67de-0938-49c2-8f7d-93c011926be3"}
+{"index":494,"sub_uri":"Q248037","obj_uri":"Q774306","obj_label":"chirurg","sub_label":"Crawford Long","lineid":501,"uuid":"f97de4ab-e089-4f35-beae-8008458f616e"}
+{"index":531,"sub_uri":"Q235066","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Laurie Anderson","lineid":539,"uuid":"07a81866-ad69-4331-8dbe-2eba56f2b58d"}
+{"index":255,"sub_uri":"Q558981","obj_uri":"Q4610556","obj_label":"model","sub_label":"Vic Chou","lineid":260,"uuid":"0d0e7c6d-8c70-4e35-a769-fa62363741bf"}
+{"index":445,"sub_uri":"Q7831266","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Tracey Ross","lineid":452,"uuid":"da5994a0-dd49-4496-8520-98e2081d182e"}
+{"index":911,"sub_uri":"Q4798366","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Arthur Creech Jones","lineid":923,"uuid":"b057c279-da9e-469a-ab46-723e75be357c"}
+{"index":652,"sub_uri":"Q203519","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Boris Barnet","lineid":661,"uuid":"7727d19a-0c3e-4e3d-ab0c-949c51e8efe9"}
+{"index":477,"sub_uri":"Q2499629","obj_uri":"Q40348","obj_label":"advocaat","sub_label":"Jean Gabriel Marchand","lineid":484,"uuid":"1dd219c1-e168-4fd0-b893-3223b39d1234"}
+{"index":616,"sub_uri":"Q6937211","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Murad Velshi","lineid":625,"uuid":"35f4b2b3-2058-458c-8aab-d15438f12a96"}
+{"index":716,"sub_uri":"Q6355198","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Kamaal Khan","lineid":725,"uuid":"6d5d7d0e-cba2-4bd5-a0c0-4a1fa690e51c"}
+{"index":383,"sub_uri":"Q190770","obj_uri":"Q169470","obj_label":"natuurkundige","sub_label":"Philip Anderson","lineid":389,"uuid":"140c0d3e-9408-4c2e-b322-816badef8a3b"}
+{"index":46,"sub_uri":"Q2720213","obj_uri":"Q33999","obj_label":"acteur","sub_label":"David Yost","lineid":46,"uuid":"fbdfecde-17ad-4050-a9a5-d70fc3b12449"}
+{"index":704,"sub_uri":"Q3142279","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Hugh Manning","lineid":713,"uuid":"7b200135-f6cc-4b4f-951b-85fd91358650"}
+{"index":132,"sub_uri":"Q5079668","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Charles Kaiser","lineid":133,"uuid":"421f8a00-453f-4152-8dff-8d4e18ae4cc1"}
+{"index":617,"sub_uri":"Q3840482","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Luisella Boni","lineid":626,"uuid":"30bd93db-b4d1-4eb8-b931-6c45109e68ea"}
+{"index":169,"sub_uri":"Q7636956","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Sumanth","lineid":171,"uuid":"4c49aa78-3074-4c48-943f-ba0b2f200828"}
+{"index":891,"sub_uri":"Q345531","obj_uri":"Q82955","obj_label":"politicus","sub_label":"William Averell Harriman","lineid":902,"uuid":"f65ccbfe-7277-410a-a953-a7853ed5bcf9"}
+{"index":575,"sub_uri":"Q712121","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Bowie Lam","lineid":584,"uuid":"ec7fb8ed-af7a-41c9-b02f-a317a7699024"}
+{"index":212,"sub_uri":"Q188018","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Nick Nolte","lineid":216,"uuid":"4850416a-1ecc-4971-95fc-d848c620b3b6"}
+{"index":326,"sub_uri":"Q449255","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Linda Ulvaeus","lineid":332,"uuid":"6c6798b4-543a-45aa-8aeb-0c5a8421e53f"}
+{"index":443,"sub_uri":"Q3435150","obj_uri":"Q193391","obj_label":"diplomaat","sub_label":"Robert C. Frasure","lineid":450,"uuid":"415bc863-1545-4422-b421-b08a0cf22dc6"}
+{"index":458,"sub_uri":"Q256144","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Debra Jo Rupp","lineid":465,"uuid":"ee890488-2e80-4e9a-ad10-12d0388fba0a"}
+{"index":117,"sub_uri":"Q367234","obj_uri":"Q214917","obj_label":"toneelschrijver","sub_label":"Marian Hemar","lineid":117,"uuid":"853af26b-60b7-49ce-8977-0a53a18aa2d2"}
+{"index":247,"sub_uri":"Q336519","obj_uri":"Q6625963","obj_label":"romanschrijver","sub_label":"Elmore Leonard","lineid":252,"uuid":"994ec957-f165-45c4-a611-778cbf7b9f54"}
+{"index":10,"sub_uri":"Q3136350","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Hiroshi Hase","lineid":10,"uuid":"e3c8cce1-c924-48ce-9526-fbc27903519d"}
+{"index":402,"sub_uri":"Q331172","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Abrar Alvi","lineid":408,"uuid":"20442777-aa17-4b4e-a73b-1b49145a2485"}
+{"index":262,"sub_uri":"Q1622460","obj_uri":"Q36834","obj_label":"componist","sub_label":"Kevin Norton","lineid":267,"uuid":"d77aa7a8-2051-4f8f-a7dc-e04534d12250"}
+{"index":121,"sub_uri":"Q2334430","obj_uri":"Q193391","obj_label":"diplomaat","sub_label":"Kazys Lozoraitis","lineid":121,"uuid":"5d2ec0e5-b27c-49f9-ab92-7f2407f91324"}
+{"index":38,"sub_uri":"Q649747","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Johan Herman Wessel","lineid":38,"uuid":"f17b01dc-f0d1-476d-9206-e506006c1013"}
+{"index":15,"sub_uri":"Q1789937","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Carla Camurati","lineid":15,"uuid":"ebead845-71b7-4301-9a7a-29a49d85553f"}
+{"index":881,"sub_uri":"Q271132","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Georgina Leonidas","lineid":892,"uuid":"5f7cfc3d-8cdd-447f-8e62-87ffeb6cb4bb"}
+{"index":175,"sub_uri":"Q7127775","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Pallavi Kulkarni","lineid":177,"uuid":"b9987ba0-e5e9-4a33-bdd9-4751aae7ced2"}
+{"index":440,"sub_uri":"Q817484","obj_uri":"Q4964182","obj_label":"filosoof","sub_label":"Benjamin Fondane","lineid":447,"uuid":"a7699c53-ebcd-4e68-8366-da898b86ad3d"}
+{"index":431,"sub_uri":"Q1719051","obj_uri":"Q193391","obj_label":"diplomaat","sub_label":"Shelomo Hilel","lineid":438,"uuid":"e9708ee2-eed2-4510-ae8d-7085f157ace4"}
+{"index":61,"sub_uri":"Q17332332","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Gargi Roychowdhury","lineid":61,"uuid":"3e1c57b6-fc52-4c80-91af-51e39f0dd599"}
+{"index":363,"sub_uri":"Q991708","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Bruce Mahler","lineid":369,"uuid":"69134175-9aec-4f99-8c63-0c27270eb425"}
+{"index":618,"sub_uri":"Q371495","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Brian McNamara","lineid":627,"uuid":"e1c6e04f-aaac-46c7-806c-eabe9b50b297"}
+{"index":697,"sub_uri":"Q6558075","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Lisa Haydon","lineid":706,"uuid":"4025502c-1573-4c15-a12f-2504eea18a57"}
+{"index":612,"sub_uri":"Q466320","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Mira Nair","lineid":621,"uuid":"be901505-639d-4d36-9ec2-d09c6686ccfc"}
+{"index":743,"sub_uri":"Q7411372","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Samuel Fessenden","lineid":753,"uuid":"47abe222-e547-4248-a716-8c6cac7a773e"}
+{"index":766,"sub_uri":"Q165257","obj_uri":"Q214917","obj_label":"toneelschrijver","sub_label":"Lope de Vega","lineid":776,"uuid":"47e5d40a-7556-43ad-b251-bd611e6aa2db"}
+{"index":739,"sub_uri":"Q212886","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Stephen Colbert","lineid":749,"uuid":"8344c491-b3fe-497e-bac5-d6f2f22dea87"}
+{"index":456,"sub_uri":"Q2294413","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Corinne Luchaire","lineid":463,"uuid":"3471e6a8-2f94-42d5-bf6c-570ffb1c681e"}
+{"index":662,"sub_uri":"Q3703355","obj_uri":"Q33999","obj_label":"acteur","sub_label":"David Tree","lineid":671,"uuid":"51047926-6a31-4a35-894f-01c8c7f37fab"}
+{"index":194,"sub_uri":"Q720612","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Tom Terriss","lineid":197,"uuid":"ad0c2645-6ca8-44c1-817f-da6372de2874"}
+{"index":719,"sub_uri":"Q375443","obj_uri":"Q4773904","obj_label":"antropoloog","sub_label":"Michel Peissel","lineid":728,"uuid":"072ea7bd-2b7a-4356-b944-6bfb31c076ad"}
+{"index":551,"sub_uri":"Q516035","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Troy Donahue","lineid":559,"uuid":"1deedc3c-f17c-4384-b6b0-99efbd048d80"}
+{"index":536,"sub_uri":"Q272855","obj_uri":"Q6625963","obj_label":"romanschrijver","sub_label":"Kazuo Ishiguro","lineid":544,"uuid":"68a5e418-6a93-4de2-867b-726a1db9e106"}
+{"index":490,"sub_uri":"Q8010867","obj_uri":"Q42973","obj_label":"architect","sub_label":"William Hardy Wilson","lineid":497,"uuid":"304b317f-79bd-45e6-9d20-217b8035bdd5"}
+{"index":372,"sub_uri":"Q5505056","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Fritzi Brunette","lineid":378,"uuid":"3675289a-5742-4dd0-8647-086355efba00"}
+{"index":650,"sub_uri":"Q380297","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Maurice Duverger","lineid":659,"uuid":"2f45eeca-de97-417a-87cb-66023fd09a53"}
+{"index":909,"sub_uri":"Q1248697","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Carlo Porta","lineid":921,"uuid":"8315f76a-6d4a-48a0-abca-926d2cb3aa4e"}
+{"index":581,"sub_uri":"Q723604","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Joel Barlow","lineid":590,"uuid":"7d37d425-0789-4cbd-b24d-5d334783fc80"}
+{"index":199,"sub_uri":"Q336074","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Christopher Guest","lineid":203,"uuid":"088164db-617f-4fca-bd3f-4cc54a82da13"}
+{"index":623,"sub_uri":"Q40572","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Heath Ledger","lineid":632,"uuid":"c5f356fe-6ed9-4f9b-b974-93ced42700d0"}
+{"index":571,"sub_uri":"Q12965224","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Jef Gaitan","lineid":580,"uuid":"602d28e9-4f42-459c-b13a-2e28ca1e65eb"}
+{"index":717,"sub_uri":"Q1677736","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Jacobo Zabludovsky","lineid":726,"uuid":"5b202274-3381-4bed-b860-0e1940bded86"}
+{"index":785,"sub_uri":"Q463697","obj_uri":"Q193391","obj_label":"diplomaat","sub_label":"Li Zhaoxing","lineid":796,"uuid":"92c7f9cd-81de-43d1-9ec5-e5fa5ff87454"}
+{"index":102,"sub_uri":"Q2323995","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Erin Murphy","lineid":102,"uuid":"a541a004-6225-40c3-8317-657dfb73d378"}
+{"index":620,"sub_uri":"Q15527336","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Ethyl Eichelberger","lineid":629,"uuid":"1cf0d960-7562-42b3-9234-93b751a555d1"}
+{"index":724,"sub_uri":"Q312778","obj_uri":"Q36834","obj_label":"componist","sub_label":"Nikolaj Mjaskovski","lineid":733,"uuid":"0a964b45-35e0-47c2-a023-fb9cb711183c"}
+{"index":422,"sub_uri":"Q313374","obj_uri":"Q36834","obj_label":"componist","sub_label":"Emmanuel Chabrier","lineid":429,"uuid":"63d02e91-950c-4fbf-b153-b46022c4dc9f"}
+{"index":892,"sub_uri":"Q6376534","obj_uri":"Q4773904","obj_label":"antropoloog","sub_label":"Katherine Routledge","lineid":903,"uuid":"82203854-2702-40db-849e-348f9a7646b1"}
+{"index":635,"sub_uri":"Q7819878","obj_uri":"Q846750","obj_label":"jockey","sub_label":"Tommy Stack","lineid":644,"uuid":"8b4d4f63-4ff7-491b-b70d-0b8ac6e799a6"}
+{"index":311,"sub_uri":"Q1177587","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Mircea Diaconu","lineid":317,"uuid":"8cf028fd-9c79-4e56-bd64-69f18343d1c9"}
+{"index":399,"sub_uri":"Q7336472","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Rita Bahuguna","lineid":405,"uuid":"a9399d3e-5938-4c7c-b47d-ddb40d1df772"}
+{"index":436,"sub_uri":"Q6696561","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Lucha Villa","lineid":443,"uuid":"fc11af67-4af4-45b3-ac7a-71487bd6418e"}
+{"index":850,"sub_uri":"Q6111338","obj_uri":"Q33231","obj_label":"fotograaf","sub_label":"Jack Boucher","lineid":861,"uuid":"3018b838-4286-4378-b234-babc19e860e3"}
+{"index":886,"sub_uri":"Q216692","obj_uri":"Q4964182","obj_label":"filosoof","sub_label":"Ludvig Holberg","lineid":897,"uuid":"f13ef88f-0a11-4121-a35e-b594533dfdf2"}
+{"index":432,"sub_uri":"Q177256","obj_uri":"Q42973","obj_label":"architect","sub_label":"Charles Gwathmey","lineid":439,"uuid":"6b70ea82-09fa-44e5-a3c6-f5b69a02ef38"}
+{"index":548,"sub_uri":"Q2436868","obj_uri":"Q211346","obj_label":"psychiater","sub_label":"Henry Maudsley","lineid":556,"uuid":"10dd577c-17e3-4c29-9977-d007163588a5"}
+{"index":173,"sub_uri":"Q464213","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Amy Grant","lineid":175,"uuid":"8efdcf11-7eeb-48fd-b3c5-c4d56954837b"}
+{"index":877,"sub_uri":"Q4328208","obj_uri":"Q36834","obj_label":"componist","sub_label":"Johannes Nucius","lineid":888,"uuid":"5184f860-7461-4791-b205-67ab92a17e13"}
+{"index":148,"sub_uri":"Q47243","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Elfriede Jelinek","lineid":149,"uuid":"efa47f4c-99f1-4a2e-bc71-0c587a5b8a2c"}
+{"index":867,"sub_uri":"Q945390","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Robert Stout","lineid":878,"uuid":"891fd154-11c4-43f8-a89e-37fb06883cc3"}
+{"index":573,"sub_uri":"Q5873195","obj_uri":"Q42973","obj_label":"architect","sub_label":"Hjalmar Welhaven","lineid":582,"uuid":"0be061d1-894b-40ed-9019-bb134d4309a0"}
+{"index":815,"sub_uri":"Q5298146","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Doro Merande","lineid":826,"uuid":"10a5f1e6-dc1a-4652-b85b-34d73f59bf3e"}
+{"index":280,"sub_uri":"Q5975593","obj_uri":"Q11631","obj_label":"ruimtevaarder","sub_label":"Takuya Onishi","lineid":285,"uuid":"158166a2-3e66-4802-9eda-1cba301a6477"}
+{"index":488,"sub_uri":"Q44584","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Hans Magnus Enzensberger","lineid":495,"uuid":"9f8c971f-abb7-48c0-ae20-330cc80321f8"}
+{"index":189,"sub_uri":"Q3900942","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Peter Sheridan","lineid":192,"uuid":"889b14b7-c4bd-4ee5-b607-1c057e1a913d"}
+{"index":304,"sub_uri":"Q2012422","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Kate Garven","lineid":310,"uuid":"45bd2acf-904f-43e8-bf48-d3f96c52c72b"}
+{"index":824,"sub_uri":"Q887716","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Leonard Wood","lineid":835,"uuid":"721f11dd-19be-4a1b-954d-688053a37f2c"}
+{"index":723,"sub_uri":"Q1038805","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Carl Herold","lineid":732,"uuid":"8c9803e3-fa20-48da-8f9a-72ba4a0dfab1"}
+{"index":594,"sub_uri":"Q180554","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Kimika Yoshino","lineid":603,"uuid":"185e47ab-c480-4727-9452-bd47fa881eda"}
+{"index":341,"sub_uri":"Q12849","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Trevor Sargent","lineid":347,"uuid":"f31a439a-6413-49e4-9868-a6fb9e0e5957"}
+{"index":83,"sub_uri":"Q55407","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Raj Kapoor","lineid":83,"uuid":"ee485ea4-1aa2-4d8b-b059-74ba59134126"}
+{"index":340,"sub_uri":"Q370765","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Mark Boal","lineid":346,"uuid":"66f8d9f2-eb50-4a0b-bc62-13cf36513fc5"}
+{"index":619,"sub_uri":"Q1710378","obj_uri":"Q36834","obj_label":"componist","sub_label":"Juan Blanco","lineid":628,"uuid":"83835b85-2d30-4e6a-89b6-c9038b6605ea"}
+{"index":71,"sub_uri":"Q1681294","obj_uri":"Q82955","obj_label":"politicus","sub_label":"James Whitney Dunn","lineid":71,"uuid":"3d64abb8-999b-48ec-a740-c7371aaf349f"}
+{"index":922,"sub_uri":"Q6770277","obj_uri":"Q33231","obj_label":"fotograaf","sub_label":"Mark Weiss","lineid":934,"uuid":"28d0d640-fcf4-41d6-a05b-b566c6ccc956"}
+{"index":439,"sub_uri":"Q447351","obj_uri":"Q42973","obj_label":"architect","sub_label":"Paolo Soleri","lineid":446,"uuid":"2939295f-022b-415e-88af-95eeb0f052a9"}
+{"index":823,"sub_uri":"Q334459","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Horatio Bottomley","lineid":834,"uuid":"84825a04-601e-4710-961a-05bc3a36083a"}
+{"index":468,"sub_uri":"Q100122","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Kurt Kreuger","lineid":475,"uuid":"2f7b18fe-b9fd-4236-826c-6ee0edcddb21"}
+{"index":713,"sub_uri":"Q719997","obj_uri":"Q214917","obj_label":"toneelschrijver","sub_label":"Edmond Gondinet","lineid":722,"uuid":"2f099b72-09df-48d4-b459-f47c2a2904e2"}
+{"index":239,"sub_uri":"Q6795988","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Maxine Miller","lineid":244,"uuid":"523b7a3a-5bb2-4c6d-bd48-0c861e42b4cb"}
+{"index":929,"sub_uri":"Q5294819","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Donald McCaig","lineid":941,"uuid":"b1680e4d-0257-4225-9f33-3e1aa6217f83"}
+{"index":497,"sub_uri":"Q5537509","obj_uri":"Q33999","obj_label":"acteur","sub_label":"George Buza","lineid":504,"uuid":"b9579fc3-2a62-4080-8562-1da36c687cb3"}
+{"index":188,"sub_uri":"Q2740822","obj_uri":"Q245068","obj_label":"komiek","sub_label":"Chris Barrie","lineid":191,"uuid":"eb093cff-a92d-4819-8383-fb75bc7694dd"}
+{"index":180,"sub_uri":"Q333834","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Jim Griffiths","lineid":182,"uuid":"7fa950a5-b305-4a65-941c-486fbd601230"}
+{"index":89,"sub_uri":"Q3544731","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Bobby Andrews","lineid":89,"uuid":"7ffb05e4-8b70-4a25-9770-f926226eb43c"}
+{"index":778,"sub_uri":"Q8064671","obj_uri":"Q214917","obj_label":"toneelschrijver","sub_label":"Z\u0101hidah \u1e24in\u0101","lineid":788,"uuid":"e60c5992-fe03-49ab-8da6-3f9ad1a8e20b"}
+{"index":760,"sub_uri":"Q1097945","obj_uri":"Q36834","obj_label":"componist","sub_label":"Claudine Clark","lineid":770,"uuid":"7389ea02-fb8d-4fd5-8759-b8c7dca8c3db"}
+{"index":604,"sub_uri":"Q183445","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Justinus I","lineid":613,"uuid":"e42787d1-4f85-474b-8fd1-b5708093d128"}
+{"index":656,"sub_uri":"Q5341989","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Edward Braddon","lineid":665,"uuid":"86ca08e4-8fac-4b20-af4b-ffb2da17dfb7"}
+{"index":350,"sub_uri":"Q7169629","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Perrin Beatty","lineid":356,"uuid":"27acab73-36dd-427c-b0ef-c103c067f178"}
+{"index":19,"sub_uri":"Q5070939","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Chandan Mitra","lineid":19,"uuid":"7ef933e2-a078-4810-bebf-cd20d46e68d1"}
+{"index":371,"sub_uri":"Q331050","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Dhanush","lineid":377,"uuid":"dcd0b2a8-8c43-43cf-a3d9-573e824fe512"}
+{"index":898,"sub_uri":"Q7198031","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Pirkka-Pekka Petelius","lineid":909,"uuid":"dab10b52-cbb5-4d67-b04d-2e1562185852"}
+{"index":521,"sub_uri":"Q928939","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Theodor Rosetti","lineid":529,"uuid":"a1c34234-b317-4474-b1ea-255797bde083"}
+{"index":523,"sub_uri":"Q221697","obj_uri":"Q4964182","obj_label":"filosoof","sub_label":"Hilary Putnam","lineid":531,"uuid":"4297cc09-0f3e-4be4-9c3f-b48313203ae2"}
+{"index":526,"sub_uri":"Q6179435","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Jenny Powers","lineid":534,"uuid":"c7b30be4-555e-4152-ba58-062966601b8b"}
+{"index":583,"sub_uri":"Q3099462","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Trond Kirkvaag","lineid":592,"uuid":"b363a980-d66c-4289-a6f8-ad9e41aa2754"}
+{"index":861,"sub_uri":"Q468579","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Wan Azizah Wan Ismail","lineid":872,"uuid":"7c619f6b-85ea-4341-8c2b-985405bb9e54"}
+{"index":425,"sub_uri":"Q15498610","obj_uri":"Q486748","obj_label":"pianist","sub_label":"Roger Smalley","lineid":432,"uuid":"6e058584-700b-42ab-bd91-9bcdc4972cff"}
+{"index":412,"sub_uri":"Q6314321","obj_uri":"Q36834","obj_label":"componist","sub_label":"Junsang Bahk","lineid":419,"uuid":"dbb90c74-2cca-4f75-a682-734292b5a0bf"}
+{"index":110,"sub_uri":"Q315396","obj_uri":"Q170790","obj_label":"wiskundige","sub_label":"Laurent Lafforgue","lineid":110,"uuid":"fbc9bac2-afbf-4d1f-be15-43886d43f6b7"}
+{"index":296,"sub_uri":"Q151168","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Martin Klebba","lineid":301,"uuid":"dc9c3e35-c69b-4b07-b29d-91a703e1cd10"}
+{"index":792,"sub_uri":"Q6743544","obj_uri":"Q193391","obj_label":"diplomaat","sub_label":"Maliha Lodhi","lineid":803,"uuid":"a246b4f2-1d37-41c0-a9cf-16b6def557d4"}
+{"index":137,"sub_uri":"Q138664","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Philoxenus of Cythera","lineid":138,"uuid":"db02691d-b204-4279-bcc7-8b10f0de4464"}
+{"index":118,"sub_uri":"Q2672932","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Rosie Malek-Yonan","lineid":118,"uuid":"80736dcb-ed73-430c-be70-1b0f6a1e76bd"}
+{"index":373,"sub_uri":"Q1703323","obj_uri":"Q520549","obj_label":"geoloog","sub_label":"Newton Horace Winchell","lineid":379,"uuid":"2338e9eb-192b-4ffa-9a11-40d4dd2e4da2"}
+{"index":630,"sub_uri":"Q16867","obj_uri":"Q214917","obj_label":"toneelschrijver","sub_label":"Edgar Allan Poe","lineid":639,"uuid":"c4f3b370-55c5-4ec9-b9d6-4a35f2c29f53"}
+{"index":250,"sub_uri":"Q7149270","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Paul Baxendale-Walker","lineid":255,"uuid":"ac66dc42-775e-492d-9206-0655f6a9c7e5"}
+{"index":857,"sub_uri":"Q6660311","obj_uri":"Q486748","obj_label":"pianist","sub_label":"Liz Story","lineid":868,"uuid":"35d14d86-edc8-48e9-9cc4-0b30b8d362a8"}
+{"index":562,"sub_uri":"Q1522455","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Shibdas Ghosh","lineid":571,"uuid":"f8ed1d5a-d0dd-4bce-9967-d8f51ae32bcd"}
+{"index":155,"sub_uri":"Q163263","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Eva Longoria","lineid":157,"uuid":"32a929b5-699a-4306-bdb7-6b0eaadbd79b"}
+{"index":404,"sub_uri":"Q2708628","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Kenneth Koch","lineid":411,"uuid":"841872e4-5089-4cb6-9dbf-6755022210a3"}
+{"index":335,"sub_uri":"Q5879","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Johann Wolfgang von Goethe","lineid":341,"uuid":"fddf0294-8a7f-46fd-912a-cef9b4726715"}
+{"index":782,"sub_uri":"Q122972","obj_uri":"Q520549","obj_label":"geoloog","sub_label":"Louis Agassiz","lineid":792,"uuid":"e3b8d1d5-143e-4a74-b157-1019b40cd20d"}
+{"index":560,"sub_uri":"Q5079446","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Charles James Mathews","lineid":569,"uuid":"abcd8f00-17e2-47fa-ac04-afcc321c00ab"}
+{"index":413,"sub_uri":"Q7340152","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Rob Gifford","lineid":420,"uuid":"c424a100-f1e6-49ea-9ee5-d92c4cde6247"}
+{"index":733,"sub_uri":"Q319854","obj_uri":"Q42973","obj_label":"architect","sub_label":"Nicolai Abraham Abildgaard","lineid":743,"uuid":"3a5b8b0f-65bf-42fe-9718-9a03795ea084"}
+{"index":544,"sub_uri":"Q713270","obj_uri":"Q36834","obj_label":"componist","sub_label":"Ulf Lundell","lineid":552,"uuid":"0347f2a2-ec9e-4a27-8f1d-2a28882c363e"}
+{"index":517,"sub_uri":"Q2898761","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Bernard de Marigny","lineid":525,"uuid":"6d115e6f-588b-41a0-b154-e45695a8bdcc"}
+{"index":519,"sub_uri":"Q7308849","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Reginald Purdell","lineid":527,"uuid":"acb1bfce-de98-42c1-ace5-585f9cb5a6f8"}
+{"index":822,"sub_uri":"Q3777469","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Paul Kehoe","lineid":833,"uuid":"4bd019cc-64b5-4b6c-b764-67b3529d4a07"}
+{"index":302,"sub_uri":"Q718786","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Mary Carlisle","lineid":307,"uuid":"3ca3fdb7-2651-4763-ac81-462b9ffa834e"}
+{"index":43,"sub_uri":"Q4802123","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Arun Nehru","lineid":43,"uuid":"1c2857d4-3e42-4afc-9e5b-4629031487d4"}
+{"index":505,"sub_uri":"Q5607156","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Gregory Scott","lineid":513,"uuid":"9acc4f57-40fa-4241-ad2c-00491cee0769"}
+{"index":174,"sub_uri":"Q100937","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Fred Astaire","lineid":176,"uuid":"0a80da2e-5fcd-44a4-ade0-dec69ef1c373"}
+{"index":811,"sub_uri":"Q239558","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Jane Leeves","lineid":822,"uuid":"27af5989-dee4-4987-93c5-16a0fd4f38d7"}
+{"index":570,"sub_uri":"Q60259","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Dietrich Eckart","lineid":579,"uuid":"344ca8df-3f40-4e76-9a55-ff8e528f7c30"}
+{"index":671,"sub_uri":"Q1038627","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Carl Hatch","lineid":680,"uuid":"1a437f06-3379-4d96-be28-34e788d50c64"}
+{"index":574,"sub_uri":"Q505666","obj_uri":"Q1114448","obj_label":"cartoonist","sub_label":"Milo Manara","lineid":583,"uuid":"92cb5f13-fc03-4d08-ab2a-43d5d31a3d72"}
+{"index":312,"sub_uri":"Q5345504","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Edward Summer","lineid":318,"uuid":"d59cbb12-490c-4cbe-bd7f-da5eff2f0328"}
+{"index":874,"sub_uri":"Q1154775","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Erika Toda","lineid":885,"uuid":"0cbce2a4-7dbf-41c1-b799-9a9bfba35570"}
+{"index":146,"sub_uri":"Q7790337","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Thomas Hailes Lacy","lineid":147,"uuid":"bfcffe53-a212-4e9a-b417-1a631a655021"}
+{"index":266,"sub_uri":"Q954606","obj_uri":"Q486748","obj_label":"pianist","sub_label":"Stanley Jordan","lineid":271,"uuid":"b10d3c50-f232-4864-9dc3-ea4821039e94"}
+{"index":27,"sub_uri":"Q2958881","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"Charles Dennis","lineid":27,"uuid":"76263703-b49e-4b9b-a719-a848365b94e2"}
+{"index":172,"sub_uri":"Q2939563","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Carmelita Geraghty","lineid":174,"uuid":"b86e4092-ebfa-41a3-947d-43ff10818c22"}
+{"index":322,"sub_uri":"Q2062267","obj_uri":"Q193391","obj_label":"diplomaat","sub_label":"Alfonso Fontanelli","lineid":328,"uuid":"2fa5226a-922d-482b-ae29-60e96a3b53ed"}
+{"index":243,"sub_uri":"Q924783","obj_uri":"Q486748","obj_label":"pianist","sub_label":"Eddie Heywood","lineid":248,"uuid":"369b19b3-8f86-4222-bb7d-085c9d194c4a"}
+{"index":528,"sub_uri":"Q5304338","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Dr. Rajasekhar","lineid":536,"uuid":"6a091c65-2d72-42cb-8545-e2ff8372931e"}
+{"index":1,"sub_uri":"Q2896906","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Naomi Shihab Nye","lineid":1,"uuid":"3ee87c0c-8480-4181-91ea-8fcaf53f68ed"}
+{"index":214,"sub_uri":"Q19646593","obj_uri":"Q42973","obj_label":"architect","sub_label":"Beatrice Hutton","lineid":218,"uuid":"4e8fe7cb-d427-42e5-8b32-ef10f300046a"}
+{"index":153,"sub_uri":"Q1195195","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Thunder (singer)","lineid":154,"uuid":"6c6caee0-8057-42d6-ab19-cafa1432b038"}
+{"index":245,"sub_uri":"Q1235228","obj_uri":"Q36834","obj_label":"componist","sub_label":"John Mainwaring","lineid":250,"uuid":"f39f62a3-0b9c-4441-a0fd-72fdd6451d17"}
+{"index":885,"sub_uri":"Q492321","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Jay Mohr","lineid":896,"uuid":"cf6a9fd1-51e6-447e-9d91-9ba89575dbc7"}
+{"index":93,"sub_uri":"Q311070","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Davy Crockett","lineid":93,"uuid":"9eaba3d6-455d-4dd7-89af-89cb17d10614"}
+{"index":722,"sub_uri":"Q1226025","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Dimitris Horn","lineid":731,"uuid":"65d33ebf-6aea-4ca5-a47d-b33c67840cab"}
+{"index":115,"sub_uri":"Q1713263","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"June Diane Raphael","lineid":115,"uuid":"d0ee92f7-0cb8-4ac4-836e-16857c3d040d"}
+{"index":734,"sub_uri":"Q2315457","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Hassan ibn Thabit","lineid":744,"uuid":"7a9fa27f-4554-41e7-88af-322478ca7a78"}
+{"index":489,"sub_uri":"Q727178","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Alfred Francis Russell","lineid":496,"uuid":"aa2f5922-ac14-4d96-ae65-76973ccef1ee"}
+{"index":913,"sub_uri":"Q1863763","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Peter Bergman","lineid":925,"uuid":"e4a99f22-7ebc-4cfb-9152-769962a10014"}
+{"index":435,"sub_uri":"Q2900054","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Yang Wanli","lineid":442,"uuid":"4d50856b-6e8d-4360-a8b2-eb131d3b982f"}
+{"index":433,"sub_uri":"Q2165590","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Spencer Treat Clark","lineid":440,"uuid":"46000800-e1cf-47b3-bd08-f0be3dd3b7b0"}
+{"index":157,"sub_uri":"Q4681702","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Adelaide Crapsey","lineid":159,"uuid":"96035c17-6917-4e9a-9ccd-171c4f2b1fa0"}
+{"index":876,"sub_uri":"Q434171","obj_uri":"Q36834","obj_label":"componist","sub_label":"Michael William Balfe","lineid":887,"uuid":"33273131-3db2-4579-b027-043fc4976332"}
+{"index":706,"sub_uri":"Q266179","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Johnathon Schaech","lineid":715,"uuid":"c80a90b2-5dec-43d7-af85-2fa8fdca4bbb"}
+{"index":795,"sub_uri":"Q1554720","obj_uri":"Q42973","obj_label":"architect","sub_label":"Gunnar Birkerts","lineid":806,"uuid":"44d19023-17f7-45d0-b12b-7ab13c47f15c"}
+{"index":763,"sub_uri":"Q792628","obj_uri":"Q170790","obj_label":"wiskundige","sub_label":"Ben Green","lineid":773,"uuid":"f8af11fa-0d3e-487f-868f-0674a1ad542b"}
+{"index":942,"sub_uri":"Q5612667","obj_uri":"Q82955","obj_label":"politicus","sub_label":"Joseph Cowen","lineid":954,"uuid":"816bbf82-b334-40af-9f9b-d1a160149119"}
+{"index":508,"sub_uri":"Q66615","obj_uri":"Q49757","obj_label":"dichter","sub_label":"Johann von Rist","lineid":516,"uuid":"b7c31ece-2438-4ed3-b0a1-358fc3180271"}
+{"index":149,"sub_uri":"Q313059","obj_uri":"Q169470","obj_label":"natuurkundige","sub_label":"Willem de Sitter","lineid":150,"uuid":"53a3f522-a994-42e4-8167-e3bcc51449e8"}
+{"index":820,"sub_uri":"Q2677094","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Steven Hartley","lineid":831,"uuid":"1a2a79fb-5431-47a9-bbdc-1e53bea7a4a1"}
+{"index":629,"sub_uri":"Q7613326","obj_uri":"Q753110","obj_label":"liedschrijver","sub_label":"Steve McEwan","lineid":638,"uuid":"21682aad-541e-4565-8c82-32595c64316f"}
+{"index":746,"sub_uri":"Q316955","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Michael Dorn","lineid":756,"uuid":"d360eadc-f673-4a6d-a09e-61ded1d6f46d"}
+{"index":807,"sub_uri":"Q51490","obj_uri":"Q28389","obj_label":"scenarioschrijver","sub_label":"George Stevens","lineid":818,"uuid":"810669fd-1924-421d-997d-daba30c99963"}
+{"index":761,"sub_uri":"Q7934660","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Virginia Wetherell","lineid":771,"uuid":"2e5cef01-87b6-4abd-9f2d-b9368c325947"}
+{"index":351,"sub_uri":"Q706212","obj_uri":"Q36834","obj_label":"componist","sub_label":"Edward Gregson","lineid":357,"uuid":"a7be0221-90f5-4bd8-b147-4daafb1f7587"}
+{"index":405,"sub_uri":"Q265452","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Susannah Harker","lineid":412,"uuid":"9b287639-9607-4265-b10e-df642e44e012"}
+{"index":817,"sub_uri":"Q5626983","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Gregg Edelman","lineid":828,"uuid":"069b00c9-e335-4613-8ce3-52293cb73e5e"}
+{"index":683,"sub_uri":"Q19662092","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Riky Rick","lineid":692,"uuid":"ed7b03f2-7c1b-44d1-80f1-607f830afe15"}
+{"index":388,"sub_uri":"Q1189306","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Trevor Wright","lineid":394,"uuid":"7adfd82f-fbeb-48cc-85eb-3e424b547563"}
+{"index":107,"sub_uri":"Q2119617","obj_uri":"Q1930187","obj_label":"journalist","sub_label":"Valentin Oswald Ottendorfer","lineid":107,"uuid":"89393470-0214-4be2-a418-5105871433b5"}
+{"index":223,"sub_uri":"Q2316321","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Charmaine Sheh Sze-Man","lineid":227,"uuid":"f1b63986-fe17-4a77-b288-4408444c2efb"}
+{"index":2,"sub_uri":"Q1797707","obj_uri":"Q33999","obj_label":"acteur","sub_label":"Frits Helmuth","lineid":2,"uuid":"f90365bb-e5e7-4557-b4ea-a8a23b153b30"}

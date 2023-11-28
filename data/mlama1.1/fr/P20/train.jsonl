@@ -1,0 +1,756 @@
+{"index":126,"sub_uri":"Q76485","obj_uri":"Q2090","obj_label":"Nuremberg","sub_label":"Johann Pachelbel","lineid":126,"uuid":"34ca3706-c3ea-4648-859e-b17a55c6f5d7"}
+{"index":701,"sub_uri":"Q182123","obj_uri":"Q456","obj_label":"Lyon","sub_label":"Ir\u00e9n\u00e9e de Lyon","lineid":708,"uuid":"64c31451-fbc8-44cf-9149-ff9cb20ebcb3"}
+{"index":83,"sub_uri":"Q171001","obj_uri":"Q220","obj_label":"Rome","sub_label":"Cl\u00e9ment III","lineid":83,"uuid":"514c8e76-b8ab-4efe-9c6f-9b17bd4b3141"}
+{"index":131,"sub_uri":"Q186153","obj_uri":"Q16869","obj_label":"Constantinople","sub_label":"Procope de C\u00e9sar\u00e9e","lineid":131,"uuid":"c38e4403-79ad-4373-bf81-abdfb7bd3d43"}
+{"index":22,"sub_uri":"Q321520","obj_uri":"Q1741","obj_label":"Vienne","sub_label":"Peter Strudel","lineid":22,"uuid":"8fbce334-e643-42b7-9d30-1b8bf4bfcfaa"}
+{"index":249,"sub_uri":"Q70764","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Anita Berber","lineid":250,"uuid":"a862a1ac-2f31-445a-82d5-bdb3a8ac6313"}
+{"index":641,"sub_uri":"Q465488","obj_uri":"Q270","obj_label":"Varsovie","sub_label":"Leopold Infeld","lineid":648,"uuid":"ca124926-044e-4b01-a6a8-2f7853cdfdf8"}
+{"index":788,"sub_uri":"Q19032","obj_uri":"Q727","obj_label":"Amsterdam","sub_label":"Jacob Adriaensz Backer","lineid":795,"uuid":"8f6a9188-e6c0-4621-a6bc-2e2fc43b6970"}
+{"index":43,"sub_uri":"Q310129","obj_uri":"Q8652","obj_label":"Miami","sub_label":"Nicholas Liverpool","lineid":43,"uuid":"fe4ad242-f546-4577-8892-5a341d850193"}
+{"index":446,"sub_uri":"Q3184289","obj_uri":"Q90","obj_label":"Paris","sub_label":"Joseph-Guichard Du Verney","lineid":449,"uuid":"55313a2c-b8c6-43fe-8149-c49a1ec7ad88"}
+{"index":543,"sub_uri":"Q182474","obj_uri":"Q2028","obj_label":"V\u00e9rone","sub_label":"Lucius III","lineid":549,"uuid":"68bf0c3e-6154-4382-93b1-08252f9d83fb"}
+{"index":526,"sub_uri":"Q709432","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Eugen Slutsky","lineid":531,"uuid":"68e1f563-2f9b-4bd7-ad0a-f81df5242ad1"}
+{"index":667,"sub_uri":"Q3525603","obj_uri":"Q340","obj_label":"Montr\u00e9al","sub_label":"Thomas Storrow Brown","lineid":674,"uuid":"388d2eda-9a63-43a7-89fc-a70df0086f5b"}
+{"index":518,"sub_uri":"Q1507861","obj_uri":"Q49111","obj_label":"Cambridge","sub_label":"George Martin Lane","lineid":523,"uuid":"067741fb-70ed-430f-8d27-173c8ce45be0"}
+{"index":399,"sub_uri":"Q182128","obj_uri":"Q2044","obj_label":"Florence","sub_label":"Jean Pic de la Mirandole","lineid":402,"uuid":"6dabe620-e472-44e6-b700-2d2146d751e7"}
+{"index":287,"sub_uri":"Q312366","obj_uri":"Q2044","obj_label":"Florence","sub_label":"Bartolomeo Ammannati","lineid":288,"uuid":"4c918ed6-56ad-42be-b0d1-47d86666e611"}
+{"index":456,"sub_uri":"Q976386","obj_uri":"Q12892","obj_label":"Anvers","sub_label":"S\u00e9bastien Vrancx","lineid":459,"uuid":"bf8e15bf-f533-4c7d-9a92-8573cc6a01d4"}
+{"index":173,"sub_uri":"Q668947","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Piotr Romanovski","lineid":173,"uuid":"60374e0f-a29a-48ed-a981-05796c935077"}
+{"index":702,"sub_uri":"Q505037","obj_uri":"Q36","obj_label":"Pologne","sub_label":"Fausto Socin","lineid":709,"uuid":"d75cad97-f246-4b24-a83a-aeaddcc987cd"}
+{"index":252,"sub_uri":"Q433304","obj_uri":"Q49196","obj_label":"Newton","sub_label":"Henry Jacob Bigelow","lineid":253,"uuid":"af2bd1e2-5e09-4dc2-8ed8-3e748765168c"}
+{"index":809,"sub_uri":"Q62304","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Carl Dahlhaus","lineid":816,"uuid":"41290e9e-effb-43d0-912a-4f194f6b4e93"}
+{"index":495,"sub_uri":"Q284092","obj_uri":"Q29303","obj_label":"Canterbury","sub_label":"John Kemp","lineid":498,"uuid":"6e4ae850-3441-40f2-9d78-dfdc299b9c5b"}
+{"index":854,"sub_uri":"Q7460076","obj_uri":"Q576304","obj_label":"Morris","sub_label":"Shabbona","lineid":861,"uuid":"4e20eb96-0ea2-4502-aa3d-60e1f474e35f"}
+{"index":703,"sub_uri":"Q447682","obj_uri":"Q1085","obj_label":"Prague","sub_label":"Bartholomeus Spranger","lineid":710,"uuid":"8b2a2538-1fbe-4649-af5d-955e7d60b648"}
+{"index":419,"sub_uri":"Q160030","obj_uri":"Q220","obj_label":"Rome","sub_label":"Pie III","lineid":422,"uuid":"18b2f8db-beb5-43a6-b432-ce621caaa6ab"}
+{"index":32,"sub_uri":"Q3785608","obj_uri":"Q1342","obj_label":"Pittsburgh","sub_label":"Hilary Masters","lineid":32,"uuid":"7c476fc2-3b67-41a9-b4ac-045b2bf2edcd"}
+{"index":517,"sub_uri":"Q2939027","obj_uri":"Q220","obj_label":"Rome","sub_label":"Carla Accardi","lineid":522,"uuid":"8b37672a-f0d9-41f7-99e7-4b91147ef068"}
+{"index":568,"sub_uri":"Q112023","obj_uri":"Q34713","obj_label":"Salzbourg","sub_label":"Heinrich Lammasch","lineid":574,"uuid":"aa89522b-bee3-4a21-85b5-e308a7eb5ede"}
+{"index":823,"sub_uri":"Q244912","obj_uri":"Q1218","obj_label":"J\u00e9rusalem","sub_label":"\u00c9z\u00e9chias","lineid":830,"uuid":"5d4bc4ac-28cd-48df-a7db-c61e058a8555"}
+{"index":613,"sub_uri":"Q123646","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Fran\u00e7ois Le Fort","lineid":620,"uuid":"a422bc46-9b27-4fe8-bdba-a5a9ba73bd1d"}
+{"index":730,"sub_uri":"Q455625","obj_uri":"Q1754","obj_label":"Stockholm","sub_label":"Evert Taube","lineid":737,"uuid":"88465e9e-114f-4a0a-a151-048c3f2e7543"}
+{"index":824,"sub_uri":"Q332607","obj_uri":"Q84","obj_label":"Londres","sub_label":"Leon Brittan","lineid":831,"uuid":"7cfb73f7-2da6-41b0-b1c0-e08424cd4ce5"}
+{"index":645,"sub_uri":"Q332412","obj_uri":"Q84","obj_label":"Londres","sub_label":"Tony Benn","lineid":652,"uuid":"3e0711e1-b229-499d-bc32-76028be75f92"}
+{"index":493,"sub_uri":"Q5294665","obj_uri":"Q23556","obj_label":"Atlanta","sub_label":"Donald L. Hollowell","lineid":496,"uuid":"146f1c1f-6fae-4b47-b91a-dc708ab1e591"}
+{"index":481,"sub_uri":"Q729533","obj_uri":"Q90","obj_label":"Paris","sub_label":"Valentin Conrart","lineid":484,"uuid":"fe5365aa-2faa-4286-8e41-d03ff7fc3260"}
+{"index":930,"sub_uri":"Q1320918","obj_uri":"Q1530","obj_label":"Bagdad","sub_label":"Frederick Maude","lineid":938,"uuid":"a4215384-59ac-4471-b3bd-e8a5bab83c31"}
+{"index":767,"sub_uri":"Q7803334","obj_uri":"Q1439","obj_label":"Texas","sub_label":"Tim Cole","lineid":774,"uuid":"fd7931fb-507e-40bb-bcf9-17dcac42fc10"}
+{"index":421,"sub_uri":"Q1999087","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Sviatoslav Knouchevitski","lineid":424,"uuid":"34e7ff90-84af-4e9d-b9b3-6ecf607d187a"}
+{"index":101,"sub_uri":"Q455562","obj_uri":"Q1524","obj_label":"Ath\u00e8nes","sub_label":"Yiannis Latsis","lineid":101,"uuid":"2b897c9e-991d-47ce-b2b5-a37c55c12d89"}
+{"index":228,"sub_uri":"Q78646","obj_uri":"Q1741","obj_label":"Vienne","sub_label":"Alfred Hrdlicka","lineid":229,"uuid":"64d798ed-5a34-493e-8a0d-1585b4dc37ee"}
+{"index":580,"sub_uri":"Q648130","obj_uri":"Q5092","obj_label":"Baltimore","sub_label":"Phillips Lee Goldsborough","lineid":586,"uuid":"42935fb2-0eb8-4459-af28-2a11d29219a5"}
+{"index":840,"sub_uri":"Q58777","obj_uri":"Q1022","obj_label":"Stuttgart","sub_label":"Auguste-Guillaume de Prusse","lineid":847,"uuid":"af82ac05-1093-493c-b225-61799559d9f5"}
+{"index":253,"sub_uri":"Q459921","obj_uri":"Q85","obj_label":"Le Caire","sub_label":"Ibn Yunus","lineid":254,"uuid":"96f42b63-fb10-410f-bd94-0f4556bada81"}
+{"index":430,"sub_uri":"Q262771","obj_uri":"Q2090","obj_label":"Nuremberg","sub_label":"Michael Wolgemut","lineid":433,"uuid":"106bd5f4-1ddb-41e4-b92d-9c6672984bbb"}
+{"index":814,"sub_uri":"Q542868","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Junior Wells","lineid":821,"uuid":"3e0621aa-0214-4bc1-8997-2ffacbd50812"}
+{"index":768,"sub_uri":"Q5538851","obj_uri":"Q84","obj_label":"Londres","sub_label":"George Edmund Street","lineid":775,"uuid":"57bacbc2-8d94-4d7a-832a-f5184fb8911f"}
+{"index":178,"sub_uri":"Q2054418","obj_uri":"Q1335","obj_label":"Montevideo","sub_label":"Rafael Barradas","lineid":178,"uuid":"45c8c36f-802e-4e0f-94be-e747a93ca00c"}
+{"index":903,"sub_uri":"Q208230","obj_uri":"Q90","obj_label":"Paris","sub_label":"Claude Bernard","lineid":910,"uuid":"1b2ce806-2411-47f0-80d8-42e1fdaaf75b"}
+{"index":280,"sub_uri":"Q41749","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Joseph Goebbels","lineid":281,"uuid":"67c2a3a7-6961-479c-a805-74ddf0579f56"}
+{"index":593,"sub_uri":"Q667495","obj_uri":"Q1490","obj_label":"Tokyo","sub_label":"Thomas Blake Glover","lineid":600,"uuid":"4784df00-890a-4c53-8808-f572bd59406d"}
+{"index":427,"sub_uri":"Q299732","obj_uri":"Q1530","obj_label":"Bagdad","sub_label":"Abdel Karim Kassem","lineid":430,"uuid":"9dbc53c0-3e42-4a46-bb05-b6c05c8ba6b0"}
+{"index":520,"sub_uri":"Q744866","obj_uri":"Q23556","obj_label":"Atlanta","sub_label":"Asa Griggs Candler","lineid":525,"uuid":"91b6f106-9113-4397-ac26-0abc3fdef7f8"}
+{"index":282,"sub_uri":"Q45120","obj_uri":"Q1741","obj_label":"Vienne","sub_label":"Josephus Nicolaus Laurenti","lineid":283,"uuid":"a49a5a4c-a9d4-469a-a5b6-708a3274fea4"}
+{"index":888,"sub_uri":"Q461569","obj_uri":"Q1218","obj_label":"J\u00e9rusalem","sub_label":"Avraham Harman","lineid":895,"uuid":"5a79b83d-132e-4ad7-9f27-e4eb4e264ff5"}
+{"index":142,"sub_uri":"Q2745340","obj_uri":"Q90","obj_label":"Paris","sub_label":"Henri Bouchard","lineid":142,"uuid":"662b5ddc-46e8-47a8-9295-41c6ae402655"}
+{"index":189,"sub_uri":"Q1405858","obj_uri":"Q235","obj_label":"Monaco","sub_label":"Lucien de Monaco","lineid":190,"uuid":"067306a7-41c2-4479-bcdb-dde9a358bc1f"}
+{"index":390,"sub_uri":"Q551896","obj_uri":"Q1731","obj_label":"Dresde","sub_label":"Adrian Ludwig Richter","lineid":393,"uuid":"dd489530-24c8-4e97-bb90-1cc935017a2a"}
+{"index":582,"sub_uri":"Q41766","obj_uri":"Q87","obj_label":"Alexandrie","sub_label":"Ct\u00e9sibios","lineid":588,"uuid":"44f11765-89db-4cf6-a369-b71e4c8c11ea"}
+{"index":391,"sub_uri":"Q739190","obj_uri":"Q31","obj_label":"Belgique","sub_label":"Paul van Ostaijen","lineid":394,"uuid":"7b894ea2-089b-4874-b7a1-daff6257896e"}
+{"index":676,"sub_uri":"Q524156","obj_uri":"Q1731","obj_label":"Dresde","sub_label":"Christoph Bernhard","lineid":683,"uuid":"400cf70e-7e08-440d-a77f-090f6e7b9ea7"}
+{"index":564,"sub_uri":"Q18810908","obj_uri":"Q18013","obj_label":"Sacramento","sub_label":"Gladys Blake","lineid":570,"uuid":"44a478fb-554c-470e-9ea8-8db2cb2c0867"}
+{"index":397,"sub_uri":"Q155914","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Peter Simon Pallas","lineid":400,"uuid":"f0d7c5ce-2b99-4474-b2e1-5d98faabdf8a"}
+{"index":359,"sub_uri":"Q84824","obj_uri":"Q1741","obj_label":"Vienne","sub_label":"Heinrich Joseph von Collin","lineid":360,"uuid":"b1d745cd-1c17-4053-ae31-ba61d6556556"}
+{"index":574,"sub_uri":"Q512593","obj_uri":"Q3766","obj_label":"Damas","sub_label":"Tutu\u015f","lineid":580,"uuid":"7c493c8c-fb43-45da-b501-ca0385d4200c"}
+{"index":241,"sub_uri":"Q1511","obj_uri":"Q641","obj_label":"Venise","sub_label":"Richard Wagner","lineid":242,"uuid":"ef186331-1e2f-484f-b66b-6e61901f4fce"}
+{"index":258,"sub_uri":"Q67575","obj_uri":"Q2966","obj_label":"Heidelberg","sub_label":"Johann Andreas Eisenmenger","lineid":259,"uuid":"fa72e92b-28a6-4eae-aa6d-ffa05965ce53"}
+{"index":290,"sub_uri":"Q604011","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"Antonio Palomino","lineid":291,"uuid":"ba4d4a3c-63ba-4748-9241-66c1e9276198"}
+{"index":691,"sub_uri":"Q6283259","obj_uri":"Q340","obj_label":"Montr\u00e9al","sub_label":"Joseph Frobisher","lineid":698,"uuid":"37e98fba-3281-47e7-9729-ad86dee6d379"}
+{"index":727,"sub_uri":"Q328370","obj_uri":"Q1320403","obj_label":"Jamaica","sub_label":"Egbert Benson","lineid":734,"uuid":"66067f09-3200-43aa-99a2-7ad3ff59e550"}
+{"index":644,"sub_uri":"Q972293","obj_uri":"Q1748","obj_label":"Copenhague","sub_label":"Frederik Vermehren","lineid":651,"uuid":"91f8d5a3-6487-4526-9b6c-569e8bfcde73"}
+{"index":603,"sub_uri":"Q70462","obj_uri":"Q1726","obj_label":"Munich","sub_label":"Thomas Nipperdey","lineid":610,"uuid":"c16103dd-7e52-4896-a512-e645691c481d"}
+{"index":330,"sub_uri":"Q716911","obj_uri":"Q956","obj_label":"P\u00e9kin","sub_label":"Aiping Zhang","lineid":331,"uuid":"2e07471d-4ac1-42c5-8936-6eb9217b7a03"}
+{"index":928,"sub_uri":"Q937115","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Dawn Clark Netsch","lineid":936,"uuid":"443a5230-2bdd-4d80-baec-c145cda736ed"}
+{"index":56,"sub_uri":"Q309709","obj_uri":"Q84","obj_label":"Londres","sub_label":"Thomas Augustine Arne","lineid":56,"uuid":"5019d53c-40b5-41fd-ad48-1b37df6c56aa"}
+{"index":346,"sub_uri":"Q1547558","obj_uri":"Q2631643","obj_label":"Southampton","sub_label":"Grosvenor Atterbury","lineid":347,"uuid":"abf7ded0-21c8-406d-9f1f-a3d7f2f22b3f"}
+{"index":666,"sub_uri":"Q63766","obj_uri":"Q2044","obj_label":"Florence","sub_label":"Hugo Schiff","lineid":673,"uuid":"7e154e02-a0a1-4202-b8aa-e9585f4e49ab"}
+{"index":198,"sub_uri":"Q3492554","obj_uri":"Q1461","obj_label":"Manille","sub_label":"Arsenio Lacson","lineid":199,"uuid":"570a1f31-59e7-4f8f-a519-40cf5353d27b"}
+{"index":595,"sub_uri":"Q4662269","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Aaron Montgomery Ward","lineid":602,"uuid":"f0bf54fd-730f-4574-a987-98cf40cf3e34"}
+{"index":476,"sub_uri":"Q106641","obj_uri":"Q84","obj_label":"Londres","sub_label":"Johann Christian Bach","lineid":479,"uuid":"09542ef6-a566-449e-88c6-07059453501f"}
+{"index":497,"sub_uri":"Q209212","obj_uri":"Q220","obj_label":"Rome","sub_label":"Girolamo Frescobaldi","lineid":500,"uuid":"769c4682-75b6-4906-937f-361a9183310a"}
+{"index":31,"sub_uri":"Q7304648","obj_uri":"Q16555","obj_label":"Houston","sub_label":"Red Munger","lineid":31,"uuid":"11e25299-dddc-4059-b05d-1a6c79756dd7"}
+{"index":465,"sub_uri":"Q321358","obj_uri":"Q1891","obj_label":"Bologne","sub_label":"Ulisse Aldrovandi","lineid":468,"uuid":"f09040a9-f032-4e15-8d24-f4071d274ca0"}
+{"index":264,"sub_uri":"Q469262","obj_uri":"Q28271","obj_label":"Annapolis","sub_label":"Charlie Byrd","lineid":265,"uuid":"a006b0f2-6f83-4b20-a457-74dd8a489a91"}
+{"index":67,"sub_uri":"Q367016","obj_uri":"Q220","obj_label":"Rome","sub_label":"Realdo Colombo","lineid":67,"uuid":"8486f4ed-13de-49b5-9eaf-684f80d2258a"}
+{"index":245,"sub_uri":"Q213561","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Ernst Reuter","lineid":246,"uuid":"b043ef05-134b-4316-bc33-61270e64b9d7"}
+{"index":834,"sub_uri":"Q7380963","obj_uri":"Q84","obj_label":"Londres","sub_label":"Ruskin Spear","lineid":841,"uuid":"dde703c8-2ca3-4a8a-b109-d39fabe0d4ca"}
+{"index":411,"sub_uri":"Q152043","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Mstislav Rostropovitch","lineid":414,"uuid":"66c6d3a5-4f4c-4663-89e2-08e83a357183"}
+{"index":468,"sub_uri":"Q317823","obj_uri":"Q90","obj_label":"Paris","sub_label":"Raymond Hains","lineid":471,"uuid":"a7ca6aa8-4237-47cd-a609-a5e8893e3e01"}
+{"index":658,"sub_uri":"Q44197","obj_uri":"Q90","obj_label":"Paris","sub_label":"Maximilien de Robespierre","lineid":665,"uuid":"4a5cf1b1-80c6-4128-b27f-c788c7ee872a"}
+{"index":741,"sub_uri":"Q2067930","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Alexander Borisovich Belyavsky","lineid":748,"uuid":"08d9ba76-3b2e-46ba-9a40-8508b6d0df3e"}
+{"index":214,"sub_uri":"Q10294036","obj_uri":"Q3616","obj_label":"T\u00e9h\u00e9ran","sub_label":"Morteza Momayez","lineid":215,"uuid":"3f9ab4eb-7e70-465e-812b-6075266265ae"}
+{"index":807,"sub_uri":"Q2508786","obj_uri":"Q84","obj_label":"Londres","sub_label":"Rebecca Solomon","lineid":814,"uuid":"69a84604-7969-497a-804c-e35be604bfac"}
+{"index":522,"sub_uri":"Q236229","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Lioubov Orlova","lineid":527,"uuid":"eed6cb31-6163-4a28-b897-0288d9809a6b"}
+{"index":7,"sub_uri":"Q961534","obj_uri":"Q90","obj_label":"Paris","sub_label":"Louis Vola","lineid":7,"uuid":"1f306436-ba28-4354-b77d-7143d037d45f"}
+{"index":45,"sub_uri":"Q69127","obj_uri":"Q24879","obj_label":"Br\u00eame","sub_label":"Carl Carls","lineid":45,"uuid":"7b105bdc-ec60-44a4-9575-5a4af1d5ada2"}
+{"index":332,"sub_uri":"Q336806","obj_uri":"Q2634","obj_label":"Naples","sub_label":"Domenico Fontana","lineid":333,"uuid":"079fc982-e821-45d7-b647-224345d5b9e1"}
+{"index":312,"sub_uri":"Q1682880","obj_uri":"Q100","obj_label":"Boston","sub_label":"Thomas Barbour","lineid":313,"uuid":"9cd94db5-821a-495e-90ef-3f4b320f0baa"}
+{"index":557,"sub_uri":"Q898557","obj_uri":"Q1741","obj_label":"Vienne","sub_label":"Franz Joachim Liechtenstein","lineid":563,"uuid":"3d0264ad-00b3-4bcf-93df-0e908994f5c9"}
+{"index":746,"sub_uri":"Q78716","obj_uri":"Q1741","obj_label":"Vienne","sub_label":"Guido Adler","lineid":753,"uuid":"256e2736-f045-4493-a40a-d09a307f4809"}
+{"index":414,"sub_uri":"Q365387","obj_uri":"Q90","obj_label":"Paris","sub_label":"Gabriel Ramanantsoa","lineid":417,"uuid":"57b07cf3-4fff-4084-9f82-df800f5c509e"}
+{"index":629,"sub_uri":"Q737964","obj_uri":"Q797","obj_label":"Alaska","sub_label":"Robert Kennicott","lineid":636,"uuid":"060f9ff4-9619-49c0-9f2c-bb1356b7122d"}
+{"index":124,"sub_uri":"Q640589","obj_uri":"Q1435","obj_label":"Zagreb","sub_label":"Miko Tripalo","lineid":124,"uuid":"cefbec8e-3954-476e-abed-8de8422bb3b3"}
+{"index":600,"sub_uri":"Q90247","obj_uri":"Q2090","obj_label":"Nuremberg","sub_label":"Wenzel Jamnitzer","lineid":607,"uuid":"4c8a6c95-a0d0-411a-8510-9ca3a0010e0c"}
+{"index":787,"sub_uri":"Q5790356","obj_uri":"Q84","obj_label":"Londres","sub_label":"Dudley Hardy","lineid":794,"uuid":"0df2051d-f19f-4f89-9c5e-f9123774f55e"}
+{"index":301,"sub_uri":"Q298698","obj_uri":"Q79","obj_label":"\u00c9gypte","sub_label":"Pac\u00f4me le Grand","lineid":302,"uuid":"17db64b5-37cd-4a95-9434-a7f22baf6034"}
+{"index":129,"sub_uri":"Q1337810","obj_uri":"Q90","obj_label":"Paris","sub_label":"Paul Gorgulov","lineid":129,"uuid":"eb2f9616-04ea-4367-9833-4e5da12c1af2"}
+{"index":294,"sub_uri":"Q5371276","obj_uri":"Q35","obj_label":"Danemark","sub_label":"Emil Hass Christensen","lineid":295,"uuid":"9ad0fe6f-77f4-495f-a0bb-d174d3d48a2c"}
+{"index":215,"sub_uri":"Q1041908","obj_uri":"Q1449","obj_label":"G\u00eanes","sub_label":"Carlo Bo","lineid":216,"uuid":"022bcd14-057e-40d9-9e7b-d290eb4df5d0"}
+{"index":225,"sub_uri":"Q1966522","obj_uri":"Q994","obj_label":"Tbilissi","sub_label":"Ramaz Chkhikvadze","lineid":226,"uuid":"d7dec00d-9e94-4f09-915a-db0522ded93f"}
+{"index":284,"sub_uri":"Q1363653","obj_uri":"Q19660","obj_label":"Bucarest","sub_label":"Gellu Naum","lineid":285,"uuid":"07d67fa4-3416-4787-92c2-6f7ebea4287b"}
+{"index":671,"sub_uri":"Q3938350","obj_uri":"Q1761","obj_label":"Dublin","sub_label":"Robert MacBryde","lineid":678,"uuid":"26030e6b-f50f-4afb-89b7-9b8d64c6cdd7"}
+{"index":624,"sub_uri":"Q78940","obj_uri":"Q1741","obj_label":"Vienne","sub_label":"Leopold Kompert","lineid":631,"uuid":"5da0da40-6f1f-4a23-8746-dc907f0e29c8"}
+{"index":585,"sub_uri":"Q9294","obj_uri":"Q85","obj_label":"Le Caire","sub_label":"Ibn Khaldoun","lineid":592,"uuid":"e521662c-4f6a-4356-af14-71029ebdb721"}
+{"index":938,"sub_uri":"Q377045","obj_uri":"Q37100","obj_label":"Auckland","sub_label":"Judith Binney","lineid":946,"uuid":"7b5d9382-607c-4358-a3a5-5f08c88710fd"}
+{"index":915,"sub_uri":"Q731866","obj_uri":"Q1530","obj_label":"Bagdad","sub_label":"Ibn al-Jawzi","lineid":923,"uuid":"0f3468ce-eb49-4a4e-b758-1e420411929c"}
+{"index":51,"sub_uri":"Q78296","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Ehrhardt Post","lineid":51,"uuid":"ca1ecc16-eca5-4c92-bf68-0267bf3241a6"}
+{"index":813,"sub_uri":"Q2343795","obj_uri":"Q49164","obj_label":"Amherst","sub_label":"Joseph Charles Bequaert","lineid":820,"uuid":"b27dba8c-fb8c-42f3-b2e1-b5f300e9ed03"}
+{"index":118,"sub_uri":"Q557525","obj_uri":"Q90","obj_label":"Paris","sub_label":"Marcel Tournier","lineid":118,"uuid":"c4f766da-053b-4204-9f3f-180e84f40a18"}
+{"index":511,"sub_uri":"Q9235","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Georg Wilhelm Friedrich Hegel","lineid":515,"uuid":"39c88915-4e28-472a-912f-a4d5bb013408"}
+{"index":357,"sub_uri":"Q780378","obj_uri":"Q490","obj_label":"Milan","sub_label":"Umberto Veronesi","lineid":358,"uuid":"7385288f-1131-4f31-896a-135b61eb0876"}
+{"index":165,"sub_uri":"Q774781","obj_uri":"Q2634","obj_label":"Naples","sub_label":"Sebastiano Conca","lineid":165,"uuid":"25a97ba3-759b-46e4-8c68-5447502dcc4c"}
+{"index":669,"sub_uri":"Q564195","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Christoph Schaffrath","lineid":676,"uuid":"88bc1512-f23f-41e9-9955-53ff146964cb"}
+{"index":609,"sub_uri":"Q78638","obj_uri":"Q1741","obj_label":"Vienne","sub_label":"Theophil Hansen","lineid":616,"uuid":"d89a246f-d3cf-45e0-87be-dbfa35c4a56a"}
+{"index":274,"sub_uri":"Q6115853","obj_uri":"Q3183","obj_label":"Perth","sub_label":"Jack Wong Sue","lineid":275,"uuid":"0e95a2f8-d17f-4a0c-89a4-13c93950ce39"}
+{"index":504,"sub_uri":"Q1278140","obj_uri":"Q437","obj_label":"Ljubljana","sub_label":"Josip Murn","lineid":507,"uuid":"cb14fc42-1418-499d-9199-0b656c699765"}
+{"index":689,"sub_uri":"Q87727","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Mathilde Mallinger","lineid":696,"uuid":"b1e1aaf8-7e2f-4d6e-8fd2-c90c01d71ae5"}
+{"index":194,"sub_uri":"Q2860157","obj_uri":"Q34932","obj_label":"Brisbane","sub_label":"Archie Jackson","lineid":195,"uuid":"d8119a29-2dbe-441b-b1aa-8cab5c38114e"}
+{"index":675,"sub_uri":"Q2586973","obj_uri":"Q1348","obj_label":"Calcutta","sub_label":"Nirmala Joshi","lineid":682,"uuid":"5a2b6a61-ba16-406f-af2e-5b77ae5826f8"}
+{"index":502,"sub_uri":"Q184535","obj_uri":"Q1754","obj_label":"Stockholm","sub_label":"Sofia Kovalevska\u00efa","lineid":505,"uuid":"01cc73ad-cfcb-4331-a581-6895c090b837"}
+{"index":152,"sub_uri":"Q1349286","obj_uri":"Q1563","obj_label":"La Havane","sub_label":"Manuel Arteaga y Betancourt","lineid":152,"uuid":"7d0bff82-e94e-47d0-ae53-878c5b16ba94"}
+{"index":857,"sub_uri":"Q4143364","obj_uri":"Q84","obj_label":"Londres","sub_label":"Frederick Gore","lineid":864,"uuid":"f4667ca5-ec88-4c5c-8863-4d2e0b49a97f"}
+{"index":147,"sub_uri":"Q2253581","obj_uri":"Q2044","obj_label":"Florence","sub_label":"Maso da San Friano","lineid":147,"uuid":"d5e1615f-c915-4dab-b160-6eae2939c942"}
+{"index":5,"sub_uri":"Q85958","obj_uri":"Q1741","obj_label":"Vienne","sub_label":"Salomon Sulzer","lineid":5,"uuid":"fe1ddf8b-096c-4b91-bcc2-99e0465df5a0"}
+{"index":634,"sub_uri":"Q5298331","obj_uri":"Q5083","obj_label":"Seattle","sub_label":"Dorothy Bullitt","lineid":641,"uuid":"9268ad50-fba2-4c1d-a277-d5e7f10fa73b"}
+{"index":719,"sub_uri":"Q432219","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Vera Gornosta\u00efeva","lineid":726,"uuid":"167fbfbd-cc68-41df-be33-330670077289"}
+{"index":90,"sub_uri":"Q980028","obj_uri":"Q585","obj_label":"Oslo","sub_label":"Haakon Lie","lineid":90,"uuid":"cc24c39c-98a5-4b6c-b159-1e8debff5c38"}
+{"index":832,"sub_uri":"Q3049047","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"Pedro de Ribera","lineid":839,"uuid":"c04090ae-20f1-4310-bc39-4bf6029502ae"}
+{"index":276,"sub_uri":"Q3760457","obj_uri":"Q84","obj_label":"Londres","sub_label":"George Cadogan","lineid":277,"uuid":"65b51dcf-98b9-4207-b541-f59b9d3be606"}
+{"index":830,"sub_uri":"Q317839","obj_uri":"Q956","obj_label":"P\u00e9kin","sub_label":"Yongzheng","lineid":837,"uuid":"115fb9fc-0304-4169-9875-56485b71e268"}
+{"index":412,"sub_uri":"Q529276","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Studs Terkel","lineid":415,"uuid":"33c4af2d-0084-4c68-9196-d83657761786"}
+{"index":444,"sub_uri":"Q5539457","obj_uri":"Q1345","obj_label":"Philadelphie","sub_label":"George Frederick Baer","lineid":447,"uuid":"321f2e78-8594-419a-aefc-0dc2cb291660"}
+{"index":841,"sub_uri":"Q4725963","obj_uri":"Q16557","obj_label":"Dallas","sub_label":"Alice Lon","lineid":848,"uuid":"02371db2-f9b4-4a8d-b8ee-138f2f809cae"}
+{"index":308,"sub_uri":"Q2546810","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"William Rainey Harper","lineid":309,"uuid":"08b8a4c0-ec8a-4061-9cd6-25725406f5cb"}
+{"index":381,"sub_uri":"Q4958242","obj_uri":"Q2887","obj_label":"Santiago","sub_label":"Braulio Arenas","lineid":384,"uuid":"9d8854f6-004f-41dc-a906-e4ce052d6cc4"}
+{"index":839,"sub_uri":"Q3751269","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"Concha Espina","lineid":846,"uuid":"96baa369-afaf-45d6-988c-95ad8524ae58"}
+{"index":218,"sub_uri":"Q3543621","obj_uri":"Q100","obj_label":"Boston","sub_label":"Henry Sargent","lineid":219,"uuid":"634a1634-2178-4202-b641-11fb20f25bef"}
+{"index":89,"sub_uri":"Q273212","obj_uri":"Q49241","obj_label":"Lexington","sub_label":"John Cabell Breckinridge","lineid":89,"uuid":"84c08e62-0589-4385-9810-3b45c4d0abf9"}
+{"index":384,"sub_uri":"Q547687","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Pim\u00e8ne de Moscou","lineid":387,"uuid":"b256f3dd-0613-45e9-8d1d-4c3cf3156e56"}
+{"index":458,"sub_uri":"Q217771","obj_uri":"Q90","obj_label":"Paris","sub_label":"Georges Gurdjieff","lineid":461,"uuid":"4ba0bb03-e546-4102-8d36-344bc850175e"}
+{"index":508,"sub_uri":"Q1951764","obj_uri":"Q8660","obj_label":"Karachi","sub_label":"Ra'ana Liaquat Ali Khan","lineid":511,"uuid":"0cf88aec-766a-48fa-9e1d-a12ca3e14384"}
+{"index":267,"sub_uri":"Q4483327","obj_uri":"Q270","obj_label":"Varsovie","sub_label":"Edmund Fetting","lineid":268,"uuid":"b4a58a0f-c89d-472d-96c0-f211c1deaf4c"}
+{"index":822,"sub_uri":"Q367415","obj_uri":"Q2656","obj_label":"Palerme","sub_label":"Guillaume Ier de Sicile","lineid":829,"uuid":"6f8a0fbc-836e-4eb8-8c33-bfea2474f1f1"}
+{"index":716,"sub_uri":"Q5497894","obj_uri":"Q184775","obj_label":"Ipswich","sub_label":"Frederick Grinke","lineid":723,"uuid":"709cb403-a8b4-4152-80ef-d4dfd8d9bc1b"}
+{"index":491,"sub_uri":"Q1350489","obj_uri":"Q34006","obj_label":"Hollywood","sub_label":"Jack Cassidy","lineid":494,"uuid":"7d098a4a-5b9e-47dd-a973-4b263c23ea59"}
+{"index":836,"sub_uri":"Q4128","obj_uri":"Q90","obj_label":"Paris","sub_label":"Louis Aragon","lineid":843,"uuid":"4fc8240a-bc80-4fab-9e51-933d94fcf0fc"}
+{"index":166,"sub_uri":"Q110709","obj_uri":"Q2634","obj_label":"Naples","sub_label":"Annibale De Gasparis","lineid":166,"uuid":"ad0a6b7f-d970-4303-bff2-0210d141a165"}
+{"index":256,"sub_uri":"Q1373633","obj_uri":"Q495","obj_label":"Turin","sub_label":"Joseph Cafasso","lineid":257,"uuid":"184f99d4-b350-4aac-bb26-f9f416668fb1"}
+{"index":904,"sub_uri":"Q39524","obj_uri":"Q85","obj_label":"Le Caire","sub_label":"Gamal Abdel Nasser","lineid":911,"uuid":"fe1f3b66-d7ff-481f-8507-2a786db4a48c"}
+{"index":696,"sub_uri":"Q2797815","obj_uri":"Q549761","obj_label":"Warwick","sub_label":"William Parr","lineid":703,"uuid":"75abfe6e-ffb4-4fb7-9e1e-78c3b3fe944d"}
+{"index":514,"sub_uri":"Q731292","obj_uri":"Q84","obj_label":"Londres","sub_label":"Malcolm Sargent","lineid":518,"uuid":"e60c4c98-4575-48bf-89f5-450ecf3beb7f"}
+{"index":160,"sub_uri":"Q622130","obj_uri":"Q779","obj_label":"Connecticut","sub_label":"Israel Putnam","lineid":160,"uuid":"e3785cd8-caaf-4b76-a76a-16de9f00280b"}
+{"index":679,"sub_uri":"Q71903","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Otto Brahm","lineid":686,"uuid":"48d4df04-72bd-4e6a-86c4-dec8214aa64b"}
+{"index":409,"sub_uri":"Q578219","obj_uri":"Q84","obj_label":"Londres","sub_label":"Kenny Wheeler","lineid":412,"uuid":"c09e7958-ae5f-43c5-af7c-1e311e56af0f"}
+{"index":761,"sub_uri":"Q1354027","obj_uri":"Q90","obj_label":"Paris","sub_label":"Paul Huet","lineid":768,"uuid":"84249dc0-59b2-4eaa-8440-c369d97da5bf"}
+{"index":801,"sub_uri":"Q1699682","obj_uri":"Q160642","obj_label":"Salisbury","sub_label":"John Creasey","lineid":808,"uuid":"79fb692c-f85d-4634-8224-3e6334f7633d"}
+{"index":708,"sub_uri":"Q203007","obj_uri":"Q84","obj_label":"Londres","sub_label":"Charles Fleetwood","lineid":715,"uuid":"d939c189-5b71-4caa-8d80-8475aab65536"}
+{"index":492,"sub_uri":"Q1248451","obj_uri":"Q90","obj_label":"Paris","sub_label":"Marc Sangnier","lineid":495,"uuid":"f7a93e5a-cbb2-4eeb-8117-8bcb7f195b1b"}
+{"index":890,"sub_uri":"Q1355246","obj_uri":"Q220","obj_label":"Rome","sub_label":"Fabrizio Spada","lineid":897,"uuid":"0d03da52-4eb1-4e44-a10f-9b684f956c13"}
+{"index":141,"sub_uri":"Q1770335","obj_uri":"Q84","obj_label":"Londres","sub_label":"George Dance le Jeune","lineid":141,"uuid":"69061f44-2aeb-4631-ba6e-f2318bcb8319"}
+{"index":891,"sub_uri":"Q287344","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Giulia Grisi","lineid":898,"uuid":"c2504d48-f11f-41c7-b7f2-dbe391a330c1"}
+{"index":44,"sub_uri":"Q5638801","obj_uri":"Q41183","obj_label":"Alep","sub_label":"Hagop Oshagan","lineid":44,"uuid":"973f6bff-bfb1-410b-94dd-9f1b182ed276"}
+{"index":528,"sub_uri":"Q2745779","obj_uri":"Q90","obj_label":"Paris","sub_label":"Curnonsky","lineid":533,"uuid":"23716630-3542-49d8-9aea-a9f3d765180b"}
+{"index":375,"sub_uri":"Q380719","obj_uri":"Q100","obj_label":"Boston","sub_label":"Cotton Mather","lineid":377,"uuid":"ef7f5817-8a96-4047-8333-5554e3913427"}
+{"index":678,"sub_uri":"Q366999","obj_uri":"Q490","obj_label":"Milan","sub_label":"Camillo Procaccini","lineid":685,"uuid":"54d4e821-d3c3-4b16-bab1-8f770846a06a"}
+{"index":334,"sub_uri":"Q99386","obj_uri":"Q1741","obj_label":"Vienne","sub_label":"Conrad Graf","lineid":335,"uuid":"3094751b-8dfc-42e4-a9b3-f7f49cc1147c"}
+{"index":884,"sub_uri":"Q1692000","obj_uri":"Q727","obj_label":"Amsterdam","sub_label":"Johan Hudde","lineid":891,"uuid":"a0207c89-66b5-4ef3-bd90-727b6f8fd07e"}
+{"index":70,"sub_uri":"Q60912","obj_uri":"Q90","obj_label":"Paris","sub_label":"Sophie-Charlotte en Bavi\u00e8re","lineid":70,"uuid":"bae1969b-a956-47bc-bd0a-1bd2a91739dc"}
+{"index":251,"sub_uri":"Q874060","obj_uri":"Q34713","obj_label":"Salzbourg","sub_label":"Johann Ernst von Thun und Hohenstein","lineid":252,"uuid":"dffe8c59-1ae3-4118-aadd-f0f6c02ad51b"}
+{"index":835,"sub_uri":"Q266416","obj_uri":"Q84","obj_label":"Londres","sub_label":"Betsy Blair","lineid":842,"uuid":"4f4cda2c-c8a3-4059-85bf-063755cdea30"}
+{"index":136,"sub_uri":"Q964357","obj_uri":"Q43631","obj_label":"Leyde","sub_label":"Cornelis Engebrechtsz","lineid":136,"uuid":"059f924c-a965-4743-8e35-c842ce052c1e"}
+{"index":208,"sub_uri":"Q3107688","obj_uri":"Q2634","obj_label":"Naples","sub_label":"Girolamo Imparato","lineid":209,"uuid":"c76c2871-e00c-43f6-86b4-cbc238414ac9"}
+{"index":416,"sub_uri":"Q118892","obj_uri":"Q78","obj_label":"B\u00e2le","sub_label":"Johannes Buxtorf le Jeune","lineid":419,"uuid":"9ac72858-0030-44d7-a57e-89d5c16f3346"}
+{"index":92,"sub_uri":"Q5075067","obj_uri":"Q36091","obj_label":"Minneapolis","sub_label":"Charles Alfred Pillsbury","lineid":92,"uuid":"cf97cae2-3e63-459f-bf92-4428864856ed"}
+{"index":870,"sub_uri":"Q3347358","obj_uri":"Q1348","obj_label":"Calcutta","sub_label":"Kadambini Ganguly","lineid":877,"uuid":"df855177-0ab1-4f2e-98ef-01693ef37fe7"}
+{"index":523,"sub_uri":"Q154594","obj_uri":"Q84","obj_label":"Londres","sub_label":"Lucian Freud","lineid":528,"uuid":"6fb339e2-7bc6-429d-97e6-884b1d9c0fb0"}
+{"index":586,"sub_uri":"Q463766","obj_uri":"Q36036","obj_label":"Lviv","sub_label":"Roman Choukhevytch","lineid":593,"uuid":"65adf552-76a3-4553-8622-2540b4e7e172"}
+{"index":127,"sub_uri":"Q325711","obj_uri":"Q90","obj_label":"Paris","sub_label":"Yves Rocard","lineid":127,"uuid":"7de8e48f-b2bb-4710-bf5c-9a5b891d1c05"}
+{"index":889,"sub_uri":"Q969604","obj_uri":"Q84","obj_label":"Londres","sub_label":"Everard Home","lineid":896,"uuid":"ece814ed-743b-4b49-8ffa-7dd546ace236"}
+{"index":132,"sub_uri":"Q514975","obj_uri":"Q84","obj_label":"Londres","sub_label":"Lennox Berkeley","lineid":132,"uuid":"b148ea5c-755d-47ce-8b6b-f80c8842ac5a"}
+{"index":654,"sub_uri":"Q358502","obj_uri":"Q1490","obj_label":"Tokyo","sub_label":"Kisho Kurokawa","lineid":661,"uuid":"b66e25cc-e730-480f-9fb6-4734b6bebe77"}
+{"index":226,"sub_uri":"Q508029","obj_uri":"Q172","obj_label":"Toronto","sub_label":"Stephen Leacock","lineid":227,"uuid":"f8cb10a9-e8fc-4950-822d-2d0fbe803549"}
+{"index":354,"sub_uri":"Q20148","obj_uri":"Q18094","obj_label":"Honolulu","sub_label":"Zhang Xueliang","lineid":355,"uuid":"0ebcaa97-c358-4e3c-a20c-c4890e8b7112"}
+{"index":799,"sub_uri":"Q79174","obj_uri":"Q1741","obj_label":"Vienne","sub_label":"Cajetan von Felder","lineid":806,"uuid":"afdeafb7-9733-4c75-b719-47def9132fc9"}
+{"index":908,"sub_uri":"Q7789089","obj_uri":"Q84","obj_label":"Londres","sub_label":"Thomas Dugdale","lineid":915,"uuid":"a50dc128-b07d-4fe1-b86f-7989e1d86464"}
+{"index":467,"sub_uri":"Q113167","obj_uri":"Q1781","obj_label":"Budapest","sub_label":"Andor Lilienthal","lineid":470,"uuid":"797042af-d7ad-49a1-9592-6365deca86ce"}
+{"index":428,"sub_uri":"Q117489","obj_uri":"Q2044","obj_label":"Florence","sub_label":"Karl Stauffer-Bern","lineid":431,"uuid":"ab7d4eb1-f483-4326-9d7b-367305e514e0"}
+{"index":589,"sub_uri":"Q60351","obj_uri":"Q6602","obj_label":"Strasbourg","sub_label":"S\u00e9bastien Brant","lineid":596,"uuid":"da387739-346e-40fc-8561-db3b1ed44435"}
+{"index":806,"sub_uri":"Q708858","obj_uri":"Q90","obj_label":"Paris","sub_label":"Jacques Lemercier","lineid":813,"uuid":"66751d2a-e3bf-4154-a355-6ddf484fd685"}
+{"index":360,"sub_uri":"Q4801711","obj_uri":"Q96","obj_label":"Mexique","sub_label":"Arturo Castro","lineid":362,"uuid":"b683ca8a-4c15-4348-a7b7-5d700b5104c4"}
+{"index":616,"sub_uri":"Q5353724","obj_uri":"Q23556","obj_label":"Atlanta","sub_label":"Elbert Tuttle","lineid":623,"uuid":"6404d5db-a338-4955-9225-26ff27ce1eef"}
+{"index":440,"sub_uri":"Q442839","obj_uri":"Q39984","obj_label":"Cannes","sub_label":"Rosella Hightower","lineid":443,"uuid":"bcc7d409-f9b3-4437-a1e6-58c4cb95d359"}
+{"index":485,"sub_uri":"Q360000","obj_uri":"Q7880","obj_label":"Toulouse","sub_label":"Jean Calas","lineid":488,"uuid":"a752f452-0e65-4c6f-b100-831e59e1b9d0"}
+{"index":942,"sub_uri":"Q3180258","obj_uri":"Q2353881","obj_label":"Dayton","sub_label":"Joel Palmer","lineid":950,"uuid":"1bff9b9a-dd7c-4040-af24-06aa89c9ee34"}
+{"index":80,"sub_uri":"Q210740","obj_uri":"Q84","obj_label":"Londres","sub_label":"Wilkie Collins","lineid":80,"uuid":"5c5f2c2c-4d05-4f9e-a94a-ec87e1106915"}
+{"index":901,"sub_uri":"Q67407","obj_uri":"Q1726","obj_label":"Munich","sub_label":"Max Littmann","lineid":908,"uuid":"3ec534b0-61a0-43a3-a3d0-b4e28597cbd5"}
+{"index":480,"sub_uri":"Q16013120","obj_uri":"Q797","obj_label":"Alaska","sub_label":"Joe Vogler","lineid":483,"uuid":"7c546484-fb10-4d90-8b59-dce971f220d2"}
+{"index":529,"sub_uri":"Q566766","obj_uri":"Q1435","obj_label":"Zagreb","sub_label":"Rudi Supek","lineid":534,"uuid":"35bc06a3-9f70-4ed8-8df6-6fac1984271a"}
+{"index":296,"sub_uri":"Q178293","obj_uri":"Q365","obj_label":"Cologne","sub_label":"Mauricio Kagel","lineid":297,"uuid":"682f8902-65c7-4de2-83ab-5a3919665f30"}
+{"index":563,"sub_uri":"Q1470765","obj_uri":"Q3616","obj_label":"T\u00e9h\u00e9ran","sub_label":"Ali Mansur","lineid":569,"uuid":"dcf9474d-5b53-4a41-a216-2205c407fb4c"}
+{"index":769,"sub_uri":"Q61428","obj_uri":"Q365","obj_label":"Cologne","sub_label":"Conny Plank","lineid":776,"uuid":"080970a9-d5ea-42a0-b199-7a943751f5c8"}
+{"index":537,"sub_uri":"Q1997527","obj_uri":"Q727","obj_label":"Amsterdam","sub_label":"Samuel Sarphati","lineid":542,"uuid":"f9b41578-4733-439e-bdb7-b14b5e7960e4"}
+{"index":883,"sub_uri":"Q1274054","obj_uri":"Q27","obj_label":"Irlande","sub_label":"Donnchad Donn","lineid":890,"uuid":"d607863a-1500-4b2c-9ef8-b7026bc22871"}
+{"index":122,"sub_uri":"Q980208","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Alexandre Gorski","lineid":122,"uuid":"413a7ef7-7943-4c0b-a25b-4249da935e9d"}
+{"index":454,"sub_uri":"Q1308849","obj_uri":"Q84","obj_label":"Londres","sub_label":"Werner Forman","lineid":457,"uuid":"5f0dde2a-6e81-4a7b-b6b3-15a8006a90c4"}
+{"index":138,"sub_uri":"Q943158","obj_uri":"Q2887","obj_label":"Santiago","sub_label":"Diego Barros Arana","lineid":138,"uuid":"09c9dc55-e4db-4fb4-b376-496ddb1c34f6"}
+{"index":633,"sub_uri":"Q346159","obj_uri":"Q1492","obj_label":"Barcelone","sub_label":"Enric Sagnier","lineid":640,"uuid":"76d23f64-a4c4-47da-81a3-8e597431921d"}
+{"index":663,"sub_uri":"Q211827","obj_uri":"Q3711","obj_label":"Belgrade","sub_label":"Pierre Ier de Serbie","lineid":670,"uuid":"8c7abaf4-54d0-461c-a686-2a25a0f23607"}
+{"index":558,"sub_uri":"Q863098","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Ruben Simonov","lineid":564,"uuid":"f50f45b8-3f9b-47c9-a54f-1fd02c5e7da9"}
+{"index":506,"sub_uri":"Q447730","obj_uri":"Q220","obj_label":"Rome","sub_label":"Giovanni Lanfranco","lineid":509,"uuid":"97db30db-861d-42bd-b336-e6309b19bf8d"}
+{"index":759,"sub_uri":"Q955697","obj_uri":"Q90","obj_label":"Paris","sub_label":"Daniel-Lesur","lineid":766,"uuid":"fca6876f-37a2-4b55-81c8-3608af3a472f"}
+{"index":505,"sub_uri":"Q2598029","obj_uri":"Q668","obj_label":"Inde","sub_label":"Fred Ruiz Castro","lineid":508,"uuid":"64fd801f-e7f6-45c3-96a1-05485899dcac"}
+{"index":84,"sub_uri":"Q1805","obj_uri":"Q220","obj_label":"Rome","sub_label":"Balbin","lineid":84,"uuid":"f024a0cf-d984-41f2-b48f-68291d10bf96"}
+{"index":778,"sub_uri":"Q8017857","obj_uri":"Q1345","obj_label":"Philadelphie","sub_label":"William Russell Birch","lineid":785,"uuid":"88a5c9ca-6853-40ff-87cc-5ec5064d059d"}
+{"index":682,"sub_uri":"Q311789","obj_uri":"Q85","obj_label":"Le Caire","sub_label":"Ibrahim Pacha","lineid":689,"uuid":"e05612eb-972d-4a7d-b225-952827bb0f79"}
+{"index":503,"sub_uri":"Q156128","obj_uri":"Q90","obj_label":"Paris","sub_label":"Georges Rouault","lineid":506,"uuid":"00ebd0ff-ca57-4b0d-87f2-36d84ee5a8f8"}
+{"index":457,"sub_uri":"Q170707","obj_uri":"Q16869","obj_label":"Constantinople","sub_label":"Abd\u00fclhamid Ier","lineid":460,"uuid":"2aeffea7-71aa-4834-bf9b-daf9cf3cc532"}
+{"index":751,"sub_uri":"Q214531","obj_uri":"Q133073","obj_label":"Dunedin","sub_label":"Bendix Hallenstein","lineid":758,"uuid":"75070817-2de4-41cd-936a-4d154801252b"}
+{"index":77,"sub_uri":"Q6766322","obj_uri":"Q24639","obj_label":"Vancouver","sub_label":"Marjorie Pickthall","lineid":77,"uuid":"274e7cee-80af-4e33-89ef-045527df76db"}
+{"index":547,"sub_uri":"Q146291","obj_uri":"Q8660","obj_label":"Karachi","sub_label":"Ardeshir Cowasjee","lineid":553,"uuid":"96937d63-2769-4c2e-a411-e8fbebfd2c56"}
+{"index":912,"sub_uri":"Q298384","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Iakov Sverdlov","lineid":920,"uuid":"7116c158-e132-4425-9841-05b7bf81ffc0"}
+{"index":289,"sub_uri":"Q123798","obj_uri":"Q172","obj_label":"Toronto","sub_label":"Charlie Conacher","lineid":290,"uuid":"8e3f6d91-f351-4c58-b924-645de00f4ae7"}
+{"index":880,"sub_uri":"Q13982","obj_uri":"Q1563","obj_label":"La Havane","sub_label":"Alberto Bayo","lineid":887,"uuid":"9b73bcc0-dd42-48c3-9ffd-13d66aa28ad7"}
+{"index":829,"sub_uri":"Q7856785","obj_uri":"Q16554","obj_label":"Denver","sub_label":"Minoru Yasui","lineid":836,"uuid":"2d0deb02-c3ea-4bbd-bb6b-38e829cdf3a5"}
+{"index":242,"sub_uri":"Q1347862","obj_uri":"Q803","obj_label":"Utrecht","sub_label":"Franciscus Cornelis Donders","lineid":243,"uuid":"58aeaa6e-ce13-41c9-b125-5007365b2481"}
+{"index":812,"sub_uri":"Q156386","obj_uri":"Q90","obj_label":"Paris","sub_label":"Henri Rousseau","lineid":819,"uuid":"64b7022f-181f-4f61-b4d0-7d62bd454eea"}
+{"index":376,"sub_uri":"Q123807","obj_uri":"Q71","obj_label":"Gen\u00e8ve","sub_label":"Alphonse Pyrame de Candolle","lineid":378,"uuid":"058d00da-3269-4345-86e9-e89dd5debd35"}
+{"index":935,"sub_uri":"Q1452713","obj_uri":"Q1345","obj_label":"Philadelphie","sub_label":"Frederic Eugene Ives","lineid":943,"uuid":"8ae070c3-676c-4d9c-9ccb-98fa7f742173"}
+{"index":193,"sub_uri":"Q210329","obj_uri":"Q956","obj_label":"P\u00e9kin","sub_label":"Yuan Shikai","lineid":194,"uuid":"599de61c-a960-46c2-8c59-89ad012f07ed"}
+{"index":744,"sub_uri":"Q116639","obj_uri":"Q16869","obj_label":"Constantinople","sub_label":"Nic\u00e9phore Ier de Constantinople","lineid":751,"uuid":"8040cc87-909a-43fa-86af-905a697a1aa8"}
+{"index":188,"sub_uri":"Q159551","obj_uri":"Q2079","obj_label":"Leipzig","sub_label":"Ignaz Moscheles","lineid":189,"uuid":"d60b1399-d9a3-498a-873f-ea814d92e641"}
+{"index":789,"sub_uri":"Q7965455","obj_uri":"Q36091","obj_label":"Minneapolis","sub_label":"Walter Liggett","lineid":796,"uuid":"eaf6b681-2d18-457a-874c-36321d3e21b9"}
+{"index":474,"sub_uri":"Q104607","obj_uri":"Q350","obj_label":"Cambridge","sub_label":"Andrew Huxley","lineid":477,"uuid":"d6dde128-6bd7-4e57-92b3-828dac7c8c6c"}
+{"index":113,"sub_uri":"Q440782","obj_uri":"Q3757","obj_label":"Java","sub_label":"Alexandre Baranov","lineid":113,"uuid":"028c88c4-8c5e-47a7-841d-f2b366bb3ff4"}
+{"index":167,"sub_uri":"Q1292053","obj_uri":"Q84","obj_label":"Londres","sub_label":"Edward Joseph Dent","lineid":167,"uuid":"a21bb627-345c-45d0-ac82-b9f95153bf69"}
+{"index":257,"sub_uri":"Q95773","obj_uri":"Q1726","obj_label":"Munich","sub_label":"Annemarie Wendl","lineid":258,"uuid":"961a95c0-1536-43f1-9d76-83f64d1309c6"}
+{"index":401,"sub_uri":"Q707752","obj_uri":"Q90","obj_label":"Paris","sub_label":"Isidore Philipp","lineid":404,"uuid":"ea8d97ea-753a-4626-b8e5-1b086418f356"}
+{"index":900,"sub_uri":"Q29179","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"Francisco Franco","lineid":907,"uuid":"e56e5416-bd70-45a2-bcb1-96d427649fc0"}
+{"index":307,"sub_uri":"Q587408","obj_uri":"Q220","obj_label":"Rome","sub_label":"Gabriel-Marie Garrone","lineid":308,"uuid":"9e66dfb8-8ec4-4aeb-bbad-78679da7bd23"}
+{"index":692,"sub_uri":"Q1154328","obj_uri":"Q193452","obj_label":"Armagh","sub_label":"Flaithbertach mac Loingsig","lineid":699,"uuid":"c2601b43-115f-499a-a394-55c8f15ded04"}
+{"index":560,"sub_uri":"Q82409","obj_uri":"Q84","obj_label":"Londres","sub_label":"Samuel Taylor Coleridge","lineid":566,"uuid":"207f0140-8c4c-4b21-97b2-d8e9d640c39c"}
+{"index":315,"sub_uri":"Q6836292","obj_uri":"Q90","obj_label":"Paris","sub_label":"Michel Bernstein","lineid":316,"uuid":"a73d8e85-8710-4b85-8180-b1342c223763"}
+{"index":818,"sub_uri":"Q181154","obj_uri":"Q3766","obj_label":"Damas","sub_label":"Mu\u02bf\u0101wiya Ier","lineid":825,"uuid":"49ff9b9e-815f-4a29-b30c-604e353f5980"}
+{"index":936,"sub_uri":"Q486903","obj_uri":"Q8652","obj_label":"Miami","sub_label":"Herbie Fields","lineid":944,"uuid":"2249c9b5-7a89-4cd5-8150-4e2d0f0392e9"}
+{"index":236,"sub_uri":"Q336981","obj_uri":"Q84","obj_label":"Londres","sub_label":"Cornelius Vermuyden","lineid":237,"uuid":"27d5bcc8-b9bb-4aeb-9ddb-c58f9d8723af"}
+{"index":718,"sub_uri":"Q1441295","obj_uri":"Q220","obj_label":"Rome","sub_label":"Francesco Satolli","lineid":725,"uuid":"6d81fc1b-61e5-480f-b3ac-fca2c017e0d4"}
+{"index":617,"sub_uri":"Q961193","obj_uri":"Q84","obj_label":"Londres","sub_label":"Clifford Curzon","lineid":624,"uuid":"6366e5f2-98f7-4de9-9e69-5682fd9084ac"}
+{"index":429,"sub_uri":"Q904681","obj_uri":"Q486479","obj_label":"Rochester","sub_label":"William Worrall Mayo","lineid":432,"uuid":"2d2c745f-3d78-4f7b-a997-bffa1adffe47"}
+{"index":99,"sub_uri":"Q381069","obj_uri":"Q1748","obj_label":"Copenhague","sub_label":"Prince Knud de Danemark","lineid":99,"uuid":"e16caba6-8eac-430d-a669-61d08a9a005b"}
+{"index":28,"sub_uri":"Q1066128","obj_uri":"Q100","obj_label":"Boston","sub_label":"Charles Sprague Sargent","lineid":28,"uuid":"c59b694b-ba62-47ef-a1c6-60d030aadb1a"}
+{"index":924,"sub_uri":"Q1248339","obj_uri":"Q90","obj_label":"Paris","sub_label":"Jean Nicolas Pierre Hachette","lineid":932,"uuid":"6ab74ad9-ec9d-4708-8722-8b6a8fa2cd16"}
+{"index":54,"sub_uri":"Q1445155","obj_uri":"Q3130","obj_label":"Sydney","sub_label":"Garfield Barwick","lineid":54,"uuid":"5f86dadd-18e4-4fdc-831c-2ba3a92d3603"}
+{"index":923,"sub_uri":"Q3525601","obj_uri":"Q1345","obj_label":"Philadelphie","sub_label":"Thomas Story Kirkbride","lineid":931,"uuid":"834506ce-9235-4056-b28d-a9e31f9e5e11"}
+{"index":865,"sub_uri":"Q743478","obj_uri":"Q16555","obj_label":"Houston","sub_label":"DJ Screw","lineid":872,"uuid":"4c7a4e98-8aa0-4f16-b303-7247a65ec12b"}
+{"index":712,"sub_uri":"Q3182429","obj_uri":"Q1345","obj_label":"Philadelphie","sub_label":"John Sartain","lineid":719,"uuid":"bb97ebdd-c67a-42b5-9c10-49b481439246"}
+{"index":133,"sub_uri":"Q194363","obj_uri":"Q84","obj_label":"Londres","sub_label":"Vaslav Nijinski","lineid":133,"uuid":"50bcd59f-7787-41a9-8964-a32d6edd8d99"}
+{"index":914,"sub_uri":"Q18425","obj_uri":"Q90","obj_label":"Paris","sub_label":"Marcellin Berthelot","lineid":922,"uuid":"72cfed18-d76a-44ff-a3af-9cae0b233583"}
+{"index":187,"sub_uri":"Q37062","obj_uri":"Q16869","obj_label":"Constantinople","sub_label":"Jean VIII Pal\u00e9ologue","lineid":188,"uuid":"da3047b1-6290-453b-a759-a6d397a865b8"}
+{"index":200,"sub_uri":"Q2327270","obj_uri":"Q90","obj_label":"Paris","sub_label":"Jean-Baptiste Marie Pierre","lineid":201,"uuid":"07209e30-fa3e-4d08-8da0-e4c3fd779a76"}
+{"index":13,"sub_uri":"Q298789","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"Santiago Carrillo Solares","lineid":13,"uuid":"2b35045b-d0f6-4427-b7a2-2e648230f21c"}
+{"index":385,"sub_uri":"Q1352355","obj_uri":"Q84","obj_label":"Londres","sub_label":"James Gibbs","lineid":388,"uuid":"b1c5e66f-e009-4abe-ad40-7949536c79aa"}
+{"index":733,"sub_uri":"Q7083144","obj_uri":"Q3323618","obj_label":"Moose","sub_label":"Olaus Murie","lineid":740,"uuid":"ac9192c3-7ccb-4f15-ba48-3796a8e73353"}
+{"index":158,"sub_uri":"Q369787","obj_uri":"Q641","obj_label":"Venise","sub_label":"Biagio Marini","lineid":158,"uuid":"01a68d93-c65d-4af1-a940-8b9c8db88a4f"}
+{"index":327,"sub_uri":"Q451178","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"Antoine Perrenot de Granvelle","lineid":328,"uuid":"7d6ce707-1de8-4a9a-ad70-827644ccb605"}
+{"index":4,"sub_uri":"Q330960","obj_uri":"Q1524","obj_label":"Ath\u00e8nes","sub_label":"Georgios Roilos","lineid":4,"uuid":"d5dd95d9-ff0d-441d-a5d8-b0ae5397e839"}
+{"index":544,"sub_uri":"Q1150753","obj_uri":"Q928","obj_label":"Philippines","sub_label":"Duarte Barbosa","lineid":550,"uuid":"de8d0deb-c399-41dc-ae89-fd222c897e57"}
+{"index":637,"sub_uri":"Q767210","obj_uri":"Q43631","obj_label":"Leyde","sub_label":"Frans van Schooten jr.","lineid":644,"uuid":"027a2f78-35a5-489f-8613-f595310d94df"}
+{"index":625,"sub_uri":"Q1170260","obj_uri":"Q2887","obj_label":"Santiago","sub_label":"Pablo de Rokha","lineid":632,"uuid":"8a669af4-776e-42aa-9363-e729d5857f2c"}
+{"index":344,"sub_uri":"Q213968","obj_uri":"Q956","obj_label":"P\u00e9kin","sub_label":"Friedrich Rosen","lineid":345,"uuid":"e0665b1f-a5e7-463b-a7b3-3655c775232c"}
+{"index":640,"sub_uri":"Q267748","obj_uri":"Q84","obj_label":"Londres","sub_label":"Penelope Fitzgerald","lineid":647,"uuid":"64756ba1-a9da-42fa-affa-5e5bc1412d7f"}
+{"index":361,"sub_uri":"Q4120845","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Isaac N. Arnold","lineid":363,"uuid":"13a2e7b0-7736-4189-8352-41ec0fa244fa"}
+{"index":46,"sub_uri":"Q4816509","obj_uri":"Q3616","obj_label":"T\u00e9h\u00e9ran","sub_label":"Said Naficy","lineid":46,"uuid":"235b802d-6b0b-4863-a495-c2a8e01f1feb"}
+{"index":791,"sub_uri":"Q3696065","obj_uri":"Q8660","obj_label":"Karachi","sub_label":"Salimuzzaman Siddiqui","lineid":798,"uuid":"8c944487-6b28-47ab-9f17-7c1a6534dbc5"}
+{"index":871,"sub_uri":"Q1609124","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Muhammad Farid","lineid":878,"uuid":"efd29884-8501-4261-9554-566b65424298"}
+{"index":34,"sub_uri":"Q1225831","obj_uri":"Q472","obj_label":"Sofia","sub_label":"Dimitar Nenov","lineid":34,"uuid":"5c31c586-ad2c-4612-bf3b-c77ffabf9647"}
+{"index":63,"sub_uri":"Q1220238","obj_uri":"Q727","obj_label":"Amsterdam","sub_label":"Diederik Korteweg","lineid":63,"uuid":"88386aa1-7d25-4614-bac3-b979c4be8841"}
+{"index":238,"sub_uri":"Q3188478","obj_uri":"Q90","obj_label":"Paris","sub_label":"Jules Cavelier","lineid":239,"uuid":"521e7b3d-e207-44cd-8bc3-9762bfc03ad1"}
+{"index":1,"sub_uri":"Q336010","obj_uri":"Q90","obj_label":"Paris","sub_label":"Charles Nodier","lineid":1,"uuid":"a0cce876-0920-43e3-921b-3198d65e64e2"}
+{"index":486,"sub_uri":"Q569390","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Leopold Okulicki","lineid":489,"uuid":"111565d2-9900-40ce-8fc9-b0b5944e82bf"}
+{"index":248,"sub_uri":"Q1525712","obj_uri":"Q490","obj_label":"Milan","sub_label":"Ambrogio Figino","lineid":249,"uuid":"8d423322-6c21-405a-a08a-f1fcb4a6e61e"}
+{"index":934,"sub_uri":"Q580262","obj_uri":"Q1754","obj_label":"Stockholm","sub_label":"Annalisa Ericson","lineid":942,"uuid":"d076a5a9-779f-4b2d-a756-7e957ffcca99"}
+{"index":536,"sub_uri":"Q2060957","obj_uri":"Q90","obj_label":"Paris","sub_label":"Paul Lemerle","lineid":541,"uuid":"87efbffe-06b2-4353-9f49-7cc9ab31610f"}
+{"index":887,"sub_uri":"Q7793","obj_uri":"Q220","obj_label":"Rome","sub_label":"Bramante","lineid":894,"uuid":"ab349cb6-1018-4968-b068-607eae5e8309"}
+{"index":735,"sub_uri":"Q12325","obj_uri":"Q320514","obj_label":"Lancaster","sub_label":"James Buchanan","lineid":742,"uuid":"2bdc04a0-8f95-4fdb-a687-55d04d14bde0"}
+{"index":661,"sub_uri":"Q85918","obj_uri":"Q586","obj_label":"Bonn","sub_label":"Hans Riegel","lineid":668,"uuid":"0f1a77c6-9b1e-4ac2-9f4f-080088a8c252"}
+{"index":927,"sub_uri":"Q5078353","obj_uri":"Q1345","obj_label":"Philadelphie","sub_label":"Charles Grafly","lineid":935,"uuid":"386e9b18-9a5a-4f76-90da-3d85a85312c4"}
+{"index":309,"sub_uri":"Q526376","obj_uri":"Q233","obj_label":"Malte","sub_label":"Nicolas Cotoner y de Oleza","lineid":310,"uuid":"47a28608-c03f-4c2b-a192-ad1de52d57ad"}
+{"index":655,"sub_uri":"Q122998","obj_uri":"Q90","obj_label":"Paris","sub_label":"Pauline Viardot","lineid":662,"uuid":"ea4a26e2-06b6-4742-9e24-7e77065cc0bc"}
+{"index":553,"sub_uri":"Q3026993","obj_uri":"Q7880","obj_label":"Toulouse","sub_label":"Didier Daurat","lineid":559,"uuid":"8c461c20-bac7-4a93-a2ee-77284e379a07"}
+{"index":844,"sub_uri":"Q371862","obj_uri":"Q90","obj_label":"Paris","sub_label":"Jean-Joseph Cassan\u00e9a de Mondonville","lineid":851,"uuid":"45b22f58-8992-415e-81b2-fc2e0639a43c"}
+{"index":455,"sub_uri":"Q267845","obj_uri":"Q90","obj_label":"Paris","sub_label":"Gina Pane","lineid":458,"uuid":"49885f48-9a59-427b-a3e5-2108e88d6847"}
+{"index":445,"sub_uri":"Q332579","obj_uri":"Q1726","obj_label":"Munich","sub_label":"Hermann Obrist","lineid":448,"uuid":"120c5b17-6fa5-4a84-a5c5-8a864b2d844c"}
+{"index":162,"sub_uri":"Q5490926","obj_uri":"Q2531917","obj_label":"Chapman","sub_label":"Frankie Burke","lineid":162,"uuid":"2dc26dda-7ec2-4f45-9a1b-cd57a2468106"}
+{"index":47,"sub_uri":"Q6774955","obj_uri":"Q43196","obj_label":"Cincinnati","sub_label":"Martin Baum","lineid":47,"uuid":"95ec119c-86c3-4083-b3b4-20a986fc0dc4"}
+{"index":372,"sub_uri":"Q1250265","obj_uri":"Q597","obj_label":"Lisbonne","sub_label":"Hermenegildo Capelo","lineid":374,"uuid":"796bca73-c355-4573-a81f-2d45032a190c"}
+{"index":926,"sub_uri":"Q191231","obj_uri":"Q597","obj_label":"Lisbonne","sub_label":"Manuel Ier de Portugal","lineid":934,"uuid":"1c0a73ec-40a8-481c-aa96-4bbc2e964990"}
+{"index":326,"sub_uri":"Q321160","obj_uri":"Q727","obj_label":"Amsterdam","sub_label":"Willy Alberti","lineid":327,"uuid":"d340d6eb-ab8f-43cc-a869-91232b7e5762"}
+{"index":383,"sub_uri":"Q450114","obj_uri":"Q23482","obj_label":"Marseille","sub_label":"Henry de Groux","lineid":386,"uuid":"c5b2f6ea-ba11-497b-87f6-3bc96bade274"}
+{"index":728,"sub_uri":"Q3051572","obj_uri":"Q1649","obj_label":"Oklahoma","sub_label":"Elmer McCurdy","lineid":735,"uuid":"f4239996-dac6-4bc8-b8ac-61717cca3848"}
+{"index":18,"sub_uri":"Q2265709","obj_uri":"Q84","obj_label":"Londres","sub_label":"George Frampton","lineid":18,"uuid":"1696b8fd-c345-4e5d-a4ea-88c49f247774"}
+{"index":432,"sub_uri":"Q43734","obj_uri":"Q220","obj_label":"Rome","sub_label":"Gr\u00e9goire XVI","lineid":435,"uuid":"a69d3e0e-8257-44a7-abb9-f8bb3bada56c"}
+{"index":861,"sub_uri":"Q491920","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Hempstead Washburne","lineid":868,"uuid":"7a5d5129-a6fb-4558-9576-44ae90cdefa0"}
+{"index":337,"sub_uri":"Q580014","obj_uri":"Q220","obj_label":"Rome","sub_label":"Antiochos IV de Commag\u00e8ne","lineid":338,"uuid":"ec617513-69ef-494e-b690-55b8d9736b9f"}
+{"index":2,"sub_uri":"Q1398751","obj_uri":"Q5092","obj_label":"Baltimore","sub_label":"Jack L. Chalker","lineid":2,"uuid":"def35ae0-40d7-4fff-9f28-29b1cfa17d59"}
+{"index":846,"sub_uri":"Q299559","obj_uri":"Q5838","obj_label":"Kaboul","sub_label":"Nour Mohammad Taraki","lineid":853,"uuid":"336784f8-12bc-4459-a52b-29df1d6b0864"}
+{"index":272,"sub_uri":"Q57212","obj_uri":"Q2079","obj_label":"Leipzig","sub_label":"Anna Magdalena Bach","lineid":273,"uuid":"09c32267-aa48-4976-b368-e0e7b1aca525"}
+{"index":773,"sub_uri":"Q1598445","obj_uri":"Q16555","obj_label":"Houston","sub_label":"Joe Bishop","lineid":780,"uuid":"9aa58455-c296-4571-ae19-870155f973f8"}
+{"index":128,"sub_uri":"Q540031","obj_uri":"Q84","obj_label":"Londres","sub_label":"Wilfred Thesiger","lineid":128,"uuid":"e5f0635b-e0c2-4e2a-913c-41cff8f6c414"}
+{"index":567,"sub_uri":"Q6261781","obj_uri":"Q49218","obj_label":"Rochester","sub_label":"John Van Voorhis","lineid":573,"uuid":"2de35cb4-fd55-47fa-9336-698886c72366"}
+{"index":606,"sub_uri":"Q7076836","obj_uri":"Q1345","obj_label":"Philadelphie","sub_label":"Octavius Catto","lineid":613,"uuid":"0f82976e-17fc-4069-8265-ff879fbbc695"}
+{"index":546,"sub_uri":"Q285116","obj_uri":"Q24639","obj_label":"Vancouver","sub_label":"Bruce Fairbairn","lineid":552,"uuid":"7499694d-bc44-46b8-aaf8-c7f1f903370a"}
+{"index":683,"sub_uri":"Q1441283","obj_uri":"Q84","obj_label":"Londres","sub_label":"Francesco de Vico","lineid":690,"uuid":"e827c0db-0698-42b6-8481-44da5ad58c42"}
+{"index":179,"sub_uri":"Q699617","obj_uri":"Q84","obj_label":"Londres","sub_label":"Ian Standish Monteith Hamilton","lineid":179,"uuid":"d92be9db-63d1-4000-9166-ae80414b6406"}
+{"index":181,"sub_uri":"Q469093","obj_uri":"Q1761","obj_label":"Dublin","sub_label":"Flann O'Brien","lineid":181,"uuid":"c400483e-bc29-4898-a487-6b6963240d50"}
+{"index":800,"sub_uri":"Q52933","obj_uri":"Q1754","obj_label":"Stockholm","sub_label":"Ulrique-\u00c9l\u00e9onore de Su\u00e8de","lineid":807,"uuid":"3890b932-251f-4f1b-b1ce-8303d8d112ad"}
+{"index":81,"sub_uri":"Q294548","obj_uri":"Q1490","obj_label":"Tokyo","sub_label":"Masutatsu \u014cyama","lineid":81,"uuid":"4b6686d8-bfe2-4294-ac10-dcc3634c5d9c"}
+{"index":550,"sub_uri":"Q586389","obj_uri":"Q90","obj_label":"Paris","sub_label":"Antoine Houdar de La Motte","lineid":556,"uuid":"3cc1047f-fa5c-4f21-a501-0e106b4f3576"}
+{"index":738,"sub_uri":"Q1117778","obj_uri":"Q2096","obj_label":"Edmonton","sub_label":"Leo Moser","lineid":745,"uuid":"ebfef89c-d5c7-4632-a288-dc5f45667c01"}
+{"index":111,"sub_uri":"Q1507013","obj_uri":"Q41262","obj_label":"Nottingham","sub_label":"George Brough","lineid":111,"uuid":"993e414b-d2d6-407d-bb9e-9e4c6d25aab0"}
+{"index":464,"sub_uri":"Q360724","obj_uri":"Q23148","obj_label":"Cornouailles","sub_label":"Stanhope Forbes","lineid":467,"uuid":"d0adf9c9-a570-4203-9159-91a7cd94a87d"}
+{"index":86,"sub_uri":"Q311153","obj_uri":"Q35484","obj_label":"M\u00e9dine","sub_label":"Muhammad al-B\u00e2qir","lineid":86,"uuid":"8ff35073-6106-4bb5-a921-8d6eb2056b42"}
+{"index":459,"sub_uri":"Q73887","obj_uri":"Q84","obj_label":"Londres","sub_label":"Theodore Haak","lineid":462,"uuid":"9bf7a6bf-e4da-4659-9938-f2836c7f119d"}
+{"index":396,"sub_uri":"Q707569","obj_uri":"Q1770","obj_label":"Tallinn","sub_label":"Igor Severianine","lineid":399,"uuid":"ef11a5f9-839d-4ecd-8199-993faa387a13"}
+{"index":405,"sub_uri":"Q5338911","obj_uri":"Q5083","obj_label":"Seattle","sub_label":"Edmond S. Meany","lineid":408,"uuid":"4d86b987-25d4-4fb7-a4eb-d226008e8ed7"}
+{"index":700,"sub_uri":"Q387029","obj_uri":"Q220","obj_label":"Rome","sub_label":"Giorgio Levi Della Vida","lineid":707,"uuid":"b2945233-def3-44d5-aef3-5a2fb8d80fab"}
+{"index":180,"sub_uri":"Q76161","obj_uri":"Q2090","obj_label":"Nuremberg","sub_label":"Johannes Werner","lineid":180,"uuid":"ee92cb28-2a6b-4e7c-86e6-348d5e6a0eb0"}
+{"index":157,"sub_uri":"Q1925736","obj_uri":"Q84","obj_label":"Londres","sub_label":"John Henry Foley","lineid":157,"uuid":"9b9ae33d-b9e7-4402-8ea6-3873bdc69df2"}
+{"index":496,"sub_uri":"Q174633","obj_uri":"Q1731","obj_label":"Dresde","sub_label":"Giovanni Alberto Ristori","lineid":499,"uuid":"3bb5b0bf-c1fe-42c8-82d3-588d877ed1a5"}
+{"index":552,"sub_uri":"Q246812","obj_uri":"Q35","obj_label":"Danemark","sub_label":"Sven II de Danemark","lineid":558,"uuid":"22e0f85a-e110-4c2a-8f4e-8bc8ccb3ed3a"}
+{"index":235,"sub_uri":"Q75886","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Karl Liebknecht","lineid":236,"uuid":"63ea1927-0d56-49d0-9fb1-3fa4fd250208"}
+{"index":288,"sub_uri":"Q6354857","obj_uri":"Q1355","obj_label":"Bangalore","sub_label":"Kalyan Kumar","lineid":289,"uuid":"9a54330e-16b7-4c88-b0d4-a985e683fe17"}
+{"index":191,"sub_uri":"Q4893561","obj_uri":"Q1492","obj_label":"Barcelone","sub_label":"Ricardo Lamote de Grignon i Ribas","lineid":192,"uuid":"d87c2614-aa7b-4ac0-aa2a-b24e5974690e"}
+{"index":498,"sub_uri":"Q235823","obj_uri":"Q472","obj_label":"Sofia","sub_label":"Marie-Louise de Bourbon-Parme","lineid":501,"uuid":"537657b6-213c-4442-af5b-21f7742e6500"}
+{"index":874,"sub_uri":"Q6260966","obj_uri":"Q350","obj_label":"Cambridge","sub_label":"John Tojeiro","lineid":881,"uuid":"de806a4a-eab9-4c34-816c-2f70176fb372"}
+{"index":577,"sub_uri":"Q452032","obj_uri":"Q406","obj_label":"Istanbul","sub_label":"Refik Koraltan","lineid":583,"uuid":"bf0fadcc-8ee2-4341-8cf4-682cb73e66ec"}
+{"index":635,"sub_uri":"Q1397864","obj_uri":"Q35","obj_label":"Danemark","sub_label":"Piet Blom","lineid":642,"uuid":"76e63540-ea46-4c65-b4c2-0dbe996381b9"}
+{"index":538,"sub_uri":"Q695500","obj_uri":"Q220","obj_label":"Rome","sub_label":"Maurizio Merli","lineid":543,"uuid":"900d16e2-3ed6-44c4-9728-819f7dffa07d"}
+{"index":648,"sub_uri":"Q272","obj_uri":"Q90","obj_label":"Paris","sub_label":"Paul Morand","lineid":655,"uuid":"0b4d00f2-a6c1-41b6-aba0-f133a831f6d1"}
+{"index":531,"sub_uri":"Q6791089","obj_uri":"Q1345","obj_label":"Philadelphie","sub_label":"Matthew Pratt","lineid":536,"uuid":"70f70e5f-71cc-4498-8df3-79112e68ba43"}
+{"index":651,"sub_uri":"Q57314","obj_uri":"Q220","obj_label":"Rome","sub_label":"Robert Michels","lineid":658,"uuid":"0f852b48-ede6-435a-be51-db6e0a5207be"}
+{"index":848,"sub_uri":"Q290572","obj_uri":"Q1352","obj_label":"Chennai","sub_label":"B. Nagi Reddy","lineid":855,"uuid":"e8ce653e-9da6-42cd-9b58-d6c6070369c8"}
+{"index":374,"sub_uri":"Q5240265","obj_uri":"Q206988","obj_label":"Cheltenham","sub_label":"David Talbot Rice","lineid":376,"uuid":"63b0d94e-b25a-473a-95fa-01775db62ebc"}
+{"index":395,"sub_uri":"Q101286","obj_uri":"Q220","obj_label":"Rome","sub_label":"Innocent XI","lineid":398,"uuid":"22d8e949-ec78-4c83-95af-50b932a5bbed"}
+{"index":588,"sub_uri":"Q315444","obj_uri":"Q8717","obj_label":"S\u00e9ville","sub_label":"Theudigisel","lineid":595,"uuid":"00cb20d6-f7e9-47bc-8c95-2107fb302eac"}
+{"index":351,"sub_uri":"Q3016569","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Darryl Kile","lineid":352,"uuid":"dd7eb23e-46f6-4173-a454-8175be4fcdcb"}
+{"index":810,"sub_uri":"Q72120","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Heinrich Strack","lineid":817,"uuid":"53591f52-34ff-4f3c-a786-ccc51a749ba7"}
+{"index":348,"sub_uri":"Q1610244","obj_uri":"Q2634","obj_label":"Naples","sub_label":"Antonio Solario","lineid":349,"uuid":"df1076d8-5483-47b8-82d5-52d75b3e0b4d"}
+{"index":134,"sub_uri":"Q100408","obj_uri":"Q2079","obj_label":"Leipzig","sub_label":"Stanislaw Trabalski","lineid":134,"uuid":"b911f530-10ef-4ea8-9235-d1ed053e695b"}
+{"index":605,"sub_uri":"Q2567135","obj_uri":"Q1953","obj_label":"Erevan","sub_label":"Anahit Tsitsikian","lineid":612,"uuid":"669f5e8f-6046-4228-87f3-7ff918ec4ecd"}
+{"index":317,"sub_uri":"Q3771952","obj_uri":"Q49169","obj_label":"Stamford","sub_label":"Glen MacDonough","lineid":318,"uuid":"645bc543-cfa9-4872-8358-3d05678e3181"}
+{"index":462,"sub_uri":"Q1631724","obj_uri":"Q2028","obj_label":"V\u00e9rone","sub_label":"Santi Prunati","lineid":465,"uuid":"a996cedb-d985-4d5b-9df9-0248a4066da3"}
+{"index":471,"sub_uri":"Q1173018","obj_uri":"Q2044","obj_label":"Florence","sub_label":"Piero Bellugi","lineid":474,"uuid":"69f06325-0e72-4bcf-a66b-41e3045cc19b"}
+{"index":328,"sub_uri":"Q551362","obj_uri":"Q5092","obj_label":"Baltimore","sub_label":"Louis McLane","lineid":329,"uuid":"ecccfa18-e5e2-4d38-bb5d-b1562d117371"}
+{"index":57,"sub_uri":"Q1042805","obj_uri":"Q90","obj_label":"Paris","sub_label":"Carlos Casagemas","lineid":57,"uuid":"c28b82cc-d938-4035-8e24-f316d41bd554"}
+{"index":402,"sub_uri":"Q662727","obj_uri":"Q220","obj_label":"Rome","sub_label":"Pietro Tenerani","lineid":405,"uuid":"66a066bd-19e1-42bb-b59c-58f14b6021f1"}
+{"index":943,"sub_uri":"Q507658","obj_uri":"Q172","obj_label":"Toronto","sub_label":"Healey Willan","lineid":951,"uuid":"0dd9f34e-6d0d-43f3-9c9f-f9353bd6a7b5"}
+{"index":79,"sub_uri":"Q432938","obj_uri":"Q90","obj_label":"Paris","sub_label":"Reynaldo Hahn","lineid":79,"uuid":"eb9b083d-7b02-443f-ae26-8db6228c3ef7"}
+{"index":266,"sub_uri":"Q966615","obj_uri":"Q220","obj_label":"Rome","sub_label":"Vincent-Marie Strambi","lineid":267,"uuid":"084e8e26-0d96-4613-b772-69d456569bfd"}
+{"index":501,"sub_uri":"Q83233","obj_uri":"Q90","obj_label":"Paris","sub_label":"Jacques-Yves Cousteau","lineid":504,"uuid":"d2ea7c40-ae4f-408e-aeeb-34d544d4a81c"}
+{"index":867,"sub_uri":"Q1225719","obj_uri":"Q220","obj_label":"Rome","sub_label":"Giuseppe Baini","lineid":874,"uuid":"613539af-2a69-4da8-bee9-615116b73f35"}
+{"index":513,"sub_uri":"Q7614850","obj_uri":"Q16551","obj_label":"Vermont","sub_label":"Steven Izenour","lineid":517,"uuid":"e761108d-fa22-4f61-8001-8a9ac3fc71a3"}
+{"index":524,"sub_uri":"Q15646837","obj_uri":"Q1533","obj_label":"Caracas","sub_label":"Hugo Pimentel","lineid":529,"uuid":"ed3da948-72a1-4fcc-b5e7-c743e26ff409"}
+{"index":108,"sub_uri":"Q1384975","obj_uri":"Q90","obj_label":"Paris","sub_label":"Pierre Beauchamp","lineid":108,"uuid":"12a80f57-2cf5-44f0-8ffc-1a56f89dfcae"}
+{"index":76,"sub_uri":"Q5417087","obj_uri":"Q16557","obj_label":"Dallas","sub_label":"Everette Lee DeGolyer","lineid":76,"uuid":"b44fd4d4-b09f-4b50-89ac-ae7b39b855d8"}
+{"index":170,"sub_uri":"Q46830","obj_uri":"Q84","obj_label":"Londres","sub_label":"Robert Hooke","lineid":170,"uuid":"9c385852-d7f4-4da6-8138-a69b21f0e229"}
+{"index":135,"sub_uri":"Q963486","obj_uri":"Q641","obj_label":"Venise","sub_label":"Sebastiano Bombelli","lineid":135,"uuid":"4b147ed2-cc75-42d2-9c71-bda9ce25980b"}
+{"index":283,"sub_uri":"Q706669","obj_uri":"Q1218","obj_label":"J\u00e9rusalem","sub_label":"Jacob Katz","lineid":284,"uuid":"5ebd28aa-1fce-49f1-b593-a1382bdef0fb"}
+{"index":40,"sub_uri":"Q979154","obj_uri":"Q340","obj_label":"Montr\u00e9al","sub_label":"Jean Drapeau","lineid":40,"uuid":"053875b4-008e-47ee-a3a3-8d2881178a32"}
+{"index":39,"sub_uri":"Q692100","obj_uri":"Q1741","obj_label":"Vienne","sub_label":"Alo\u00efs Riegl","lineid":39,"uuid":"eeafdbee-ff71-452e-8506-ec75c774bc1c"}
+{"index":894,"sub_uri":"Q3120539","obj_uri":"Q1563","obj_label":"La Havane","sub_label":"Guillermo Barreto","lineid":901,"uuid":"1ab7bb1f-8b66-42c7-aa2b-c5cd8b1ca4be"}
+{"index":636,"sub_uri":"Q3189346","obj_uri":"Q90","obj_label":"Paris","sub_label":"Julien Auguste Joseph Mermet","lineid":643,"uuid":"c73a897f-db73-4207-a70d-4ed727e5032e"}
+{"index":227,"sub_uri":"Q2022","obj_uri":"Q495","obj_label":"Turin","sub_label":"Cesare Pavese","lineid":228,"uuid":"8b38f780-a503-48d5-9010-36b6d12832f3"}
+{"index":12,"sub_uri":"Q2271104","obj_uri":"Q1757","obj_label":"Helsinki","sub_label":"Fredrik Idestam","lineid":12,"uuid":"2c5251bb-2795-494c-adaf-f766eeec60d3"}
+{"index":549,"sub_uri":"Q5277543","obj_uri":"Q19660","obj_label":"Bucarest","sub_label":"Dimitrie Paciurea","lineid":555,"uuid":"ccb17cf2-f502-4102-a63b-116d1b4754df"}
+{"index":29,"sub_uri":"Q4768742","obj_uri":"Q23436","obj_label":"\u00c9dimbourg","sub_label":"Anne Redpath","lineid":29,"uuid":"fe1164ff-8fd8-47ed-9c01-d4423640475c"}
+{"index":404,"sub_uri":"Q1803","obj_uri":"Q6343","obj_label":"Carthage","sub_label":"Gordien II","lineid":407,"uuid":"d70ba985-0c6e-48f7-9a0a-52ed0e4da457"}
+{"index":195,"sub_uri":"Q246517","obj_uri":"Q90","obj_label":"Paris","sub_label":"Jean-Baptiste Joseph Delambre","lineid":196,"uuid":"2108843e-c66f-4a43-91fc-2a470427f785"}
+{"index":303,"sub_uri":"Q2423581","obj_uri":"Q84","obj_label":"Londres","sub_label":"Thomas Earnshaw","lineid":304,"uuid":"ecf8a7e9-0ee7-4ef2-8957-9d5bdb2fbe25"}
+{"index":650,"sub_uri":"Q702158","obj_uri":"Q1726","obj_label":"Munich","sub_label":"Ludwig Thuille","lineid":657,"uuid":"91bef47f-a23a-4b22-b3cf-dd15f8656c57"}
+{"index":201,"sub_uri":"Q315856","obj_uri":"Q1726","obj_label":"Munich","sub_label":"Paul Hoecker","lineid":202,"uuid":"fe67e0f3-f336-4311-9e6b-5b0cc4c20ec8"}
+{"index":748,"sub_uri":"Q158056","obj_uri":"Q8652","obj_label":"Miami","sub_label":"Nam June Paik","lineid":755,"uuid":"e3cac00b-fef0-4681-8965-164d769debf7"}
+{"index":73,"sub_uri":"Q965945","obj_uri":"Q84","obj_label":"Londres","sub_label":"James Rennell","lineid":73,"uuid":"d274044c-753c-4939-a6e8-cdc14da6c93f"}
+{"index":573,"sub_uri":"Q893785","obj_uri":"Q90","obj_label":"Paris","sub_label":"Boris Souvarine","lineid":579,"uuid":"e533f3bb-3344-4e3d-b307-b5409e3e0493"}
+{"index":618,"sub_uri":"Q7807469","obj_uri":"Q3183","obj_label":"Perth","sub_label":"Timothy Quinlan","lineid":625,"uuid":"81d0f2ef-9565-4787-97b4-40f1eec877e2"}
+{"index":765,"sub_uri":"Q57601","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Roland Freisler","lineid":772,"uuid":"f6053294-191f-4622-ab96-1d68a4f972da"}
+{"index":570,"sub_uri":"Q142983","obj_uri":"Q16869","obj_label":"Constantinople","sub_label":"Serge Ier de Constantinople","lineid":576,"uuid":"813fe10d-27c9-4ae0-b530-2df935fd7d3b"}
+{"index":216,"sub_uri":"Q538838","obj_uri":"Q597","obj_label":"Lisbonne","sub_label":"Soeiro Pereira Gomes","lineid":217,"uuid":"7b7c77f8-d636-43bb-b6da-df5bba6151b2"}
+{"index":221,"sub_uri":"Q7526526","obj_uri":"Q23148","obj_label":"Cornouailles","sub_label":"Edward Buller","lineid":222,"uuid":"c31fdb66-b438-4b17-becb-2173494340dd"}
+{"index":527,"sub_uri":"Q85112","obj_uri":"Q1741","obj_label":"Vienne","sub_label":"Bruno Pittermann","lineid":532,"uuid":"409d8ca3-a90c-4b19-9857-7cd61c400be3"}
+{"index":93,"sub_uri":"Q5366405","obj_uri":"Q9248","obj_label":"Bakou","sub_label":"Elmar Huseynov","lineid":93,"uuid":"abd5c274-14cc-4546-9eab-cc2189d904a2"}
+{"index":197,"sub_uri":"Q201484","obj_uri":"Q23276","obj_label":"Surrey","sub_label":"John Dee","lineid":198,"uuid":"9897d1d0-0902-4a51-99ec-9244f3979a7e"}
+{"index":422,"sub_uri":"Q5090723","obj_uri":"Q334","obj_label":"Singapour","sub_label":"Chen Chong Swee","lineid":425,"uuid":"81bc10d7-8ef9-4338-b85e-9a0775ddcfd4"}
+{"index":482,"sub_uri":"Q696576","obj_uri":"Q1741","obj_label":"Vienne","sub_label":"Carl Michael Ziehrer","lineid":485,"uuid":"662b1618-1d34-474f-8295-a8f0d9d25ac7"}
+{"index":324,"sub_uri":"Q3141552","obj_uri":"Q172","obj_label":"Toronto","sub_label":"Howard Ferguson","lineid":325,"uuid":"0d200558-ddfe-44f3-a7e8-18c39332da86"}
+{"index":611,"sub_uri":"Q3093961","obj_uri":"Q90","obj_label":"Paris","sub_label":"Gabriel Signoret","lineid":618,"uuid":"3c2c28e0-d434-44df-a854-95f61a76e57a"}
+{"index":449,"sub_uri":"Q931452","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Evgueni Lifchits","lineid":452,"uuid":"c629a36f-3755-4a30-9fa7-51317f634bf3"}
+{"index":106,"sub_uri":"Q313430","obj_uri":"Q1000","obj_label":"Gabon","sub_label":"Bartholomew Roberts","lineid":106,"uuid":"82a8259c-16f1-465e-8b8c-fc2d3578daaa"}
+{"index":177,"sub_uri":"Q2020205","obj_uri":"Q1342","obj_label":"Pittsburgh","sub_label":"Oliver Evans","lineid":177,"uuid":"fa6b0329-21e9-4f01-9cab-d98cffea263c"}
+{"index":306,"sub_uri":"Q310456","obj_uri":"Q84","obj_label":"Londres","sub_label":"George Robert Gray","lineid":307,"uuid":"725eb96f-096c-4869-9744-7865e31b6fc7"}
+{"index":771,"sub_uri":"Q1393455","obj_uri":"Q340","obj_label":"Montr\u00e9al","sub_label":"Jacques Parizeau","lineid":778,"uuid":"b671de58-e10d-48c8-811f-fd13f7f4d4d5"}
+{"index":239,"sub_uri":"Q8013505","obj_uri":"Q1221","obj_label":"Idaho","sub_label":"William Janney","lineid":240,"uuid":"c80c1b3e-eaf7-4cc3-86e7-af8e7c02b17e"}
+{"index":240,"sub_uri":"Q961022","obj_uri":"Q84","obj_label":"Londres","sub_label":"Frederick Denison Maurice","lineid":241,"uuid":"41b63fd1-b1c5-4cd5-bee6-5f5c685f2248"}
+{"index":713,"sub_uri":"Q193507","obj_uri":"Q51614","obj_label":"Anatolie","sub_label":"Christophe de Lycie","lineid":720,"uuid":"1af04160-c373-4678-84b4-a5994b326a8d"}
+{"index":349,"sub_uri":"Q748979","obj_uri":"Q19660","obj_label":"Bucarest","sub_label":"Petrache Poenaru","lineid":350,"uuid":"6994804d-f8bf-4042-9af9-3f485f0bee8b"}
+{"index":319,"sub_uri":"Q5563846","obj_uri":"Q641","obj_label":"Venise","sub_label":"Giovanni Francesco Sagredo","lineid":320,"uuid":"da49cc45-815d-48ac-9bd3-dedfe698ca86"}
+{"index":921,"sub_uri":"Q560099","obj_uri":"Q3640","obj_label":"Ankara","sub_label":"Sedat Alp","lineid":929,"uuid":"0947e7a6-a6ab-44f1-8ffc-242712e1effe"}
+{"index":802,"sub_uri":"Q217839","obj_uri":"Q43788","obj_label":"Madison","sub_label":"Otis Redding","lineid":809,"uuid":"be9bed59-3f94-42c0-9afe-0c3df1cf1c7c"}
+{"index":393,"sub_uri":"Q3938239","obj_uri":"Q84","obj_label":"Londres","sub_label":"Robert Colquhoun","lineid":396,"uuid":"54aaa868-dec0-4597-a571-9de27cf33091"}
+{"index":95,"sub_uri":"Q41689","obj_uri":"Q16869","obj_label":"Constantinople","sub_label":"Nic\u00e9phore III Botaniat\u00e8s","lineid":95,"uuid":"0fc6984d-a88a-4c24-b474-b1c096cdc3ce"}
+{"index":164,"sub_uri":"Q6543801","obj_uri":"Q3630","obj_label":"Jakarta","sub_label":"Lie Kim Hok","lineid":164,"uuid":"f67956d4-7662-4e0c-bb17-25b0188bb5d8"}
+{"index":785,"sub_uri":"Q93718","obj_uri":"Q1741","obj_label":"Vienne","sub_label":"Ludwig Anzengruber","lineid":792,"uuid":"1526f006-5f38-482e-9854-6475b8f1e3c3"}
+{"index":418,"sub_uri":"Q463998","obj_uri":"Q84","obj_label":"Londres","sub_label":"James Nares","lineid":421,"uuid":"df1eaa1f-968c-4a4f-bab1-de073b3a9b2a"}
+{"index":117,"sub_uri":"Q2311008","obj_uri":"Q495","obj_label":"Turin","sub_label":"Luigi Crosio","lineid":117,"uuid":"71d002e8-d332-49e9-ac00-612f11abb2cf"}
+{"index":918,"sub_uri":"Q36620","obj_uri":"Q1085","obj_label":"Prague","sub_label":"Tycho Brahe","lineid":926,"uuid":"f296ad29-a6a6-4eb7-a847-4fbafd427a11"}
+{"index":30,"sub_uri":"Q297565","obj_uri":"Q220","obj_label":"Rome","sub_label":"Vignole","lineid":30,"uuid":"167159fe-d0ce-4f30-a6cf-f5d239b52b80"}
+{"index":745,"sub_uri":"Q3182393","obj_uri":"Q1930","obj_label":"Ottawa","sub_label":"John Rudolphus Booth","lineid":752,"uuid":"6f6ea239-f5ef-4415-8112-799499a16c97"}
+{"index":859,"sub_uri":"Q730310","obj_uri":"Q84","obj_label":"Londres","sub_label":"Nathaniel Wallich","lineid":866,"uuid":"7110f7b6-0a24-41b7-80a6-fb0199334a6e"}
+{"index":116,"sub_uri":"Q10327831","obj_uri":"Q6346","obj_label":"Indianapolis","sub_label":"May Wright Sewall","lineid":116,"uuid":"b7c1a02b-90a7-4405-bd0e-5e286f0c8aef"}
+{"index":37,"sub_uri":"Q813280","obj_uri":"Q490","obj_label":"Milan","sub_label":"B\u00e9atrice d'Este","lineid":37,"uuid":"bdb7a382-e972-43e0-9e9a-d4de8baa6e45"}
+{"index":815,"sub_uri":"Q24194","obj_uri":"Q36036","obj_label":"Lviv","sub_label":"Andrey Sheptytsky","lineid":822,"uuid":"3df20a24-be6b-4691-8754-7fa92e104a76"}
+{"index":850,"sub_uri":"Q1241256","obj_uri":"Q84","obj_label":"Londres","sub_label":"Patrick Colquhoun","lineid":857,"uuid":"7f42bac2-5d36-4893-af2f-879b1d5d3086"}
+{"index":219,"sub_uri":"Q508860","obj_uri":"Q220","obj_label":"Rome","sub_label":"Mariano Rampolla del Tindaro","lineid":220,"uuid":"de10be70-5d96-4c43-b858-d2738cce4294"}
+{"index":565,"sub_uri":"Q61690","obj_uri":"Q816096","obj_label":"Belmont","sub_label":"Theodore Levitt","lineid":571,"uuid":"7ab46958-a353-47b2-978e-585433a5b351"}
+{"index":171,"sub_uri":"Q2635890","obj_uri":"Q864024","obj_label":"Ponce","sub_label":"Emilio Navarro","lineid":171,"uuid":"f687141c-3660-49a8-9901-39fa40b999da"}
+{"index":827,"sub_uri":"Q5487911","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Frank Leland","lineid":834,"uuid":"2690ba33-fa40-40be-87af-4549911d0e40"}
+{"index":121,"sub_uri":"Q348383","obj_uri":"Q220","obj_label":"Rome","sub_label":"Demofilo Fidani","lineid":121,"uuid":"ba67be06-045d-40e2-a0d7-aacbc296e67a"}
+{"index":740,"sub_uri":"Q527261","obj_uri":"Q2634","obj_label":"Naples","sub_label":"Tino di Camaino","lineid":747,"uuid":"5ef743a0-e50e-4ede-86ff-ecb803f5e510"}
+{"index":433,"sub_uri":"Q1252386","obj_uri":"Q2135","obj_label":"Winnipeg","sub_label":"Douglas Lloyd Campbell","lineid":436,"uuid":"8c74abee-f7f0-4a1e-83d5-e9b8faeb289c"}
+{"index":673,"sub_uri":"Q967509","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Tetsuya Th\u00e9odore Fujita","lineid":680,"uuid":"546a2417-2ad9-4307-98c8-84d7d8983726"}
+{"index":555,"sub_uri":"Q5669","obj_uri":"Q2044","obj_label":"Florence","sub_label":"Sandro Botticelli","lineid":561,"uuid":"e8d3e779-7693-42c1-a1ca-e45de94e3595"}
+{"index":112,"sub_uri":"Q940346","obj_uri":"Q99","obj_label":"Californie","sub_label":"Henry Dreyfuss","lineid":112,"uuid":"5cde8a29-65a9-4b8e-8637-fe6bc79b7a26"}
+{"index":653,"sub_uri":"Q49765","obj_uri":"Q90","obj_label":"Paris","sub_label":"Louis XVII","lineid":660,"uuid":"8a237cc1-c3d7-40ae-a6cb-c92fd8433da6"}
+{"index":417,"sub_uri":"Q2750636","obj_uri":"Q34600","obj_label":"Kyoto","sub_label":"Yutaka Abe","lineid":420,"uuid":"3a13c8c1-0d48-4ed0-b1b5-753112d0c8bf"}
+{"index":400,"sub_uri":"Q76474","obj_uri":"Q2966","obj_label":"Heidelberg","sub_label":"Walther Bothe","lineid":403,"uuid":"6a85a9e6-b3d4-4764-9749-29aa240d9335"}
+{"index":379,"sub_uri":"Q923806","obj_uri":"Q23661","obj_label":"Wellington","sub_label":"William Massey","lineid":382,"uuid":"24993512-01ee-4cce-8851-1a6137666aec"}
+{"index":425,"sub_uri":"Q3438037","obj_uri":"Q1524","obj_label":"Ath\u00e8nes","sub_label":"K\u00e1rolos Koun","lineid":428,"uuid":"7e9f81de-e4a0-4616-af83-ba2997e16381"}
+{"index":62,"sub_uri":"Q8467","obj_uri":"Q35484","obj_label":"M\u00e9dine","sub_label":"Omar ibn al-Khatt\u00e2b","lineid":62,"uuid":"5f68ea97-1dd1-4f2d-ba5e-3b2a02354fb5"}
+{"index":784,"sub_uri":"Q489931","obj_uri":"Q223","obj_label":"Groenland","sub_label":"Ludvig Mylius-Erichsen","lineid":791,"uuid":"14720f67-eed2-46bd-83c4-4b23f7afbf2c"}
+{"index":925,"sub_uri":"Q64001","obj_uri":"Q1731","obj_label":"Dresde","sub_label":"Otto Julius Bierbaum","lineid":933,"uuid":"12e096e9-4daf-4bf4-879a-92826427431c"}
+{"index":726,"sub_uri":"Q3172432","obj_uri":"Q90","obj_label":"Paris","sub_label":"Jean Guillaume Moitte","lineid":733,"uuid":"8a64aee6-461e-4cf2-b12e-40b837883307"}
+{"index":143,"sub_uri":"Q337707","obj_uri":"Q220","obj_label":"Rome","sub_label":"Luigi Rizzo","lineid":143,"uuid":"b1f79a94-2943-4810-90cc-a03c4360ac66"}
+{"index":937,"sub_uri":"Q128967","obj_uri":"Q160642","obj_label":"Salisbury","sub_label":"Edward Heath","lineid":945,"uuid":"2c6bdfd0-046e-436d-89f9-4ca2f8ae29bc"}
+{"index":110,"sub_uri":"Q7172767","obj_uri":"Q3141","obj_label":"Melbourne","sub_label":"Peter Benjamin Graham","lineid":110,"uuid":"43728ba9-373b-457c-b25a-af222ccf1d5e"}
+{"index":863,"sub_uri":"Q213794","obj_uri":"Q1741","obj_label":"Vienne","sub_label":"Gustav Struve","lineid":870,"uuid":"1932ca62-8004-4761-88eb-62ad93116863"}
+{"index":627,"sub_uri":"Q333855","obj_uri":"Q2256","obj_label":"Birmingham","sub_label":"Herbert Sir Austin","lineid":634,"uuid":"75d65cb7-8514-4e12-854f-94c16bb01feb"}
+{"index":893,"sub_uri":"Q334262","obj_uri":"Q1891","obj_label":"Bologne","sub_label":"Le Guerchin","lineid":900,"uuid":"bd5ea31d-9641-453d-a54b-4bc95180585f"}
+{"index":542,"sub_uri":"Q86109","obj_uri":"Q1055","obj_label":"Hambourg","sub_label":"Otto Schreier","lineid":547,"uuid":"24745a19-c61c-4401-a84e-649d6379e78f"}
+{"index":392,"sub_uri":"Q1166728","obj_uri":"Q90","obj_label":"Paris","sub_label":"Mahaut d'Artois","lineid":395,"uuid":"90d94810-09e7-4ef3-81ff-5ac762e61087"}
+{"index":541,"sub_uri":"Q732613","obj_uri":"Q994","obj_label":"Tbilissi","sub_label":"Zakaria Paliashvili","lineid":546,"uuid":"02d7f440-e369-41c3-8466-83aeb7ed8952"}
+{"index":695,"sub_uri":"Q3275982","obj_uri":"Q1016","obj_label":"Libye","sub_label":"Mokhtar Belmokhtar","lineid":702,"uuid":"0255884b-7e4c-4103-a55c-30fb9b198ab9"}
+{"index":910,"sub_uri":"Q234033","obj_uri":"Q1754","obj_label":"Stockholm","sub_label":"Ingeborg de Danemark","lineid":917,"uuid":"85823467-3896-455d-8aaa-7863f969bba0"}
+{"index":512,"sub_uri":"Q231074","obj_uri":"Q23436","obj_label":"\u00c9dimbourg","sub_label":"Madeleine de France","lineid":516,"uuid":"9c8abaff-c2e1-4066-a15c-ff746cdc1392"}
+{"index":775,"sub_uri":"Q57674","obj_uri":"Q1715","obj_label":"Hanovre","sub_label":"Sophie-Charlotte de Hanovre","lineid":782,"uuid":"f8fe9b2b-24b4-4d6d-af4a-7349b0508fe5"}
+{"index":237,"sub_uri":"Q2783637","obj_uri":"Q12892","obj_label":"Anvers","sub_label":"Peter Scheemakers","lineid":238,"uuid":"0e40568b-f7af-453b-a785-4d74471a883c"}
+{"index":150,"sub_uri":"Q3087008","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Freddie Lindstrom","lineid":150,"uuid":"8dd8669c-f08c-4698-95e4-71efae8c31ac"}
+{"index":721,"sub_uri":"Q117680","obj_uri":"Q3141","obj_label":"Melbourne","sub_label":"John Brack","lineid":728,"uuid":"63a731a4-98ed-4df4-8f73-77073f47f749"}
+{"index":352,"sub_uri":"Q2501578","obj_uri":"Q641","obj_label":"Venise","sub_label":"Michele Marieschi","lineid":353,"uuid":"93577182-c0aa-41c7-983d-a7e1e2f092de"}
+{"index":323,"sub_uri":"Q68503","obj_uri":"Q1055","obj_label":"Hambourg","sub_label":"Paul Gerson Unna","lineid":324,"uuid":"84b0c92f-1604-4a02-a3f5-3dd5acc9df78"}
+{"index":297,"sub_uri":"Q64544","obj_uri":"Q1726","obj_label":"Munich","sub_label":"Karl Friedrich von Ledebour","lineid":298,"uuid":"2675df38-adac-41af-914a-545057bba89d"}
+{"index":929,"sub_uri":"Q635968","obj_uri":"Q220","obj_label":"Rome","sub_label":"Gaetano Moroni","lineid":937,"uuid":"187d4b41-2274-4058-8db9-34f5901237cf"}
+{"index":169,"sub_uri":"Q2896783","obj_uri":"Q340","obj_label":"Montr\u00e9al","sub_label":"Pinhas Hirschprung","lineid":169,"uuid":"e7d106d6-a679-4a53-9ba4-fb76b51da69b"}
+{"index":223,"sub_uri":"Q2834460","obj_uri":"Q18869","obj_label":"Caucase","sub_label":"Alexis Belevski-Joukovski","lineid":224,"uuid":"c0d60f8a-57c1-4739-a3f0-d24085c89249"}
+{"index":782,"sub_uri":"Q7795069","obj_uri":"Q84","obj_label":"Londres","sub_label":"Thomas Whitelegg","lineid":789,"uuid":"c3d960d1-15b5-4ae4-ad94-d2ffd909687e"}
+{"index":559,"sub_uri":"Q66292","obj_uri":"Q90","obj_label":"Paris","sub_label":"Salomon Munk","lineid":565,"uuid":"92efdae8-0b54-4af9-bcc7-7a3f24d907a4"}
+{"index":808,"sub_uri":"Q327723","obj_uri":"Q23482","obj_label":"Marseille","sub_label":"Christian Ranucci","lineid":815,"uuid":"3e3637ba-f9a5-48f1-b9b2-749a83d00712"}
+{"index":316,"sub_uri":"Q4275949","obj_uri":"Q84","obj_label":"Londres","sub_label":"Penelope Rich","lineid":317,"uuid":"b48b4b49-2887-4f5e-a544-ed9fa2af96e5"}
+{"index":793,"sub_uri":"Q41402","obj_uri":"Q100","obj_label":"Boston","sub_label":"Gilbert Stuart","lineid":800,"uuid":"6f7e4f34-7367-4d04-b6dc-cbc01fb4c86c"}
+{"index":602,"sub_uri":"Q788800","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Jan Bouman","lineid":609,"uuid":"ffeadf94-d37a-49ba-878d-b2c8c442ef5d"}
+{"index":358,"sub_uri":"Q61970","obj_uri":"Q1726","obj_label":"Munich","sub_label":"Theodor Lipps","lineid":359,"uuid":"9ec28d01-2cf5-4e9a-b07a-0c6f305b921a"}
+{"index":71,"sub_uri":"Q594936","obj_uri":"Q84","obj_label":"Londres","sub_label":"William Bayliss","lineid":71,"uuid":"1cee0711-7757-44ef-bc34-69c6af9f9fd6"}
+{"index":203,"sub_uri":"Q3068527","obj_uri":"Q2135","obj_label":"Winnipeg","sub_label":"Ralph Connor","lineid":204,"uuid":"a4b4ebf0-f7c7-46e5-a4dd-dade19d5c4b5"}
+{"index":892,"sub_uri":"Q974316","obj_uri":"Q128306","obj_label":"Denton","sub_label":"Ray Roberts","lineid":899,"uuid":"5824072b-5436-4168-b1b7-d88b1ba2021a"}
+{"index":693,"sub_uri":"Q5497496","obj_uri":"Q206988","obj_label":"Cheltenham","sub_label":"Frederick Carrington","lineid":700,"uuid":"4d7fb636-68a2-421b-ba9b-6b33511a112d"}
+{"index":530,"sub_uri":"Q1236772","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Margaret Walker","lineid":535,"uuid":"3244f6f7-9a71-4812-93d0-8e3fe0f7743f"}
+{"index":96,"sub_uri":"Q2094939","obj_uri":"Q172","obj_label":"Toronto","sub_label":"Wayne Robson","lineid":96,"uuid":"d5b07789-8792-4df4-8b07-cde39102be8b"}
+{"index":664,"sub_uri":"Q427701","obj_uri":"Q84","obj_label":"Londres","sub_label":"Robert Cambert","lineid":671,"uuid":"00834ce2-085a-45ab-8927-8730efbfb101"}
+{"index":53,"sub_uri":"Q131587","obj_uri":"Q220","obj_label":"Rome","sub_label":"Cl\u00e9ment XIV","lineid":53,"uuid":"9e715530-7faa-4aa2-a4f9-d44c53529f16"}
+{"index":817,"sub_uri":"Q978684","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Gennady Yevriuzhikin","lineid":824,"uuid":"61e09419-f602-45ee-9237-8f9a941264cb"}
+{"index":335,"sub_uri":"Q216063","obj_uri":"Q90","obj_label":"Paris","sub_label":"Charlotte Corday","lineid":336,"uuid":"16bbccc8-9658-43f5-8c79-e4a9b190cf6d"}
+{"index":234,"sub_uri":"Q495935","obj_uri":"Q1731","obj_label":"Dresde","sub_label":"Andreas Bang-Haas","lineid":235,"uuid":"e9239ced-d3d5-424b-9776-d862af065d92"}
+{"index":145,"sub_uri":"Q563069","obj_uri":"Q23436","obj_label":"\u00c9dimbourg","sub_label":"Thomas Chalmers","lineid":145,"uuid":"d10931bc-1831-428a-86d4-d77cee5c94e0"}
+{"index":872,"sub_uri":"Q1158692","obj_uri":"Q220","obj_label":"Rome","sub_label":"Gabriele Santini","lineid":879,"uuid":"c757f731-9855-4dc4-8377-eb420f7fd9b9"}
+{"index":569,"sub_uri":"Q6381670","obj_uri":"Q172","obj_label":"Toronto","sub_label":"Steve Stavro","lineid":575,"uuid":"9f1d0d10-4873-45df-9c5a-50376462290e"}
+{"index":920,"sub_uri":"Q29297","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Carl Ritter","lineid":928,"uuid":"76b3b3a2-d172-4b0c-b36e-dde371bb8d85"}
+{"index":186,"sub_uri":"Q1390611","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Oleg Lundstrem","lineid":187,"uuid":"4b3808bb-4e75-449c-b95c-17181f2eddc2"}
+{"index":601,"sub_uri":"Q161866","obj_uri":"Q84","obj_label":"Londres","sub_label":"Henri IV","lineid":608,"uuid":"9df79a12-e238-4c2b-b9eb-f0a31c76f765"}
+{"index":11,"sub_uri":"Q90787","obj_uri":"Q1055","obj_label":"Hambourg","sub_label":"Christian Heinrich Postel","lineid":11,"uuid":"d58fbaeb-cdbd-4a08-abfc-db89fedbb6d9"}
+{"index":494,"sub_uri":"Q73361","obj_uri":"Q1741","obj_label":"Vienne","sub_label":"Hermann Nothnagel","lineid":497,"uuid":"835fb957-e212-4aff-9e9e-b5117a22a790"}
+{"index":320,"sub_uri":"Q3082911","obj_uri":"Q16557","obj_label":"Dallas","sub_label":"Frankie Lee Sims","lineid":321,"uuid":"adacbf7f-08f9-4831-8644-a4fb24c1b0f5"}
+{"index":672,"sub_uri":"Q85339","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Albert Eulenburg","lineid":679,"uuid":"6e85514f-0409-4c3e-b273-883d42643078"}
+{"index":572,"sub_uri":"Q255190","obj_uri":"Q1397","obj_label":"Ohio","sub_label":"Anna Harrison","lineid":578,"uuid":"915104f3-4201-4b80-97e0-6c58c315b7d5"}
+{"index":300,"sub_uri":"Q435584","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Samouil Marchak","lineid":301,"uuid":"a008834d-ac56-4e82-858a-e7a5f2bdb7e3"}
+{"index":453,"sub_uri":"Q342765","obj_uri":"Q1761","obj_label":"Dublin","sub_label":"Arthur Griffith","lineid":456,"uuid":"3affb91c-ab05-4599-9e6d-52af2445baed"}
+{"index":295,"sub_uri":"Q24842","obj_uri":"Q1741","obj_label":"Vienne","sub_label":"Ulla Jacobsson","lineid":296,"uuid":"16f0b8c0-33ce-4280-ba1d-d86a6b102eab"}
+{"index":329,"sub_uri":"Q2552879","obj_uri":"Q90","obj_label":"Paris","sub_label":"Waverley Root","lineid":330,"uuid":"252b4db4-de48-4fb7-ba19-cc369e6a2069"}
+{"index":853,"sub_uri":"Q1411187","obj_uri":"Q641","obj_label":"Venise","sub_label":"Tommaso Temanza","lineid":860,"uuid":"0a3ebd30-1957-481a-9072-78d1325649d9"}
+{"index":130,"sub_uri":"Q1216298","obj_uri":"Q90","obj_label":"Paris","sub_label":"Henri Valois","lineid":130,"uuid":"6b4e19d7-6ae5-478f-b992-e30c45954f22"}
+{"index":341,"sub_uri":"Q2606854","obj_uri":"Q1891","obj_label":"Bologne","sub_label":"Bartolomeo Cesi","lineid":342,"uuid":"c79f8b70-1c47-49ed-aae9-98a6a3d05dab"}
+{"index":639,"sub_uri":"Q705436","obj_uri":"Q37100","obj_label":"Auckland","sub_label":"Fernando Pereira","lineid":646,"uuid":"bf9ed4f2-a68a-4101-b1d4-58a81aa26a76"}
+{"index":386,"sub_uri":"Q3531866","obj_uri":"Q84","obj_label":"Londres","sub_label":"Tony Ray-Jones","lineid":389,"uuid":"98ec9e05-2829-4e46-b79b-6eb68ac48a46"}
+{"index":278,"sub_uri":"Q270668","obj_uri":"Q90","obj_label":"Paris","sub_label":"Georges Couthon","lineid":279,"uuid":"5999b77d-430e-4d5e-8aa2-77abd039c4f6"}
+{"index":515,"sub_uri":"Q983318","obj_uri":"Q490","obj_label":"Milan","sub_label":"Carlo Alberto Castigliano","lineid":520,"uuid":"d5d74913-e797-4fa7-9321-02b1e3fa88f0"}
+{"index":610,"sub_uri":"Q1383046","obj_uri":"Q220","obj_label":"Rome","sub_label":"Paolo Bertoli","lineid":617,"uuid":"bf1f96e7-f65e-46e4-b7cf-37455d757030"}
+{"index":229,"sub_uri":"Q1891629","obj_uri":"Q90","obj_label":"Paris","sub_label":"Pierre Contant d'Ivry","lineid":230,"uuid":"1fc74527-3cbb-40a2-b761-c01f73e8e3bb"}
+{"index":777,"sub_uri":"Q736123","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Norman Maclean","lineid":784,"uuid":"21b275da-2da7-4fc6-be2b-408ee6a4274d"}
+{"index":725,"sub_uri":"Q530235","obj_uri":"Q84","obj_label":"Londres","sub_label":"Seth Holt","lineid":732,"uuid":"c4075c02-69a9-478c-b807-2b5153f84c6b"}
+{"index":878,"sub_uri":"Q34624","obj_uri":"Q641","obj_label":"Venise","sub_label":"Giovanni Gabrieli","lineid":885,"uuid":"6c45fdfe-53c0-49a1-897a-69adc695c54c"}
+{"index":269,"sub_uri":"Q574083","obj_uri":"Q34006","obj_label":"Hollywood","sub_label":"Anthony Veiller","lineid":270,"uuid":"f80a53ac-f6b1-487a-9122-e7f226ea53a8"}
+{"index":805,"sub_uri":"Q323505","obj_uri":"Q84","obj_label":"Londres","sub_label":"John Webber","lineid":812,"uuid":"d1af0679-8248-4057-bf79-13d21daa0cfb"}
+{"index":48,"sub_uri":"Q16063176","obj_uri":"Q84","obj_label":"Londres","sub_label":"Edward Bowring Stephens","lineid":48,"uuid":"dd276075-2636-4e92-9604-2c28207a5ca7"}
+{"index":163,"sub_uri":"Q269701","obj_uri":"Q1891","obj_label":"Bologne","sub_label":"Anna Morandi","lineid":163,"uuid":"53d01a62-baea-48ab-a0a9-2dea84458dd4"}
+{"index":798,"sub_uri":"Q184267","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Andre\u00ef Gromyko","lineid":805,"uuid":"b1f3957f-3b1c-4f1c-adaf-c97e000ab0ac"}
+{"index":21,"sub_uri":"Q562375","obj_uri":"Q71","obj_label":"Gen\u00e8ve","sub_label":"Sa\u00efd Ramadan","lineid":21,"uuid":"a5dcdc2b-12e2-4731-bfa7-3ba55ec8296f"}
+{"index":204,"sub_uri":"Q2901773","obj_uri":"Q1348","obj_label":"Calcutta","sub_label":"Bidhan Chandra Roy","lineid":205,"uuid":"e75150e1-3042-4430-92da-8a4918524c49"}
+{"index":311,"sub_uri":"Q197283","obj_uri":"Q8686","obj_label":"Shanghai","sub_label":"Zhang Shichuan","lineid":312,"uuid":"42189408-cd00-42d9-863c-ee3bbdf83fbe"}
+{"index":49,"sub_uri":"Q5643773","obj_uri":"Q585","obj_label":"Oslo","sub_label":"Halvor Schou","lineid":49,"uuid":"5ae3442d-7b76-4007-aef5-bcc1a3921876"}
+{"index":64,"sub_uri":"Q749557","obj_uri":"Q84","obj_label":"Londres","sub_label":"Astley Cooper","lineid":64,"uuid":"bb009f4d-1529-4a49-9a5b-8f9df6cc3c82"}
+{"index":562,"sub_uri":"Q2299213","obj_uri":"Q84","obj_label":"Londres","sub_label":"Salomon Hirschel","lineid":568,"uuid":"074ae77e-fab5-48f1-a635-88879b6c537d"}
+{"index":94,"sub_uri":"Q110126","obj_uri":"Q406","obj_label":"Istanbul","sub_label":"Hrant Dink","lineid":94,"uuid":"34c090bc-c71b-40c7-814e-9be95ef636b5"}
+{"index":898,"sub_uri":"Q714362","obj_uri":"Q7880","obj_label":"Toulouse","sub_label":"Henri II de Montmorency","lineid":905,"uuid":"cac50b4c-e94b-43d7-adb7-c07078186227"}
+{"index":140,"sub_uri":"Q708082","obj_uri":"Q490","obj_label":"Milan","sub_label":"Barnaba Oriani","lineid":140,"uuid":"8ff14299-9e3d-48e5-b8ef-26adc67761b4"}
+{"index":210,"sub_uri":"Q505806","obj_uri":"Q220","obj_label":"Rome","sub_label":"Goffredo Petrassi","lineid":211,"uuid":"3fccbb97-230b-4fb9-9f6f-3aa3c0d9991b"}
+{"index":321,"sub_uri":"Q572547","obj_uri":"Q90","obj_label":"Paris","sub_label":"Henri Herz","lineid":322,"uuid":"9d772456-75d0-44f8-b9d7-8dc19950cbd7"}
+{"index":510,"sub_uri":"Q4116097","obj_uri":"Q3820","obj_label":"Beyrouth","sub_label":"William Hawi","lineid":514,"uuid":"6added67-d287-4af7-b53c-6ab3f2aea1b0"}
+{"index":720,"sub_uri":"Q1374725","obj_uri":"Q2634","obj_label":"Naples","sub_label":"Pietro Andrea Ziani","lineid":727,"uuid":"7265235e-27f6-4cb0-8622-64f264ff013b"}
+{"index":714,"sub_uri":"Q974734","obj_uri":"Q100","obj_label":"Boston","sub_label":"Phillips Brooks","lineid":721,"uuid":"6a51f236-7c64-49fb-8f7c-280e5c18e912"}
+{"index":579,"sub_uri":"Q62858","obj_uri":"Q71","obj_label":"Gen\u00e8ve","sub_label":"Uwe Barschel","lineid":585,"uuid":"f3f2a14f-d918-4ddf-9164-020bf7feecaf"}
+{"index":794,"sub_uri":"Q4981639","obj_uri":"Q192240","obj_label":"Northampton","sub_label":"Roland de Galloway","lineid":801,"uuid":"99105723-8fc3-4ab5-b8c9-f3ec909ef9bf"}
+{"index":487,"sub_uri":"Q590512","obj_uri":"Q220","obj_label":"Rome","sub_label":"Lorenzo Perosi","lineid":490,"uuid":"15693c66-939f-4f1f-8432-49c8db0ec01f"}
+{"index":757,"sub_uri":"Q205322","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Frankie Knuckles","lineid":764,"uuid":"90600c18-cd5a-474e-b77c-88172db14f48"}
+{"index":271,"sub_uri":"Q34782","obj_uri":"Q90","obj_label":"Paris","sub_label":"Natalie Clifford Barney","lineid":272,"uuid":"5ccf3b15-fa4c-4958-b6ae-b314236bca6f"}
+{"index":66,"sub_uri":"Q26931","obj_uri":"Q1726","obj_label":"Munich","sub_label":"Evaristo Felice Dall'Abaco","lineid":66,"uuid":"221a9222-829d-4fff-a195-755648be5424"}
+{"index":684,"sub_uri":"Q1346713","obj_uri":"Q10086","obj_label":"Mysore","sub_label":"Pattabhi Jois","lineid":691,"uuid":"63b7634e-80b6-4a06-92d9-a28f4700077d"}
+{"index":940,"sub_uri":"Q77288","obj_uri":"Q1731","obj_label":"Dresde","sub_label":"Ehrenfried Walther von Tschirnhaus","lineid":948,"uuid":"31ebbddd-c577-405c-a092-aba113a0a318"}
+{"index":715,"sub_uri":"Q6813952","obj_uri":"Q23661","obj_label":"Wellington","sub_label":"Melvin Day","lineid":722,"uuid":"af8f3fef-4951-40cf-be74-ea142440123f"}
+{"index":373,"sub_uri":"Q1508241","obj_uri":"Q84","obj_label":"Londres","sub_label":"George Scharf","lineid":375,"uuid":"be40098b-1779-42e3-b4a7-9102e5e4122e"}
+{"index":313,"sub_uri":"Q41657","obj_uri":"Q16869","obj_label":"Constantinople","sub_label":"Romain III Argyre","lineid":314,"uuid":"796d600a-73f7-4f5c-b667-855b371134bb"}
+{"index":869,"sub_uri":"Q253772","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Elisabeth Bykova","lineid":876,"uuid":"0cc9ff3d-5d2c-4709-a8bc-9fff10b3650f"}
+{"index":804,"sub_uri":"Q5278080","obj_uri":"Q1348","obj_label":"Calcutta","sub_label":"Dinesh Chandra Gupta","lineid":811,"uuid":"42ba83f6-121d-420e-b100-3e07a031bfd5"}
+{"index":207,"sub_uri":"Q255492","obj_uri":"Q23661","obj_label":"Wellington","sub_label":"Edward Gibbon Wakefield","lineid":208,"uuid":"25f5dd10-7c57-49cf-9b57-0975b5c16760"}
+{"index":443,"sub_uri":"Q1356575","obj_uri":"Q3766","obj_label":"Damas","sub_label":"Ibn al-Qalanisi","lineid":446,"uuid":"d244c471-be2b-4c57-813b-91dbf92bccea"}
+{"index":182,"sub_uri":"Q266655","obj_uri":"Q2656","obj_label":"Palerme","sub_label":"Cesare Terranova","lineid":182,"uuid":"962876fa-7b08-458d-b21f-707f22e8b65d"}
+{"index":250,"sub_uri":"Q1217590","obj_uri":"Q84","obj_label":"Londres","sub_label":"Frederic William Burton","lineid":251,"uuid":"428380ae-07d5-43ea-98fa-f94b81cd8e52"}
+{"index":325,"sub_uri":"Q320118","obj_uri":"Q2634","obj_label":"Naples","sub_label":"Le Dominiquin","lineid":326,"uuid":"1f3435ee-c3ee-41fe-ac32-00ee1223292a"}
+{"index":318,"sub_uri":"Q25252","obj_uri":"Q17252","obj_label":"Tibet","sub_label":"Lobsang Gyatso","lineid":319,"uuid":"46037337-c902-4250-8c4c-8a34ac438212"}
+{"index":581,"sub_uri":"Q3324644","obj_uri":"Q90","obj_label":"Paris","sub_label":"Morvan Marchal","lineid":587,"uuid":"fc5c3093-35f3-410f-b9c6-994b15894c82"}
+{"index":743,"sub_uri":"Q3337949","obj_uri":"Q1348","obj_label":"Calcutta","sub_label":"Nelson Annandale","lineid":750,"uuid":"3c42f84f-f783-4669-9f8c-116d0bad7410"}
+{"index":410,"sub_uri":"Q121437","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Georg Scheffers","lineid":413,"uuid":"0bb310f0-c368-4ae0-9510-eeb54e0221f2"}
+{"index":623,"sub_uri":"Q887599","obj_uri":"Q220","obj_label":"Rome","sub_label":"Antonio Barberini","lineid":630,"uuid":"5ffbac84-4b80-4958-933d-5604bfd0d855"}
+{"index":14,"sub_uri":"Q924019","obj_uri":"Q90","obj_label":"Paris","sub_label":"Pierre Cartellier","lineid":14,"uuid":"3175f78b-98d0-4016-a806-27797e535ef0"}
+{"index":60,"sub_uri":"Q2845619","obj_uri":"Q90","obj_label":"Paris","sub_label":"Anatole de Monzie","lineid":60,"uuid":"98770b9f-c4cf-4709-86f1-a40573da7b45"}
+{"index":843,"sub_uri":"Q230507","obj_uri":"Q23436","obj_label":"\u00c9dimbourg","sub_label":"Marguerite d'\u00c9cosse","lineid":850,"uuid":"6658ee17-5950-4943-b74c-3dbcba1a7425"}
+{"index":657,"sub_uri":"Q500967","obj_uri":"Q1345","obj_label":"Philadelphie","sub_label":"Thomas Willing","lineid":664,"uuid":"1d01cccd-744e-446a-b9f1-bde0a71d3c7d"}
+{"index":896,"sub_uri":"Q55453","obj_uri":"Q220","obj_label":"Rome","sub_label":"Augusto Genina","lineid":903,"uuid":"648d856b-8114-4d5f-8c15-d8e0a8a442c7"}
+{"index":858,"sub_uri":"Q2148541","obj_uri":"Q597","obj_label":"Lisbonne","sub_label":"Ribeirinho","lineid":865,"uuid":"e6500180-073c-4376-97fd-3f1eb3e9aa6b"}
+{"index":516,"sub_uri":"Q571888","obj_uri":"Q216","obj_label":"Vilnius","sub_label":"Balys Sruoga","lineid":521,"uuid":"07924b18-8aa9-448f-85e4-635d1cb7990c"}
+{"index":192,"sub_uri":"Q5566289","obj_uri":"Q84","obj_label":"Londres","sub_label":"Rutland Barrington","lineid":193,"uuid":"f804c963-c903-46a5-af2e-2bb0d13b993e"}
+{"index":734,"sub_uri":"Q3161625","obj_uri":"Q270","obj_label":"Varsovie","sub_label":"Jan Bytnar","lineid":741,"uuid":"96c1d9e2-5f03-4092-8968-563991c5941e"}
+{"index":941,"sub_uri":"Q217435","obj_uri":"Q490","obj_label":"Milan","sub_label":"Giovanni Battista Sammartini","lineid":949,"uuid":"d12873af-399a-4866-9232-e8f669d04e90"}
+{"index":902,"sub_uri":"Q540753","obj_uri":"Q220","obj_label":"Rome","sub_label":"Paul Bril","lineid":909,"uuid":"309cf9ae-67d7-454b-ac49-5a39a57302c5"}
+{"index":710,"sub_uri":"Q489252","obj_uri":"Q90","obj_label":"Paris","sub_label":"Mike Zwerin","lineid":717,"uuid":"66777fc1-d06a-4b1e-8f35-ae67514c79fe"}
+{"index":224,"sub_uri":"Q924800","obj_uri":"Q1218","obj_label":"J\u00e9rusalem","sub_label":"Ovadia ben Abraham","lineid":225,"uuid":"96711f9d-1dd3-4202-8555-34ff3b3b2c90"}
+{"index":175,"sub_uri":"Q451587","obj_uri":"Q13670","obj_label":"Syracuse","sub_label":"Timol\u00e9on","lineid":175,"uuid":"ef7149d2-1d7c-46e5-a9e0-56cdb6314dc2"}
+{"index":439,"sub_uri":"Q28494","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Heinrich von Kleist","lineid":442,"uuid":"b4b404f6-4911-46c7-8ec5-b5325ed9a4c5"}
+{"index":339,"sub_uri":"Q1108107","obj_uri":"Q5092","obj_label":"Baltimore","sub_label":"Harry Welles Rusk","lineid":340,"uuid":"65e30845-0049-40c1-aef7-b62beba19edc"}
+{"index":849,"sub_uri":"Q1911471","obj_uri":"Q90","obj_label":"Paris","sub_label":"Maurice Vieux","lineid":856,"uuid":"76fb2f9b-a4f7-4dd6-abe9-119ff34fe2ce"}
+{"index":370,"sub_uri":"Q9961","obj_uri":"Q16666","obj_label":"Nankin","sub_label":"Ming Jianwen","lineid":372,"uuid":"c85ff2b3-f465-4467-aa3f-eb5fede093af"}
+{"index":632,"sub_uri":"Q62992","obj_uri":"Q2871","obj_label":"Hagen","sub_label":"Christian Rohlfs","lineid":639,"uuid":"e5e10e01-4c59-4449-96dc-0180da0e4db5"}
+{"index":115,"sub_uri":"Q53043","obj_uri":"Q495","obj_label":"Turin","sub_label":"Giovanni Pastrone","lineid":115,"uuid":"6f55adad-fc65-43db-ad13-3c6b94c3f3a6"}
+{"index":478,"sub_uri":"Q5932557","obj_uri":"Q16555","obj_label":"Houston","sub_label":"Hugh Roy Cullen","lineid":481,"uuid":"a324d925-042a-4420-b6ea-fb6e8b15809c"}
+{"index":706,"sub_uri":"Q1371384","obj_uri":"Q1524","obj_label":"Ath\u00e8nes","sub_label":"Stamatios Kleanthis","lineid":713,"uuid":"c3ed86c7-142a-49d6-8179-12bfb81becb1"}
+{"index":156,"sub_uri":"Q3182482","obj_uri":"Q100","obj_label":"Boston","sub_label":"John Smybert","lineid":156,"uuid":"e4754091-5309-4fb3-94f1-b47578c9de60"}
+{"index":521,"sub_uri":"Q208815","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"Buenaventura Durruti","lineid":526,"uuid":"023993dd-7025-4154-98ea-01bd3b81d86f"}
+{"index":273,"sub_uri":"Q1373408","obj_uri":"Q1156","obj_label":"Bombay","sub_label":"V. Shantaram","lineid":274,"uuid":"4b22a8a0-4e84-4394-9bf2-6099a766f315"}
+{"index":102,"sub_uri":"Q4794148","obj_uri":"Q1352","obj_label":"Chennai","sub_label":"Muthulakshmi Reddi","lineid":102,"uuid":"cdd25145-eff7-4a6d-9098-433423395a1b"}
+{"index":680,"sub_uri":"Q7368827","obj_uri":"Q1353","obj_label":"Delhi","sub_label":"Roshanara Begum","lineid":687,"uuid":"d3d96ea7-cd30-4d1b-98f9-59e3ee63dffa"}
+{"index":254,"sub_uri":"Q981466","obj_uri":"Q90","obj_label":"Paris","sub_label":"Charles-Auguste Questel","lineid":255,"uuid":"613cc9bb-7fdb-48ff-bda1-fc8d5b650045"}
+{"index":670,"sub_uri":"Q473937","obj_uri":"Q406","obj_label":"Istanbul","sub_label":"Jean-Baptiste Annibal Aubert du Bayet","lineid":677,"uuid":"d312b899-8276-4d8a-a74e-c6cda0f4320f"}
+{"index":424,"sub_uri":"Q366565","obj_uri":"Q2256","obj_label":"Birmingham","sub_label":"Joe Bradford","lineid":427,"uuid":"defc8bcd-fc38-41ee-93e8-3f2b237f33fc"}
+{"index":866,"sub_uri":"Q192960","obj_uri":"Q3766","obj_label":"Damas","sub_label":"Az-Z\u00e2hir Rukn ad-D\u00een Baybars al-Bunduqdari","lineid":873,"uuid":"cbc27778-b9b5-474e-a0ae-27decccc17fc"}
+{"index":65,"sub_uri":"Q7781440","obj_uri":"Q84","obj_label":"Londres","sub_label":"Theo Crosby","lineid":65,"uuid":"8a386075-a2ba-4e12-a32e-f7f913e9a4f5"}
+{"index":860,"sub_uri":"Q233265","obj_uri":"Q641","obj_label":"Venise","sub_label":"Robert Browning","lineid":867,"uuid":"153bb108-a2d2-44fe-ab22-955d85efa53f"}
+{"index":82,"sub_uri":"Q442774","obj_uri":"Q490","obj_label":"Milan","sub_label":"Giannina Arangi-Lombardi","lineid":82,"uuid":"020a3ded-7219-4645-8996-f45e0eb528ab"}
+{"index":441,"sub_uri":"Q930831","obj_uri":"Q2044","obj_label":"Florence","sub_label":"Francesco di Stefano","lineid":444,"uuid":"53c11754-f8eb-4444-a226-7d2512777518"}
+{"index":722,"sub_uri":"Q103140","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Michael Sachs","lineid":729,"uuid":"0fffe94d-ed82-472e-a2ad-4c2b9e851c92"}
+{"index":816,"sub_uri":"Q373940","obj_uri":"Q84","obj_label":"Londres","sub_label":"Henry Hughes Wilson","lineid":823,"uuid":"025f3568-6dd5-4dcb-a5f0-774ca7eee5bf"}
+{"index":862,"sub_uri":"Q53620","obj_uri":"Q1754","obj_label":"Stockholm","sub_label":"Hjalmar Branting","lineid":869,"uuid":"ebb3e87b-fbc9-4c6b-b089-679c68b1f368"}
+{"index":388,"sub_uri":"Q451444","obj_uri":"Q2256","obj_label":"Birmingham","sub_label":"William Murdoch","lineid":391,"uuid":"416608d6-60f8-4134-b5b8-7ac5b490357e"}
+{"index":885,"sub_uri":"Q380088","obj_uri":"Q1492","obj_label":"Barcelone","sub_label":"Alphonse IV","lineid":892,"uuid":"c3397f19-a578-448c-b358-55c247f3dd66"}
+{"index":153,"sub_uri":"Q7372134","obj_uri":"Q585","obj_label":"Oslo","sub_label":"Rowland Greenberg","lineid":153,"uuid":"b80ac7db-2831-4a07-89cf-79eb054e479f"}
+{"index":470,"sub_uri":"Q3568428","obj_uri":"Q84","obj_label":"Londres","sub_label":"William Behnes","lineid":473,"uuid":"a2a0738c-adbd-4e12-964a-5136ff9b5b75"}
+{"index":26,"sub_uri":"Q2427816","obj_uri":"Q2683","obj_label":"Parme","sub_label":"Giovanni Battista Trotti","lineid":26,"uuid":"4f98ac57-ba8e-4206-b8ff-43e5928c6319"}
+{"index":826,"sub_uri":"Q215158","obj_uri":"Q1781","obj_label":"Budapest","sub_label":"Rudolf Lothar","lineid":833,"uuid":"f42addd8-b7f3-4404-8bb6-115e9e8f667f"}
+{"index":811,"sub_uri":"Q313776","obj_uri":"Q29364","obj_label":"Montgomery","sub_label":"George Wallace","lineid":818,"uuid":"2bdca77a-b963-4d66-8215-fec4ad6e7862"}
+{"index":697,"sub_uri":"Q455438","obj_uri":"Q84","obj_label":"Londres","sub_label":"Allan Octavian Hume","lineid":704,"uuid":"9661e1e7-101b-4a49-8156-67ce7d9946d8"}
+{"index":212,"sub_uri":"Q324968","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Sergue\u00ef Vavilov","lineid":213,"uuid":"0c1c8177-1591-4826-a3a9-eb9c4be2e411"}
+{"index":277,"sub_uri":"Q1389351","obj_uri":"Q1218","obj_label":"J\u00e9rusalem","sub_label":"Mendi Rodan","lineid":278,"uuid":"834679d3-e381-467b-b2ac-91922ba56cf1"}
+{"index":85,"sub_uri":"Q3028124","obj_uri":"Q90","obj_label":"Paris","sub_label":"Dimitri Kirsanoff","lineid":85,"uuid":"8ca0b852-dd57-4417-bcd6-2fdccc4395d5"}
+{"index":472,"sub_uri":"Q1346375","obj_uri":"Q84","obj_label":"Londres","sub_label":"Robert Torrens","lineid":475,"uuid":"f3b7352c-d8cb-4596-92f3-b3dd2a670bea"}
+{"index":845,"sub_uri":"Q314221","obj_uri":"Q2634","obj_label":"Naples","sub_label":"Francesco Durante","lineid":852,"uuid":"68f9495f-9909-487e-89fc-e4851a364033"}
+{"index":202,"sub_uri":"Q175366","obj_uri":"Q84","obj_label":"Londres","sub_label":"Quintin McGarel Hogg","lineid":203,"uuid":"a4212885-606e-4c0f-a205-0c91c980218b"}
+{"index":916,"sub_uri":"Q189006","obj_uri":"Q90","obj_label":"Paris","sub_label":"Alphonse Laveran","lineid":924,"uuid":"06db5b75-889d-40dd-b6b3-31c74454a4ea"}
+{"index":371,"sub_uri":"Q630123","obj_uri":"Q6602","obj_label":"Strasbourg","sub_label":"Arbogast de Strasbourg","lineid":373,"uuid":"14038086-7cd1-4138-8f97-04aa3e482626"}
+{"index":931,"sub_uri":"Q464971","obj_uri":"Q90","obj_label":"Paris","sub_label":"Florestan I de Monaco","lineid":939,"uuid":"a66e897a-4456-4eab-9539-2b33d51d56f1"}
+{"index":279,"sub_uri":"Q84423","obj_uri":"Q1218","obj_label":"J\u00e9rusalem","sub_label":"Martin Buber","lineid":280,"uuid":"012747f8-85b2-4648-84d0-c9aaf541e67d"}
+{"index":576,"sub_uri":"Q92213","obj_uri":"Q2090","obj_label":"Nuremberg","sub_label":"Martin Schalling le jeune","lineid":582,"uuid":"610b79ab-f2e4-43d3-91b6-88a27a470d96"}
+{"index":628,"sub_uri":"Q683535","obj_uri":"Q36036","obj_label":"Lviv","sub_label":"Oswald Balzer","lineid":635,"uuid":"27e83cc2-afca-4872-bc1d-74492dd861cc"}
+{"index":509,"sub_uri":"Q2303860","obj_uri":"Q17","obj_label":"Japon","sub_label":"Jir\u014d Yoshihara","lineid":512,"uuid":"a2b01feb-0017-4338-b4d8-da9bbf2bb0df"}
+{"index":919,"sub_uri":"Q200918","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Wayne Booth","lineid":927,"uuid":"f8564497-3bda-454d-b857-792431d798f9"}
+{"index":340,"sub_uri":"Q350613","obj_uri":"Q90","obj_label":"Paris","sub_label":"Jules de Polignac","lineid":341,"uuid":"e749e661-938b-4372-90bb-1e4286166080"}
+{"index":398,"sub_uri":"Q2636468","obj_uri":"Q90","obj_label":"Paris","sub_label":"Sylvia Bataille","lineid":401,"uuid":"fd59407e-499d-404b-b4f2-d5694b188ca6"}
+{"index":20,"sub_uri":"Q448927","obj_uri":"Q90","obj_label":"Paris","sub_label":"Madame de Montesson","lineid":20,"uuid":"dc27646b-6d7c-4cd7-8676-6c44df62197c"}
+{"index":368,"sub_uri":"Q543948","obj_uri":"Q12892","obj_label":"Anvers","sub_label":"Frans Floris I","lineid":370,"uuid":"e676c5bb-9ad0-49f6-84b4-30e5f4d1bb38"}
+{"index":642,"sub_uri":"Q1441160","obj_uri":"Q2028","obj_label":"V\u00e9rone","sub_label":"Francesco Morone","lineid":649,"uuid":"e350af56-9c7e-40a2-8a3f-6f38a72d32d6"}
+{"index":438,"sub_uri":"Q1365582","obj_uri":"Q84","obj_label":"Londres","sub_label":"York Bowen","lineid":441,"uuid":"d14df0c5-0b5e-4b8d-ad9d-3d86059a9278"}
+{"index":477,"sub_uri":"Q183266","obj_uri":"Q84","obj_label":"Londres","sub_label":"Samuel Johnson","lineid":480,"uuid":"299c0a2c-60f1-4fdc-9bcb-9017aea55da1"}
+{"index":460,"sub_uri":"Q454945","obj_uri":"Q1345","obj_label":"Philadelphie","sub_label":"Charles Willson Peale","lineid":463,"uuid":"074727a7-2637-4bfd-9193-19dddad31957"}
+{"index":190,"sub_uri":"Q231997","obj_uri":"Q34664","obj_label":"Hiroshima","sub_label":"Sadako Sasaki","lineid":191,"uuid":"f5b69d41-506f-45e8-a2b9-adf8bd1ecbc9"}
+{"index":9,"sub_uri":"Q60861","obj_uri":"Q586","obj_label":"Bonn","sub_label":"August Winnecke","lineid":9,"uuid":"f2294d5f-357d-4472-938e-dc3f179424d6"}
+{"index":674,"sub_uri":"Q6309774","obj_uri":"Q100","obj_label":"Boston","sub_label":"Julius Eichberg","lineid":681,"uuid":"71947001-eae5-444d-97a6-a44cddd8be7f"}
+{"index":88,"sub_uri":"Q79022","obj_uri":"Q34713","obj_label":"Salzbourg","sub_label":"Aloysia Weber","lineid":88,"uuid":"78db0e91-6700-41fb-a8b7-7076eba3ec9b"}
+{"index":519,"sub_uri":"Q698096","obj_uri":"Q2634","obj_label":"Naples","sub_label":"Eduardo Scarpetta","lineid":524,"uuid":"7dce0988-77cf-4920-92c8-50c2301b4be1"}
+{"index":362,"sub_uri":"Q735697","obj_uri":"Q84","obj_label":"Londres","sub_label":"John Selden","lineid":364,"uuid":"aed217db-1571-4974-a61c-8a3e6ea43fc5"}
+{"index":262,"sub_uri":"Q603952","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"Antonio Ozores Puchol","lineid":263,"uuid":"268dbf93-4bae-4c7a-90fb-2224c090662b"}
+{"index":389,"sub_uri":"Q553682","obj_uri":"Q956","obj_label":"P\u00e9kin","sub_label":"Bo Yibo","lineid":392,"uuid":"dcbd4c7e-726e-4dee-bd40-ed08bfc3b871"}
+{"index":185,"sub_uri":"Q243419","obj_uri":"Q84","obj_label":"Londres","sub_label":"Julian Huxley","lineid":186,"uuid":"342e48a7-b20a-48ac-95b6-790ec12a78c9"}
+{"index":596,"sub_uri":"Q117611","obj_uri":"Q78","obj_label":"B\u00e2le","sub_label":"Sebastian Henricpetri","lineid":603,"uuid":"2282200e-cba7-483f-8082-343ebc0a7033"}
+{"index":144,"sub_uri":"Q381039","obj_uri":"Q84","obj_label":"Londres","sub_label":"John Wilkins","lineid":144,"uuid":"9ba7b1fa-fd12-4a9e-b794-0f438ce9f59a"}
+{"index":484,"sub_uri":"Q1394376","obj_uri":"Q90","obj_label":"Paris","sub_label":"Maximilien Rubel","lineid":487,"uuid":"deb4607a-f58a-425a-b064-d9b0df1ec1c0"}
+{"index":36,"sub_uri":"Q303765","obj_uri":"Q1794","obj_label":"Francfort-sur-le-Main","sub_label":"Eliakim Carmoly","lineid":36,"uuid":"4423ef1a-993c-4350-9bb9-edfb27f4b345"}
+{"index":450,"sub_uri":"Q1042372","obj_uri":"Q495","obj_label":"Turin","sub_label":"Carlo Parola","lineid":453,"uuid":"4a7e37b7-0b84-48bd-91ce-2eb178dd8c63"}
+{"index":614,"sub_uri":"Q332466","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"Claudio Coello","lineid":621,"uuid":"bbf309e6-6d79-4ec8-bb25-d81c424c71d5"}
+{"index":875,"sub_uri":"Q946277","obj_uri":"Q641","obj_label":"Venise","sub_label":"Daniel Bomberg","lineid":882,"uuid":"f28307cc-3d2e-4143-8275-d59c5c5dd3a3"}
+{"index":591,"sub_uri":"Q7426300","obj_uri":"Q1348","obj_label":"Calcutta","sub_label":"Satish Ranjan Das","lineid":598,"uuid":"82d0fa9d-5ce6-40cf-845c-9ed3e956e884"}
+{"index":758,"sub_uri":"Q336794","obj_uri":"Q727","obj_label":"Amsterdam","sub_label":"Jan Swammerdam","lineid":765,"uuid":"1471b850-1d05-441c-bfca-6e68f4e71ef2"}
+{"index":263,"sub_uri":"Q1192715","obj_uri":"Q220","obj_label":"Rome","sub_label":"Pier Francesco Mola","lineid":264,"uuid":"ccf44eae-4996-4384-b778-e2c9db12387d"}
+{"index":847,"sub_uri":"Q7349182","obj_uri":"Q3130","obj_label":"Sydney","sub_label":"Robert Raymond","lineid":854,"uuid":"73509af0-fca1-4115-b917-78c6e8274192"}
+{"index":91,"sub_uri":"Q515858","obj_uri":"Q1787206","obj_label":"Windsor","sub_label":"Oliver Ellsworth","lineid":91,"uuid":"bfa7d440-5f8e-42b2-a1dd-6335e7b82c98"}
+{"index":184,"sub_uri":"Q330554","obj_uri":"Q90","obj_label":"Paris","sub_label":"Oscar Bardi de Fourtou","lineid":185,"uuid":"39024d0b-1920-454b-96ce-6be4e65cb089"}
+{"index":333,"sub_uri":"Q257493","obj_uri":"Q641","obj_label":"Venise","sub_label":"Veronica Franco","lineid":334,"uuid":"0e697415-ff48-4083-832f-ea4d9188d7b7"}
+{"index":797,"sub_uri":"Q117840","obj_uri":"Q2044","obj_label":"Florence","sub_label":"Nicolas II","lineid":804,"uuid":"5fc3dea2-ef68-4dd0-9de3-dc21d1e25dda"}
+{"index":548,"sub_uri":"Q478602","obj_uri":"Q2044","obj_label":"Florence","sub_label":"Francesco Curradi","lineid":554,"uuid":"7913efb8-bbfb-4464-b3e3-cdbcc54ccb32"}
+{"index":114,"sub_uri":"Q2510207","obj_uri":"Q270","obj_label":"Varsovie","sub_label":"Jerzy Zawieyski","lineid":114,"uuid":"63c2b802-0caf-4a09-a17b-24b8d12a5f41"}
+{"index":837,"sub_uri":"Q2093685","obj_uri":"Q220","obj_label":"Rome","sub_label":"Pierre Le Gros le jeune","lineid":844,"uuid":"45216ea7-0b55-43ba-8017-08a1ab8dfa64"}
+{"index":905,"sub_uri":"Q2833186","obj_uri":"Q6346","obj_label":"Indianapolis","sub_label":"Alexander Ralston","lineid":912,"uuid":"01d733cb-9f3f-4150-b2aa-1865b3d0a2c7"}
+{"index":604,"sub_uri":"Q467368","obj_uri":"Q270","obj_label":"Varsovie","sub_label":"Agnieszka Osiecka","lineid":611,"uuid":"1bffa6ac-c352-47fb-9572-337e5531cfc6"}
+{"index":607,"sub_uri":"Q215597","obj_uri":"Q84","obj_label":"Londres","sub_label":"Benno Elkan","lineid":614,"uuid":"54ed7f71-23a9-4800-9789-db5719b13c8f"}
+{"index":906,"sub_uri":"Q234335","obj_uri":"Q172","obj_label":"Toronto","sub_label":"Jane Jacobs","lineid":913,"uuid":"da9684aa-46f3-44dc-9bbe-c53f2e798e71"}
+{"index":780,"sub_uri":"Q872887","obj_uri":"Q18094","obj_label":"Honolulu","sub_label":"Heinrich Berger","lineid":787,"uuid":"e8b04c44-8ec9-4fa1-9fd1-8f185e559372"}
+{"index":3,"sub_uri":"Q536566","obj_uri":"Q83065","obj_label":"Leicester","sub_label":"Laurel Aitken","lineid":3,"uuid":"a7239566-254f-4e82-9567-b6f3f56d49a5"}
+{"index":763,"sub_uri":"Q2163271","obj_uri":"Q3141","obj_label":"Melbourne","sub_label":"Rolf Boldrewood","lineid":770,"uuid":"776a3dce-eb5d-4313-8256-794b69a8efca"}
+{"index":68,"sub_uri":"Q426235","obj_uri":"Q90","obj_label":"Paris","sub_label":"Pierre Sancan","lineid":68,"uuid":"b3147209-c08c-48dc-afaa-6d74af6babbc"}
+{"index":336,"sub_uri":"Q3363318","obj_uri":"Q1748","obj_label":"Copenhague","sub_label":"Anton Dorph","lineid":337,"uuid":"f58e9a06-b338-472d-8879-8221827e4588"}
+{"index":447,"sub_uri":"Q713971","obj_uri":"Q188096","obj_label":"Penang","sub_label":"Lim Chong Eu","lineid":450,"uuid":"7443ae89-d834-4c41-a00b-e3c4174242e5"}
+{"index":686,"sub_uri":"Q333393","obj_uri":"Q2044","obj_label":"Florence","sub_label":"Jean de M\u00e9dicis","lineid":693,"uuid":"787de6c3-511f-49cc-b816-7410503616f8"}
+{"index":15,"sub_uri":"Q357815","obj_uri":"Q2280","obj_label":"Minsk","sub_label":"Isaac Boleslavski","lineid":15,"uuid":"912de01d-1563-43f0-b6aa-a6f8a23eaace"}
+{"index":723,"sub_uri":"Q315835","obj_uri":"Q2044","obj_label":"Florence","sub_label":"Taddeo Gaddi","lineid":730,"uuid":"a06c7ec3-b37f-49b4-aae1-698082c2370e"}
+{"index":877,"sub_uri":"Q1781286","obj_uri":"Q585","obj_label":"Oslo","sub_label":"Gregers Gram","lineid":884,"uuid":"9c003ef2-1d10-4726-9a6f-dbeebf8b9cae"}
+{"index":420,"sub_uri":"Q818079","obj_uri":"Q397905","obj_label":"Columbia","sub_label":"Benny Waters","lineid":423,"uuid":"a3b48c55-2e03-4b91-b613-2e88e1d96e67"}
+{"index":172,"sub_uri":"Q212963","obj_uri":"Q100","obj_label":"Boston","sub_label":"Samuel Adams","lineid":172,"uuid":"efbd9e25-e274-4dc2-aad0-946afcd02859"}
+{"index":615,"sub_uri":"Q46479","obj_uri":"Q1754","obj_label":"Stockholm","sub_label":"Zarah Leander","lineid":622,"uuid":"053e49cc-31a7-4834-a163-18f6d35653b1"}
+{"index":442,"sub_uri":"Q722999","obj_uri":"Q1720","obj_label":"Mayence","sub_label":"Erhard Reuwich","lineid":445,"uuid":"d1030a3e-8959-4a6d-b887-33c39b1ea27d"}
+{"index":260,"sub_uri":"Q154842","obj_uri":"Q90","obj_label":"Paris","sub_label":"Max Ernst","lineid":261,"uuid":"2cff0774-86bd-429d-a63d-3134a73490fd"}
+{"index":739,"sub_uri":"Q130631","obj_uri":"Q90","obj_label":"Paris","sub_label":"Jacques Derrida","lineid":746,"uuid":"f65697b1-7598-4b1f-8b9b-bd22ce7fa3cb"}
+{"index":100,"sub_uri":"Q440388","obj_uri":"Q1754","obj_label":"Stockholm","sub_label":"Kurt Atterberg","lineid":100,"uuid":"b9584053-58e9-44b3-a09e-ec14cbecce8a"}
+{"index":717,"sub_uri":"Q1452782","obj_uri":"Q1345","obj_label":"Philadelphie","sub_label":"August Wenderoth","lineid":724,"uuid":"a2f1dc27-25a0-437c-997f-e500eef2f34e"}
+{"index":74,"sub_uri":"Q186359","obj_uri":"Q90","obj_label":"Paris","sub_label":"Jean-Pierre Rampal","lineid":74,"uuid":"beb55fe5-6f74-456f-b3be-8e8e4ce96d27"}
+{"index":776,"sub_uri":"Q183226","obj_uri":"Q220","obj_label":"Rome","sub_label":"Charles IV d'Espagne","lineid":783,"uuid":"79107299-17b0-4077-a8ae-c481fef52e9b"}
+{"index":737,"sub_uri":"Q1136048","obj_uri":"Q2044","obj_label":"Florence","sub_label":"Cosimo Bartoli","lineid":744,"uuid":"b21cb8d3-c9c6-47a2-a1c3-959e88906b1d"}
+{"index":343,"sub_uri":"Q152265","obj_uri":"Q5838","obj_label":"Kaboul","sub_label":"Mohammad Zaher Shah","lineid":344,"uuid":"d56542fb-fcd7-4847-84e5-c77f28657e23"}
+{"index":500,"sub_uri":"Q154949","obj_uri":"Q90","obj_label":"Paris","sub_label":"Jean Gallon","lineid":503,"uuid":"e348a7f8-7475-471e-86c0-d0bbe8f651be"}
+{"index":159,"sub_uri":"Q313598","obj_uri":"Q1867","obj_label":"Taipei","sub_label":"Chiang Ching-kuo","lineid":159,"uuid":"4814a416-1ecc-4ce7-ba9e-fa69e9dc5b12"}
+{"index":366,"sub_uri":"Q2148044","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Abraham Begeyn","lineid":368,"uuid":"407c16b3-84fa-4ceb-b61b-a6c172c0b245"}
+{"index":668,"sub_uri":"Q355643","obj_uri":"Q90","obj_label":"Paris","sub_label":"Jean-Charles Pichegru","lineid":675,"uuid":"22af95b5-7c73-47da-a7ef-c8c27ffe2218"}
+{"index":649,"sub_uri":"Q367910","obj_uri":"Q597","obj_label":"Lisbonne","sub_label":"Mariano Gago","lineid":656,"uuid":"fe61291e-3b6b-45e3-83cc-54bde5756a62"}
+{"index":754,"sub_uri":"Q1028466","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Cap Anson","lineid":761,"uuid":"92c54bda-686b-4a53-b1c5-ac5d6c305b6b"}
+{"index":286,"sub_uri":"Q1397162","obj_uri":"Q1400","obj_label":"Pennsylvanie","sub_label":"Humphry Marshall","lineid":287,"uuid":"faf3b861-026e-4006-aad1-b7246f8bd653"}
+{"index":755,"sub_uri":"Q1690749","obj_uri":"Q727","obj_label":"Amsterdam","sub_label":"Joan Huydecoper van Maarsseveen","lineid":762,"uuid":"f5f3b0db-246a-469c-9f07-4285e18760db"}
+{"index":377,"sub_uri":"Q529591","obj_uri":"Q84","obj_label":"Londres","sub_label":"Anthony Caro","lineid":379,"uuid":"766bb156-6147-4d05-9095-e41144d76536"}
+{"index":933,"sub_uri":"Q7292622","obj_uri":"Q1361","obj_label":"Hyderabad","sub_label":"Ranganath","lineid":941,"uuid":"8fb3925a-7895-4367-9b40-64354f911efe"}
+{"index":293,"sub_uri":"Q441625","obj_uri":"Q727","obj_label":"Amsterdam","sub_label":"Alida Withoos","lineid":294,"uuid":"894a5bdd-3322-4dca-a768-775ccba4fc20"}
+{"index":796,"sub_uri":"Q215129","obj_uri":"Q2079","obj_label":"Leipzig","sub_label":"Adam Friedrich Oeser","lineid":803,"uuid":"0eb8777e-2118-4350-aa25-56762ea966de"}
+{"index":211,"sub_uri":"Q78906","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Moritz Steinschneider","lineid":212,"uuid":"dc23c92e-9711-4926-a818-586541c51ef9"}
+{"index":659,"sub_uri":"Q949162","obj_uri":"Q1891","obj_label":"Bologne","sub_label":"Alessandro Achillini","lineid":666,"uuid":"5133cdf1-101f-412b-9a14-960e37a05177"}
+{"index":155,"sub_uri":"Q250338","obj_uri":"Q641","obj_label":"Venise","sub_label":"Leonardo Donato","lineid":155,"uuid":"a694d8b8-89f0-48c3-a3d5-1dde1c5998db"}
+{"index":852,"sub_uri":"Q881248","obj_uri":"Q174224","obj_label":"Wilmington","sub_label":"John McKinly","lineid":859,"uuid":"87b1ebd9-fd92-4baa-bc15-0438a3ef9f30"}
+{"index":406,"sub_uri":"Q494675","obj_uri":"Q585","obj_label":"Oslo","sub_label":"Roald Aas","lineid":409,"uuid":"f4bcb442-36d4-480b-aec4-6510f5361a61"}
+{"index":125,"sub_uri":"Q264239","obj_uri":"Q84","obj_label":"Londres","sub_label":"John Broadwood","lineid":125,"uuid":"96c4b4f5-4fe3-4f2b-b3eb-97de96afd459"}
+{"index":770,"sub_uri":"Q5422966","obj_uri":"Q585","obj_label":"Oslo","sub_label":"Eyolf Soot","lineid":777,"uuid":"ecf1a78d-d1c8-44a1-8443-fb325da7fa9d"}
+{"index":247,"sub_uri":"Q179149","obj_uri":"Q1524","obj_label":"Ath\u00e8nes","sub_label":"Antisth\u00e8ne","lineid":248,"uuid":"9d2f6bc4-45f5-4318-9ab8-bf6c01f71b6f"}
+{"index":566,"sub_uri":"Q16062504","obj_uri":"Q1410","obj_label":"Gibraltar","sub_label":"Leicester Smyth","lineid":572,"uuid":"c095beb9-2899-4b84-b5f7-4faca6f5c72a"}
+{"index":338,"sub_uri":"Q233552","obj_uri":"Q87","obj_label":"Alexandrie","sub_label":"Militza de Mont\u00e9n\u00e9gro","lineid":339,"uuid":"cbf1e6c5-a825-4cdc-8bd5-4b967991044f"}
+{"index":665,"sub_uri":"Q11758","obj_uri":"Q270","obj_label":"Varsovie","sub_label":"Louis-Lazare Zamenhof","lineid":672,"uuid":"0fcc0c88-4326-43d9-9c17-a261e1b5dc7d"}
+{"index":709,"sub_uri":"Q470641","obj_uri":"Q1492","obj_label":"Barcelone","sub_label":"Charles de Viane","lineid":716,"uuid":"2a50f35c-23ff-4946-ac5d-80176d2c00b6"}
+{"index":120,"sub_uri":"Q1329275","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Eliezer Landshuth","lineid":120,"uuid":"67fd0952-9c0c-486a-a516-8c3ba03c6b3a"}
+{"index":435,"sub_uri":"Q152293","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Aram Khatchatourian","lineid":438,"uuid":"8c30dbce-b20b-4e82-a5fc-f605aa252538"}
+{"index":895,"sub_uri":"Q1515355","obj_uri":"Q6346","obj_label":"Indianapolis","sub_label":"Sylvia Likens","lineid":902,"uuid":"a6cd18ec-9329-44ce-9888-520e4e665b38"}
+{"index":736,"sub_uri":"Q726029","obj_uri":"Q84","obj_label":"Londres","sub_label":"Granville Sharp","lineid":743,"uuid":"acd351e4-2cd8-4843-9b1b-4a1d39320c67"}
+{"index":687,"sub_uri":"Q3382675","obj_uri":"Q2044","obj_label":"Florence","sub_label":"Pier Dandini","lineid":694,"uuid":"f38f6257-524c-4286-b426-edcef218f4c2"}
+{"index":578,"sub_uri":"Q481407","obj_uri":"Q100","obj_label":"Boston","sub_label":"Alexander Rich","lineid":584,"uuid":"ff97fcdb-16b6-400c-8ce6-e6bafb71df0c"}
+{"index":729,"sub_uri":"Q2086906","obj_uri":"Q23276","obj_label":"Surrey","sub_label":"Rudolf Besier","lineid":736,"uuid":"f332de58-e267-4aa5-86af-97775ada50e3"}
+{"index":415,"sub_uri":"Q3063511","obj_uri":"Q1345","obj_label":"Philadelphie","sub_label":"Oscar Charleston","lineid":418,"uuid":"49dc3311-ca28-45e5-9201-89aab96814cd"}
+{"index":499,"sub_uri":"Q2440034","obj_uri":"Q2634","obj_label":"Naples","sub_label":"Francesco di Maria","lineid":502,"uuid":"b6e9845e-e5a0-4a4c-b175-9c51535be63c"}
+{"index":298,"sub_uri":"Q3541260","obj_uri":"Q19660","obj_label":"Bucarest","sub_label":"George Murnu","lineid":299,"uuid":"d6c250e3-f03b-4665-a1b8-6d63c13957f4"}
+{"index":786,"sub_uri":"Q252516","obj_uri":"Q18419","obj_label":"Brooklyn","sub_label":"Sean Price","lineid":793,"uuid":"1602b757-3b5a-4064-be59-6b3305330285"}
+{"index":752,"sub_uri":"Q168539","obj_uri":"Q84","obj_label":"Londres","sub_label":"Karl Friedrich Abel","lineid":759,"uuid":"ac9aaf55-81ae-4082-9b7c-97edf90e70d7"}
+{"index":199,"sub_uri":"Q91899","obj_uri":"Q2966","obj_label":"Heidelberg","sub_label":"Reinhard III, Count of Hanau","lineid":200,"uuid":"0b2bc605-b25c-40b3-aa6e-736a75df1d8f"}
+{"index":75,"sub_uri":"Q76448","obj_uri":"Q1726","obj_label":"Munich","sub_label":"Johann Andreas Schmeller","lineid":75,"uuid":"781334cc-57d5-4fb1-aaab-cb9ab55890dc"}
+{"index":413,"sub_uri":"Q16854106","obj_uri":"Q220","obj_label":"Rome","sub_label":"Giovanni Battista Ricci","lineid":416,"uuid":"0b90612a-cf50-4c68-8207-cd007e1cf21f"}
+{"index":233,"sub_uri":"Q8069015","obj_uri":"Q37320","obj_label":"Cleveland","sub_label":"Zenas King","lineid":234,"uuid":"b81a3638-2854-4dfb-b82b-4bad157557c8"}
+{"index":592,"sub_uri":"Q455549","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Hugo Lederer","lineid":599,"uuid":"42213363-8df0-4a99-b93f-8d5b25e90190"}
+{"index":561,"sub_uri":"Q472270","obj_uri":"Q90","obj_label":"Paris","sub_label":"Max Nordau","lineid":567,"uuid":"ca044eb4-92e4-40c1-9145-d25d3ec8d0df"}
+{"index":139,"sub_uri":"Q218960","obj_uri":"Q84","obj_label":"Londres","sub_label":"Laurence Sterne","lineid":139,"uuid":"e0eacfb2-2b4a-4ff1-a855-360784f4f2e1"}
+{"index":407,"sub_uri":"Q5437917","obj_uri":"Q9248","obj_label":"Bakou","sub_label":"Fatma Mukhtarova","lineid":410,"uuid":"954ebf79-8209-42eb-a954-bb56709b8650"}
+{"index":886,"sub_uri":"Q87457","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Ernst Dohm","lineid":893,"uuid":"d7f338a1-de11-49d1-9530-d180f5c065f1"}
+{"index":426,"sub_uri":"Q1374708","obj_uri":"Q84","obj_label":"Londres","sub_label":"George Alexander Macfarren","lineid":429,"uuid":"ea0fb9fe-d767-4f59-b195-8118ca3ded12"}
+{"index":533,"sub_uri":"Q230898","obj_uri":"Q90","obj_label":"Paris","sub_label":"Fr\u00e9d\u00e9gonde","lineid":538,"uuid":"12fd3c25-e3cb-4620-b83a-4f537e92944f"}
+{"index":749,"sub_uri":"Q37098","obj_uri":"Q17151","obj_label":"Thessalonique","sub_label":"Michel IX Pal\u00e9ologue","lineid":756,"uuid":"c091190d-8596-4c13-845b-e00f217f0a3f"}
+{"index":105,"sub_uri":"Q470140","obj_uri":"Q23436","obj_label":"\u00c9dimbourg","sub_label":"James Young Simpson","lineid":105,"uuid":"8deee387-f1a5-4ddb-b277-49faba2a5603"}
+{"index":619,"sub_uri":"Q1042763","obj_uri":"Q597","obj_label":"Lisbonne","sub_label":"Carlos Botelho","lineid":626,"uuid":"d65b0c7f-fd52-41d9-9cd6-6b8c0277e0a5"}
+{"index":380,"sub_uri":"Q223419","obj_uri":"Q55741","obj_label":"\u00c1ngeles","sub_label":"Manuel Roxas","lineid":383,"uuid":"5eb36d67-ffa4-4444-9205-0f411596d763"}
+{"index":724,"sub_uri":"Q3172235","obj_uri":"Q740756","obj_label":"Stratford","sub_label":"Jean Gascon","lineid":731,"uuid":"9be999a5-2e9e-4bca-9281-548b0ed0fcdc"}
+{"index":268,"sub_uri":"Q2734017","obj_uri":"Q25322","obj_label":"Arctique","sub_label":"Finn Malmgren","lineid":269,"uuid":"4f8fcd01-1ce2-471c-a7da-c5ec41c834e0"}
+{"index":97,"sub_uri":"Q114845","obj_uri":"Q2749","obj_label":"Augsbourg","sub_label":"Afre d'Augsbourg","lineid":97,"uuid":"bcf7227b-1f94-4a2f-b5dc-650ab87c287f"}
+{"index":856,"sub_uri":"Q190884","obj_uri":"Q649","obj_label":"Moscou","sub_label":"Viktor Tchernomyrdine","lineid":863,"uuid":"2f78cf6f-4a10-463b-8a94-c93b23006ee9"}
+{"index":879,"sub_uri":"Q1126746","obj_uri":"Q90","obj_label":"Paris","sub_label":"Conrad Busken Huet","lineid":886,"uuid":"3cad1244-e5a9-4bd8-b418-6bfdc9d5b7af"}
+{"index":356,"sub_uri":"Q15504960","obj_uri":"Q1930","obj_label":"Ottawa","sub_label":"Malak Karsh","lineid":357,"uuid":"ca6a9146-64d8-46ed-ad4a-7b86d2f05651"}
+{"index":897,"sub_uri":"Q999233","obj_uri":"Q727","obj_label":"Amsterdam","sub_label":"Hans Bol","lineid":904,"uuid":"d57e5814-ad42-4235-ada9-f0d3a41dabbd"}
+{"index":299,"sub_uri":"Q1701450","obj_uri":"Q990940","obj_label":"Oxford","sub_label":"John Pont","lineid":300,"uuid":"75d31a22-2171-46af-a888-ae3ca946cefb"}
+{"index":27,"sub_uri":"Q302176","obj_uri":"Q84","obj_label":"Londres","sub_label":"Henry De la Beche","lineid":27,"uuid":"823b8a62-09fd-4b15-835f-03522dd18644"}
+{"index":795,"sub_uri":"Q2478274","obj_uri":"Q84","obj_label":"Londres","sub_label":"Tara Browne","lineid":802,"uuid":"80921fcc-5a5d-4074-8e5c-2253d4ea5464"}
+{"index":35,"sub_uri":"Q55264","obj_uri":"Q34006","obj_label":"Hollywood","sub_label":"Charles Laughton","lineid":35,"uuid":"e9e1fc06-82b1-4543-92c8-64c84c9c92c2"}
+{"index":490,"sub_uri":"Q1826958","obj_uri":"Q220","obj_label":"Rome","sub_label":"Enrico Barone","lineid":493,"uuid":"52bddd2c-0e50-4154-bc2c-a4f68e25bf95"}
+{"index":473,"sub_uri":"Q817970","obj_uri":"Q84","obj_label":"Londres","sub_label":"Benno Moiseiwitsch","lineid":476,"uuid":"4712642d-cdbd-49fe-8e74-229e5c461ca7"}
+{"index":756,"sub_uri":"Q2556248","obj_uri":"Q90","obj_label":"Paris","sub_label":"Anne de Gonzague de Cl\u00e8ves","lineid":763,"uuid":"eb32bf15-7a42-4756-9a40-77e7d8ac553b"}
+{"index":677,"sub_uri":"Q1522649","obj_uri":"Q220","obj_label":"Rome","sub_label":"Gianni Toti","lineid":684,"uuid":"4f87b085-aadc-4f7b-b5bc-06eb9217bc63"}
+{"index":302,"sub_uri":"Q60751","obj_uri":"Q2773","obj_label":"Brunswick","sub_label":"Johann Heinrich Blasius","lineid":303,"uuid":"d1053958-1eec-409f-af09-875a6a912453"}
+{"index":911,"sub_uri":"Q1681320","obj_uri":"Q12439","obj_label":"D\u00e9troit","sub_label":"James Witherell","lineid":919,"uuid":"d15adb1d-80c0-4027-bebf-72eccd28d4cc"}
+{"index":704,"sub_uri":"Q185450","obj_uri":"Q5838","obj_label":"Kaboul","sub_label":"Pierre Louis Napoleon Cavagnari","lineid":711,"uuid":"352021be-eaa8-44eb-ab31-227db22d56f6"}
+{"index":731,"sub_uri":"Q185710","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Jack McGurn","lineid":738,"uuid":"93b92466-9ff3-4b3f-904e-41f3b2777685"}
+{"index":347,"sub_uri":"Q948466","obj_uri":"Q585","obj_label":"Oslo","sub_label":"Jan Werner Danielsen","lineid":348,"uuid":"7a2751ed-b5ba-4978-a4d6-457e9d58d71c"}
+{"index":662,"sub_uri":"Q8459","obj_uri":"Q641","obj_label":"Venise","sub_label":"Giorgione","lineid":669,"uuid":"79c88d55-9885-4894-8729-cf3c971ef89e"}
+{"index":104,"sub_uri":"Q53018","obj_uri":"Q90","obj_label":"Paris","sub_label":"Marco Ferreri","lineid":104,"uuid":"ab906efe-cc8d-41e7-a82b-35218e8ba2ec"}
+{"index":436,"sub_uri":"Q332626","obj_uri":"Q2634","obj_label":"Naples","sub_label":"Francesco Crispi","lineid":439,"uuid":"ef551756-5ef7-4733-abf0-3ef45cb4cd80"}
+{"index":423,"sub_uri":"Q1121876","obj_uri":"Q8652","obj_label":"Miami","sub_label":"Edward Leedskalnin","lineid":426,"uuid":"704e9c35-568f-4a63-8551-0fa4fbc1e2af"}
+{"index":232,"sub_uri":"Q549786","obj_uri":"Q84","obj_label":"Londres","sub_label":"John Soane","lineid":233,"uuid":"e9055be5-57d3-4dc6-b482-1253dee0c1e0"}
+{"index":17,"sub_uri":"Q433486","obj_uri":"Q727","obj_label":"Amsterdam","sub_label":"Gillis Valckenier","lineid":17,"uuid":"ae354b4c-7e47-4e0f-8532-ded693f85eae"}

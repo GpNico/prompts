@@ -1,0 +1,88 @@
+{"index":97,"sub_uri":"Q49740","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Minecraft","lineid":463,"uuid":"04c2c4ae-bfb6-461f-abb5-ec557ed6f898"}
+{"index":11,"sub_uri":"Q13361286","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Xbox One","lineid":19,"uuid":"182347ac-e696-45ca-a46c-05a734864cfc"}
+{"index":44,"sub_uri":"Q9334","obj_uri":"Q95","obj_label":"Google","sub_label":"Gmail","lineid":112,"uuid":"653979aa-28b6-47e0-bb48-23a2cded4c19"}
+{"index":18,"sub_uri":"Q18168774","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Windows 10","lineid":35,"uuid":"3abe9d51-227f-460d-ac6c-d5c1c29cbc95"}
+{"index":25,"sub_uri":"Q83370","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Windows 95","lineid":51,"uuid":"cc5296bd-1561-49ba-a933-2d266152a1aa"}
+{"index":106,"sub_uri":"Q17298682","obj_uri":"Q95","obj_label":"Google","sub_label":"Android TV","lineid":545,"uuid":"57382105-0752-4a19-a5d4-abfba8114049"}
+{"index":108,"sub_uri":"Q1973127","obj_uri":"Q37156","obj_label":"IBM","sub_label":"Dynix","lineid":552,"uuid":"824eea78-e827-48f1-a88d-53d7145ab1e3"}
+{"index":28,"sub_uri":"Q71694","obj_uri":"Q37093","obj_label":"Yahoo!","sub_label":"Yahoo! Messenger","lineid":62,"uuid":"92c7c0d2-a7c0-46b4-8c40-4b3877a68c12"}
+{"index":48,"sub_uri":"Q12013","obj_uri":"Q95","obj_label":"Google","sub_label":"Google Maps","lineid":125,"uuid":"c5a8ab04-d134-4bbf-8665-2cb8a72b2bfe"}
+{"index":13,"sub_uri":"Q83303","obj_uri":"Q37156","obj_label":"IBM","sub_label":"Fortran","lineid":23,"uuid":"7f51529d-fe81-41ae-b467-8a0b2530e039"}
+{"index":109,"sub_uri":"Q51707","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft Security Essentials","lineid":556,"uuid":"d8013d45-5028-44a1-9c15-89cdf55ab4bf"}
+{"index":65,"sub_uri":"Q489048","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft Silverlight","lineid":202,"uuid":"bce3f508-26a9-4d02-9cb1-c2a60a220230"}
+{"index":63,"sub_uri":"Q42274","obj_uri":"Q95","obj_label":"Google","sub_label":"Google Earth","lineid":198,"uuid":"0d52f813-1cc3-46e9-b1a5-b274e24f98ad"}
+{"index":88,"sub_uri":"Q889578","obj_uri":"Q66","obj_label":"Boeing","sub_label":"Boeing KC-767","lineid":407,"uuid":"eaded9ef-9052-4456-a9ca-ab83f27581d9"}
+{"index":53,"sub_uri":"Q9589","obj_uri":"Q312","obj_label":"Apple Inc.","sub_label":"iTunes","lineid":152,"uuid":"543de842-63af-4772-afbd-f7bd9082cf97"}
+{"index":92,"sub_uri":"Q748319","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Windows NT 3.1","lineid":426,"uuid":"726406b3-ae4a-4edd-83d3-60ecdf256e10"}
+{"index":24,"sub_uri":"Q904519","obj_uri":"Q312","obj_label":"Apple Inc.","sub_label":"Mac OS 9","lineid":46,"uuid":"68e26dee-b58e-4975-8fd3-4d46d7f7a6d5"}
+{"index":58,"sub_uri":"Q183480","obj_uri":"Q95","obj_label":"Google","sub_label":"Google AdSense","lineid":166,"uuid":"825d4bd2-c440-4ad6-9aee-892d2c6e3bf4"}
+{"index":86,"sub_uri":"Q368338","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft Publisher","lineid":399,"uuid":"261e4238-9598-40ae-b4c9-93350b454ee1"}
+{"index":19,"sub_uri":"Q221257","obj_uri":"Q248","obj_label":"Intel","sub_label":"Pentium II","lineid":37,"uuid":"f1c9912a-261b-4146-825f-2daa1d318dc1"}
+{"index":27,"sub_uri":"Q335162","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft FrontPage","lineid":57,"uuid":"cc628bd7-f227-4c19-976a-d29583ddb88c"}
+{"index":90,"sub_uri":"Q968663","obj_uri":"Q66","obj_label":"Boeing","sub_label":"F-15SE Silent Eagle","lineid":415,"uuid":"0b205d37-cc62-4886-ada6-af85e162448f"}
+{"index":107,"sub_uri":"Q17318432","obj_uri":"Q95","obj_label":"Google","sub_label":"Android Auto","lineid":547,"uuid":"a9201549-13ac-4a85-a631-da73b7d11d19"}
+{"index":84,"sub_uri":"Q777","obj_uri":"Q95","obj_label":"Google","sub_label":"Google Chrome","lineid":391,"uuid":"180ca455-8708-4413-9448-cdf30a078314"}
+{"index":36,"sub_uri":"Q129793","obj_uri":"Q11463","obj_label":"Adobe","sub_label":"Adobe Photoshop","lineid":83,"uuid":"3d501a1f-7302-4972-967a-9cb70395100b"}
+{"index":83,"sub_uri":"Q863568","obj_uri":"Q37156","obj_label":"IBM","sub_label":"PC-DOS","lineid":377,"uuid":"be26b03b-89d0-4462-bfbb-2eaf80fba6d4"}
+{"index":78,"sub_uri":"Q7754665","obj_uri":"Q122741","obj_label":"Sega","sub_label":"The Ocean Hunter","lineid":292,"uuid":"6faaabd9-284c-49e5-b4df-0fd1338adc63"}
+{"index":22,"sub_uri":"Q589680","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Xenix","lineid":43,"uuid":"7262e8af-3159-40c5-ae41-6071371355b3"}
+{"index":66,"sub_uri":"Q14094","obj_uri":"Q312","obj_label":"Apple Inc.","sub_label":"IPod Touch","lineid":203,"uuid":"7baddd2e-f967-403a-ab4f-c06b146c3a65"}
+{"index":29,"sub_uri":"Q42332","obj_uri":"Q11463","obj_label":"Adobe","sub_label":"Portable Document Format","lineid":66,"uuid":"339c6795-9950-45e5-a9e7-e9f5ced84932"}
+{"index":104,"sub_uri":"Q7854718","obj_uri":"Q95","obj_label":"Google","sub_label":"Google Keep","lineid":525,"uuid":"a256ef96-faca-4171-9ab5-b2aa4657dfb7"}
+{"index":87,"sub_uri":"Q1123788","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft Works","lineid":401,"uuid":"0423a9e6-9785-4810-9748-9c46be433c71"}
+{"index":49,"sub_uri":"Q5289","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":".NET Framework","lineid":140,"uuid":"3c698f3c-9c04-4c99-a2cf-4da1d1825979"}
+{"index":20,"sub_uri":"Q11272","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft Excel","lineid":39,"uuid":"5e7b9fbf-d5c2-4f2a-a54f-a9582ef17785"}
+{"index":0,"sub_uri":"Q14116","obj_uri":"Q312","obj_label":"Apple Inc.","sub_label":"macOS","lineid":1,"uuid":"936ce37a-b081-4808-a5a7-9b1f09d9d275"}
+{"index":72,"sub_uri":"Q80689","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft Access","lineid":258,"uuid":"d9d3a679-b96b-4ef9-aadd-b85ee55b5e33"}
+{"index":110,"sub_uri":"Q753609","obj_uri":"Q207922","obj_label":"Atari","sub_label":"Atari QDOS","lineid":566,"uuid":"9275632f-c835-4237-ad21-b6dc401e2a54"}
+{"index":8,"sub_uri":"Q188695","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"DirectX","lineid":16,"uuid":"a2cc4343-9e80-424e-8705-7bc705f7dee0"}
+{"index":17,"sub_uri":"Q213423","obj_uri":"Q248","obj_label":"Intel","sub_label":"Intel 80486","lineid":34,"uuid":"b712dfb3-5f24-4678-8db1-b1b428434523"}
+{"index":1,"sub_uri":"Q48493","obj_uri":"Q312","obj_label":"Apple Inc.","sub_label":"iOS","lineid":2,"uuid":"09bad806-c913-446c-aeb7-3cd6a47cf5b9"}
+{"index":3,"sub_uri":"Q218170","obj_uri":"Q11463","obj_label":"Adobe","sub_label":"PostScript","lineid":6,"uuid":"22250a62-230c-4870-a510-f30392ad000e"}
+{"index":54,"sub_uri":"Q485021","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Windows 2.0","lineid":154,"uuid":"afe5134a-c812-4197-8e6f-52f5634692e1"}
+{"index":76,"sub_uri":"Q13231451","obj_uri":"Q95","obj_label":"Google","sub_label":"Google Hangout","lineid":282,"uuid":"713d57d3-fed0-4c0a-bdbe-1d0ac7cc5031"}
+{"index":74,"sub_uri":"Q215819","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft SQL Server","lineid":277,"uuid":"74370fac-ca77-4e0b-9d16-e387ec184cfc"}
+{"index":52,"sub_uri":"Q34825","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Windows Phone 8","lineid":151,"uuid":"63a652e9-c4b5-434c-9c37-4b555b3dbc73"}
+{"index":15,"sub_uri":"Q207539","obj_uri":"Q248","obj_label":"Intel","sub_label":"Intel 8086","lineid":31,"uuid":"ed37899a-2f75-41bc-9f2d-68f8cc355583"}
+{"index":14,"sub_uri":"Q58378","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Windows 1.0","lineid":25,"uuid":"f7fa2861-0d77-400b-a28d-7130e0f7604f"}
+{"index":82,"sub_uri":"Q82268","obj_uri":"Q37156","obj_label":"IBM","sub_label":"Eclipse","lineid":346,"uuid":"f7470791-e690-47c2-80a2-c2a1a505c6e0"}
+{"index":64,"sub_uri":"Q271982","obj_uri":"Q95","obj_label":"Google","sub_label":"Google AdWords","lineid":200,"uuid":"9d6d5cc0-0e37-401a-b6d0-3f3fc1cf22cf"}
+{"index":50,"sub_uri":"Q383295","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Windows Update","lineid":144,"uuid":"0d015efd-b10d-4a60-821d-94a30435abb0"}
+{"index":73,"sub_uri":"Q18010946","obj_uri":"Q312","obj_label":"Apple Inc.","sub_label":"Apple Watch","lineid":265,"uuid":"1ae22e24-6b8d-4d71-94fa-345ed7c771e4"}
+{"index":77,"sub_uri":"Q40984","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Skype","lineid":284,"uuid":"faf916eb-1d27-47f1-a6b4-f0e46af4ccac"}
+{"index":31,"sub_uri":"Q360355","obj_uri":"Q11463","obj_label":"Adobe","sub_label":"Adobe PageMaker","lineid":69,"uuid":"9ec5591d-6e4d-41e0-ae41-9b3bb98b7ed1"}
+{"index":2,"sub_uri":"Q35773","obj_uri":"Q312","obj_label":"Apple Inc.","sub_label":"Safari","lineid":3,"uuid":"11d3c18b-82c6-4d86-b172-3e49a2901ef2"}
+{"index":12,"sub_uri":"Q47604","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"MS-DOS","lineid":22,"uuid":"d97222d8-4d9e-42d4-bab3-0ef3405af7a3"}
+{"index":94,"sub_uri":"Q758853","obj_uri":"Q312","obj_label":"Apple Inc.","sub_label":"AIFF","lineid":445,"uuid":"6b87b0c9-438c-4e91-8fb8-743adda2ef54"}
+{"index":69,"sub_uri":"Q621312","obj_uri":"Q312","obj_label":"Apple Inc.","sub_label":"Apple Pippin","lineid":247,"uuid":"08519978-c148-4fda-ac01-fd1ee2fae849"}
+{"index":21,"sub_uri":"Q11255","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft Office","lineid":40,"uuid":"a077b0de-c841-4871-b312-6feec9b2656b"}
+{"index":99,"sub_uri":"Q270309","obj_uri":"Q41187","obj_label":"Sony","sub_label":"Universal Media Disc","lineid":475,"uuid":"8b4e34d9-5227-4ee4-bff0-51fc2e9bc3fa"}
+{"index":100,"sub_uri":"Q15940106","obj_uri":"Q312","obj_label":"Apple Inc.","sub_label":"Apple CarPlay","lineid":481,"uuid":"35e667b7-9b60-419a-aff6-c532ac63d364"}
+{"index":70,"sub_uri":"Q83382","obj_uri":"Q248","obj_label":"Intel","sub_label":"Pentium III","lineid":253,"uuid":"2d7c533b-46a9-416b-80e1-f9f597803c1c"}
+{"index":43,"sub_uri":"Q1053749","obj_uri":"Q312","obj_label":"Apple Inc.","sub_label":"HyperCard","lineid":108,"uuid":"542fe834-36e0-4617-bc6f-247a6f227979"}
+{"index":46,"sub_uri":"Q11266","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft PowerPoint","lineid":118,"uuid":"ba8e1625-a823-4478-b2c8-83771fd1939d"}
+{"index":51,"sub_uri":"Q174534","obj_uri":"Q66","obj_label":"Boeing","sub_label":"B-52 Stratofortress","lineid":146,"uuid":"c495e752-5d6b-4901-b47f-b630b9065619"}
+{"index":71,"sub_uri":"Q83380","obj_uri":"Q11463","obj_label":"Adobe","sub_label":"Adobe After Effects","lineid":255,"uuid":"b5fb9938-c62d-4308-88a9-92a9c73b17b9"}
+{"index":5,"sub_uri":"Q1575","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Internet Explorer","lineid":12,"uuid":"9ab8c821-49ae-4c92-a7dc-df7bab1afb9c"}
+{"index":38,"sub_uri":"Q11248","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Windows XP","lineid":94,"uuid":"e11b4972-24f7-4e7e-ac28-b5122d31d9ef"}
+{"index":91,"sub_uri":"Q851356","obj_uri":"Q11463","obj_label":"Adobe","sub_label":"Macromedia FreeHand","lineid":425,"uuid":"684c6bf7-4b3b-4088-b3bf-175f1557c9de"}
+{"index":10,"sub_uri":"Q48263","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Xbox 360","lineid":18,"uuid":"e92f3f09-336c-44ee-b37e-9a8d8fad6b73"}
+{"index":75,"sub_uri":"Q9340","obj_uri":"Q95","obj_label":"Google","sub_label":"Google Drive","lineid":281,"uuid":"4c9046c8-2fbe-4cdc-b30d-59d7672fcfd6"}
+{"index":98,"sub_uri":"Q6486","obj_uri":"Q67","obj_label":"Airbus","sub_label":"Airbus Beluga","lineid":467,"uuid":"10ae97a1-d358-4315-bb89-b06a36ed7af3"}
+{"index":105,"sub_uri":"Q15961745","obj_uri":"Q95","obj_label":"Google","sub_label":"Wear OS","lineid":542,"uuid":"8c2493ee-9d40-42a1-9aaf-9ab75a048530"}
+{"index":35,"sub_uri":"Q214314","obj_uri":"Q248","obj_label":"Intel","sub_label":"Intel Pentium","lineid":82,"uuid":"9bb43d9e-c055-44b0-ab17-4b81d80c223f"}
+{"index":56,"sub_uri":"Q215016","obj_uri":"Q11463","obj_label":"Adobe","sub_label":"Adobe Illustrator","lineid":163,"uuid":"8bd9e049-e707-43f5-8a9c-f8fe9c4f6cdb"}
+{"index":101,"sub_uri":"Q218387","obj_uri":"Q183275","obj_label":"Mitsubishi","sub_label":"Mitsubishi F1M","lineid":483,"uuid":"08ed5600-7bc4-4b01-a811-a1a703889ebb"}
+{"index":45,"sub_uri":"Q644542","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft Office 2007","lineid":115,"uuid":"b788a906-d80f-4f78-9931-15ca0e833fe3"}
+{"index":42,"sub_uri":"Q9479","obj_uri":"Q312","obj_label":"Apple Inc.","sub_label":"iPod","lineid":106,"uuid":"363cb5d6-fb37-4e92-9358-58cdba202dcf"}
+{"index":85,"sub_uri":"Q14253532","obj_uri":"Q95","obj_label":"Google","sub_label":"Chromecast","lineid":392,"uuid":"afee9791-c4d9-4ba5-a153-818db5eaae40"}
+{"index":6,"sub_uri":"Q80911","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft Outlook","lineid":14,"uuid":"7c2927f2-77e3-4d40-a9fd-21eddc217a8a"}
+{"index":67,"sub_uri":"Q249075","obj_uri":"Q207922","obj_label":"Atari","sub_label":"Atari 8-bitna obitelj","lineid":230,"uuid":"1f76fc8d-fa59-42d8-9a1d-3637fc578c1a"}
+{"index":39,"sub_uri":"Q483881","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Windows 2000","lineid":95,"uuid":"eae33cdc-0715-40ac-b804-ba35761d5bb4"}
+{"index":26,"sub_uri":"Q483132","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Windows 98","lineid":55,"uuid":"da21f34e-4036-4b3a-b2d7-d3a6b6b6cf54"}
+{"index":59,"sub_uri":"Q11215","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Windows 7","lineid":168,"uuid":"08f925f1-5dc4-46cb-a31f-fe709f754a04"}
+{"index":96,"sub_uri":"Q484892","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Windows Me","lineid":448,"uuid":"f3c9afaa-d2c2-424a-8004-36588210c1aa"}
+{"index":62,"sub_uri":"Q1581373","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Office Mobile 2010","lineid":192,"uuid":"5ecd154e-d1da-4007-9079-f0bb11621c63"}
+{"index":68,"sub_uri":"Q79576","obj_uri":"Q95","obj_label":"Google","sub_label":"Google Play","lineid":235,"uuid":"e731131e-44a8-4e8c-997e-f5f1e7476cf3"}
+{"index":79,"sub_uri":"Q706480","obj_uri":"Q2283","obj_label":"Microsoft","sub_label":"Microsoft OneNote","lineid":302,"uuid":"8b2cfb33-1264-4351-bc5f-275214a2f293"}
+{"index":93,"sub_uri":"Q6488","obj_uri":"Q67","obj_label":"Airbus","sub_label":"Airbus A320neo","lineid":428,"uuid":"ecc0b72a-5298-4287-8e03-c996149917da"}

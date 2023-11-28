@@ -1,0 +1,39 @@
+{"index":37,"relation":"P103","template":"[X]: n \u00e4idinkieli on [Y]."}
+{"index":10,"relation":"P364","template":"[X]: n alkuper\u00e4inen kieli on [Y]."}
+{"index":19,"relation":"P176","template":"[X] tuottaa [Y]."}
+{"index":27,"relation":"P108","template":"[X] toimii kohteelle [Y]."}
+{"index":12,"relation":"P463","template":"[X] on j\u00e4senen [Y] j\u00e4sen."}
+{"index":21,"relation":"P407","template":"[X] kirjoitettiin kielell\u00e4 [Y]."}
+{"index":31,"relation":"P264","template":"[X] edustaa musiikkitarra [Y]."}
+{"index":35,"relation":"P1303","template":"[X] pelaa [Y]."}
+{"index":24,"relation":"P1376","template":"[X] on [Y]: n p\u00e4\u00e4kaupunki."}
+{"index":47,"relation":"place_of_birth","template":"[X] syntyi [Y]."}
+{"index":32,"relation":"P276","template":"[X] sijaitsee kohdassa [Y]."}
+{"index":20,"relation":"P27","template":"[X] on [Y] kansalainen."}
+{"index":18,"relation":"P530","template":"[X] yll\u00e4pit\u00e4\u00e4 diplomaattisuhteita [Y]: n kanssa."}
+{"index":44,"relation":"P740","template":"[X] perustettiin [Y]."}
+{"index":38,"relation":"P190","template":"[X] ja [Y] ovat yst\u00e4vyyskaupunkeja."}
+{"index":40,"relation":"P31","template":"[X] on [Y]."}
+{"index":26,"relation":"P1412","template":"[X] kommunikoitiin [Y]: ss\u00e4."}
+{"index":33,"relation":"P937","template":"[X] ty\u00f6skenteli aikaisemmin [Y]."}
+{"index":36,"relation":"P127","template":"[X] omistaa [Y]."}
+{"index":8,"relation":"P47","template":"[X] jakaa rajan [Y]: n kanssa."}
+{"index":39,"relation":"P1001","template":"[X] on oikeudellinen termi kohdassa [Y]."}
+{"index":11,"relation":"P54","template":"[X] pelaa kanssa [Y]."}
+{"index":22,"relation":"P30","template":"[X] sijaitsee kohdassa [Y]."}
+{"index":23,"relation":"P178","template":"[X] on kehitt\u00e4nyt [Y]."}
+{"index":25,"relation":"P131","template":"[X] sijaitsee kohdassa [Y]."}
+{"index":48,"relation":"place_of_death","template":"[X] kuoli [Y]: ss\u00e4."}
+{"index":16,"relation":"P527","template":"[X] koostuu [Y]."}
+{"index":14,"relation":"P1923","template":"[Y] osallistui tapahtumaan [X]."}
+{"index":2,"relation":"P279","template":"[X] on alaluokka kohdasta [Y]."}
+{"index":29,"relation":"P17","template":"[X] sijaitsee kohdassa [Y]."}
+{"index":7,"relation":"P69","template":"[X] sai koulutuksen [Y] -yliopistossa."}
+{"index":9,"relation":"P138","template":"[X] on nimetty [Y]."}
+{"index":0,"relation":"P19","template":"[X] syntyi [Y]."}
+{"index":45,"relation":"P361","template":"[X] on osa [Y]."}
+{"index":42,"relation":"P159","template":"P\u00e4\u00e4konttori [X] sijaitsee [Y]."}
+{"index":17,"relation":"P102","template":"[X] on [Y] -poliittisen puolueen j\u00e4sen."}
+{"index":43,"relation":"P36","template":"P\u00e4\u00e4oman [X] p\u00e4\u00e4oma on [Y]."}
+{"index":13,"relation":"P101","template":"[X] toimii kent\u00e4ss\u00e4 [Y]."}
+{"index":6,"relation":"P449","template":"[X] esitettiin alun perin [Y]: ss\u00e4."}

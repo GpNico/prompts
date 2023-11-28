@@ -1,0 +1,634 @@
+{"index":26,"sub_uri":"Q41967","obj_uri":"Q980","obj_label":"Bavarija","sub_label":"Auk\u0161tutin\u0117 Austrija","lineid":34,"uuid":"c3347c96-8160-45a9-9e28-8fe534d19f5e"}
+{"index":94,"sub_uri":"Q140646","obj_uri":"Q43194","obj_label":"Junanas","sub_label":"Ka\u010din\u0173 valstija","lineid":113,"uuid":"d3d02182-00c1-4117-89ad-6d56522c4055"}
+{"index":182,"sub_uri":"Q1212","obj_uri":"Q1221","obj_label":"Aidahas","sub_label":"Montana","lineid":222,"uuid":"481e0b5c-b7f1-421e-8482-a4133c8a2b48"}
+{"index":755,"sub_uri":"Q851","obj_uri":"Q810","obj_label":"Jordanija","sub_label":"Saudo Arabija","lineid":878,"uuid":"aa7731d6-1794-4a19-8def-313e78211599"}
+{"index":734,"sub_uri":"Q148","obj_uri":"Q837","obj_label":"Nepalas","sub_label":"Kinijos Liaudies Respublika","lineid":851,"uuid":"49c2e89c-59cf-49b3-a7b9-f3a0c1fdb432"}
+{"index":698,"sub_uri":"Q810","obj_uri":"Q858","obj_label":"Sirija","sub_label":"Jordanija","lineid":812,"uuid":"573a3cc7-5171-4e53-8e04-2ff557d6d199"}
+{"index":15,"sub_uri":"Q724238","obj_uri":"Q12892","obj_label":"Antverpenas","sub_label":"\u0116degemas","lineid":22,"uuid":"4079fe7e-dc67-44d9-b273-f135078dfa99"}
+{"index":547,"sub_uri":"Q23103","obj_uri":"Q23064","obj_label":"\u010ce\u0161yras","sub_label":"\u0160rop\u0161yras","lineid":634,"uuid":"51e77719-0dce-485f-ac98-c15b3dd6259c"}
+{"index":516,"sub_uri":"Q48","obj_uri":"Q15","obj_label":"Afrika","sub_label":"Azija","lineid":597,"uuid":"16ce007b-2ab4-49d8-918a-b91ecb26ddc7"}
+{"index":100,"sub_uri":"Q23098","obj_uri":"Q23106","obj_label":"Lester\u0161yras","sub_label":"Derbi\u0161yras","lineid":121,"uuid":"341f5644-c908-4d64-b652-cf03bd536b34"}
+{"index":437,"sub_uri":"Q527808","obj_uri":"Q12892","obj_label":"Antverpenas","sub_label":"Veinegemas","lineid":508,"uuid":"a875e51a-eec1-49b2-9b0a-5aefccc14578"}
+{"index":277,"sub_uri":"Q227","obj_uri":"Q399","obj_label":"Arm\u0117nija","sub_label":"Azerbaid\u017eanas","lineid":329,"uuid":"c301cd06-cb0d-459c-bf93-ed7ffcaf44c2"}
+{"index":39,"sub_uri":"Q218","obj_uri":"Q217","obj_label":"Moldavija","sub_label":"Rumunija","lineid":49,"uuid":"64600f64-adaa-47b5-8014-6b58cfe6e797"}
+{"index":455,"sub_uri":"Q458","obj_uri":"Q403","obj_label":"Serbija","sub_label":"Europos S\u0105junga","lineid":528,"uuid":"09bde7c7-de3a-48e3-8d73-565e2a9e08a2"}
+{"index":635,"sub_uri":"Q910410","obj_uri":"Q2807","obj_label":"Madridas","sub_label":"Tres Kantosas","lineid":737,"uuid":"67b02932-6d57-4a1f-91de-06e4c6828f78"}
+{"index":679,"sub_uri":"Q916","obj_uri":"Q1030","obj_label":"Namibija","sub_label":"Angola","lineid":789,"uuid":"4711999f-5fc6-4138-a49d-d2ef3e251378"}
+{"index":364,"sub_uri":"Q318418","obj_uri":"Q239","obj_label":"Briuselis","sub_label":"Vilvord\u0117","lineid":428,"uuid":"17758d9d-fb78-4470-a0e0-4a2489cd8e9e"}
+{"index":27,"sub_uri":"Q21208","obj_uri":"Q956","obj_label":"Pekinas","sub_label":"Hebei","lineid":35,"uuid":"5c704aea-d049-4498-bed9-de97b669cd3a"}
+{"index":512,"sub_uri":"Q23169","obj_uri":"Q23229","obj_label":"Bakingam\u0161yras","sub_label":"Oksford\u0161yras","lineid":593,"uuid":"dafd991f-7050-42cb-a18d-ac96fbd7b7be"}
+{"index":687,"sub_uri":"Q36","obj_uri":"Q37","obj_label":"Lietuva","sub_label":"Lenkija","lineid":799,"uuid":"669af4aa-198d-4a22-9d41-a7e092104f25"}
+{"index":625,"sub_uri":"Q42946","obj_uri":"Q490","obj_label":"Milanas","sub_label":"Trecano sul Naviljas","lineid":726,"uuid":"26dde209-6a24-48c0-8bf6-c8eca1b3f18e"}
+{"index":584,"sub_uri":"Q166304","obj_uri":"Q38733","obj_label":"Helena","sub_label":"Billings","lineid":676,"uuid":"6255c8d5-1b02-4ad9-b171-6dd94293f092"}
+{"index":490,"sub_uri":"Q3224","obj_uri":"Q36074","obj_label":"Kvinslandas","sub_label":"Naujasis Piet\u0173 Velsas","lineid":567,"uuid":"a6d8fffe-2b73-4146-aca7-4eae05eb2d4a"}
+{"index":475,"sub_uri":"Q4628","obj_uri":"Q189","obj_label":"Islandija","sub_label":"Farerai","lineid":550,"uuid":"2d4ac384-9b91-4e3c-b923-f34401191d5d"}
+{"index":73,"sub_uri":"Q47397","obj_uri":"Q1308","obj_label":"Komas","sub_label":"Montano Lu\u010dinas","lineid":90,"uuid":"e85db9fc-6ecb-45e4-888f-9e97bba89cb4"}
+{"index":167,"sub_uri":"Q27000","obj_uri":"Q2656","obj_label":"Palermas","sub_label":"Bagerija","lineid":204,"uuid":"2591ca54-0972-4a9d-9b6f-1e53bbfdfc83"}
+{"index":693,"sub_uri":"Q1439","obj_uri":"Q1612","obj_label":"Arkanzasas","sub_label":"Teksasas","lineid":807,"uuid":"6fe31654-e486-49ed-a182-537bdfa552aa"}
+{"index":161,"sub_uri":"Q1008765","obj_uri":"Q209096","obj_label":"Bernlis","sub_label":"Klaiteras","lineid":198,"uuid":"49635df5-f4a1-4a6a-8c9f-9e538e0d6be4"}
+{"index":438,"sub_uri":"Q16746854","obj_uri":"Q212","obj_label":"Ukraina","sub_label":"Luhansko Liaudies Respublika","lineid":509,"uuid":"e297eb88-233b-4435-8f52-63e058968e58"}
+{"index":741,"sub_uri":"Q458","obj_uri":"Q219","obj_label":"Bulgarija","sub_label":"Europos S\u0105junga","lineid":860,"uuid":"bf5a6300-f8a0-4239-8bc6-7d05e41a2999"}
+{"index":265,"sub_uri":"Q1227","obj_uri":"Q816","obj_label":"Arizona","sub_label":"Nevada","lineid":316,"uuid":"0809d1d5-77cc-4f39-83b4-dc926a4e35d9"}
+{"index":129,"sub_uri":"Q1546","obj_uri":"Q1527","obj_label":"Minesota","sub_label":"Ajova","lineid":159,"uuid":"f3b6e2c5-1d3b-46aa-a768-bff6117188b9"}
+{"index":169,"sub_uri":"Q100829","obj_uri":"Q2683","obj_label":"Parma","sub_label":"Langiranas","lineid":206,"uuid":"550fa0eb-02ca-4480-a580-7bb283cd19ef"}
+{"index":632,"sub_uri":"Q100846","obj_uri":"Q2683","obj_label":"Parma","sub_label":"Montekjarugolas","lineid":734,"uuid":"6576c84f-5830-4459-9023-d0e7cf61b62c"}
+{"index":502,"sub_uri":"Q488398","obj_uri":"Q585","obj_label":"Oslas","sub_label":"Luneras","lineid":583,"uuid":"8be96fa3-1969-4e47-8783-11a00779259e"}
+{"index":138,"sub_uri":"Q82670","obj_uri":"Q2044","obj_label":"Florencija","sub_label":"Fiesol\u0117","lineid":170,"uuid":"4b078a2a-ce85-4d78-9c3e-62690e881924"}
+{"index":78,"sub_uri":"Q759","obj_uri":"Q771","obj_label":"Masa\u010dusetsas","sub_label":"Naujasis Hamp\u0161yras","lineid":95,"uuid":"0608c6c6-a49f-487a-b161-9dc1ecbc6853"}
+{"index":699,"sub_uri":"Q23334","obj_uri":"Q159","obj_label":"Rusija","sub_label":"Abchazija","lineid":814,"uuid":"1b406499-9396-4e42-ae3e-6df4bc853d67"}
+{"index":655,"sub_uri":"Q218","obj_uri":"Q403","obj_label":"Serbija","sub_label":"Rumunija","lineid":762,"uuid":"fb5616a7-ad8d-4167-9f2a-423d32d4209a"}
+{"index":4,"sub_uri":"Q23106","obj_uri":"Q23090","obj_label":"Linkoln\u0161yras","sub_label":"Lester\u0161yras","lineid":5,"uuid":"06bc4862-cab3-477a-8518-de725aa55137"}
+{"index":735,"sub_uri":"Q51828","obj_uri":"Q3519","obj_label":"Baris","sub_label":"D\u017eovinacas","lineid":852,"uuid":"474adaee-8d9a-4ce6-ad92-0ab21a9ad03b"}
+{"index":361,"sub_uri":"Q1509","obj_uri":"Q1494","obj_label":"Misisip\u0117","sub_label":"Tenesis","lineid":425,"uuid":"87fc4981-052e-4669-a603-7be34f47d487"}
+{"index":152,"sub_uri":"Q1494","obj_uri":"Q1509","obj_label":"Tenesis","sub_label":"Misisip\u0117","lineid":188,"uuid":"12cd5cd5-bd7d-4f9c-abbd-48c94d3a1dbc"}
+{"index":624,"sub_uri":"Q16967","obj_uri":"Q8686","obj_label":"\u0160anchajus","sub_label":"D\u017eedziangas","lineid":725,"uuid":"c7aea386-0831-4e1e-83ec-5da640a7323f"}
+{"index":615,"sub_uri":"Q23066","obj_uri":"Q23077","obj_label":"Lanka\u0161yras","sub_label":"Kambrija","lineid":714,"uuid":"040bef12-5424-43b8-bc8d-c9363a42437d"}
+{"index":776,"sub_uri":"Q82842","obj_uri":"Q2044","obj_label":"Florencija","sub_label":"Skandi\u010dis","lineid":903,"uuid":"9ff52baf-ce1d-4e77-85aa-d82ea2f92f5a"}
+{"index":728,"sub_uri":"Q50618","obj_uri":"Q585","obj_label":"Oslas","sub_label":"Biuskeriudas","lineid":844,"uuid":"61f7f01a-5019-4ac6-8dc7-65655de3d76f"}
+{"index":442,"sub_uri":"Q9085","obj_uri":"Q1461","obj_label":"Manila","sub_label":"Manadalujongas","lineid":514,"uuid":"9d087c1d-c425-4e33-85b2-ca043a4419ab"}
+{"index":748,"sub_uri":"Q173","obj_uri":"Q812","obj_label":"Florida","sub_label":"Alabama","lineid":869,"uuid":"1bad8d4f-a49d-4943-ac23-43a20637f84b"}
+{"index":626,"sub_uri":"Q1454","obj_uri":"Q1428","obj_label":"D\u017eord\u017eija","sub_label":"\u0160iaur\u0117s Karolina","lineid":727,"uuid":"33ddb138-63a0-4e9d-8642-2e28ed647681"}
+{"index":336,"sub_uri":"Q65","obj_uri":"Q494690","obj_label":"Karsonas","sub_label":"Los And\u017eelas","lineid":397,"uuid":"5ed1749a-571d-4972-ab53-47977d47b717"}
+{"index":164,"sub_uri":"Q878","obj_uri":"Q842","obj_label":"Omanas","sub_label":"Jungtiniai Arab\u0173 Emyratai","lineid":201,"uuid":"85eb1494-a282-4f7d-84e7-a2a6c14a61b2"}
+{"index":369,"sub_uri":"Q23092","obj_uri":"Q23106","obj_label":"Lester\u0161yras","sub_label":"Notingam\u0161yras","lineid":435,"uuid":"2e2ccaea-6665-48ea-9bbd-7fff9c2abf4c"}
+{"index":767,"sub_uri":"Q1553","obj_uri":"Q1546","obj_label":"Ajova","sub_label":"Nebraska","lineid":892,"uuid":"f696e650-a78c-4a6d-aefc-2123304af1b6"}
+{"index":500,"sub_uri":"Q7172","obj_uri":"Q657","obj_label":"\u010cadas","sub_label":"Arab\u0173 Lyga","lineid":579,"uuid":"d02f7c28-85fc-4f26-8b68-c4fe5744ede9"}
+{"index":427,"sub_uri":"Q1371","obj_uri":"Q1391","obj_label":"Merilandas","sub_label":"Vakar\u0173 Vird\u017einija","lineid":498,"uuid":"f5421f63-11b2-4e29-aa18-0db103f160e7"}
+{"index":517,"sub_uri":"Q183","obj_uri":"Q31","obj_label":"Belgija","sub_label":"Vokietija","lineid":599,"uuid":"d824e145-d3c5-4843-b52f-e27a8629f2e0"}
+{"index":296,"sub_uri":"Q1227","obj_uri":"Q824","obj_label":"Oregonas","sub_label":"Nevada","lineid":349,"uuid":"b1224d38-af47-45f9-9b74-a9c9196f4030"}
+{"index":201,"sub_uri":"Q218","obj_uri":"Q28","obj_label":"Vengrija","sub_label":"Rumunija","lineid":243,"uuid":"997cc72a-63df-4f96-9b5d-66d99eb2e9e7"}
+{"index":157,"sub_uri":"Q739","obj_uri":"Q717","obj_label":"Venesuela","sub_label":"Kolumbija","lineid":193,"uuid":"9a04f419-f3aa-457a-ae2f-c80aee2378aa"}
+{"index":82,"sub_uri":"Q1408","obj_uri":"Q1393","obj_label":"Delaveras","sub_label":"Naujasis D\u017eersis","lineid":99,"uuid":"19cb9a13-7c76-4d1e-8dbc-8dd2e9133930"}
+{"index":608,"sub_uri":"Q43005","obj_uri":"Q490","obj_label":"Milanas","sub_label":"Sesto San D\u017eovanis","lineid":705,"uuid":"6a6df95f-0ea3-4f26-91a2-002c5697211d"}
+{"index":640,"sub_uri":"Q242710","obj_uri":"Q220","obj_label":"Roma","sub_label":"Gvidonija Monte\u010delijus","lineid":745,"uuid":"232f2cc9-7e6a-4ab1-9386-83c90ae92f26"}
+{"index":786,"sub_uri":"Q210036","obj_uri":"Q159","obj_label":"Rusija","sub_label":"I\u010dkerijos \u010de\u010d\u0117n\u0173 respublika","lineid":914,"uuid":"265e20df-6742-476f-820e-b68e429dfbad"}
+{"index":710,"sub_uri":"Q1400","obj_uri":"Q1904","obj_label":"Ontarijas","sub_label":"Pensilvanija","lineid":825,"uuid":"5a1adc92-c7d9-4500-9ffa-debc8fac46c5"}
+{"index":620,"sub_uri":"Q148","obj_uri":"Q843","obj_label":"Pakistanas","sub_label":"Kinijos Liaudies Respublika","lineid":721,"uuid":"3b7f5e2b-d498-413a-bff0-f18bb85cb394"}
+{"index":733,"sub_uri":"Q79923","obj_uri":"Q60158","obj_label":"Gereras","sub_label":"Puebla","lineid":850,"uuid":"6b409fd7-9cee-4ed2-a5b7-aa1bcc4b944d"}
+{"index":379,"sub_uri":"Q141844","obj_uri":"Q1930","obj_label":"Otava","sub_label":"Gatinou","lineid":446,"uuid":"bf2926f0-4570-4f3f-ad98-19d03fa38b67"}
+{"index":113,"sub_uri":"Q1000","obj_uri":"Q1009","obj_label":"Kamer\u016bnas","sub_label":"Gabonas","lineid":135,"uuid":"ad58c708-30c8-419a-a175-e21f8c1f80e9"}
+{"index":414,"sub_uri":"Q1205","obj_uri":"Q1199","obj_label":"Hesenas","sub_label":"Tiuringija","lineid":484,"uuid":"16aad82d-5b92-450a-b2b8-627acc4ee25c"}
+{"index":209,"sub_uri":"Q423","obj_uri":"Q17","obj_label":"Japonija","sub_label":"\u0160iaur\u0117s Kor\u0117ja","lineid":252,"uuid":"6bd2350d-d428-4a99-b80e-b5184c93c4d5"}
+{"index":417,"sub_uri":"Q16957","obj_uri":"Q33946","obj_label":"\u010cekoslovakija","sub_label":"Vokietijos Demokratin\u0117 Respublika","lineid":487,"uuid":"5cb57bdc-8ef8-450b-bec0-6c5371d0b7e7"}
+{"index":402,"sub_uri":"Q47281","obj_uri":"Q641","obj_label":"Venecija","sub_label":"Jezolas","lineid":469,"uuid":"a4efb57d-3ff7-441e-9aff-bf7bd240e95b"}
+{"index":52,"sub_uri":"Q845148","obj_uri":"Q33959","obj_label":"Nica","sub_label":"Colomars","lineid":64,"uuid":"472f8334-19b7-4a91-a524-c18ab0a57a96"}
+{"index":90,"sub_uri":"Q170462","obj_uri":"Q179029","obj_label":"Sabahas","sub_label":"Saravakas","lineid":109,"uuid":"54fd33c5-2037-43b5-b4b6-8c4f9656a50a"}
+{"index":457,"sub_uri":"Q786","obj_uri":"Q790","obj_label":"Haitis","sub_label":"Dominikos Respublika","lineid":530,"uuid":"adf8dabf-9f6d-4676-a56f-dac90652ecc2"}
+{"index":548,"sub_uri":"Q945","obj_uri":"Q962","obj_label":"Beninas","sub_label":"Togas","lineid":635,"uuid":"36911d7b-ac5d-4a11-a9be-bbf9c3ba8e74"}
+{"index":76,"sub_uri":"Q458","obj_uri":"Q35","obj_label":"Danija","sub_label":"Europos S\u0105junga","lineid":93,"uuid":"61ccd1c4-4ff1-44c1-a571-5e0a5e32923b"}
+{"index":542,"sub_uri":"Q29999","obj_uri":"Q142","obj_label":"Pranc\u016bzija","sub_label":"Nyderlandai","lineid":628,"uuid":"b64a0d29-2053-4fee-822c-46eb46fb0fc4"}
+{"index":451,"sub_uri":"Q37","obj_uri":"Q36","obj_label":"Lenkija","sub_label":"Lietuva","lineid":524,"uuid":"20a494de-5480-4c3b-a916-e52c98aca2f4"}
+{"index":180,"sub_uri":"Q458","obj_uri":"Q36704","obj_label":"Jugoslavija","sub_label":"Europos S\u0105junga","lineid":219,"uuid":"519e65a3-c6c1-482b-bb7b-dbb924058cd4"}
+{"index":419,"sub_uri":"Q774","obj_uri":"Q96","obj_label":"Meksika","sub_label":"Gvatemala","lineid":489,"uuid":"e4629cae-303b-4c4e-938e-d75dea808d24"}
+{"index":10,"sub_uri":"Q29","obj_uri":"Q45","obj_label":"Portugalija","sub_label":"Ispanija","lineid":15,"uuid":"d8a9cfd2-9052-4907-ad7c-d371d5cda1bb"}
+{"index":690,"sub_uri":"Q750","obj_uri":"Q733","obj_label":"Paragvajus","sub_label":"Bolivija","lineid":802,"uuid":"a610d80b-da45-4659-82a2-39c5dbe143f7"}
+{"index":592,"sub_uri":"Q43433","obj_uri":"Q1174","obj_label":"Harjana","sub_label":"\u010candigarchas","lineid":686,"uuid":"565b17b2-a348-47d6-a2d4-f6e387aac50e"}
+{"index":543,"sub_uri":"Q494720","obj_uri":"Q49243","obj_label":"Rivesaidas","sub_label":"Moreno sl\u0117nis","lineid":629,"uuid":"cbf7ab34-9854-45d9-9cdb-2bb82ad5ae9c"}
+{"index":607,"sub_uri":"Q188612","obj_uri":"Q1781","obj_label":"Budape\u0161tas","sub_label":"Pe\u0161tas","lineid":704,"uuid":"a59530db-2b36-4854-9720-5b3ad709e556"}
+{"index":5,"sub_uri":"Q23115","obj_uri":"Q23169","obj_label":"Oksford\u0161yras","sub_label":"Nortampton\u0161yras","lineid":9,"uuid":"3b61caf9-8a01-4b93-917a-de5d3b555069"}
+{"index":388,"sub_uri":"Q953","obj_uri":"Q1030","obj_label":"Namibija","sub_label":"Zambija","lineid":455,"uuid":"93f823e2-60ae-4ee7-84d8-dd5e936ba58f"}
+{"index":390,"sub_uri":"Q218","obj_uri":"Q219","obj_label":"Bulgarija","sub_label":"Rumunija","lineid":457,"uuid":"af779faf-7064-4146-866f-a9468865d06b"}
+{"index":588,"sub_uri":"Q3224","obj_uri":"Q36687","obj_label":"Viktorija","sub_label":"Naujasis Piet\u0173 Velsas","lineid":682,"uuid":"b336d2aa-c64c-40bf-a4fa-289eefeb5cbf"}
+{"index":86,"sub_uri":"Q55","obj_uri":"Q183","obj_label":"Vokietija","sub_label":"Nyderlandai","lineid":104,"uuid":"803d1b1d-3ef0-4655-8045-9471d1d43668"}
+{"index":240,"sub_uri":"Q193877","obj_uri":"Q90","obj_label":"Pary\u017eius","sub_label":"Ivry-sur-Seine","lineid":289,"uuid":"e4badc25-363f-44be-ad55-b44b46971c60"}
+{"index":220,"sub_uri":"Q794","obj_uri":"Q889","obj_label":"Afganistanas","sub_label":"Iranas","lineid":263,"uuid":"a8aa9cc9-bbfa-4d68-b4c4-8b27a10716d4"}
+{"index":706,"sub_uri":"Q80914","obj_uri":"Q60130","obj_label":"Verakrusas","sub_label":"Tabaskas","lineid":821,"uuid":"437981de-3115-43d2-81fa-b7f173fe9d73"}
+{"index":738,"sub_uri":"Q18426","obj_uri":"Q18424","obj_label":"Kvinsas","sub_label":"Bronksas","lineid":857,"uuid":"d81b6967-6c04-4a0f-ac99-b139758584cd"}
+{"index":473,"sub_uri":"Q6253","obj_uri":"Q365","obj_label":"Kelnas","sub_label":"Reino-Noiso apskritis","lineid":548,"uuid":"04a548e5-5502-4260-84d1-105b5ab7fa7c"}
+{"index":69,"sub_uri":"Q1146785","obj_uri":"Q8717","obj_label":"Sevilija","sub_label":"Rinkonada","lineid":84,"uuid":"9d80ef46-de33-4159-905f-4e35af983283"}
+{"index":754,"sub_uri":"Q72221","obj_uri":"Q2634","obj_label":"Neapolis","sub_label":"Marano di Napolis","lineid":877,"uuid":"0435b90e-56dd-4f43-a4b0-a7fda1694a19"}
+{"index":279,"sub_uri":"Q23105","obj_uri":"Q23064","obj_label":"\u010ce\u0161yras","sub_label":"Staford\u0161yras","lineid":331,"uuid":"f1068421-0291-4b15-911c-84e972c358b8"}
+{"index":260,"sub_uri":"Q347","obj_uri":"Q39","obj_label":"\u0160veicarija","sub_label":"Lichten\u0161teinas","lineid":310,"uuid":"41ef48f5-cc57-4dc2-b31b-ccc90113efb5"}
+{"index":349,"sub_uri":"Q3139","obj_uri":"Q1216","obj_label":"Pjemontas","sub_label":"Paj\u016brio Alp\u0117s","lineid":412,"uuid":"880f84c2-14bc-4da1-a7da-52d918651eaa"}
+{"index":255,"sub_uri":"Q23111","obj_uri":"Q23240","obj_label":"Eseksas","sub_label":"Safolkas","lineid":304,"uuid":"22e94e9c-7086-4413-bf13-a7a1b1963f3d"}
+{"index":541,"sub_uri":"Q1204","obj_uri":"Q1581","obj_label":"Mis\u016bris","sub_label":"Ilinojus","lineid":626,"uuid":"6ae3caa3-efaa-4a34-a777-bbff643b4efe"}
+{"index":176,"sub_uri":"Q1029","obj_uri":"Q1020","obj_label":"Malavis","sub_label":"Mozambikas","lineid":213,"uuid":"1edc94d2-7d66-4fdf-a952-8688842fd458"}
+{"index":299,"sub_uri":"Q18419","obj_uri":"Q18424","obj_label":"Kvinsas","sub_label":"Bruklinas","lineid":352,"uuid":"e1920cee-68be-480e-bf4b-39a514443947"}
+{"index":98,"sub_uri":"Q47853","obj_uri":"Q2028","obj_label":"Verona","sub_label":"San D\u017eovani Lupatotas","lineid":119,"uuid":"edb12cc3-b078-46f2-bf0a-f210a05eb234"}
+{"index":639,"sub_uri":"Q221","obj_uri":"Q41","obj_label":"Graikija","sub_label":"\u0160iaur\u0117s Makedonija","lineid":743,"uuid":"52e92f13-dab9-4cc9-a42d-9dfc92c38b93"}
+{"index":603,"sub_uri":"Q23169","obj_uri":"Q23115","obj_label":"Nortampton\u0161yras","sub_label":"Oksford\u0161yras","lineid":700,"uuid":"40417094-1c19-4604-a127-26bbdde7d490"}
+{"index":772,"sub_uri":"Q1400","obj_uri":"Q1393","obj_label":"Delaveras","sub_label":"Pensilvanija","lineid":897,"uuid":"98ac7527-a72f-4f95-a7d9-6e6f29c1037e"}
+{"index":659,"sub_uri":"Q4018","obj_uri":"Q4040","obj_label":"Aragonas","sub_label":"Navara","lineid":766,"uuid":"3f2c0415-dd25-4a75-97d0-73708f7dd8df"}
+{"index":726,"sub_uri":"Q21","obj_uri":"Q22","obj_label":"\u0160kotija","sub_label":"Anglija","lineid":842,"uuid":"59dcc5e8-4657-4390-acb6-46e8e1235bc4"}
+{"index":45,"sub_uri":"Q458","obj_uri":"Q217","obj_label":"Moldavija","sub_label":"Europos S\u0105junga","lineid":56,"uuid":"3cd70166-f264-4353-8ee6-3ce016a456d4"}
+{"index":360,"sub_uri":"Q3949","obj_uri":"Q1295","obj_label":"Dortmundas","sub_label":"Una","lineid":424,"uuid":"f9e776b9-6fb4-4b68-aaed-b69f0dece4c8"}
+{"index":215,"sub_uri":"Q419","obj_uri":"Q155","obj_label":"Brazilija","sub_label":"Peru","lineid":258,"uuid":"31378e7d-54c9-4399-a17f-d1254d341ef2"}
+{"index":504,"sub_uri":"Q38","obj_uri":"Q39","obj_label":"\u0160veicarija","sub_label":"Italija","lineid":585,"uuid":"3d25e195-c1f9-4756-b287-c9b3f67fd755"}
+{"index":665,"sub_uri":"Q1166","obj_uri":"Q1537","obj_label":"Viskonsinas","sub_label":"Mi\u010diganas","lineid":773,"uuid":"e880288d-4cad-48d0-8064-a5f6ea17acf9"}
+{"index":367,"sub_uri":"Q801","obj_uri":"Q858","obj_label":"Sirija","sub_label":"Izraelis","lineid":433,"uuid":"df2bda75-ca2c-44f4-8cf0-2592dd5b1168"}
+{"index":297,"sub_uri":"Q863","obj_uri":"Q813","obj_label":"Kirgizija","sub_label":"Tad\u017eikija","lineid":350,"uuid":"0090394a-2ce6-485e-81b8-0ea2fad51eae"}
+{"index":471,"sub_uri":"Q72258","obj_uri":"Q2634","obj_label":"Neapolis","sub_label":"Melitas","lineid":545,"uuid":"bf7dc412-c233-40db-8b06-552f49d0fdea"}
+{"index":766,"sub_uri":"Q184047","obj_uri":"Q23482","obj_label":"Marselis","sub_label":"Oban\u0117","lineid":891,"uuid":"aa566581-38d1-4303-b019-bb2671074920"}
+{"index":184,"sub_uri":"Q1415","obj_uri":"Q1603","obj_label":"Kentukis","sub_label":"Indiana","lineid":224,"uuid":"483ae7b9-03bc-44bb-9a2d-ee95797d6b8e"}
+{"index":461,"sub_uri":"Q222","obj_uri":"Q403","obj_label":"Serbija","sub_label":"Albanija","lineid":534,"uuid":"115cd843-aaf0-4351-aba3-0baf61577e1b"}
+{"index":725,"sub_uri":"Q209338","obj_uri":"Q490434","obj_label":"Ventura","sub_label":"Oksnardas","lineid":841,"uuid":"490da336-149d-47d6-b9c9-67f3212aadaf"}
+{"index":599,"sub_uri":"Q929","obj_uri":"Q1009","obj_label":"Kamer\u016bnas","sub_label":"Centrin\u0117s Afrikos Respublika","lineid":696,"uuid":"21b8600e-2244-4009-b87f-899ca71adcbe"}
+{"index":172,"sub_uri":"Q1356","obj_uri":"Q1164","obj_label":"Asamas","sub_label":"Vakar\u0173 Bengalija","lineid":209,"uuid":"9b535c42-09f8-44da-ba61-1e19f01cf598"}
+{"index":410,"sub_uri":"Q208764","obj_uri":"Q43631","obj_label":"Leidenas","sub_label":"Katveikas","lineid":478,"uuid":"5f576f18-999b-4ffd-be48-64d248937e90"}
+{"index":166,"sub_uri":"Q889","obj_uri":"Q794","obj_label":"Iranas","sub_label":"Afganistanas","lineid":203,"uuid":"93dfb36d-f10d-4d17-9ec7-2db00478c5d5"}
+{"index":762,"sub_uri":"Q215","obj_uri":"Q224","obj_label":"Kroatija","sub_label":"Slov\u0117nija","lineid":887,"uuid":"61ef881a-ca0b-4d17-a81e-8f374034da1d"}
+{"index":333,"sub_uri":"Q1581","obj_uri":"Q1612","obj_label":"Arkanzasas","sub_label":"Mis\u016bris","lineid":392,"uuid":"9d9294c3-0615-4386-8f2d-00cb7ed99b40"}
+{"index":93,"sub_uri":"Q193819","obj_uri":"Q90","obj_label":"Pary\u017eius","sub_label":"Vensenas","lineid":112,"uuid":"eec9b2b2-139f-4679-a258-89b54cb80b13"}
+{"index":312,"sub_uri":"Q1974","obj_uri":"Q2009","obj_label":"Jukonas","sub_label":"Brit\u0173 Kolumbija","lineid":368,"uuid":"f7f38dae-8ada-405a-9b27-9a32ddd0341b"}
+{"index":668,"sub_uri":"Q822","obj_uri":"Q858","obj_label":"Sirija","sub_label":"Libanas","lineid":777,"uuid":"7e2be596-3a62-4064-8f10-ea5482100faa"}
+{"index":32,"sub_uri":"Q1363","obj_uri":"Q1164","obj_label":"Asamas","sub_label":"Tripura","lineid":42,"uuid":"c4b30255-d8fe-4aad-9daa-8cd20ad8bd70"}
+{"index":392,"sub_uri":"Q650682","obj_uri":"Q23103","obj_label":"\u0160rop\u0161yras","sub_label":"Denbig\u0161yras","lineid":459,"uuid":"38675c9f-0b03-4104-ac73-8d8d714a5749"}
+{"index":163,"sub_uri":"Q1246","obj_uri":"Q236","obj_label":"Juodkalnija","sub_label":"Kosovas","lineid":200,"uuid":"eed995c4-015c-4a11-b3f6-ad191dcfd20a"}
+{"index":329,"sub_uri":"Q17","obj_uri":"Q865","obj_label":"Taivanas","sub_label":"Japonija","lineid":387,"uuid":"fdd2bef6-de6d-4bf0-b070-c7645bcc5f3a"}
+{"index":284,"sub_uri":"Q16150196","obj_uri":"Q159","obj_label":"Rusija","sub_label":"Donecko Liaudies Respublika","lineid":336,"uuid":"2ccdefef-478b-4422-830f-092cefc6600d"}
+{"index":85,"sub_uri":"Q221","obj_uri":"Q222","obj_label":"Albanija","sub_label":"\u0160iaur\u0117s Makedonija","lineid":103,"uuid":"c75bc6e7-b83e-455a-b0ed-56de0605152e"}
+{"index":34,"sub_uri":"Q1177","obj_uri":"Q22424","obj_label":"Pand\u017eabas","sub_label":"Hima\u010dal Prade\u0161as","lineid":44,"uuid":"c9689c39-90b6-46cc-be5f-ae4a4f86a05c"}
+{"index":65,"sub_uri":"Q1028","obj_uri":"Q29","obj_label":"Ispanija","sub_label":"Marokas","lineid":79,"uuid":"013943af-3972-4d20-bdac-716f1f8d5bbd"}
+{"index":122,"sub_uri":"Q65","obj_uri":"Q487119","obj_label":"Komptonas","sub_label":"Los And\u017eelas","lineid":149,"uuid":"6cb3dac3-257c-43a6-99ac-56ff054e982c"}
+{"index":641,"sub_uri":"Q212274","obj_uri":"Q90","obj_label":"Pary\u017eius","sub_label":"Nogent-sur-Marne","lineid":746,"uuid":"fa40bad1-c70f-4111-b36d-708d1fdfa9df"}
+{"index":229,"sub_uri":"Q15180","obj_uri":"Q36","obj_label":"Lenkija","sub_label":"Soviet\u0173 S\u0105junga","lineid":273,"uuid":"65111f70-5da0-4e7f-b9e3-37a26d6533f9"}
+{"index":478,"sub_uri":"Q217","obj_uri":"Q212","obj_label":"Ukraina","sub_label":"Moldavija","lineid":554,"uuid":"284e79ac-aaa8-4fab-b49e-0ca88a948da8"}
+{"index":742,"sub_uri":"Q23107","obj_uri":"Q23115","obj_label":"Nortampton\u0161yras","sub_label":"Rutlandas","lineid":862,"uuid":"48d29c08-de0a-4c90-92dc-fa52b488e3d2"}
+{"index":171,"sub_uri":"Q159","obj_uri":"Q211","obj_label":"Latvija","sub_label":"Rusija","lineid":208,"uuid":"71a0ffe2-d7b5-488b-badf-1a76188afbef"}
+{"index":58,"sub_uri":"Q1197","obj_uri":"Q1208","obj_label":"Brandenburgas","sub_label":"\u017demutin\u0117 Saksonija","lineid":71,"uuid":"69d31914-aa39-47de-92e2-a9d980cf7dea"}
+{"index":219,"sub_uri":"Q965","obj_uri":"Q117","obj_label":"Gana","sub_label":"Burkina Fasas","lineid":262,"uuid":"002d661a-e1ed-4a92-bf81-f5bda71b1106"}
+{"index":280,"sub_uri":"Q1612","obj_uri":"Q1494","obj_label":"Misisip\u0117","sub_label":"Arkanzasas","lineid":332,"uuid":"facb171e-2633-4fc9-a400-32f4e9969383"}
+{"index":637,"sub_uri":"Q45341","obj_uri":"Q865","obj_label":"Taivanas","sub_label":"Ryt\u0173 Kinijos j\u016bra","lineid":741,"uuid":"b8efa7ac-db72-4b11-ac78-b7f653af3ce9"}
+{"index":423,"sub_uri":"Q23287","obj_uri":"Q23276","obj_label":"Sur\u0117jus","sub_label":"Vakar\u0173 Saseksas","lineid":494,"uuid":"9baf036c-bad1-4256-ba16-54703f3b6679"}
+{"index":783,"sub_uri":"Q599455","obj_uri":"Q242","obj_label":"Belizas","sub_label":"Mel\u010dor de Menkosas","lineid":911,"uuid":"84dbdb1f-bb63-48f7-aa81-6a7bd0e11a83"}
+{"index":494,"sub_uri":"Q1166","obj_uri":"Q1415","obj_label":"Indiana","sub_label":"Mi\u010diganas","lineid":571,"uuid":"9ca3abb8-715b-4781-a7ac-25cddddfb723"}
+{"index":582,"sub_uri":"Q542958","obj_uri":"Q2807","obj_label":"Madridas","sub_label":"Torelodonesas","lineid":674,"uuid":"715a07b4-68a5-4ac4-adcb-b2532c345324"}
+{"index":727,"sub_uri":"Q50615","obj_uri":"Q585","obj_label":"Oslas","sub_label":"Akershusas","lineid":843,"uuid":"deea244e-9398-4cdc-8436-a1689d522be3"}
+{"index":439,"sub_uri":"Q212","obj_uri":"Q184","obj_label":"Baltarusija","sub_label":"Ukraina","lineid":510,"uuid":"7f1414c4-83bc-4190-a54c-25db252eb586"}
+{"index":29,"sub_uri":"Q241021","obj_uri":"Q90","obj_label":"Pary\u017eius","sub_label":"Montrouge","lineid":39,"uuid":"1c702ffc-fcf6-4d08-bcbe-2d35e91db9d7"}
+{"index":418,"sub_uri":"Q1370","obj_uri":"Q1603","obj_label":"Kentukis","sub_label":"Vird\u017einija","lineid":488,"uuid":"2cd5847f-6a7a-42ff-b175-25002de3f887"}
+{"index":292,"sub_uri":"Q1008","obj_uri":"Q1014","obj_label":"Liberija","sub_label":"Dramblio Kaulo Krantas","lineid":344,"uuid":"b5760824-b35b-455e-ae1b-8f1815020bf9"}
+{"index":0,"sub_uri":"Q207448","obj_uri":"Q2656","obj_label":"Palermas","sub_label":"Monreal\u0117","lineid":0,"uuid":"03b55c27-8da8-4adc-9057-0f3502cc0ed0"}
+{"index":133,"sub_uri":"Q842","obj_uri":"Q805","obj_label":"Jemenas","sub_label":"Omanas","lineid":165,"uuid":"e18e4ac5-f1fc-40e3-a5fe-5bb06d3da462"}
+{"index":293,"sub_uri":"Q207080","obj_uri":"Q33959","obj_label":"Nica","sub_label":"Villefranche-sur-Mer","lineid":346,"uuid":"03092441-5874-4290-ba62-43c8f525d447"}
+{"index":691,"sub_uri":"Q1353","obj_uri":"Q1174","obj_label":"Harjana","sub_label":"Delis","lineid":803,"uuid":"270aa69e-c7f0-41d4-aa23-dda401962b7d"}
+{"index":22,"sub_uri":"Q43028","obj_uri":"Q490","obj_label":"Milanas","sub_label":"Peskjera Boromeo","lineid":29,"uuid":"bc425a7d-daf3-4d5d-bd5c-c28bf1bd2e63"}
+{"index":652,"sub_uri":"Q241693","obj_uri":"Q220","obj_label":"Roma","sub_label":"Angvilara Sabacija","lineid":759,"uuid":"ffd10078-c028-4756-a5e1-0df0374daea5"}
+{"index":149,"sub_uri":"Q17189","obj_uri":"Q1461","obj_label":"Manila","sub_label":"Pas\u0117jus","lineid":184,"uuid":"5595fbc1-18ae-4689-8fc8-71e82414c37c"}
+{"index":150,"sub_uri":"Q1214","obj_uri":"Q1553","obj_label":"Nebraska","sub_label":"Vajomingas","lineid":185,"uuid":"df9cf210-2697-45c6-a1a9-e6afa59c4e7d"}
+{"index":158,"sub_uri":"Q419","obj_uri":"Q736","obj_label":"Ekvadoras","sub_label":"Peru","lineid":194,"uuid":"5a48e4c3-666d-4ca5-9bff-6f7f2dd183e9"}
+{"index":21,"sub_uri":"Q1603","obj_uri":"Q1415","obj_label":"Indiana","sub_label":"Kentukis","lineid":28,"uuid":"23ea3846-4de5-44a2-81b7-75518a95fa71"}
+{"index":709,"sub_uri":"Q380987","obj_uri":"Q6454","obj_label":"Kal\u0117","sub_label":"Coquelles","lineid":824,"uuid":"d45a77e4-99e1-48da-b201-e3e841e4be12"}
+{"index":472,"sub_uri":"Q965","obj_uri":"Q912","obj_label":"Malis","sub_label":"Burkina Fasas","lineid":546,"uuid":"e4f298eb-eeaa-4b73-8fb3-5d4168c8db34"}
+{"index":745,"sub_uri":"Q865","obj_uri":"Q928","obj_label":"Filipinai","sub_label":"Taivanas","lineid":866,"uuid":"a1c30981-3a8e-42ff-b760-835de357fed1"}
+{"index":92,"sub_uri":"Q234728","obj_uri":"Q90","obj_label":"Pary\u017eius","sub_label":"Vanves","lineid":111,"uuid":"bae7ee99-9cb7-4dfa-bff1-d8d312dda70e"}
+{"index":642,"sub_uri":"Q43","obj_uri":"Q399","obj_label":"Arm\u0117nija","sub_label":"Turkija","lineid":747,"uuid":"23a35a4c-b167-4544-8d8b-0f8feef0f5a2"}
+{"index":318,"sub_uri":"Q19278","obj_uri":"Q3519","obj_label":"Baris","sub_label":"Bitontas","lineid":374,"uuid":"c4b57822-880a-4a20-8d0e-02a98bbf36f8"}
+{"index":412,"sub_uri":"Q1387","obj_uri":"Q771","obj_label":"Masa\u010dusetsas","sub_label":"Rod Ailandas","lineid":480,"uuid":"d9233195-b8d6-4db1-8a2d-eaeb8f1c0112"}
+{"index":230,"sub_uri":"Q23112","obj_uri":"Q23111","obj_label":"Safolkas","sub_label":"Kembrid\u017e\u0161yras","lineid":276,"uuid":"a8333660-1f33-4ae6-bfa9-93789ec5c3fe"}
+{"index":441,"sub_uri":"Q1553","obj_uri":"Q1261","obj_label":"Koloradas","sub_label":"Nebraska","lineid":512,"uuid":"a042b70e-9859-478d-b522-2f7465a94216"}
+{"index":204,"sub_uri":"Q252","obj_uri":"Q334","obj_label":"Singap\u016bras","sub_label":"Indonezija","lineid":247,"uuid":"8b2cff99-96e9-4dbc-8079-1c81e016ed59"}
+{"index":589,"sub_uri":"Q1142","obj_uri":"Q1137","obj_label":"Lotaringija","sub_label":"Elzasas","lineid":683,"uuid":"50878eff-a178-4e00-baac-9f75d4d97b3a"}
+{"index":391,"sub_uri":"Q23129","obj_uri":"Q23103","obj_label":"\u0160rop\u0161yras","sub_label":"Hereford\u0161yras","lineid":458,"uuid":"5236fb29-81bd-4a7c-b18b-9e5256648f35"}
+{"index":561,"sub_uri":"Q43433","obj_uri":"Q22424","obj_label":"Pand\u017eabas","sub_label":"\u010candigarchas","lineid":650,"uuid":"da52d53e-cb2e-4fbd-8567-ff26b0dcea3e"}
+{"index":508,"sub_uri":"Q69745","obj_uri":"Q807","obj_label":"Lozana","sub_label":"Renanas","lineid":589,"uuid":"60ea3d07-4438-45e1-841d-5b31721e3b1b"}
+{"index":75,"sub_uri":"Q1211","obj_uri":"Q1553","obj_label":"Nebraska","sub_label":"Piet\u0173 Dakota","lineid":92,"uuid":"d181b10a-3e0d-45aa-a024-3579d1a0dd26"}
+{"index":353,"sub_uri":"Q974","obj_uri":"Q953","obj_label":"Zambija","sub_label":"Kongo Demokratin\u0117 Respublika","lineid":417,"uuid":"9e28c209-6cdf-4ebf-a630-36cb12b5ffa6"}
+{"index":405,"sub_uri":"Q334868","obj_uri":"Q43194","obj_label":"Junanas","sub_label":"Fongsalio provincija","lineid":472,"uuid":"4fd5356b-8dd2-4552-8e7e-9f85ea3ddb99"}
+{"index":1,"sub_uri":"Q183","obj_uri":"Q33946","obj_label":"\u010cekoslovakija","sub_label":"Vokietija","lineid":1,"uuid":"f020ee39-0ced-4a74-9cb8-d1e4984fa469"}
+{"index":322,"sub_uri":"Q1948","obj_uri":"Q1904","obj_label":"Ontarijas","sub_label":"Manitoba","lineid":380,"uuid":"5e689c2c-c7ee-4b36-a653-95f271774e20"}
+{"index":515,"sub_uri":"Q907112","obj_uri":"Q217","obj_label":"Moldavija","sub_label":"Padniestr\u0117","lineid":596,"uuid":"81f6d5df-98b8-4834-8663-3a7ee51daf04"}
+{"index":477,"sub_uri":"Q57052","obj_uri":"Q15175","obj_label":"Guangdongas","sub_label":"Dziangsi","lineid":553,"uuid":"3013495c-b959-48f2-a0db-2ba7d1034676"}
+{"index":225,"sub_uri":"Q23095","obj_uri":"Q23098","obj_label":"Derbi\u0161yras","sub_label":"Piet\u0173 Jork\u0161yras","lineid":268,"uuid":"992c0a5a-0c55-4595-a0f0-fd6f1f9e5ef7"}
+{"index":470,"sub_uri":"Q1494","obj_uri":"Q1588","obj_label":"Luiziana","sub_label":"Misisip\u0117","lineid":544,"uuid":"9b5ef357-d28c-438f-92d0-924dddf54d21"}
+{"index":758,"sub_uri":"Q750","obj_uri":"Q419","obj_label":"Peru","sub_label":"Bolivija","lineid":882,"uuid":"54cb4417-924b-46aa-bffe-fbc7a4bd29aa"}
+{"index":9,"sub_uri":"Q212","obj_uri":"Q159","obj_label":"Rusija","sub_label":"Ukraina","lineid":13,"uuid":"e0e3897f-04f5-4a8f-9dd3-ca0a56a8c98e"}
+{"index":313,"sub_uri":"Q33","obj_uri":"Q159","obj_label":"Rusija","sub_label":"Suomija","lineid":369,"uuid":"9e7eff33-3320-4776-ba42-a420761b05d5"}
+{"index":221,"sub_uri":"Q23306","obj_uri":"Q23298","obj_label":"Kentas","sub_label":"Didysis Londonas","lineid":264,"uuid":"56482149-59b3-4d39-b0bc-51801af76c51"}
+{"index":216,"sub_uri":"Q271529","obj_uri":"Q1861","obj_label":"Bankokas","sub_label":"Samut Prakanas","lineid":259,"uuid":"2cfcfd5d-789f-495f-9ccc-aa5c884cb891"}
+{"index":731,"sub_uri":"Q408","obj_uri":"Q5095","obj_label":"Papua","sub_label":"Australija","lineid":847,"uuid":"238baa88-c5b7-419b-8694-4a8729e2638d"}
+{"index":272,"sub_uri":"Q991329","obj_uri":"Q24639","obj_label":"Vankuveris","sub_label":"Vakar\u0173 Vankuveris","lineid":324,"uuid":"6b8fcd19-08dd-42b5-8479-7161e82275cb"}
+{"index":425,"sub_uri":"Q219","obj_uri":"Q218","obj_label":"Rumunija","sub_label":"Bulgarija","lineid":496,"uuid":"54fd43e7-fab4-45d8-93a9-2cacd449f909"}
+{"index":213,"sub_uri":"Q1546","obj_uri":"Q1537","obj_label":"Viskonsinas","sub_label":"Ajova","lineid":256,"uuid":"b003de02-728b-423d-a1bd-4629a9ee3813"}
+{"index":44,"sub_uri":"Q217","obj_uri":"Q218","obj_label":"Rumunija","sub_label":"Moldavija","lineid":55,"uuid":"771bbf29-81e3-4ada-b92b-6e00524da76b"}
+{"index":24,"sub_uri":"Q15641","obj_uri":"Q1492","obj_label":"Barselona","sub_label":"Sant D\u017east Desvernas","lineid":31,"uuid":"0fc1fe66-336f-4e9b-873f-9ca0f6cc4e1c"}
+{"index":497,"sub_uri":"Q23169","obj_uri":"Q23140","obj_label":"Vorik\u0161yras","sub_label":"Oksford\u0161yras","lineid":575,"uuid":"8d05c9a0-fbf6-4e14-a31b-2753844745cf"}
+{"index":481,"sub_uri":"Q1008","obj_uri":"Q117","obj_label":"Gana","sub_label":"Dramblio Kaulo Krantas","lineid":557,"uuid":"1b6de191-c9f8-4f5c-985a-ad4d4bcc6dba"}
+{"index":467,"sub_uri":"Q717","obj_uri":"Q142","obj_label":"Pranc\u016bzija","sub_label":"Venesuela","lineid":540,"uuid":"86545e5c-95ba-4873-a7ba-d145a04d6301"}
+{"index":546,"sub_uri":"Q1047171","obj_uri":"Q7880","obj_label":"Tul\u016bza","sub_label":"Balma","lineid":633,"uuid":"a12598dd-7e67-4766-880b-232d7bf7a391"}
+{"index":97,"sub_uri":"Q183","obj_uri":"Q36","obj_label":"Lenkija","sub_label":"Vokietija","lineid":118,"uuid":"037c14f7-5f7c-452d-b287-511455362144"}
+{"index":501,"sub_uri":"Q1029","obj_uri":"Q924","obj_label":"Tanzanija","sub_label":"Mozambikas","lineid":581,"uuid":"fefe7739-cf31-4d81-bd4f-c6143a7a2d1d"}
+{"index":327,"sub_uri":"Q244025","obj_uri":"Q24639","obj_label":"Vankuveris","sub_label":"Barnabis","lineid":385,"uuid":"0992a921-75dc-4d9e-8529-da7d6d83dc8f"}
+{"index":443,"sub_uri":"Q812","obj_uri":"Q173","obj_label":"Alabama","sub_label":"Florida","lineid":516,"uuid":"680fe19f-5643-4223-8a60-140c3295a584"}
+{"index":486,"sub_uri":"Q1036","obj_uri":"Q924","obj_label":"Tanzanija","sub_label":"Uganda","lineid":563,"uuid":"597c0ee1-773f-4044-89cc-2ec2f6b19c0a"}
+{"index":594,"sub_uri":"Q66117","obj_uri":"Q60158","obj_label":"Gereras","sub_label":"Morelosas","lineid":690,"uuid":"786169af-a45a-4e08-b09c-6cd17a46e455"}
+{"index":629,"sub_uri":"Q1649","obj_uri":"Q1581","obj_label":"Mis\u016bris","sub_label":"Oklahoma","lineid":730,"uuid":"8a73e223-7fe8-4b53-bdae-a0ae7a92884b"}
+{"index":664,"sub_uri":"Q64","obj_uri":"Q1208","obj_label":"Brandenburgas","sub_label":"Berlynas","lineid":772,"uuid":"c2b93e4a-3e3b-4d1b-be8b-6e7fdc5e6d21"}
+{"index":154,"sub_uri":"Q215","obj_uri":"Q40","obj_label":"Austrija","sub_label":"Slov\u0117nija","lineid":190,"uuid":"af71b3a2-c803-4616-87f4-b02a88aaa8b3"}
+{"index":483,"sub_uri":"Q22660","obj_uri":"Q6602","obj_label":"Strasb\u016bras","sub_label":"Illkirch-Graffenstaden","lineid":560,"uuid":"55d17f4b-58b0-4dd5-9911-3b45b116b6c5"}
+{"index":177,"sub_uri":"Q1205","obj_uri":"Q980","obj_label":"Bavarija","sub_label":"Tiuringija","lineid":214,"uuid":"57687971-19ed-422a-9526-e1c4c161e356"}
+{"index":342,"sub_uri":"Q1400","obj_uri":"Q1391","obj_label":"Merilandas","sub_label":"Pensilvanija","lineid":403,"uuid":"5a54697d-0242-4240-99e5-9b8dc2340669"}
+{"index":81,"sub_uri":"Q858","obj_uri":"Q796","obj_label":"Irakas","sub_label":"Sirija","lineid":98,"uuid":"0f86b6e8-8317-452a-ac0e-bc02ca7526b9"}
+{"index":371,"sub_uri":"Q1370","obj_uri":"Q1391","obj_label":"Merilandas","sub_label":"Vird\u017einija","lineid":437,"uuid":"d98a51ac-006a-4e17-8a56-0ba03872c90f"}
+{"index":646,"sub_uri":"Q46765","obj_uri":"Q2028","obj_label":"Verona","sub_label":"Busolengas","lineid":751,"uuid":"3b9ff839-1b77-4459-9140-e279c525a2c6"}
+{"index":383,"sub_uri":"Q96","obj_uri":"Q774","obj_label":"Gvatemala","sub_label":"Meksika","lineid":450,"uuid":"12192340-d19f-4f70-a58c-c411d4a4dad4"}
+{"index":59,"sub_uri":"Q806160","obj_uri":"Q34217","obj_label":"Oksfordas","sub_label":"Banberis","lineid":72,"uuid":"9bff2f2d-4fe5-4531-a36b-e6c1f6533c54"}
+{"index":359,"sub_uri":"Q54188","obj_uri":"Q1208","obj_label":"Brandenburgas","sub_label":"Vakar\u0173 Pamario vaivadija","lineid":423,"uuid":"1f23a0aa-d7df-4c47-8845-f018e01a6f21"}
+{"index":248,"sub_uri":"Q30","obj_uri":"Q16","obj_label":"Kanada","sub_label":"Jungtin\u0117s Amerikos Valstijos","lineid":297,"uuid":"d32c1897-694a-4067-8163-49cfa86c8ab1"}
+{"index":739,"sub_uri":"Q23100","obj_uri":"Q23064","obj_label":"\u010ce\u0161yras","sub_label":"Mersisaidas","lineid":858,"uuid":"d2210325-2c97-4355-9cc3-baaaa6c63693"}
+{"index":357,"sub_uri":"Q1007","obj_uri":"Q1006","obj_label":"Gvin\u0117ja","sub_label":"Bisau Gvin\u0117ja","lineid":421,"uuid":"e78c664b-4e99-41af-bb1a-87ef3be51410"}
+{"index":407,"sub_uri":"Q1974","obj_uri":"Q797","obj_label":"Aliaska","sub_label":"Brit\u0173 Kolumbija","lineid":475,"uuid":"e84d262e-749d-4358-94ec-1716c3aa1cd2"}
+{"index":141,"sub_uri":"Q179029","obj_uri":"Q170462","obj_label":"Saravakas","sub_label":"Sabahas","lineid":173,"uuid":"87b98262-b555-4134-950b-d401f337e60e"}
+{"index":80,"sub_uri":"Q1437","obj_uri":"Q22424","obj_label":"Pand\u017eabas","sub_label":"Rad\u017eastanas","lineid":97,"uuid":"4fe6b6b6-a824-4839-b6a3-807e796df8b1"}
+{"index":732,"sub_uri":"Q754","obj_uri":"Q717","obj_label":"Venesuela","sub_label":"Trinidadas ir Tobagas","lineid":848,"uuid":"0623396c-6014-443d-96ac-0a66da2e740e"}
+{"index":777,"sub_uri":"Q189153","obj_uri":"Q90","obj_label":"Pary\u017eius","sub_label":"Sen Klu","lineid":905,"uuid":"6fa6d9b8-bd76-4905-bbc8-5378424466b9"}
+{"index":350,"sub_uri":"Q1016","obj_uri":"Q1032","obj_label":"Nigeris","sub_label":"Libija","lineid":413,"uuid":"18f0edbf-4856-426a-bada-c33a52a0f7d2"}
+{"index":196,"sub_uri":"Q977","obj_uri":"Q115","obj_label":"Etiopija","sub_label":"D\u017eibutis","lineid":238,"uuid":"760b7748-f446-4952-857a-0d2d947ab5e7"}
+{"index":206,"sub_uri":"Q23165","obj_uri":"Q23169","obj_label":"Oksford\u0161yras","sub_label":"Gloster\u0161yras","lineid":249,"uuid":"73ad01e0-63b0-4384-a22e-2f5698e82392"}
+{"index":449,"sub_uri":"Q12538","obj_uri":"Q5705","obj_label":"Katalonija","sub_label":"Auk\u0161tutin\u0117 Garona","lineid":522,"uuid":"9ec0c579-9007-49c1-9af9-93987107e21b"}
+{"index":67,"sub_uri":"Q23183","obj_uri":"Q23204","obj_label":"Hamp\u0161yras","sub_label":"Vilt\u0161yras","lineid":82,"uuid":"5149df66-cdf3-4f92-9426-248a457ac873"}
+{"index":780,"sub_uri":"Q403","obj_uri":"Q236","obj_label":"Juodkalnija","sub_label":"Serbija","lineid":908,"uuid":"8177a0a7-7611-4edc-a08d-8dde471db419"}
+{"index":771,"sub_uri":"Q58731","obj_uri":"Q816","obj_label":"Arizona","sub_label":"\u017demutin\u0117 Kalifornija","lineid":896,"uuid":"68686bc1-2512-4a8f-98b6-f71d1d2fc28d"}
+{"index":191,"sub_uri":"Q819","obj_uri":"Q424","obj_label":"Kambod\u017ea","sub_label":"Laosas","lineid":233,"uuid":"8824bcd8-4ecb-443d-937a-9ae993fb9449"}
+{"index":567,"sub_uri":"Q1195","obj_uri":"Q1164","obj_label":"Asamas","sub_label":"Meghalaja","lineid":657,"uuid":"12b553bf-76c5-4cf9-9f41-4ababdeb96a9"}
+{"index":116,"sub_uri":"Q228","obj_uri":"Q142","obj_label":"Pranc\u016bzija","sub_label":"Andora","lineid":140,"uuid":"a809bfaa-84ef-4af8-add8-5f65a959b5d7"}
+{"index":522,"sub_uri":"Q210985","obj_uri":"Q852729","obj_label":"Harlou","sub_label":"\u010celmsfordas","lineid":604,"uuid":"71b6f0bd-4fee-4f4d-90bd-1fa3b127415f"}
+{"index":111,"sub_uri":"Q912","obj_uri":"Q1032","obj_label":"Nigeris","sub_label":"Malis","lineid":133,"uuid":"0cdceab8-9465-4e69-a5e4-77194eddde42"}
+{"index":185,"sub_uri":"Q212","obj_uri":"Q28","obj_label":"Vengrija","sub_label":"Ukraina","lineid":225,"uuid":"9b93c619-5189-46cd-873c-9b66d436af73"}
+{"index":223,"sub_uri":"Q3200","obj_uri":"Q2773","obj_label":"Braun\u0161veigas","sub_label":"Zalcgiteris","lineid":266,"uuid":"cec82b78-2942-4014-98bf-ec8d41d53978"}
+{"index":704,"sub_uri":"Q142","obj_uri":"Q38","obj_label":"Italija","sub_label":"Pranc\u016bzija","lineid":819,"uuid":"4db4bee9-1d5b-4eff-8ecc-b6bf25c5ddc1"}
+{"index":89,"sub_uri":"Q57912","obj_uri":"Q585","obj_label":"Oslas","sub_label":"\u0160i","lineid":108,"uuid":"f921e91d-778d-4276-b3c0-56dc48616d5a"}
+{"index":351,"sub_uri":"Q10045","obj_uri":"Q803","obj_label":"Utrechtas","sub_label":"Eiselsteinas","lineid":414,"uuid":"918e9839-94a3-4dcc-b8ee-908e9476291a"}
+{"index":57,"sub_uri":"Q986","obj_uri":"Q1049","obj_label":"Sudanas","sub_label":"Eritr\u0117ja","lineid":69,"uuid":"423dbaec-abe5-4525-a411-ac1cc26df94f"}
+{"index":194,"sub_uri":"Q140083","obj_uri":"Q206687","obj_label":"Nelsonas","sub_label":"Mariburo regionas","lineid":236,"uuid":"621e3db8-02c2-430e-be65-1b6d6a9ba87b"}
+{"index":311,"sub_uri":"Q16551","obj_uri":"Q771","obj_label":"Masa\u010dusetsas","sub_label":"Vermontas","lineid":367,"uuid":"a54ea3a5-9835-491f-9573-b4d981437c03"}
+{"index":527,"sub_uri":"Q786","obj_uri":"Q717","obj_label":"Venesuela","sub_label":"Dominikos Respublika","lineid":611,"uuid":"15074f21-bfcf-4162-b841-86924e2b0a9e"}
+{"index":778,"sub_uri":"Q159","obj_uri":"Q17","obj_label":"Japonija","sub_label":"Rusija","lineid":906,"uuid":"53b435f9-63de-42b9-aa78-1ef5b6ad4a43"}
+{"index":42,"sub_uri":"Q5902902","obj_uri":"Q216638","obj_label":"Veikfildas","sub_label":"Horberis","lineid":53,"uuid":"b8b6c9c2-3b46-4634-8a88-a226511a6d28"}
+{"index":387,"sub_uri":"Q774","obj_uri":"Q242","obj_label":"Belizas","sub_label":"Gvatemala","lineid":454,"uuid":"085c3bdd-4d47-4967-bd75-e7eb37264852"}
+{"index":19,"sub_uri":"Q1522","obj_uri":"Q816","obj_label":"Arizona","sub_label":"Naujoji Meksika","lineid":26,"uuid":"a6a77a43-80d8-4b76-a579-1c6f7244c1c5"}
+{"index":534,"sub_uri":"Q783","obj_uri":"Q811","obj_label":"Nikaragva","sub_label":"Hond\u016bras","lineid":618,"uuid":"93d54c26-cdac-4d83-a665-1d3cfec2a3eb"}
+{"index":654,"sub_uri":"Q25227","obj_uri":"Q142","obj_label":"Pranc\u016bzija","sub_label":"Nyderland\u0173 Antilai","lineid":761,"uuid":"4d6d0b82-7863-4eb8-a98b-4c0f56275b3b"}
+{"index":565,"sub_uri":"Q19770","obj_uri":"Q43194","obj_label":"Junanas","sub_label":"Si\u010duanas","lineid":654,"uuid":"1fb4b76f-9a19-4cc6-bbfe-d96d855a3b61"}
+{"index":308,"sub_uri":"Q1498","obj_uri":"Q1353","obj_label":"Delis","sub_label":"Utar Prade\u0161as","lineid":362,"uuid":"1837eda6-6a6e-41cd-9049-268ee99320eb"}
+{"index":264,"sub_uri":"Q1045","obj_uri":"Q114","obj_label":"Kenija","sub_label":"Somalis","lineid":315,"uuid":"b1f3e018-330d-468a-b260-34bb0896de47"}
+{"index":463,"sub_uri":"Q1188","obj_uri":"Q1191","obj_label":"Mahara\u0161tra","sub_label":"Madhja Prade\u0161as","lineid":536,"uuid":"d5260f57-e829-4d2f-b03c-98c6970d501f"}
+{"index":431,"sub_uri":"Q214","obj_uri":"Q36","obj_label":"Lenkija","sub_label":"Slovakija","lineid":502,"uuid":"ce61bc15-62cb-4b5c-bde7-d78a13100a15"}
+{"index":37,"sub_uri":"Q833","obj_uri":"Q921","obj_label":"Brun\u0117jus","sub_label":"Malaizija","lineid":47,"uuid":"d54422fd-6d1e-4977-89f9-1982b2137eab"}
+{"index":696,"sub_uri":"Q724","obj_uri":"Q176","obj_label":"Kvebekas","sub_label":"Meinas","lineid":810,"uuid":"c99b8c88-d737-42ab-aaa9-d0aa62f39888"}
+{"index":656,"sub_uri":"Q1408","obj_uri":"Q1400","obj_label":"Pensilvanija","sub_label":"Naujasis D\u017eersis","lineid":763,"uuid":"83f35e5e-b9ae-490c-ad93-67fc9c075b0c"}
+{"index":435,"sub_uri":"Q28848","obj_uri":"Q36091","obj_label":"Mineapolis","sub_label":"Sent Polas","lineid":506,"uuid":"af401ce4-512a-47cc-a2d2-82c333fb57c8"}
+{"index":370,"sub_uri":"Q819","obj_uri":"Q869","obj_label":"Tailandas","sub_label":"Laosas","lineid":436,"uuid":"ad22cd16-38b0-4db0-a221-f7af296e4850"}
+{"index":529,"sub_uri":"Q794","obj_uri":"Q227","obj_label":"Azerbaid\u017eanas","sub_label":"Iranas","lineid":613,"uuid":"847ac2fe-a9c6-41cf-bbd2-ce360f511e65"}
+{"index":235,"sub_uri":"Q192959","obj_uri":"Q2280","obj_label":"Minskas","sub_label":"Minsko sritis","lineid":283,"uuid":"6d64d398-859b-4beb-a963-79806406129a"}
+{"index":488,"sub_uri":"Q94638","obj_uri":"Q1891","obj_label":"Bolonija","sub_label":"Kazalekjo di Renas","lineid":565,"uuid":"82ae855f-c32f-429d-80fe-a6f32060a3a2"}
+{"index":11,"sub_uri":"Q824","obj_uri":"Q1221","obj_label":"Aidahas","sub_label":"Oregonas","lineid":17,"uuid":"14b23f86-bf3f-47d1-bc62-5fe6c152135c"}
+{"index":577,"sub_uri":"Q514571","obj_uri":"Q1715","obj_label":"Hanoveris","sub_label":"Isernhagenas","lineid":669,"uuid":"75f5d3da-de3d-4526-9e28-8ea9a7dad3b6"}
+{"index":404,"sub_uri":"Q12442","obj_uri":"Q8818","obj_label":"Valensija","sub_label":"Mislata","lineid":471,"uuid":"0d61a98f-973e-4f82-b442-92808d2b17e7"}
+{"index":186,"sub_uri":"Q215","obj_uri":"Q38","obj_label":"Italija","sub_label":"Slov\u0117nija","lineid":226,"uuid":"e1d25a77-aff4-4ef5-9879-3a5d2ca64024"}
+{"index":250,"sub_uri":"Q1261","obj_uri":"Q1214","obj_label":"Vajomingas","sub_label":"Koloradas","lineid":299,"uuid":"d26d6680-fa0b-4e16-80f3-85dae5c24908"}
+{"index":468,"sub_uri":"Q244311","obj_uri":"Q648","obj_label":"Lilis","sub_label":"Lambersart","lineid":542,"uuid":"a343df01-0d06-4de3-be19-4b710ea64351"}
+{"index":207,"sub_uri":"Q23220","obj_uri":"Q23229","obj_label":"Bakingam\u0161yras","sub_label":"Berk\u0161yras","lineid":250,"uuid":"c2d21924-ceb5-4c7c-a042-f4aaed6d4bd7"}
+{"index":238,"sub_uri":"Q193266","obj_uri":"Q1202","obj_label":"Saksonija","sub_label":"Libereco kra\u0161tas","lineid":287,"uuid":"2d0b49b4-e83f-4fcf-8842-d8738dd3ea82"}
+{"index":557,"sub_uri":"Q28419","obj_uri":"Q37066","obj_label":"Bismarkas","sub_label":"Mandanas","lineid":646,"uuid":"fd46f640-37a6-455a-8c44-94d3a9db2c1a"}
+{"index":258,"sub_uri":"Q148","obj_uri":"Q711","obj_label":"Mongolija","sub_label":"Kinijos Liaudies Respublika","lineid":307,"uuid":"14bf5957-36f7-4335-b906-47ebe8d2bf34"}
+{"index":740,"sub_uri":"Q2330789","obj_uri":"Q10690","obj_label":"Kardifas","sub_label":"Lantrizantas","lineid":859,"uuid":"3b8f5dc6-62b8-45f8-8c76-d9071d5a8ec5"}
+{"index":464,"sub_uri":"Q769","obj_uri":"Q717","obj_label":"Venesuela","sub_label":"Grenada","lineid":537,"uuid":"0e03546d-484a-4fd7-9cc9-9f83d0842346"}
+{"index":703,"sub_uri":"Q1371","obj_uri":"Q1603","obj_label":"Kentukis","sub_label":"Vakar\u0173 Vird\u017einija","lineid":818,"uuid":"b019f4a3-2dee-448e-a4c2-3203bb25595d"}
+{"index":155,"sub_uri":"Q16746854","obj_uri":"Q159","obj_label":"Rusija","sub_label":"Luhansko Liaudies Respublika","lineid":191,"uuid":"de456826-04c0-43d7-a38f-4c05ce0022d2"}
+{"index":658,"sub_uri":"Q23204","obj_uri":"Q23276","obj_label":"Sur\u0117jus","sub_label":"Hamp\u0161yras","lineid":765,"uuid":"e218a6a2-d80a-4f46-aa1b-3b6ed1a708f8"}
+{"index":720,"sub_uri":"Q57864","obj_uri":"Q585","obj_label":"Oslas","sub_label":"Nesodenas","lineid":836,"uuid":"f177f7db-d56b-439c-98c8-05f27d1a3836"}
+{"index":366,"sub_uri":"Q1016","obj_uri":"Q657","obj_label":"\u010cadas","sub_label":"Libija","lineid":431,"uuid":"cb0738aa-1266-4dcf-9ecb-4d618fd6861e"}
+{"index":368,"sub_uri":"Q971","obj_uri":"Q1000","obj_label":"Gabonas","sub_label":"Kongo Respublika","lineid":434,"uuid":"543a6824-051f-409c-8bd6-75544b8f358a"}
+{"index":91,"sub_uri":"Q221","obj_uri":"Q1246","obj_label":"Kosovas","sub_label":"\u0160iaur\u0117s Makedonija","lineid":110,"uuid":"b7942408-85dd-407a-befb-5ccc93e701af"}
+{"index":460,"sub_uri":"Q2023","obj_uri":"Q176","obj_label":"Kvebekas","sub_label":"Nunavutas","lineid":533,"uuid":"fc8e6bff-288a-4023-bf3d-99b0ab75e512"}
+{"index":179,"sub_uri":"Q164193","obj_uri":"Q36","obj_label":"Lenkija","sub_label":"Lvovo sritis","lineid":216,"uuid":"50708379-836a-46c5-9669-064e4b3c8df5"}
+{"index":781,"sub_uri":"Q23140","obj_uri":"Q23169","obj_label":"Oksford\u0161yras","sub_label":"Vorik\u0161yras","lineid":909,"uuid":"a423d623-54fc-4e9c-a528-708ad6fbbb78"}
+{"index":107,"sub_uri":"Q1016","obj_uri":"Q262","obj_label":"Al\u017eyras","sub_label":"Libija","lineid":129,"uuid":"03072f7c-3a0a-42ee-a77d-826cae6242ff"}
+{"index":31,"sub_uri":"Q1261","obj_uri":"Q1649","obj_label":"Oklahoma","sub_label":"Koloradas","lineid":41,"uuid":"7d007afe-b284-456c-886e-8cb36799f4f4"}
+{"index":228,"sub_uri":"Q17269","obj_uri":"Q43194","obj_label":"Junanas","sub_label":"Tibeto autonominis regionas","lineid":272,"uuid":"e4f257be-88f5-4fec-b152-664de0ec31ca"}
+{"index":456,"sub_uri":"Q1032","obj_uri":"Q1033","obj_label":"Nigerija","sub_label":"Nigeris","lineid":529,"uuid":"a91e5898-2539-4044-8bd0-30e771ad0955"}
+{"index":54,"sub_uri":"Q36","obj_uri":"Q183","obj_label":"Vokietija","sub_label":"Lenkija","lineid":66,"uuid":"d87861f1-364b-4d23-9afd-1ee74f6fa55e"}
+{"index":197,"sub_uri":"Q488545","obj_uri":"Q34370","obj_label":"Roterdamas","sub_label":"Speikenis\u0117","lineid":239,"uuid":"735748e8-e4c4-40ef-b87e-7f16af2bb328"}
+{"index":621,"sub_uri":"Q1030","obj_uri":"Q953","obj_label":"Zambija","sub_label":"Namibija","lineid":722,"uuid":"ea108a45-9cac-4483-8f2e-bd14f0f35278"}
+{"index":695,"sub_uri":"Q14856","obj_uri":"Q1715","obj_label":"Hanoveris","sub_label":"Lacenas","lineid":809,"uuid":"fadfe177-b8e5-4d2f-ac32-b1e88ed89aad"}
+{"index":761,"sub_uri":"Q302778","obj_uri":"Q1085","obj_label":"Praha","sub_label":"Prahos vakarinis rajonas","lineid":885,"uuid":"d68d2330-1857-46e7-8402-30b08798460b"}
+{"index":36,"sub_uri":"Q23106","obj_uri":"Q23098","obj_label":"Derbi\u0161yras","sub_label":"Lester\u0161yras","lineid":46,"uuid":"644e4c6c-c975-4c20-87dc-a30672fc8cfb"}
+{"index":700,"sub_uri":"Q858","obj_uri":"Q822","obj_label":"Libanas","sub_label":"Sirija","lineid":815,"uuid":"0c8a4ee5-6e1f-4217-9440-a87883e0478b"}
+{"index":108,"sub_uri":"Q23099","obj_uri":"Q23077","obj_label":"Lanka\u0161yras","sub_label":"Didysis Man\u010desteris","lineid":130,"uuid":"53c0769c-a1e3-475f-8af9-dfc7d7f86c2c"}
+{"index":757,"sub_uri":"Q69757","obj_uri":"Q807","obj_label":"Lozana","sub_label":"Prilis","lineid":880,"uuid":"f463450a-ea7a-44d7-8393-28b31c9f0843"}
+{"index":372,"sub_uri":"Q1948","obj_uri":"Q1527","obj_label":"Minesota","sub_label":"Manitoba","lineid":438,"uuid":"d2decbfd-9d33-4531-94c7-f7f21c450f71"}
+{"index":352,"sub_uri":"Q47336","obj_uri":"Q1308","obj_label":"Komas","sub_label":"Grandat\u0117","lineid":416,"uuid":"c9088d7f-1b26-4b43-8fe7-300172b3d614"}
+{"index":675,"sub_uri":"Q23143","obj_uri":"Q23112","obj_label":"Kembrid\u017e\u0161yras","sub_label":"Bedford\u0161yras","lineid":784,"uuid":"38d89e3b-a98d-4e50-89a0-22c390c7c80b"}
+{"index":380,"sub_uri":"Q739","obj_uri":"Q736","obj_label":"Ekvadoras","sub_label":"Kolumbija","lineid":447,"uuid":"13e6bc0b-4e9f-4e38-87aa-daa49cde2f5f"}
+{"index":756,"sub_uri":"Q242954","obj_uri":"Q220","obj_label":"Roma","sub_label":"Monte Kompatris","lineid":879,"uuid":"0ff77924-16ea-4eab-abb7-7e52c4dd1c91"}
+{"index":721,"sub_uri":"Q155","obj_uri":"Q419","obj_label":"Peru","sub_label":"Brazilija","lineid":837,"uuid":"5f6b0af5-1017-4914-b6b1-5941e8af272c"}
+{"index":315,"sub_uri":"Q23183","obj_uri":"Q23157","obj_label":"Somersetas","sub_label":"Vilt\u0161yras","lineid":371,"uuid":"44607031-aa3b-483e-ba44-09df1fd62443"}
+{"index":485,"sub_uri":"Q1197","obj_uri":"Q1055","obj_label":"Hamburgas","sub_label":"\u017demutin\u0117 Saksonija","lineid":562,"uuid":"82d74c9d-848a-41fd-ae2c-1ab4c1b8677b"}
+{"index":105,"sub_uri":"Q47995","obj_uri":"Q641","obj_label":"Venecija","sub_label":"Kavalino Treportis","lineid":126,"uuid":"4118fc9b-2930-4504-8364-c1af03e51625"}
+{"index":46,"sub_uri":"Q965","obj_uri":"Q1032","obj_label":"Nigeris","sub_label":"Burkina Fasas","lineid":57,"uuid":"c6e9fed6-7bb7-4e22-8f95-53d1661da30e"}
+{"index":505,"sub_uri":"Q458","obj_uri":"Q155","obj_label":"Brazilija","sub_label":"Europos S\u0105junga","lineid":586,"uuid":"fc20cef8-fb8a-4e38-9355-29b5312b5289"}
+{"index":613,"sub_uri":"Q664769","obj_uri":"Q2807","obj_label":"Madridas","sub_label":"Ojo de Mansanaresas","lineid":712,"uuid":"81954327-e165-435d-91ea-48f6748c6686"}
+{"index":507,"sub_uri":"Q3898","obj_uri":"Q1295","obj_label":"Dortmundas","sub_label":"Kastropas-Raukselis","lineid":588,"uuid":"63dd00c3-014e-4f72-9f49-65fdcf81cb90"}
+{"index":453,"sub_uri":"Q458","obj_uri":"Q159","obj_label":"Rusija","sub_label":"Europos S\u0105junga","lineid":526,"uuid":"43efa03a-66d3-4d1d-8e21-738ad64879bf"}
+{"index":563,"sub_uri":"Q796","obj_uri":"Q810","obj_label":"Jordanija","sub_label":"Irakas","lineid":652,"uuid":"7135ebf5-7df3-4633-9d04-62f7bc5475bd"}
+{"index":49,"sub_uri":"Q31","obj_uri":"Q142","obj_label":"Pranc\u016bzija","sub_label":"Belgija","lineid":60,"uuid":"06aac7d0-6041-40f0-b1b6-a9867b87180c"}
+{"index":785,"sub_uri":"Q1780","obj_uri":"Q1085","obj_label":"Praha","sub_label":"Bratislava","lineid":913,"uuid":"07533b21-f5d4-4f06-a23e-aafd3265a1ca"}
+{"index":192,"sub_uri":"Q72425","obj_uri":"Q2634","obj_label":"Neapolis","sub_label":"Pocuolis","lineid":234,"uuid":"d48ff768-4173-4108-b922-9e08893e9dda"}
+{"index":112,"sub_uri":"Q155","obj_uri":"Q733","obj_label":"Paragvajus","sub_label":"Brazilija","lineid":134,"uuid":"f29c1b4e-f8e4-4a63-87db-d98eab993789"}
+{"index":782,"sub_uri":"Q17269","obj_uri":"Q19770","obj_label":"Si\u010duanas","sub_label":"Tibeto autonominis regionas","lineid":910,"uuid":"05b8873a-074d-4b83-b6ea-9cdd67bd1089"}
+{"index":701,"sub_uri":"Q1612","obj_uri":"Q1581","obj_label":"Mis\u016bris","sub_label":"Arkanzasas","lineid":816,"uuid":"8a5f568a-c423-42de-9ed1-76ce53a322dd"}
+{"index":162,"sub_uri":"Q208943","obj_uri":"Q90","obj_label":"Pary\u017eius","sub_label":"Banjol\u0117","lineid":199,"uuid":"bc6af355-85d6-410d-9c7a-948c8ad321f0"}
+{"index":487,"sub_uri":"Q12997","obj_uri":"Q1296","obj_label":"Gentas","sub_label":"Ervergemas","lineid":564,"uuid":"87adde27-5da2-461f-9406-29dd866de739"}
+{"index":714,"sub_uri":"Q23157","obj_uri":"Q23183","obj_label":"Vilt\u0161yras","sub_label":"Somersetas","lineid":830,"uuid":"a2d773e8-2046-45d0-8900-aca33d3e37d0"}
+{"index":126,"sub_uri":"Q620634","obj_uri":"Q79","obj_label":"Egiptas","sub_label":"Bir Tavilis","lineid":155,"uuid":"f6e354ec-7bde-4955-b227-c8937437495e"}
+{"index":114,"sub_uri":"Q236","obj_uri":"Q1246","obj_label":"Kosovas","sub_label":"Juodkalnija","lineid":137,"uuid":"ff56d6d6-ac1c-40da-834d-0517c38d87d1"}
+{"index":160,"sub_uri":"Q10304","obj_uri":"Q495","obj_label":"Turinas","sub_label":"Setimo Torinez\u0117","lineid":196,"uuid":"3d40c1eb-6715-4c73-8dd4-769e00dcd972"}
+{"index":332,"sub_uri":"Q1581","obj_uri":"Q1509","obj_label":"Tenesis","sub_label":"Mis\u016bris","lineid":391,"uuid":"f0fef269-4bcd-40fa-abc7-be8230a306fa"}
+{"index":51,"sub_uri":"Q23220","obj_uri":"Q23169","obj_label":"Oksford\u0161yras","sub_label":"Berk\u0161yras","lineid":63,"uuid":"3483f404-cb2b-476f-ac4e-2fce13941794"}
+{"index":666,"sub_uri":"Q759","obj_uri":"Q176","obj_label":"Kvebekas","sub_label":"Naujasis Hamp\u0161yras","lineid":774,"uuid":"9967d97b-9e99-4203-8758-b26629bef904"}
+{"index":788,"sub_uri":"Q1212","obj_uri":"Q1989","obj_label":"Saska\u010devanas","sub_label":"Montana","lineid":916,"uuid":"16416cf7-814c-41af-9077-4012e513f6a5"}
+{"index":127,"sub_uri":"Q980","obj_uri":"Q1199","obj_label":"Hesenas","sub_label":"Bavarija","lineid":156,"uuid":"094d8ae0-5842-4ebb-afd3-e24113381938"}
+{"index":708,"sub_uri":"Q35715","obj_uri":"Q36074","obj_label":"Kvinslandas","sub_label":"Piet\u0173 Australija","lineid":823,"uuid":"88edaf6c-cfdd-49ee-8f5a-d382ea1bda65"}
+{"index":585,"sub_uri":"Q265","obj_uri":"Q813","obj_label":"Kirgizija","sub_label":"Uzbekija","lineid":679,"uuid":"205854af-b21b-4dbd-8e05-fa77f749c7c2"}
+{"index":707,"sub_uri":"Q36","obj_uri":"Q159","obj_label":"Rusija","sub_label":"Lenkija","lineid":822,"uuid":"d9784634-f441-4b56-a05b-8d8941689fe1"}
+{"index":751,"sub_uri":"Q42906","obj_uri":"Q490","obj_label":"Milanas","sub_label":"Kolonjo Moncez\u0117","lineid":873,"uuid":"596d9159-2329-49cd-8dcf-034f66679619"}
+{"index":136,"sub_uri":"Q34","obj_uri":"Q35","obj_label":"Danija","sub_label":"\u0160vedija","lineid":168,"uuid":"e758e715-e511-4c27-823b-05003026dd3c"}
+{"index":316,"sub_uri":"Q837","obj_uri":"Q668","obj_label":"Indija","sub_label":"Nepalas","lineid":372,"uuid":"12aef758-6258-4140-accd-f6c0f2fca656"}
+{"index":53,"sub_uri":"Q14889","obj_uri":"Q2090","obj_label":"Niurnbergas","sub_label":"\u0160vabachas","lineid":65,"uuid":"d0ded49d-e2a0-4ebe-91fe-bf95812f7807"}
+{"index":680,"sub_uri":"Q23140","obj_uri":"Q23115","obj_label":"Nortampton\u0161yras","sub_label":"Vorik\u0161yras","lineid":790,"uuid":"b9858737-d19f-4405-9b79-4a6dc51f8411"}
+{"index":591,"sub_uri":"Q1415","obj_uri":"Q1166","obj_label":"Mi\u010diganas","sub_label":"Indiana","lineid":685,"uuid":"c1f881b9-5fd1-4fd3-a63f-792f37a08900"}
+{"index":147,"sub_uri":"Q1045","obj_uri":"Q115","obj_label":"Etiopija","sub_label":"Somalis","lineid":182,"uuid":"7b122048-7820-498f-8df5-0bcdc5d76def"}
+{"index":480,"sub_uri":"Q159","obj_uri":"Q711","obj_label":"Mongolija","sub_label":"Rusija","lineid":556,"uuid":"5a3c76b6-aabb-44ce-b258-06bdf3618904"}
+{"index":72,"sub_uri":"Q43","obj_uri":"Q858","obj_label":"Sirija","sub_label":"Turkija","lineid":89,"uuid":"0ad84c44-a832-452e-b8a0-e7c343c280f2"}
+{"index":278,"sub_uri":"Q1037","obj_uri":"Q1036","obj_label":"Uganda","sub_label":"Ruanda","lineid":330,"uuid":"7d5040db-b256-4000-8811-e4b7cd431e68"}
+{"index":321,"sub_uri":"Q159","obj_uri":"Q36","obj_label":"Lenkija","sub_label":"Rusija","lineid":378,"uuid":"1e18ee1e-14ba-483f-be7f-9ffca7e812e8"}
+{"index":363,"sub_uri":"Q36704","obj_uri":"Q222","obj_label":"Albanija","sub_label":"Jugoslavija","lineid":427,"uuid":"62f27cf5-4439-4a2d-837c-a08ed060b349"}
+{"index":348,"sub_uri":"Q816","obj_uri":"Q829","obj_label":"Juta","sub_label":"Arizona","lineid":411,"uuid":"4e7c88c4-4038-4836-bf14-79b54b235498"}
+{"index":630,"sub_uri":"Q46941","obj_uri":"Q2028","obj_label":"Verona","sub_label":"Negraras","lineid":731,"uuid":"86c3ab75-2645-4017-b9d6-8fcf043a3b16"}
+{"index":233,"sub_uri":"Q1904","obj_uri":"Q1400","obj_label":"Pensilvanija","sub_label":"Ontarijas","lineid":281,"uuid":"80c7695a-f50f-4f35-938a-38f397943a42"}
+{"index":678,"sub_uri":"Q505601","obj_uri":"Q43631","obj_label":"Leidenas","sub_label":"Vasenaras","lineid":788,"uuid":"c4b907b4-260f-4d40-84cf-f982eaafbd34"}
+{"index":156,"sub_uri":"Q735827","obj_uri":"Q1296","obj_label":"Gentas","sub_label":"Lochristis","lineid":192,"uuid":"4f24eae8-32c8-4493-a6d3-e908129e20fa"}
+{"index":61,"sub_uri":"Q1206","obj_uri":"Q1208","obj_label":"Brandenburgas","sub_label":"Saksonija-Anhaltas","lineid":74,"uuid":"56620c02-6593-4da8-a0cf-c33643eb9e31"}
+{"index":226,"sub_uri":"Q1454","obj_uri":"Q1509","obj_label":"Tenesis","sub_label":"\u0160iaur\u0117s Karolina","lineid":269,"uuid":"195004ab-3afa-496f-a78a-93bfed185b38"}
+{"index":354,"sub_uri":"Q691","obj_uri":"Q252","obj_label":"Indonezija","sub_label":"Papua Naujoji Gvin\u0117ja","lineid":418,"uuid":"92042599-2320-4ec4-8195-dd85f723fc19"}
+{"index":496,"sub_uri":"Q783","obj_uri":"Q774","obj_label":"Gvatemala","sub_label":"Hond\u016bras","lineid":573,"uuid":"9dab3942-306d-4cd5-8053-a0a7f154e219"}
+{"index":445,"sub_uri":"Q1049","obj_uri":"Q657","obj_label":"\u010cadas","sub_label":"Sudanas","lineid":518,"uuid":"2f42d0f7-fdc8-4b95-aed6-be0225e84b8f"}
+{"index":143,"sub_uri":"Q750","obj_uri":"Q155","obj_label":"Brazilija","sub_label":"Bolivija","lineid":178,"uuid":"22be7877-e88e-4e8d-a388-bb2b3c413630"}
+{"index":104,"sub_uri":"Q3586","obj_uri":"Q4648","obj_label":"Balis","sub_label":"Ryt\u0173 Java","lineid":125,"uuid":"702f8ef7-bbf1-4783-ae62-8a79ef17b33e"}
+{"index":401,"sub_uri":"Q224","obj_uri":"Q403","obj_label":"Serbija","sub_label":"Kroatija","lineid":468,"uuid":"7ece09ab-217e-4ae3-a255-a49ab043db57"}
+{"index":88,"sub_uri":"Q61","obj_uri":"Q1370","obj_label":"Vird\u017einija","sub_label":"Va\u0161ingtonas","lineid":107,"uuid":"89347b23-1d65-48d8-9a9d-adbc4bab37de"}
+{"index":476,"sub_uri":"Q489205","obj_uri":"Q8717","obj_label":"Sevilija","sub_label":"Dos Hermanasas","lineid":552,"uuid":"aba05882-e142-4f97-bb0d-7b31b2e24997"}
+{"index":331,"sub_uri":"Q1546","obj_uri":"Q1553","obj_label":"Nebraska","sub_label":"Ajova","lineid":390,"uuid":"8cc0a16e-28fa-4c0b-b9a9-f97197a3039d"}
+{"index":243,"sub_uri":"Q963","obj_uri":"Q954","obj_label":"Zimbabv\u0117","sub_label":"Botsvana","lineid":292,"uuid":"d0d8a52b-a135-433f-83f4-0e312ade6772"}
+{"index":187,"sub_uri":"Q23183","obj_uri":"Q23169","obj_label":"Oksford\u0161yras","sub_label":"Vilt\u0161yras","lineid":227,"uuid":"b7f3e864-a9d5-4a19-8e3c-a38c91912a94"}
+{"index":633,"sub_uri":"Q23157","obj_uri":"Q23165","obj_label":"Gloster\u0161yras","sub_label":"Somersetas","lineid":735,"uuid":"c547f8e5-613f-490a-b8df-f1967d283dcc"}
+{"index":174,"sub_uri":"Q3764","obj_uri":"Q1295","obj_label":"Dortmundas","sub_label":"Vitenas","lineid":211,"uuid":"929f9b3f-4991-4849-b133-0096df563061"}
+{"index":444,"sub_uri":"Q3899","obj_uri":"Q170462","obj_label":"Saravakas","sub_label":"Ryt\u0173 Kalimantanas","lineid":517,"uuid":"11793d3e-fe45-4183-b9c3-efc14fac7019"}
+{"index":347,"sub_uri":"Q1508","obj_uri":"Q1461","obj_label":"Manila","sub_label":"Makatis","lineid":410,"uuid":"6eb5a957-5009-476d-aa37-f6a599b52e9a"}
+{"index":7,"sub_uri":"Q974","obj_uri":"Q1037","obj_label":"Ruanda","sub_label":"Kongo Demokratin\u0117 Respublika","lineid":11,"uuid":"a9c7d538-9199-4bed-a657-be65566b2420"}
+{"index":677,"sub_uri":"Q23287","obj_uri":"Q23204","obj_label":"Hamp\u0161yras","sub_label":"Vakar\u0173 Saseksas","lineid":786,"uuid":"fb2b926c-5f84-4c96-8817-043d80e32fbd"}
+{"index":489,"sub_uri":"Q458","obj_uri":"Q43","obj_label":"Turkija","sub_label":"Europos S\u0105junga","lineid":566,"uuid":"ac7f5ea8-5679-4773-a6e4-e2bb3105a8c0"}
+{"index":346,"sub_uri":"Q884","obj_uri":"Q17","obj_label":"Japonija","sub_label":"Piet\u0173 Kor\u0117ja","lineid":408,"uuid":"9a9f0d13-eb2d-43ef-8f2c-086ca16665bb"}
+{"index":43,"sub_uri":"Q22","obj_uri":"Q21","obj_label":"Anglija","sub_label":"\u0160kotija","lineid":54,"uuid":"f69e40d1-a510-489c-838c-0b1a8fa8db0a"}
+{"index":616,"sub_uri":"Q39","obj_uri":"Q183","obj_label":"Vokietija","sub_label":"\u0160veicarija","lineid":716,"uuid":"1b914071-99c6-4661-9443-1402174018f1"}
+{"index":446,"sub_uri":"Q1546","obj_uri":"Q1581","obj_label":"Mis\u016bris","sub_label":"Ajova","lineid":519,"uuid":"ad81eab3-8ecd-4c06-ba86-f2bfa40ccd60"}
+{"index":242,"sub_uri":"Q28","obj_uri":"Q212","obj_label":"Ukraina","sub_label":"Vengrija","lineid":291,"uuid":"b2729381-979b-4a6b-87fa-8bf1ac689d24"}
+{"index":210,"sub_uri":"Q277014","obj_uri":"Q4648","obj_label":"Balis","sub_label":"Balio j\u016bra","lineid":253,"uuid":"65733754-0d5a-48a1-8fe8-c0443d2e64d1"}
+{"index":385,"sub_uri":"Q9974","obj_uri":"Q727","obj_label":"Amsterdamas","sub_label":"Vespas","lineid":452,"uuid":"c277b4c2-0909-460c-8bd2-c157cfcbec54"}
+{"index":764,"sub_uri":"Q165269","obj_uri":"Q55","obj_label":"Nyderlandai","sub_label":"Ryt\u0173 Fryzija","lineid":889,"uuid":"985241d4-5e7d-4781-9685-b377454a4b33"}
+{"index":669,"sub_uri":"Q131083","obj_uri":"Q399","obj_label":"Arm\u0117nija","sub_label":"Nachi\u010devan\u0117s autonomin\u0117 respublika","lineid":778,"uuid":"58f777d3-00a9-4652-8f0c-5814998de82e"}
+{"index":430,"sub_uri":"Q23140","obj_uri":"Q23106","obj_label":"Lester\u0161yras","sub_label":"Vorik\u0161yras","lineid":501,"uuid":"b12bd039-7a6c-4b7a-be35-a3cdd73ab86c"}
+{"index":62,"sub_uri":"Q23165","obj_uri":"Q23183","obj_label":"Vilt\u0161yras","sub_label":"Gloster\u0161yras","lineid":75,"uuid":"d5e5535d-c0e8-4ae8-b4e0-52e2b80d03ab"}
+{"index":729,"sub_uri":"Q1185","obj_uri":"Q1191","obj_label":"Mahara\u0161tra","sub_label":"Karnataka","lineid":845,"uuid":"8d2ccb2a-0607-4a1c-98c3-368c6509e10b"}
+{"index":605,"sub_uri":"Q620634","obj_uri":"Q1049","obj_label":"Sudanas","sub_label":"Bir Tavilis","lineid":702,"uuid":"a54db2f7-2861-46ce-8740-6e5968d4db30"}
+{"index":719,"sub_uri":"Q23159","obj_uri":"Q23156","obj_label":"Devonas","sub_label":"Dorsetas","lineid":835,"uuid":"e02e8543-14c3-4c68-9f2b-9ebaebf4ab6e"}
+{"index":115,"sub_uri":"Q23334","obj_uri":"Q230","obj_label":"Gruzija","sub_label":"Abchazija","lineid":138,"uuid":"65adb308-670f-482d-a827-4ee2530f516e"}
+{"index":749,"sub_uri":"Q7768","obj_uri":"Q902","obj_label":"Banglade\u0161as","sub_label":"ASEAN","lineid":870,"uuid":"fe46312b-c899-4bf6-883c-9bcba6c64de6"}
+{"index":661,"sub_uri":"Q28","obj_uri":"Q403","obj_label":"Serbija","sub_label":"Vengrija","lineid":768,"uuid":"1982cda5-8782-4ae7-87e1-624653f7456c"}
+{"index":518,"sub_uri":"Q244717","obj_uri":"Q456","obj_label":"Lionas","sub_label":"Caluire-et-Cuire","lineid":600,"uuid":"f57b924d-af99-4dc6-94db-c6931e1b91e0"}
+{"index":48,"sub_uri":"Q1445","obj_uri":"Q1185","obj_label":"Karnataka","sub_label":"Tamilnadas","lineid":59,"uuid":"493914c4-4066-4e63-9027-b6c95e63d95b"}
+{"index":159,"sub_uri":"Q1951","obj_uri":"Q1212","obj_label":"Montana","sub_label":"Alberta","lineid":195,"uuid":"282dc81f-915f-4101-9288-156480c51f88"}
+{"index":338,"sub_uri":"Q40","obj_uri":"Q38","obj_label":"Italija","sub_label":"Austrija","lineid":399,"uuid":"bcac9fa2-836c-46b7-87ce-584bab33bbe7"}
+{"index":395,"sub_uri":"Q40","obj_uri":"Q28","obj_label":"Vengrija","sub_label":"Austrija","lineid":462,"uuid":"a6beb534-913a-4e0d-9aec-ac1abe32f079"}
+{"index":503,"sub_uri":"Q20937","obj_uri":"Q8684","obj_label":"Seulas","sub_label":"Kiongi provincija","lineid":584,"uuid":"050f1c8d-7f46-4971-9eae-3ff72834d268"}
+{"index":523,"sub_uri":"Q28","obj_uri":"Q215","obj_label":"Slov\u0117nija","sub_label":"Vengrija","lineid":605,"uuid":"424863c8-4130-45cf-a668-6667b9925401"}
+{"index":199,"sub_uri":"Q79","obj_uri":"Q1049","obj_label":"Sudanas","sub_label":"Egiptas","lineid":241,"uuid":"ebd62ebd-fe3a-416d-be26-fb2a57d38d4d"}
+{"index":189,"sub_uri":"Q833","obj_uri":"Q869","obj_label":"Tailandas","sub_label":"Malaizija","lineid":230,"uuid":"6b561bd4-dc61-4b0f-9ebb-d1ed3baed987"}
+{"index":304,"sub_uri":"Q977","obj_uri":"Q1045","obj_label":"Somalis","sub_label":"D\u017eibutis","lineid":358,"uuid":"d9fe1da5-d477-4d42-be85-5115443b2c46"}
+{"index":713,"sub_uri":"Q53079","obj_uri":"Q1439","obj_label":"Teksasas","sub_label":"Koahuila","lineid":829,"uuid":"e1c09a06-ccf5-4405-895a-d135a965187d"}
+{"index":337,"sub_uri":"Q582","obj_uri":"Q456","obj_label":"Lionas","sub_label":"Vilerbanas","lineid":398,"uuid":"328fc119-b41c-4190-b39b-daab0a6b3a71"}
+{"index":106,"sub_uri":"Q869","obj_uri":"Q424","obj_label":"Kambod\u017ea","sub_label":"Tailandas","lineid":128,"uuid":"17b4c9b1-6a5e-4629-aa41-1fe0db0a08e8"}
+{"index":717,"sub_uri":"Q4899300","obj_uri":"Q311975","obj_label":"Bostonas","sub_label":"Vibertonas","lineid":833,"uuid":"f5680c75-532d-4fee-8892-e12ada85df6d"}
+{"index":253,"sub_uri":"Q1006","obj_uri":"Q1014","obj_label":"Liberija","sub_label":"Gvin\u0117ja","lineid":302,"uuid":"a1f49068-20b4-4b5f-a621-5c7b6ff2589c"}
+{"index":411,"sub_uri":"Q23159","obj_uri":"Q23204","obj_label":"Hamp\u0161yras","sub_label":"Dorsetas","lineid":479,"uuid":"e1139aaa-1db4-4dcc-9571-723515aef39a"}
+{"index":452,"sub_uri":"Q2007","obj_uri":"Q1989","obj_label":"Saska\u010devanas","sub_label":"\u0160iaur\u0117s Vakarai","lineid":525,"uuid":"d221c8b6-daff-4421-a603-66b97b9a4a1e"}
+{"index":685,"sub_uri":"Q184","obj_uri":"Q211","obj_label":"Latvija","sub_label":"Baltarusija","lineid":797,"uuid":"f7361504-bf2c-41f2-9e2f-883b2e388645"}
+{"index":18,"sub_uri":"Q953","obj_uri":"Q1029","obj_label":"Mozambikas","sub_label":"Zambija","lineid":25,"uuid":"8b432441-e0dc-455f-8bd4-5cb16f882d04"}
+{"index":415,"sub_uri":"Q173","obj_uri":"Q1494","obj_label":"Misisip\u0117","sub_label":"Alabama","lineid":485,"uuid":"96175645-ca85-46c8-9a0a-8ceb8ff17e90"}
+{"index":268,"sub_uri":"Q159736","obj_uri":"Q93195","obj_label":"Alsteris","sub_label":"Lensteris","lineid":319,"uuid":"1cfd44cb-f6d9-4d6b-91e5-f5c72a4b7f12"}
+{"index":533,"sub_uri":"Q36704","obj_uri":"Q41","obj_label":"Graikija","sub_label":"Jugoslavija","lineid":617,"uuid":"ca84ab76-da7e-4da0-a20d-55118634bf8a"}
+{"index":376,"sub_uri":"Q912777","obj_uri":"Q37333","obj_label":"Liublinas","sub_label":"Liublino apskritis","lineid":442,"uuid":"e57dffac-efdc-47cf-b219-599f456c260a"}
+{"index":462,"sub_uri":"Q1437","obj_uri":"Q1174","obj_label":"Harjana","sub_label":"Rad\u017eastanas","lineid":535,"uuid":"4d6dc6a0-11b4-4715-a430-7c8f084c5084"}
+{"index":276,"sub_uri":"Q423","obj_uri":"Q159","obj_label":"Rusija","sub_label":"\u0160iaur\u0117s Kor\u0117ja","lineid":328,"uuid":"1433421f-2dc5-4169-888e-7998d4d9eb31"}
+{"index":83,"sub_uri":"Q1159","obj_uri":"Q1185","obj_label":"Karnataka","sub_label":"Andhra Prade\u0161as","lineid":100,"uuid":"e4ada42e-95c5-4eb4-9869-117bce9a2e63"}
+{"index":275,"sub_uri":"Q23681","obj_uri":"Q229","obj_label":"Kipras","sub_label":"Turk\u0173 Kipras","lineid":327,"uuid":"20371608-59f5-4041-ab34-5e82250c66eb"}
+{"index":285,"sub_uri":"Q145","obj_uri":"Q27","obj_label":"Airija","sub_label":"Jungtin\u0117 Karalyst\u0117","lineid":337,"uuid":"0ef37b97-5422-4bad-ab92-c994987a417c"}
+{"index":528,"sub_uri":"Q42192","obj_uri":"Q490","obj_label":"Milanas","sub_label":"San Donato Milanes\u0117","lineid":612,"uuid":"83222349-7459-4977-846a-fc4f5c144bba"}
+{"index":574,"sub_uri":"Q29999","obj_uri":"Q717","obj_label":"Venesuela","sub_label":"Nyderlandai","lineid":666,"uuid":"2e01c4de-ad26-4f33-a03f-a0b8e640dcf9"}
+{"index":373,"sub_uri":"Q1032","obj_uri":"Q262","obj_label":"Al\u017eyras","sub_label":"Nigeris","lineid":439,"uuid":"cd4c208a-a829-4869-b8e0-709d7c8ff41d"}
+{"index":70,"sub_uri":"Q94747","obj_uri":"Q43631","obj_label":"Leidenas","sub_label":"Ugstgestas","lineid":86,"uuid":"a612fb0d-c5ce-42ec-a2c6-db00655916d1"}
+{"index":552,"sub_uri":"Q47097","obj_uri":"Q43194","obj_label":"Junanas","sub_label":"Guid\u017eou","lineid":639,"uuid":"d7d383ad-1ea7-4fe0-9698-e75b91beb5e2"}
+{"index":586,"sub_uri":"Q2023","obj_uri":"Q1904","obj_label":"Ontarijas","sub_label":"Nunavutas","lineid":680,"uuid":"ce73153a-ebf3-487b-99cd-6dce78ed0da6"}
+{"index":227,"sub_uri":"Q167859","obj_uri":"Q36","obj_label":"Lenkija","sub_label":"Voluin\u0117s sritis","lineid":270,"uuid":"33867cff-3ae5-4649-89f0-9c68b69ec5a9"}
+{"index":345,"sub_uri":"Q458","obj_uri":"Q236","obj_label":"Juodkalnija","sub_label":"Europos S\u0105junga","lineid":406,"uuid":"d8de929b-b9c8-4c86-bd17-53c653b1dd13"}
+{"index":132,"sub_uri":"Q739","obj_uri":"Q804","obj_label":"Panama","sub_label":"Kolumbija","lineid":164,"uuid":"ed30587c-ce1a-417c-94b0-7e1ceb902fac"}
+{"index":413,"sub_uri":"Q419","obj_uri":"Q739","obj_label":"Kolumbija","sub_label":"Peru","lineid":483,"uuid":"920bec72-2a0d-4a84-bb65-cd41b9145ae5"}
+{"index":110,"sub_uri":"Q165784","obj_uri":"Q739951","obj_label":"Centrinis regionas","sub_label":"Vakar\u0173 regionas","lineid":132,"uuid":"6e7ae643-051e-4c56-bae5-f62d5a47ee23"}
+{"index":101,"sub_uri":"Q148","obj_uri":"Q863","obj_label":"Tad\u017eikija","sub_label":"Kinijos Liaudies Respublika","lineid":122,"uuid":"41907840-87e4-47c2-bbaf-845132407357"}
+{"index":287,"sub_uri":"Q1208","obj_uri":"Q1202","obj_label":"Saksonija","sub_label":"Brandenburgas","lineid":339,"uuid":"7e79e946-fa4b-44a9-8498-4ee0abd74099"}
+{"index":358,"sub_uri":"Q399","obj_uri":"Q794","obj_label":"Iranas","sub_label":"Arm\u0117nija","lineid":422,"uuid":"168a9d07-d4db-43ba-9b94-e5a1fe56309a"}
+{"index":245,"sub_uri":"Q262","obj_uri":"Q1032","obj_label":"Nigeris","sub_label":"Al\u017eyras","lineid":294,"uuid":"0c802a64-e66d-4e63-8521-2361e9252335"}
+{"index":660,"sub_uri":"Q15180","obj_uri":"Q43","obj_label":"Turkija","sub_label":"Soviet\u0173 S\u0105junga","lineid":767,"uuid":"d9d51b80-24ae-4dcb-8e4e-ab13ac4dbb8f"}
+{"index":631,"sub_uri":"Q1009","obj_uri":"Q1033","obj_label":"Nigerija","sub_label":"Kamer\u016bnas","lineid":732,"uuid":"27a3a8ea-749a-42ef-b7c2-0a096c5f5221"}
+{"index":41,"sub_uri":"Q1502","obj_uri":"Q1164","obj_label":"Asamas","sub_label":"Mizoramas","lineid":52,"uuid":"6d3f1bae-9cf7-495a-9c3f-626d5935d875"}
+{"index":466,"sub_uri":"Q458","obj_uri":"Q28","obj_label":"Vengrija","sub_label":"Europos S\u0105junga","lineid":539,"uuid":"3425e5a0-f299-41ce-8f94-8d937d629fc2"}
+{"index":119,"sub_uri":"Q242","obj_uri":"Q96","obj_label":"Meksika","sub_label":"Belizas","lineid":144,"uuid":"951e7e31-fd39-4df9-bba6-95d6845e76a4"}
+{"index":148,"sub_uri":"Q810","obj_uri":"Q801","obj_label":"Izraelis","sub_label":"Jordanija","lineid":183,"uuid":"12fc5a62-7920-4560-afb4-b7355f9d4bb2"}
+{"index":792,"sub_uri":"Q212","obj_uri":"Q36","obj_label":"Lenkija","sub_label":"Ukraina","lineid":921,"uuid":"091b5d31-087b-4176-849c-bec1ef378d8a"}
+{"index":627,"sub_uri":"Q1006","obj_uri":"Q912","obj_label":"Malis","sub_label":"Gvin\u0117ja","lineid":728,"uuid":"75a74dba-b0bb-47a4-8458-09f2665ee731"}
+{"index":13,"sub_uri":"Q155","obj_uri":"Q734","obj_label":"Gajana","sub_label":"Brazilija","lineid":19,"uuid":"44b6b2ef-b9bf-4db2-8ffa-95f6f5a8e425"}
+{"index":759,"sub_uri":"Q36704","obj_uri":"Q219","obj_label":"Bulgarija","sub_label":"Jugoslavija","lineid":883,"uuid":"6724a0eb-64c8-432e-8725-ab0ce792fe33"}
+{"index":573,"sub_uri":"Q953","obj_uri":"Q916","obj_label":"Angola","sub_label":"Zambija","lineid":665,"uuid":"8e0e3868-d0a7-433f-bef3-7fadf0ce6b16"}
+{"index":40,"sub_uri":"Q23105","obj_uri":"Q23140","obj_label":"Vorik\u0161yras","sub_label":"Staford\u0161yras","lineid":51,"uuid":"c5e32f7b-5dd8-42cd-840d-3ebfc7c211d5"}
+{"index":420,"sub_uri":"Q1212","obj_uri":"Q1214","obj_label":"Vajomingas","sub_label":"Montana","lineid":490,"uuid":"c682595c-0188-4b7a-8b8c-bd6a0b516995"}
+{"index":787,"sub_uri":"Q37","obj_uri":"Q211","obj_label":"Latvija","sub_label":"Lietuva","lineid":915,"uuid":"458109c5-fa5d-48ac-8636-303dbaa6c2e1"}
+{"index":537,"sub_uri":"Q7318","obj_uri":"Q31","obj_label":"Belgija","sub_label":"Tre\u010diasis Reichas","lineid":621,"uuid":"3407d7ce-a0eb-4a4a-96b6-0eb417c1ae65"}
+{"index":234,"sub_uri":"Q1467","obj_uri":"Q316527","obj_label":"Toledas","sub_label":"Sebu","lineid":282,"uuid":"d50cba1e-8d00-433f-b4fc-95332baa14f8"}
+{"index":118,"sub_uri":"Q813","obj_uri":"Q265","obj_label":"Uzbekija","sub_label":"Kirgizija","lineid":142,"uuid":"580e2960-20ec-4961-920d-62475c9ccd32"}
+{"index":139,"sub_uri":"Q1397","obj_uri":"Q1166","obj_label":"Mi\u010diganas","sub_label":"Ohajas","lineid":171,"uuid":"404d036e-dcff-4137-aaaa-8caa99062b59"}
+{"index":271,"sub_uri":"Q243133","obj_uri":"Q220","obj_label":"Roma","sub_label":"Palestrina","lineid":323,"uuid":"2aa23681-7a9f-46ca-8171-a2fb7372e314"}
+{"index":168,"sub_uri":"Q1546","obj_uri":"Q1204","obj_label":"Ilinojus","sub_label":"Ajova","lineid":205,"uuid":"303e4f2f-aee6-472f-94da-c7af5bf64ba4"}
+{"index":307,"sub_uri":"Q12543","obj_uri":"Q90","obj_label":"Pary\u017eius","sub_label":"Auk\u0161tutin\u0117 Sena","lineid":361,"uuid":"de0583cc-871c-4dbd-9aa9-43feb0478c7d"}
+{"index":683,"sub_uri":"Q1256","obj_uri":"Q1273","obj_label":"Toskana","sub_label":"Lig\u016brija","lineid":794,"uuid":"2d06e595-0e8d-4607-9e17-c07d49308ef3"}
+{"index":16,"sub_uri":"Q1397","obj_uri":"Q1415","obj_label":"Indiana","sub_label":"Ohajas","lineid":23,"uuid":"4c335231-e337-4404-b975-a16b783c90d9"}
+{"index":536,"sub_uri":"Q23042","obj_uri":"Q8818","obj_label":"Valensija","sub_label":"Paterna","lineid":620,"uuid":"9bcb2aac-89fa-49af-b979-a8d058a8379e"}
+{"index":237,"sub_uri":"Q298","obj_uri":"Q419","obj_label":"Peru","sub_label":"\u010cil\u0117","lineid":286,"uuid":"43da065d-6002-44ec-bb01-3f11bfc15748"}
+{"index":378,"sub_uri":"Q2046249","obj_uri":"Q2807","obj_label":"Madridas","sub_label":"Parasueljos de Charama","lineid":444,"uuid":"4ea36d8c-2fa2-4622-bc9d-1d4697d4ea8e"}
+{"index":214,"sub_uri":"Q23090","obj_uri":"Q23106","obj_label":"Lester\u0161yras","sub_label":"Linkoln\u0161yras","lineid":257,"uuid":"2474cc10-9332-48b1-a581-78695735cbf1"}
+{"index":651,"sub_uri":"Q730","obj_uri":"Q155","obj_label":"Brazilija","sub_label":"Surinamas","lineid":758,"uuid":"ce92e584-04a7-49e6-84fd-d89428cf192b"}
+{"index":697,"sub_uri":"Q3131","obj_uri":"Q1216","obj_label":"Pjemontas","sub_label":"Auk\u0161tutinio Provanso Alp\u0117s","lineid":811,"uuid":"1df0e1d4-68e6-4a63-bb40-c575d34f2f4b"}
+{"index":784,"sub_uri":"Q1188","obj_uri":"Q1437","obj_label":"Rad\u017eastanas","sub_label":"Madhja Prade\u0161as","lineid":912,"uuid":"e318415c-0f1f-4abf-b58d-09572abedfca"}
+{"index":339,"sub_uri":"Q214","obj_uri":"Q40","obj_label":"Austrija","sub_label":"Slovakija","lineid":400,"uuid":"5923115d-095e-453b-a2bf-e30424a8820f"}
+{"index":282,"sub_uri":"Q1166","obj_uri":"Q1904","obj_label":"Ontarijas","sub_label":"Mi\u010diganas","lineid":334,"uuid":"943a0d85-b778-42b5-b0ea-80a440a94cff"}
+{"index":601,"sub_uri":"Q212793","obj_uri":"Q90","obj_label":"Pary\u017eius","sub_label":"Charenton-le-Pont","lineid":698,"uuid":"c3eeeff9-506e-49b3-a594-2c116eeee354"}
+{"index":131,"sub_uri":"Q18424","obj_uri":"Q18419","obj_label":"Bruklinas","sub_label":"Kvinsas","lineid":163,"uuid":"a7c0ddb5-c78f-4c1f-bf52-0200412267f1"}
+{"index":298,"sub_uri":"Q5705","obj_uri":"Q142","obj_label":"Pranc\u016bzija","sub_label":"Katalonija","lineid":351,"uuid":"4a22e607-af72-485d-9ad0-fb332433742e"}
+{"index":6,"sub_uri":"Q889","obj_uri":"Q843","obj_label":"Pakistanas","sub_label":"Afganistanas","lineid":10,"uuid":"60cf306e-f639-41d7-a3eb-105a53fad142"}
+{"index":2,"sub_uri":"Q1581","obj_uri":"Q1553","obj_label":"Nebraska","sub_label":"Mis\u016bris","lineid":2,"uuid":"ba547fd6-71ad-4864-ad16-0a92462fb28f"}
+{"index":145,"sub_uri":"Q29","obj_uri":"Q142","obj_label":"Pranc\u016bzija","sub_label":"Ispanija","lineid":180,"uuid":"6b4bd104-0f49-4abd-9f06-0c8afa91a3cc"}
+{"index":433,"sub_uri":"Q107126","obj_uri":"Q88","obj_label":"Aleksandrija","sub_label":"Arlingtonas","lineid":504,"uuid":"9951f90a-27db-4d55-844f-5dd682ade297"}
+{"index":600,"sub_uri":"Q58731","obj_uri":"Q99","obj_label":"Kalifornija","sub_label":"\u017demutin\u0117 Kalifornija","lineid":697,"uuid":"83b6c4cf-0930-4250-a9ef-12624c1d3896"}
+{"index":597,"sub_uri":"Q724448","obj_uri":"Q12892","obj_label":"Antverpenas","sub_label":"Hemiksemas","lineid":694,"uuid":"4820d256-cd91-4414-bad7-72cc9d32e576"}
+{"index":247,"sub_uri":"Q12788","obj_uri":"Q90","obj_label":"Pary\u017eius","sub_label":"Marnos sl\u0117nis","lineid":296,"uuid":"f3c820a7-0dbf-48d1-8dca-b39780767e85"}
+{"index":344,"sub_uri":"Q1371","obj_uri":"Q1400","obj_label":"Pensilvanija","sub_label":"Vakar\u0173 Vird\u017einija","lineid":405,"uuid":"cde19f28-6135-45d7-9bef-62f19485d5c1"}
+{"index":647,"sub_uri":"Q23109","obj_uri":"Q23090","obj_label":"Linkoln\u0161yras","sub_label":"Norfolkas","lineid":754,"uuid":"4c18a03d-9d82-44a6-977d-0f098731a6ea"}
+{"index":673,"sub_uri":"Q82636","obj_uri":"Q2044","obj_label":"Florencija","sub_label":"Kampi Bizencijus","lineid":782,"uuid":"aa596820-189a-475a-8a9e-e7d3d7caeaea"}
+{"index":120,"sub_uri":"Q23204","obj_uri":"Q23183","obj_label":"Vilt\u0161yras","sub_label":"Hamp\u0161yras","lineid":147,"uuid":"3b5fd61b-ce3b-470f-b9a2-af3424c5f6cd"}
+{"index":791,"sub_uri":"Q833","obj_uri":"Q252","obj_label":"Indonezija","sub_label":"Malaizija","lineid":920,"uuid":"2d590ee9-9e14-489c-b6e8-c11a433a6b61"}
+{"index":558,"sub_uri":"Q1221","obj_uri":"Q1227","obj_label":"Nevada","sub_label":"Aidahas","lineid":647,"uuid":"92cc00de-8246-4bfb-8042-85bdf7add16c"}
+{"index":289,"sub_uri":"Q1041","obj_uri":"Q1006","obj_label":"Gvin\u0117ja","sub_label":"Senegalas","lineid":341,"uuid":"8b557de1-c61e-4f2b-b26f-d7cbefdb4698"}
+{"index":300,"sub_uri":"Q23240","obj_uri":"Q23112","obj_label":"Kembrid\u017e\u0161yras","sub_label":"Eseksas","lineid":353,"uuid":"146a608d-b116-4960-9bd9-9000ae94f5d7"}
+{"index":224,"sub_uri":"Q1603","obj_uri":"Q1581","obj_label":"Mis\u016bris","sub_label":"Kentukis","lineid":267,"uuid":"887afbea-ded5-437f-9203-e55ecbe572e0"}
+{"index":286,"sub_uri":"Q1032","obj_uri":"Q1016","obj_label":"Libija","sub_label":"Nigeris","lineid":338,"uuid":"c13a4e42-4ced-4c6c-92cf-00fe48d7977a"}
+{"index":694,"sub_uri":"Q1202","obj_uri":"Q980","obj_label":"Bavarija","sub_label":"Saksonija","lineid":808,"uuid":"9d811730-5557-40a5-888c-e35251bba4b6"}
+{"index":614,"sub_uri":"Q1391","obj_uri":"Q1370","obj_label":"Vird\u017einija","sub_label":"Merilandas","lineid":713,"uuid":"6dc9fc17-2bdc-4ed4-93c1-ba4a9420423f"}
+{"index":146,"sub_uri":"Q1410","obj_uri":"Q29","obj_label":"Ispanija","sub_label":"Gibraltaras","lineid":181,"uuid":"033aaff9-4874-4d04-adac-b2ee88017406"}
+{"index":499,"sub_uri":"Q33","obj_uri":"Q34","obj_label":"\u0160vedija","sub_label":"Suomija","lineid":578,"uuid":"57739091-672c-406b-9cb8-6968a6f95937"}
+{"index":303,"sub_uri":"Q242703","obj_uri":"Q220","obj_label":"Roma","sub_label":"Grotaferata","lineid":357,"uuid":"14ef061d-3090-4bb7-82c1-849473c91dc6"}
+{"index":330,"sub_uri":"Q82712","obj_uri":"Q2044","obj_label":"Florencija","sub_label":"Impruneta","lineid":389,"uuid":"dfc81afa-085a-4a01-bf8b-b1f303d48fa4"}
+{"index":532,"sub_uri":"Q1221","obj_uri":"Q1212","obj_label":"Montana","sub_label":"Aidahas","lineid":616,"uuid":"b201d86b-d202-49e3-85a6-301b57de2ce7"}
+{"index":381,"sub_uri":"Q1263","obj_uri":"Q1216","obj_label":"Pjemontas","sub_label":"Emilija-Romanija","lineid":448,"uuid":"e394ff9b-4954-4e0e-9a4c-8a26ab24dd88"}
+{"index":572,"sub_uri":"Q1185","obj_uri":"Q1171","obj_label":"Goa","sub_label":"Karnataka","lineid":664,"uuid":"183883f4-2f7c-4129-a286-64bfc8acf6cb"}
+{"index":575,"sub_uri":"Q11736","obj_uri":"Q956","obj_label":"Pekinas","sub_label":"Tiandzinas","lineid":667,"uuid":"c16d95af-7458-4f60-806e-55bbbfbffe19"}
+{"index":394,"sub_uri":"Q1210","obj_uri":"Q1216","obj_label":"Pjemontas","sub_label":"Lombardija","lineid":461,"uuid":"e68fc203-e2f8-433d-bc6f-15d3d8daf9d7"}
+{"index":653,"sub_uri":"Q3724","obj_uri":"Q3630","obj_label":"D\u017eakarta","sub_label":"Vakar\u0173 Java","lineid":760,"uuid":"0cf3f3ec-d088-43a2-ace4-edfa842de9ae"}
+{"index":535,"sub_uri":"Q1191","obj_uri":"Q1061","obj_label":"Gud\u017earatas","sub_label":"Mahara\u0161tra","lineid":619,"uuid":"08fd2682-f188-491f-8b28-d1bdb2a7478e"}
+{"index":178,"sub_uri":"Q23115","obj_uri":"Q23229","obj_label":"Bakingam\u0161yras","sub_label":"Nortampton\u0161yras","lineid":215,"uuid":"8c97532b-31e5-4d4f-80c7-0483551c0a2b"}
+{"index":636,"sub_uri":"Q657","obj_uri":"Q1009","obj_label":"Kamer\u016bnas","sub_label":"\u010cadas","lineid":738,"uuid":"e10581c8-c5d1-44b2-b070-2a6485957a96"}
+{"index":317,"sub_uri":"Q771","obj_uri":"Q16551","obj_label":"Vermontas","sub_label":"Masa\u010dusetsas","lineid":373,"uuid":"faff2ffc-86fb-4162-8218-2bf153f03d75"}
+{"index":212,"sub_uri":"Q4478","obj_uri":"Q22424","obj_label":"Pand\u017eabas","sub_label":"Pand\u017eabas","lineid":255,"uuid":"e5c22def-1fe3-4d89-9b33-a6d9e57fc049"}
+{"index":564,"sub_uri":"Q36","obj_uri":"Q212","obj_label":"Ukraina","sub_label":"Lenkija","lineid":653,"uuid":"9fafd106-c127-467d-9286-9430a73a231e"}
+{"index":634,"sub_uri":"Q822","obj_uri":"Q801","obj_label":"Izraelis","sub_label":"Libanas","lineid":736,"uuid":"88602425-669b-4e61-a607-b1042222a051"}
+{"index":513,"sub_uri":"Q3926","obj_uri":"Q34647","obj_label":"Johanesburgas","sub_label":"Pretorija","lineid":594,"uuid":"4647fb01-d6ac-4324-bec3-f0c5ad562ed1"}
+{"index":568,"sub_uri":"Q691","obj_uri":"Q5095","obj_label":"Papua","sub_label":"Papua Naujoji Gvin\u0117ja","lineid":658,"uuid":"42e9cc4f-7bdd-4d67-b8df-fc6b92aacecd"}
+{"index":643,"sub_uri":"Q816","obj_uri":"Q99","obj_label":"Kalifornija","sub_label":"Arizona","lineid":748,"uuid":"aa7c1589-007c-4e0e-b5a9-9c12909a42a6"}
+{"index":491,"sub_uri":"Q1649","obj_uri":"Q1439","obj_label":"Teksasas","sub_label":"Oklahoma","lineid":568,"uuid":"108db4a3-2d0f-473a-a420-4c3e439c5c11"}
+{"index":38,"sub_uri":"Q12751","obj_uri":"Q3083","obj_label":"Enas","sub_label":"Auk\u0161tutin\u0117 Savoja","lineid":48,"uuid":"29b88a5c-15d1-4582-9219-833306e9e344"}
+{"index":737,"sub_uri":"Q7172","obj_uri":"Q801","obj_label":"Izraelis","sub_label":"Arab\u0173 Lyga","lineid":856,"uuid":"52915881-2aab-45a8-85ea-4611f940ecaa"}
+{"index":465,"sub_uri":"Q1191","obj_uri":"Q677037","obj_label":"Telangana","sub_label":"Mahara\u0161tra","lineid":538,"uuid":"be1e4719-cbba-4d5c-b745-f5b92b9b957d"}
+{"index":555,"sub_uri":"Q851","obj_uri":"Q796","obj_label":"Irakas","sub_label":"Saudo Arabija","lineid":643,"uuid":"d0e9c7c3-949c-4473-89ab-27eca8dbc41e"}
+{"index":550,"sub_uri":"Q953","obj_uri":"Q954","obj_label":"Zimbabv\u0117","sub_label":"Zambija","lineid":637,"uuid":"48f22ef7-2ae3-4e8b-a864-4db4d93a8745"}
+{"index":544,"sub_uri":"Q1227","obj_uri":"Q1221","obj_label":"Aidahas","sub_label":"Nevada","lineid":631,"uuid":"a0374850-9c08-4300-9391-cab8f6ff178c"}
+{"index":770,"sub_uri":"Q1581","obj_uri":"Q1558","obj_label":"Kanzasas","sub_label":"Mis\u016bris","lineid":895,"uuid":"ee139e6e-24c0-498b-978f-b5da784d5f1d"}
+{"index":583,"sub_uri":"Q33946","obj_uri":"Q28","obj_label":"Vengrija","sub_label":"\u010cekoslovakija","lineid":675,"uuid":"08c00548-2e23-477c-a373-1141de1c85b2"}
+{"index":530,"sub_uri":"Q1025","obj_uri":"Q262","obj_label":"Al\u017eyras","sub_label":"Mauritanija","lineid":614,"uuid":"42cba236-1f6a-4754-81f8-236d790b2858"}
+{"index":173,"sub_uri":"Q224","obj_uri":"Q236","obj_label":"Juodkalnija","sub_label":"Kroatija","lineid":210,"uuid":"f439f9ee-92f6-4f90-a163-5b65f7fbe37b"}
+{"index":590,"sub_uri":"Q1204","obj_uri":"Q1415","obj_label":"Indiana","sub_label":"Ilinojus","lineid":684,"uuid":"c12f9872-958f-42a6-9931-c329cb05ac3b"}
+{"index":571,"sub_uri":"Q47034","obj_uri":"Q1757","obj_label":"Helsinkis","sub_label":"Espas","lineid":663,"uuid":"626dee89-263a-4429-bf5f-974cba620045"}
+{"index":79,"sub_uri":"Q881","obj_uri":"Q819","obj_label":"Laosas","sub_label":"Vietnamas","lineid":96,"uuid":"5112b59f-cbad-4c7c-aaca-68fd4319dcae"}
+{"index":195,"sub_uri":"Q954","obj_uri":"Q963","obj_label":"Botsvana","sub_label":"Zimbabv\u0117","lineid":237,"uuid":"f253d73a-9dd6-4e9f-9001-9de2536b8563"}
+{"index":232,"sub_uri":"Q7172","obj_uri":"Q115","obj_label":"Etiopija","sub_label":"Arab\u0173 Lyga","lineid":278,"uuid":"b3b65058-d083-4d2e-b80b-e6e3cafb6dc2"}
+{"index":188,"sub_uri":"Q1612","obj_uri":"Q1588","obj_label":"Luiziana","sub_label":"Arkanzasas","lineid":228,"uuid":"1409e38f-735c-4154-bbde-5e4c2597521a"}
+{"index":538,"sub_uri":"Q12439","obj_uri":"Q182625","obj_label":"Vindzoras","sub_label":"Detroitas","lineid":622,"uuid":"c3ef9e55-5ac4-4156-a767-73ad8fe00548"}
+{"index":747,"sub_uri":"Q32","obj_uri":"Q183","obj_label":"Vokietija","sub_label":"Liuksemburgas","lineid":868,"uuid":"4b2c4cf2-5e3d-4c35-9895-0d5b16a1fb73"}
+{"index":8,"sub_uri":"Q585","obj_uri":"Q57912","obj_label":"\u0160i","sub_label":"Oslas","lineid":12,"uuid":"d7cb00d3-3aeb-4684-ab88-28e1afd7fd3c"}
+{"index":244,"sub_uri":"Q191","obj_uri":"Q159","obj_label":"Rusija","sub_label":"Estija","lineid":293,"uuid":"8a481d68-d778-4b0c-a966-da8127793c41"}
+{"index":768,"sub_uri":"Q736","obj_uri":"Q419","obj_label":"Peru","sub_label":"Ekvadoras","lineid":893,"uuid":"bae251ce-7867-429f-ae99-4960cc30fceb"}
+{"index":674,"sub_uri":"Q218","obj_uri":"Q212","obj_label":"Ukraina","sub_label":"Rumunija","lineid":783,"uuid":"4808b367-c3f3-4f84-a4e8-cb33931e5070"}
+{"index":326,"sub_uri":"Q23095","obj_uri":"Q23090","obj_label":"Linkoln\u0161yras","sub_label":"Piet\u0173 Jork\u0161yras","lineid":384,"uuid":"0f299151-77a4-4f72-85ae-ab891b377795"}
+{"index":290,"sub_uri":"Q734","obj_uri":"Q717","obj_label":"Venesuela","sub_label":"Gajana","lineid":342,"uuid":"e48993a8-7b97-46be-8ceb-a762b733d91a"}
+{"index":579,"sub_uri":"Q41","obj_uri":"Q222","obj_label":"Albanija","sub_label":"Graikija","lineid":671,"uuid":"cb77e7d7-3634-4a5b-9152-fcf4fce9e8de"}
+{"index":257,"sub_uri":"Q23109","obj_uri":"Q23112","obj_label":"Kembrid\u017e\u0161yras","sub_label":"Norfolkas","lineid":306,"uuid":"28394d17-60b2-489a-914a-d4d94c74ae3d"}
+{"index":273,"sub_uri":"Q34366","obj_uri":"Q36687","obj_label":"Viktorija","sub_label":"Tasmanija","lineid":325,"uuid":"92affdda-aa5c-4015-a03b-35ccde0479ba"}
+{"index":356,"sub_uri":"Q733","obj_uri":"Q414","obj_label":"Argentina","sub_label":"Paragvajus","lineid":420,"uuid":"e0f72ab8-d797-4bbc-a7cc-f0a6b3a2457d"}
+{"index":724,"sub_uri":"Q987383","obj_uri":"Q8818","obj_label":"Valensija","sub_label":"Alboracha","lineid":840,"uuid":"f9da0973-dd6f-4d23-976a-1b2e628163db"}
+{"index":306,"sub_uri":"Q5401","obj_uri":"Q15","obj_label":"Afrika","sub_label":"Eurazija","lineid":360,"uuid":"a41fa6be-c80f-4add-959a-610691376214"}
+{"index":769,"sub_uri":"Q36704","obj_uri":"Q40","obj_label":"Austrija","sub_label":"Jugoslavija","lineid":894,"uuid":"e0513c0a-182e-46fd-be0b-5804a464230e"}
+{"index":328,"sub_uri":"Q15180","obj_uri":"Q794","obj_label":"Iranas","sub_label":"Soviet\u0173 S\u0105junga","lineid":386,"uuid":"0630ccd7-5f59-49c6-b5b6-0aa953fc8d1b"}
+{"index":125,"sub_uri":"Q2119","obj_uri":"Q2966","obj_label":"Heidelbergas","sub_label":"Manheimas","lineid":154,"uuid":"3ef5408b-454d-454c-b563-642880566a20"}
+{"index":377,"sub_uri":"Q265","obj_uri":"Q863","obj_label":"Tad\u017eikija","sub_label":"Uzbekija","lineid":443,"uuid":"9f8e6a2c-ef80-4d98-9b02-ed4e6740fd0b"}
+{"index":205,"sub_uri":"Q800","obj_uri":"Q811","obj_label":"Nikaragva","sub_label":"Kosta Rika","lineid":248,"uuid":"17044768-d64d-4613-a90a-4a6ae63af78d"}
+{"index":416,"sub_uri":"Q980","obj_uri":"Q43325","obj_label":"Zalcburgas","sub_label":"Bavarija","lineid":486,"uuid":"b4891644-0283-4035-bd10-415d777f00bc"}
+{"index":566,"sub_uri":"Q3907","obj_uri":"Q24879","obj_label":"Br\u0117menas","sub_label":"Delmenhorstas","lineid":656,"uuid":"a7f9eff8-fed0-423e-acc0-cd2a08e70e89"}
+{"index":389,"sub_uri":"Q1558","obj_uri":"Q1649","obj_label":"Oklahoma","sub_label":"Kanzasas","lineid":456,"uuid":"dd8c32fd-a612-416b-81fe-0df5b0598fef"}
+{"index":66,"sub_uri":"Q458","obj_uri":"Q218","obj_label":"Rumunija","sub_label":"Europos S\u0105junga","lineid":80,"uuid":"735cf6c7-443d-41b2-80a0-2b8f02da327b"}
+{"index":408,"sub_uri":"Q1227","obj_uri":"Q829","obj_label":"Juta","sub_label":"Nevada","lineid":476,"uuid":"5246e148-0441-4a36-9cd3-3e2ce24caadd"}
+{"index":251,"sub_uri":"Q1177","obj_uri":"Q1174","obj_label":"Harjana","sub_label":"Hima\u010dal Prade\u0161as","lineid":300,"uuid":"dc04912f-281c-40e3-affe-363d4b2cb4ec"}
+{"index":398,"sub_uri":"Q1196","obj_uri":"Q1208","obj_label":"Brandenburgas","sub_label":"Meklenburgas-Pomeranija","lineid":465,"uuid":"7c0f3f4d-58aa-43d0-8331-f14cddb405fe"}
+{"index":236,"sub_uri":"Q23103","obj_uri":"Q23105","obj_label":"Staford\u0161yras","sub_label":"\u0160rop\u0161yras","lineid":285,"uuid":"f39dc1f0-c35a-4e61-9e40-df91d29f550a"}
+{"index":274,"sub_uri":"Q219","obj_uri":"Q36704","obj_label":"Jugoslavija","sub_label":"Bulgarija","lineid":326,"uuid":"ddeb82ac-9dd4-4958-be65-0a900d8ec957"}
+{"index":262,"sub_uri":"Q23092","obj_uri":"Q23098","obj_label":"Derbi\u0161yras","sub_label":"Notingam\u0161yras","lineid":313,"uuid":"887f7020-4270-425d-a9a2-503457f8ea5f"}
+{"index":241,"sub_uri":"Q79","obj_uri":"Q1016","obj_label":"Libija","sub_label":"Egiptas","lineid":290,"uuid":"7c5e2a7f-95a4-4986-b535-4e50dde0cc42"}
+{"index":341,"sub_uri":"Q43","obj_uri":"Q219","obj_label":"Bulgarija","sub_label":"Turkija","lineid":402,"uuid":"dcb359f9-21aa-4542-b487-7fe77f22b530"}
+{"index":193,"sub_uri":"Q57871","obj_uri":"Q585","obj_label":"Oslas","sub_label":"Skedsmo","lineid":235,"uuid":"6d5a092c-84e7-494e-9256-4dfa23f71d9c"}
+{"index":553,"sub_uri":"Q252","obj_uri":"Q833","obj_label":"Malaizija","sub_label":"Indonezija","lineid":640,"uuid":"79f9d5f5-1465-40d6-85b7-1e56a376ecff"}
+{"index":403,"sub_uri":"Q717","obj_uri":"Q155","obj_label":"Brazilija","sub_label":"Venesuela","lineid":470,"uuid":"14ec65e6-3093-4b6d-b580-92aa87281bbc"}
+{"index":261,"sub_uri":"Q11299","obj_uri":"Q18419","obj_label":"Bruklinas","sub_label":"Manhatanas","lineid":312,"uuid":"927a7622-bee7-4260-b903-4c103da8aff7"}
+{"index":775,"sub_uri":"Q1207","obj_uri":"Q1212","obj_label":"Montana","sub_label":"\u0160iaur\u0117s Dakota","lineid":901,"uuid":"d74b0408-d921-49b8-b75e-91bee84e8518"}
+{"index":269,"sub_uri":"Q23090","obj_uri":"Q23092","obj_label":"Notingam\u0161yras","sub_label":"Linkoln\u0161yras","lineid":320,"uuid":"62644143-7d6e-48ff-9465-4cc5d1fcce8c"}
+{"index":151,"sub_uri":"Q403","obj_uri":"Q222","obj_label":"Albanija","sub_label":"Serbija","lineid":187,"uuid":"4b4c880e-2f46-4d3d-b7ef-b05c79bef2a4"}
+{"index":644,"sub_uri":"Q1168","obj_uri":"Q677037","obj_label":"Telangana","sub_label":"\u010catisgarchas","lineid":749,"uuid":"0451ba67-3a13-48aa-8cb5-6ee7458d1e1c"}
+{"index":551,"sub_uri":"Q794","obj_uri":"Q43","obj_label":"Turkija","sub_label":"Iranas","lineid":638,"uuid":"42849529-ff7a-451f-a393-d30ba9f5ce44"}
+{"index":746,"sub_uri":"Q917","obj_uri":"Q668","obj_label":"Indija","sub_label":"Butanas","lineid":867,"uuid":"3f051168-2d95-47ab-8b8c-4c5fa7ac1b1c"}
+{"index":426,"sub_uri":"Q15619","obj_uri":"Q1492","obj_label":"Barselona","sub_label":"El Prat de Lobregatas","lineid":497,"uuid":"16dc9239-fc1a-4809-9489-688f4f1702b9"}
+{"index":259,"sub_uri":"Q948","obj_uri":"Q1016","obj_label":"Libija","sub_label":"Tunisas","lineid":308,"uuid":"c75acc71-758e-4a9f-827e-bb8c53724c0b"}
+{"index":301,"sub_uri":"Q37211","obj_uri":"Q1061","obj_label":"Gud\u017earatas","sub_label":"Sindas","lineid":355,"uuid":"a9297684-282d-4bd8-8961-d1b64a0e0d62"}
+{"index":554,"sub_uri":"Q1194","obj_uri":"Q1055","obj_label":"Hamburgas","sub_label":"\u0160l\u0117zvigas-Hol\u0161teinas","lineid":642,"uuid":"0c7fdafa-c75b-4bb8-af41-eb0313bf4a55"}
+{"index":578,"sub_uri":"Q1041","obj_uri":"Q912","obj_label":"Malis","sub_label":"Senegalas","lineid":670,"uuid":"9c332cbe-f9b1-4d51-afc2-373efef8cc68"}
+{"index":672,"sub_uri":"Q23129","obj_uri":"Q23135","obj_label":"Vuster\u0161yras","sub_label":"Hereford\u0161yras","lineid":781,"uuid":"0391e2d6-89ac-4029-af4d-6ba8fed1636d"}
+{"index":525,"sub_uri":"Q1456","obj_uri":"Q1428","obj_label":"D\u017eord\u017eija","sub_label":"Piet\u0173 Karolina","lineid":608,"uuid":"5652b267-94fd-43b8-a8d6-698c0a42f62b"}
+{"index":688,"sub_uri":"Q745594","obj_uri":"Q1185052","obj_label":"Kingston","sub_label":"Vilkesberas","lineid":800,"uuid":"06dd5f90-6f09-40b0-add5-94662f9211de"}
+{"index":521,"sub_uri":"Q801","obj_uri":"Q810","obj_label":"Jordanija","sub_label":"Izraelis","lineid":603,"uuid":"94f59670-d361-4799-824a-99e70bfe35dd"}
+{"index":524,"sub_uri":"Q1437","obj_uri":"Q1061","obj_label":"Gud\u017earatas","sub_label":"Rad\u017eastanas","lineid":607,"uuid":"0ffbc7ba-9fca-4f90-8c1d-7ad92b8ce884"}
+{"index":283,"sub_uri":"Q50617","obj_uri":"Q585","obj_label":"Oslas","sub_label":"Oplandas","lineid":335,"uuid":"3ada4522-d2ff-4a5a-9cdf-d63cbc16339d"}
+{"index":121,"sub_uri":"Q213","obj_uri":"Q40","obj_label":"Austrija","sub_label":"\u010cekija","lineid":148,"uuid":"6ce6ccad-9491-4678-88d6-7cc9bc7d0941"}
+{"index":454,"sub_uri":"Q23140","obj_uri":"Q23135","obj_label":"Vuster\u0161yras","sub_label":"Vorik\u0161yras","lineid":527,"uuid":"61b3906d-9b30-46d0-aa29-985810a5619b"}
+{"index":622,"sub_uri":"Q39760","obj_uri":"Q79","obj_label":"Egiptas","sub_label":"Gazos Ruo\u017eas","lineid":723,"uuid":"46b6defc-8115-4c51-bd0a-09275da5872e"}
+{"index":95,"sub_uri":"Q2007","obj_uri":"Q2009","obj_label":"Jukonas","sub_label":"\u0160iaur\u0117s Vakarai","lineid":114,"uuid":"8ffed544-f8e1-4a88-88a6-f261a11188b5"}
+{"index":55,"sub_uri":"Q100962","obj_uri":"Q2683","obj_label":"Parma","sub_label":"Traversetolas","lineid":67,"uuid":"b037677d-7f92-48a5-beea-d42d972284f4"}
+{"index":576,"sub_uri":"Q166640","obj_uri":"Q90","obj_label":"Pary\u017eius","sub_label":"Levallois-Perret","lineid":668,"uuid":"69a4246d-3c6a-4519-baa4-bfff2a2ad11d"}
+{"index":645,"sub_uri":"Q258","obj_uri":"Q954","obj_label":"Zimbabv\u0117","sub_label":"Piet\u0173 Afrikos Respublika","lineid":750,"uuid":"71241d60-6551-4210-a8db-070a89181382"}
+{"index":670,"sub_uri":"Q967","obj_uri":"Q1037","obj_label":"Ruanda","sub_label":"Burundis","lineid":779,"uuid":"fcdeccdb-63fb-456e-b7a4-258e73fd1b33"}
+{"index":609,"sub_uri":"Q334","obj_uri":"Q252","obj_label":"Indonezija","sub_label":"Singap\u016bras","lineid":706,"uuid":"05f59f47-7af3-4744-a055-d1eff5da6a83"}
+{"index":134,"sub_uri":"Q924","obj_uri":"Q1020","obj_label":"Malavis","sub_label":"Tanzanija","lineid":166,"uuid":"4b751503-50da-4ec8-945e-7d0d876c201d"}
+{"index":736,"sub_uri":"Q929","obj_uri":"Q657","obj_label":"\u010cadas","sub_label":"Centrin\u0117s Afrikos Respublika","lineid":854,"uuid":"46ec0aac-da3d-40d6-967d-d516784dfecf"}
+{"index":623,"sub_uri":"Q148","obj_uri":"Q889","obj_label":"Afganistanas","sub_label":"Kinijos Liaudies Respublika","lineid":724,"uuid":"0034ce51-f4ef-4856-bb97-b357d68562ce"}
+{"index":263,"sub_uri":"Q191091","obj_uri":"Q183","obj_label":"Vokietija","sub_label":"Karlovi Var\u0173 kra\u0161tas","lineid":314,"uuid":"2b503e0a-ceb9-492e-af3e-b8ca665e3222"}
+{"index":249,"sub_uri":"Q1191","obj_uri":"Q1185","obj_label":"Karnataka","sub_label":"Mahara\u0161tra","lineid":298,"uuid":"95a5c66a-a09b-4588-a2fd-afbdac1ea3b1"}
+{"index":556,"sub_uri":"Q843","obj_uri":"Q668","obj_label":"Indija","sub_label":"Pakistanas","lineid":645,"uuid":"13cfa812-d36d-44eb-9a28-4762f893f7b0"}
+{"index":789,"sub_uri":"Q211","obj_uri":"Q184","obj_label":"Baltarusija","sub_label":"Latvija","lineid":917,"uuid":"65851e0d-7321-43a8-8607-fbc4eb6d846e"}
+{"index":498,"sub_uri":"Q1393","obj_uri":"Q1400","obj_label":"Pensilvanija","sub_label":"Delaveras","lineid":577,"uuid":"ae73a159-6d7c-4ae6-b528-49cdb34fc5af"}
+{"index":595,"sub_uri":"Q2842","obj_uri":"Q649","obj_label":"Maskva","sub_label":"Kalugos sritis","lineid":691,"uuid":"fb8e9d52-8936-4c15-83e2-80d4e2f99347"}
+{"index":689,"sub_uri":"Q30","obj_uri":"Q96","obj_label":"Meksika","sub_label":"Jungtin\u0117s Amerikos Valstijos","lineid":801,"uuid":"d9b54f5f-097d-4298-870f-61fd48c32085"}
+{"index":239,"sub_uri":"Q28898","obj_uri":"Q239","obj_label":"Briuselis","sub_label":"Zaventemas","lineid":288,"uuid":"49ccee55-922c-4bea-ba86-089f367a4e7a"}
+{"index":540,"sub_uri":"Q796","obj_uri":"Q794","obj_label":"Iranas","sub_label":"Irakas","lineid":624,"uuid":"dc454f5f-5037-4a96-8701-0dfdcce7422e"}
+{"index":752,"sub_uri":"Q1166","obj_uri":"Q1397","obj_label":"Ohajas","sub_label":"Mi\u010diganas","lineid":874,"uuid":"5fbf8a55-37d5-4852-bad6-590204359003"}
+{"index":712,"sub_uri":"Q1393","obj_uri":"Q1391","obj_label":"Merilandas","sub_label":"Delaveras","lineid":828,"uuid":"da743353-2cbc-4a1f-9484-c5059e99672f"}
+{"index":722,"sub_uri":"Q42971","obj_uri":"Q490","obj_label":"Milanas","sub_label":"Bu\u010dinaskas","lineid":838,"uuid":"de43a729-f3cd-4e8e-9dea-cd744f6104b6"}
+{"index":291,"sub_uri":"Q1204","obj_uri":"Q1603","obj_label":"Kentukis","sub_label":"Ilinojus","lineid":343,"uuid":"91975c48-a726-4fb6-96aa-5e01f1af336d"}
+{"index":559,"sub_uri":"Q1588","obj_uri":"Q1612","obj_label":"Arkanzasas","sub_label":"Luiziana","lineid":648,"uuid":"d1e03fdd-76ae-42ff-9d9c-63a943db4eb0"}
+{"index":763,"sub_uri":"Q23276","obj_uri":"Q23298","obj_label":"Kentas","sub_label":"Sur\u0117jus","lineid":888,"uuid":"201f8d45-4962-4b3c-a058-580aaeed1c05"}
+{"index":267,"sub_uri":"Q21","obj_uri":"Q25","obj_label":"Velsas","sub_label":"Anglija","lineid":318,"uuid":"cd0f1049-483d-4af2-a42c-1dd121136dde"}
+{"index":648,"sub_uri":"Q54212","obj_uri":"Q42448","obj_label":"\u0160efildas","sub_label":"Barnslis","lineid":755,"uuid":"2325d1df-568d-4de3-8711-8630649af889"}
+{"index":320,"sub_uri":"Q505610","obj_uri":"Q23064","obj_label":"\u010ce\u0161yras","sub_label":"Flint\u0161yras","lineid":377,"uuid":"d006f3db-53c2-4e99-96d6-c50195e4b856"}
+{"index":779,"sub_uri":"Q1101","obj_uri":"Q1116","obj_label":"Antverpeno provincija","sub_label":"\u0160iaur\u0117s Brabantas","lineid":907,"uuid":"bc7c8244-6a1f-4cac-8faf-713f212d4b4f"}
+{"index":323,"sub_uri":"Q1174","obj_uri":"Q22424","obj_label":"Pand\u017eabas","sub_label":"Harjana","lineid":381,"uuid":"6b58a8d7-132e-4408-8a5e-8f15bc84bb07"}
+{"index":256,"sub_uri":"Q23064","obj_uri":"Q23103","obj_label":"\u0160rop\u0161yras","sub_label":"\u010ce\u0161yras","lineid":305,"uuid":"8fcc2b7b-3a49-4e08-8d45-40f6602b9986"}
+{"index":63,"sub_uri":"Q7984","obj_uri":"Q797","obj_label":"Aliaska","sub_label":"\u010ciuk\u010di\u0173 autonomin\u0117 apygarda","lineid":76,"uuid":"2fd485a5-62a9-4dd8-8014-3cdf68b39517"}
+{"index":598,"sub_uri":"Q155","obj_uri":"Q717","obj_label":"Venesuela","sub_label":"Brazilija","lineid":695,"uuid":"f6416271-99ac-4cde-8023-0f4c2112bdee"}
+{"index":137,"sub_uri":"Q32","obj_uri":"Q142","obj_label":"Pranc\u016bzija","sub_label":"Liuksemburgas","lineid":169,"uuid":"69968916-5162-4234-b743-9729e202aa03"}
+{"index":314,"sub_uri":"Q794","obj_uri":"Q796","obj_label":"Irakas","sub_label":"Iranas","lineid":370,"uuid":"f96c1bba-29c5-4253-a441-f40cc7ba1f73"}
+{"index":334,"sub_uri":"Q23107","obj_uri":"Q23090","obj_label":"Linkoln\u0161yras","sub_label":"Rutlandas","lineid":393,"uuid":"64f0dd41-213f-4531-a195-d93ac7d51673"}
+{"index":74,"sub_uri":"Q13580","obj_uri":"Q13840","obj_label":"Laguna","sub_label":"Manilos metropolija","lineid":91,"uuid":"2cb8cfdb-7f03-48ad-b8d6-f46201a23a9c"}
+{"index":562,"sub_uri":"Q801","obj_uri":"Q79","obj_label":"Egiptas","sub_label":"Izraelis","lineid":651,"uuid":"cc2dd1c0-9143-4477-ad49-9a63e0777da3"}
+{"index":295,"sub_uri":"Q176","obj_uri":"Q1904","obj_label":"Ontarijas","sub_label":"Kvebekas","lineid":348,"uuid":"35c62434-47b0-4514-b3fb-4a885cbec5e6"}
+{"index":135,"sub_uri":"Q141844","obj_uri":"Q2962228","obj_label":"\u010celsis (Kanada)","sub_label":"Gatinou","lineid":167,"uuid":"83691652-7706-4228-8889-d590e0ce4aab"}
+{"index":753,"sub_uri":"Q23156","obj_uri":"Q23159","obj_label":"Dorsetas","sub_label":"Devonas","lineid":876,"uuid":"b097031e-75c2-430c-b868-db4a2640d3e4"}
+{"index":484,"sub_uri":"Q1049","obj_uri":"Q1036","obj_label":"Uganda","sub_label":"Sudanas","lineid":561,"uuid":"000fb2ef-050c-4861-b70d-fdebf95829a5"}
+{"index":200,"sub_uri":"Q1032","obj_uri":"Q912","obj_label":"Malis","sub_label":"Nigeris","lineid":242,"uuid":"a19391bc-0660-4784-8877-ebe53e6ef0ca"}
+{"index":28,"sub_uri":"Q2003","obj_uri":"Q176","obj_label":"Kvebekas","sub_label":"Niufaundlandas ir Labradoras","lineid":36,"uuid":"5693d3b4-3b6a-4302-b3bd-daf912a85ed1"}
+{"index":602,"sub_uri":"Q953","obj_uri":"Q963","obj_label":"Botsvana","sub_label":"Zambija","lineid":699,"uuid":"a3c31689-a698-4a10-9431-a3ffa4b0600f"}
+{"index":619,"sub_uri":"Q23240","obj_uri":"Q23298","obj_label":"Kentas","sub_label":"Eseksas","lineid":720,"uuid":"da2eb12d-fa6e-45ed-a817-b4642c8eae72"}
+{"index":17,"sub_uri":"Q1174","obj_uri":"Q1353","obj_label":"Delis","sub_label":"Harjana","lineid":24,"uuid":"897103b3-4a21-41cf-81dd-5f98ce721661"}
+{"index":510,"sub_uri":"Q867129","obj_uri":"Q33959","obj_label":"Nica","sub_label":"Falicon","lineid":591,"uuid":"2ec01d65-ff8f-425d-96c0-4fe84e1222b3"}

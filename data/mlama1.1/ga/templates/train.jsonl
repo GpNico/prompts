@@ -1,0 +1,39 @@
+{"index":48,"relation":"place_of_death","template":"Fuair \u200b\u200b[X] b\u00e1s i [Y]."}
+{"index":44,"relation":"P740","template":"Buna\u00edodh [X] in [Y]."}
+{"index":43,"relation":"P36","template":"Is \u00e9 [Y] pr\u00edomhchathair [X]."}
+{"index":30,"relation":"P39","template":"T\u00e1 seasamh [Y] ag [X]."}
+{"index":22,"relation":"P30","template":"T\u00e1 [X] suite i [Y]."}
+{"index":16,"relation":"P527","template":"Is \u00e9ard at\u00e1 i [X] [Y]."}
+{"index":23,"relation":"P178","template":"Forbra\u00edonn [Y] [X]."}
+{"index":20,"relation":"P27","template":"Is saor\u00e1nach [Y] \u00e9 [X]."}
+{"index":21,"relation":"P407","template":"Scr\u00edobhadh [X] in [Y]."}
+{"index":5,"relation":"P166","template":"Bronnadh an [Y] ar [X]."}
+{"index":11,"relation":"P54","template":"Imr\u00edonn [X] le [Y]."}
+{"index":45,"relation":"P361","template":"T\u00e1 [X] mar chuid de [Y]."}
+{"index":3,"relation":"P37","template":"Is \u00ed [Y] teanga oifigi\u00fail [X]."}
+{"index":29,"relation":"P17","template":"T\u00e1 [X] suite i [Y]."}
+{"index":38,"relation":"P190","template":"Is c\u00fapla cathair iad [X] agus [Y]."}
+{"index":42,"relation":"P159","template":"T\u00e1 ceanncheathr\u00fa [X] in [Y]."}
+{"index":39,"relation":"P1001","template":"Is t\u00e9arma dl\u00edthi\u00fail \u00e9 [X] in [Y]."}
+{"index":13,"relation":"P101","template":"Oibr\u00edonn [X] i r\u00e9imse [Y]."}
+{"index":2,"relation":"P279","template":"Is fo-aicme de [Y] \u00e9 [X]."}
+{"index":24,"relation":"P1376","template":"Is \u00e9 [X] pr\u00edomhchathair [Y]."}
+{"index":0,"relation":"P19","template":"Rugadh [X] i [Y]."}
+{"index":27,"relation":"P108","template":"Oibr\u00edonn [X] do [Y]."}
+{"index":6,"relation":"P449","template":"Craoladh [X] ar dt\u00fas ar [Y]."}
+{"index":19,"relation":"P176","template":"Is \u00e9 [Y] a th\u00e1irgeann [X]."}
+{"index":4,"relation":"P413","template":"Imr\u00edonn [X] i su\u00edomh [Y]."}
+{"index":40,"relation":"P31","template":"Is [Y] \u00e9 [X]."}
+{"index":32,"relation":"P276","template":"T\u00e1 [X] suite i [Y]."}
+{"index":17,"relation":"P102","template":"T\u00e1 [X] ina bhall den ph\u00e1irt\u00ed polaiti\u00fail [Y]."}
+{"index":31,"relation":"P264","template":"T\u00e1 lip\u00e9ad ceoil [Y] l\u00e9irithe ag [X]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (rugadh [Y])."}
+{"index":25,"relation":"P131","template":"T\u00e1 [X] suite i [Y]."}
+{"index":37,"relation":"P103","template":"Is \u00e9 [Y] teanga dh\u00fachais [X]."}
+{"index":14,"relation":"P1923","template":"Ghlac [Y] p\u00e1irt sa [X]."}
+{"index":10,"relation":"P364","template":"Is \u00e9 [Y] bunteanga [X]."}
+{"index":12,"relation":"P463","template":"T\u00e1 [X] ina bhall de [Y]."}
+{"index":18,"relation":"P530","template":"Coinn\u00edonn [X] caidreamh taidhleoireachta le [Y]."}
+{"index":34,"relation":"P140","template":"T\u00e1 [X] cleamhnaithe leis an reiligi\u00fan [Y]."}
+{"index":47,"relation":"place_of_birth","template":"Rugadh [X] i [Y]."}
+{"index":15,"relation":"P106","template":"Is [Y] de r\u00e9ir gairme \u00e9 [X]."}

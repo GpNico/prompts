@@ -1,0 +1,39 @@
+{"index":6,"relation":"P449","template":"[X] byl p\u016fvodn\u011b vys\u00edl\u00e1n na [Y]."}
+{"index":15,"relation":"P106","template":"[X] je profes\u00ed [Y]."}
+{"index":25,"relation":"P131","template":"[X] se nach\u00e1z\u00ed v [Y]."}
+{"index":9,"relation":"P138","template":"[X] je pojmenov\u00e1no po [Y]."}
+{"index":5,"relation":"P166","template":"[X] z\u00edskal [Y]."}
+{"index":23,"relation":"P178","template":"[X] je vyvinut [Y]."}
+{"index":26,"relation":"P1412","template":"[X] zvykl\u00fd komunikovat v [Y]."}
+{"index":39,"relation":"P1001","template":"[X] je pr\u00e1vn\u00ed term\u00edn v [Y]."}
+{"index":7,"relation":"P69","template":"[X] byl vzd\u011bl\u00e1v\u00e1n na University of [Y]."}
+{"index":3,"relation":"P37","template":"Ofici\u00e1ln\u00ed jazyk [X] je [Y]."}
+{"index":14,"relation":"P1923","template":"[Y] se z\u00fa\u010dastnil [X]."}
+{"index":30,"relation":"P39","template":"[X] m\u00e1 pozici [Y]."}
+{"index":4,"relation":"P413","template":"[X] hraje v poloze [Y]."}
+{"index":22,"relation":"P30","template":"[X] se nach\u00e1z\u00ed v [Y]."}
+{"index":0,"relation":"P19","template":"[X] se narodil v [Y]."}
+{"index":43,"relation":"P36","template":"Kapit\u00e1l [X] je [Y]."}
+{"index":11,"relation":"P54","template":"[X] hraje s [Y]."}
+{"index":21,"relation":"P407","template":"[X] bylo naps\u00e1no v [Y]."}
+{"index":31,"relation":"P264","template":"[X] je reprezentov\u00e1n hudebn\u00ed zna\u010dkou [Y]."}
+{"index":45,"relation":"P361","template":"[X] je sou\u010d\u00e1st\u00ed [Y]."}
+{"index":42,"relation":"P159","template":"S\u00eddlo [X] je v [Y]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (narozen [Y])."}
+{"index":32,"relation":"P276","template":"[X] se nach\u00e1z\u00ed v [Y]."}
+{"index":20,"relation":"P27","template":"[X] je [Y] ob\u010danem."}
+{"index":2,"relation":"P279","template":"[X] je podt\u0159\u00edda [Y]."}
+{"index":35,"relation":"P1303","template":"[X] hraje [Y]."}
+{"index":24,"relation":"P1376","template":"[X] je kapit\u00e1l [Y]."}
+{"index":13,"relation":"P101","template":"[X] pracuje v oblasti [Y]."}
+{"index":29,"relation":"P17","template":"[X] se nach\u00e1z\u00ed v [Y]."}
+{"index":38,"relation":"P190","template":"[X] a [Y] jsou dvoj\u010data."}
+{"index":28,"relation":"P136","template":"[X] p\u0159ehr\u00e1v\u00e1 hudbu [Y]."}
+{"index":37,"relation":"P103","template":"Rodn\u00fd jazyk [X] je [Y]."}
+{"index":47,"relation":"place_of_birth","template":"[X] se narodil v [Y]."}
+{"index":8,"relation":"P47","template":"[X] sd\u00edl\u00ed hranici s [Y]."}
+{"index":44,"relation":"P740","template":"[X] byla zalo\u017eena v [Y]."}
+{"index":33,"relation":"P937","template":"[X] pracoval v [Y]."}
+{"index":1,"relation":"P20","template":"[X] zem\u0159el v [Y]."}
+{"index":12,"relation":"P463","template":"[X] je \u010dlenem skupiny [Y]."}
+{"index":19,"relation":"P176","template":"[X] je produkov\u00e1n [Y]."}

@@ -1,0 +1,10 @@
+{"index":7,"relation":"P69","template":"[X] \u10d2\u10d0\u10dc\u10d0\u10d7\u10da\u10d3\u10d0 \u10e3\u10dc\u10d8\u10d5\u10d4\u10e0\u10e1\u10d8\u10e2\u10d4\u10e2\u10e8\u10d8 [Y]."}
+{"index":0,"relation":"P19","template":"[X] \u10d3\u10d0\u10d8\u10d1\u10d0\u10d3\u10d0 [Y] -\u10e8\u10d8."}
+{"index":11,"relation":"P54","template":"[X] \u10d7\u10d0\u10db\u10d0\u10e8\u10dd\u10d1\u10e1 [Y] - \u10e1\u10d7\u10d0\u10dc."}
+{"index":35,"relation":"P1303","template":"[X] \u10e3\u10d9\u10e0\u10d0\u10d5\u10e1 [Y]."}
+{"index":28,"relation":"P136","template":"[X] \u10e3\u10d9\u10e0\u10d0\u10d5\u10e1 [Y] \u10db\u10e3\u10e1\u10d8\u10d9\u10d0\u10e1."}
+{"index":27,"relation":"P108","template":"[X] \u10db\u10e3\u10e8\u10d0\u10dd\u10d1\u10e1 [Y] - \u10e1\u10d7\u10d5\u10d8\u10e1."}
+{"index":46,"relation":"date_of_birth","template":"[X] (\u10d3\u10d0\u10d8\u10d1\u10d0\u10d3\u10d0 [Y])."}
+{"index":13,"relation":"P101","template":"[X] \u10db\u10e3\u10e8\u10d0\u10dd\u10d1\u10e1 [Y] - \u10e1 \u10e1\u10e4\u10d4\u10e0\u10dd\u10e8\u10d8."}
+{"index":16,"relation":"P527","template":"[X] \u10e8\u10d4\u10d3\u10d2\u10d4\u10d1\u10d0 [[Y] ]\u10d2\u10d0\u10dc."}
+{"index":4,"relation":"P413","template":"[X] \u10d7\u10d0\u10db\u10d0\u10e8\u10dd\u10d1\u10e1 [Y] \u10de\u10dd\u10d6\u10d8\u10ea\u10d8\u10d0\u10d6\u10d4."}

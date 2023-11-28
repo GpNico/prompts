@@ -1,0 +1,39 @@
+{"index":47,"relation":"place_of_birth","template":"[X] lahir di [Y]."}
+{"index":11,"relation":"P54","template":"[X] bermain dengan [Y]."}
+{"index":20,"relation":"P27","template":"[X] adalah warga negara [Y]."}
+{"index":30,"relation":"P39","template":"[X] memiliki posisi [Y]."}
+{"index":25,"relation":"P131","template":"[X] terletak di [Y]."}
+{"index":4,"relation":"P413","template":"[X] bermain di posisi [Y]."}
+{"index":28,"relation":"P136","template":"[X] memainkan musik [Y]."}
+{"index":3,"relation":"P37","template":"Bahasa resmi [X] adalah [Y]."}
+{"index":34,"relation":"P140","template":"[X] berafiliasi dengan agama [Y]."}
+{"index":23,"relation":"P178","template":"[X] dikembangkan oleh [Y]."}
+{"index":9,"relation":"P138","template":"[X] dinamai setelah [Y]."}
+{"index":26,"relation":"P1412","template":"[X] digunakan untuk berkomunikasi dalam [Y]."}
+{"index":29,"relation":"P17","template":"[X] terletak di [Y]."}
+{"index":8,"relation":"P47","template":"[X] berbagi batas dengan [Y]."}
+{"index":15,"relation":"P106","template":"[X] adalah profesi [Y]."}
+{"index":17,"relation":"P102","template":"[X] adalah anggota partai politik [Y]."}
+{"index":48,"relation":"place_of_death","template":"[X] meninggal di [Y]."}
+{"index":10,"relation":"P364","template":"Bahasa asli [X] adalah [Y]."}
+{"index":1,"relation":"P20","template":"[X] meninggal di [Y]."}
+{"index":21,"relation":"P407","template":"[X] ditulis dalam [Y]."}
+{"index":2,"relation":"P279","template":"[X] adalah subkelas dari [Y]."}
+{"index":41,"relation":"P495","template":"[X] dibuat di [Y]."}
+{"index":24,"relation":"P1376","template":"[X] adalah ibu kota [Y]."}
+{"index":0,"relation":"P19","template":"[X] lahir di [Y]."}
+{"index":44,"relation":"P740","template":"[X] didirikan di [Y]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (lahir [Y])."}
+{"index":35,"relation":"P1303","template":"[X] memainkan [Y]."}
+{"index":45,"relation":"P361","template":"[X] adalah bagian dari [Y]."}
+{"index":31,"relation":"P264","template":"[X] diwakili oleh label musik [Y]."}
+{"index":19,"relation":"P176","template":"[X] diproduksi oleh [Y]."}
+{"index":12,"relation":"P463","template":"[X] adalah anggota dari [Y]."}
+{"index":18,"relation":"P530","template":"[X] memelihara hubungan diplomatik dengan [Y]."}
+{"index":27,"relation":"P108","template":"[X] bekerja untuk [Y]."}
+{"index":32,"relation":"P276","template":"[X] terletak di [Y]."}
+{"index":16,"relation":"P527","template":"[X] terdiri dari [Y]."}
+{"index":37,"relation":"P103","template":"Bahasa asli [X] adalah [Y]."}
+{"index":38,"relation":"P190","template":"[X] dan [Y] adalah kota kembar."}
+{"index":33,"relation":"P937","template":"[X] dulu bekerja di [Y]."}
+{"index":22,"relation":"P30","template":"[X] terletak di [Y]."}

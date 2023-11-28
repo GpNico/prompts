@@ -1,0 +1,39 @@
+{"index":13,"relation":"P101","template":"[X] djeluje u polju [Y]."}
+{"index":17,"relation":"P102","template":"[X] \u010dlan je [Y] politi\u010dke stranke."}
+{"index":48,"relation":"place_of_death","template":"[X] umro u [Y]."}
+{"index":22,"relation":"P30","template":"[X] se nalazi u [Y]."}
+{"index":20,"relation":"P27","template":"[X] je [Y] gra\u0111anin."}
+{"index":5,"relation":"P166","template":"[X] je dobio nagradu [Y]."}
+{"index":2,"relation":"P279","template":"[X] je potklasa od [Y]."}
+{"index":8,"relation":"P47","template":"[X] dijeli granicu s [Y]."}
+{"index":4,"relation":"P413","template":"[X] igra se u polo\u017eaju [Y]."}
+{"index":38,"relation":"P190","template":"[X] i [Y] su gradovi blizanci."}
+{"index":11,"relation":"P54","template":"[X] igra se s [Y]."}
+{"index":18,"relation":"P530","template":"[X] odr\u017eava diplomatske odnose s [Y]."}
+{"index":3,"relation":"P37","template":"Slu\u017ebeni jezik [X] je [Y]."}
+{"index":14,"relation":"P1923","template":"[Y] sudjelovao u [X]."}
+{"index":7,"relation":"P69","template":"[X] \u0161kolovao se na Sveu\u010dili\u0161tu [Y]."}
+{"index":32,"relation":"P276","template":"[X] se nalazi u [Y]."}
+{"index":35,"relation":"P1303","template":"[X] reproducira [Y]."}
+{"index":34,"relation":"P140","template":"[X] je povezana s [Y] religijom."}
+{"index":41,"relation":"P495","template":"[X] je kreirana u [Y]."}
+{"index":19,"relation":"P176","template":"[X] proizvodi [Y]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (ro\u0111en [Y])."}
+{"index":45,"relation":"P361","template":"[X] je dio [Y]."}
+{"index":28,"relation":"P136","template":"[X] reproducira [Y] glazbu."}
+{"index":39,"relation":"P1001","template":"[X] je pravni izraz u [Y]."}
+{"index":33,"relation":"P937","template":"[X] se nekada radila u [Y]."}
+{"index":36,"relation":"P127","template":"[X] je u vlasni\u0161tvu [Y]."}
+{"index":44,"relation":"P740","template":"[X] osnovana je u [Y]."}
+{"index":24,"relation":"P1376","template":"[X] je glavni grad [Y]."}
+{"index":37,"relation":"P103","template":"Izvorni jezik [X] je [Y]."}
+{"index":12,"relation":"P463","template":"[X] je \u010dlan [Y]."}
+{"index":25,"relation":"P131","template":"[X] se nalazi u [Y]."}
+{"index":21,"relation":"P407","template":"[X] je napisano u [Y]."}
+{"index":40,"relation":"P31","template":"[X] je [Y]."}
+{"index":26,"relation":"P1412","template":"[X] koja se koristi za komunikaciju u [Y]."}
+{"index":23,"relation":"P178","template":"[X] je razvio [Y]."}
+{"index":10,"relation":"P364","template":"Izvorni jezik [X] je [Y]."}
+{"index":43,"relation":"P36","template":"Glavni grad [X] je [Y]."}
+{"index":6,"relation":"P449","template":"[X] je izvorno emitiran na [Y]."}
+{"index":42,"relation":"P159","template":"Sjedi\u0161te [X] je u [Y]."}

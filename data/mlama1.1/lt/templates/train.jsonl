@@ -1,0 +1,39 @@
+{"index":48,"relation":"place_of_death","template":"[X] mir\u0117 [Y]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (gim\u0119s [Y])."}
+{"index":18,"relation":"P530","template":"[X] palaiko diplomatinius santykius su [Y]."}
+{"index":2,"relation":"P279","template":"[X] yra [Y] poklasis."}
+{"index":12,"relation":"P463","template":"[X] yra [Y] narys."}
+{"index":41,"relation":"P495","template":"[X] buvo sukurtas [Y]."}
+{"index":32,"relation":"P276","template":"[X] yra [Y]."}
+{"index":6,"relation":"P449","template":"I\u0161 prad\u017ei\u0173 [X] buvo rodomas per [Y]."}
+{"index":29,"relation":"P17","template":"[X] yra [Y]."}
+{"index":7,"relation":"P69","template":"[X] \u012fgijo i\u0161silavinim\u0105 [Y] universitete."}
+{"index":15,"relation":"P106","template":"[X] yra [Y] pagal profesij\u0105."}
+{"index":27,"relation":"P108","template":"[X] dirba [Y]."}
+{"index":0,"relation":"P19","template":"[X] gim\u0117 [Y]."}
+{"index":8,"relation":"P47","template":"[X] dalijasi riba su [Y]."}
+{"index":11,"relation":"P54","template":"[X] \u017eaid\u017eia su [Y]."}
+{"index":38,"relation":"P190","template":"[X] ir [Y] yra susigiminiav\u0119 miestai."}
+{"index":10,"relation":"P364","template":"Originali [X] kalba yra [Y]."}
+{"index":33,"relation":"P937","template":"[X] buvo naudojamas [Y]."}
+{"index":40,"relation":"P31","template":"[X] yra [Y]."}
+{"index":30,"relation":"P39","template":"[X] turi [Y] pad\u0117t\u012f."}
+{"index":25,"relation":"P131","template":"[X] yra [Y]."}
+{"index":1,"relation":"P20","template":"[X] mir\u0117 [Y]."}
+{"index":47,"relation":"place_of_birth","template":"[X] gim\u0117 [Y]."}
+{"index":22,"relation":"P30","template":"[X] yra [Y]."}
+{"index":26,"relation":"P1412","template":"[X] naudojamas bendrauti [Y]."}
+{"index":42,"relation":"P159","template":"[X] b\u016bstin\u0117 yra [Y]."}
+{"index":34,"relation":"P140","template":"[X] yra susij\u0119s su [Y] religija."}
+{"index":35,"relation":"P1303","template":"[X] vaidina [Y]."}
+{"index":36,"relation":"P127","template":"[X] priklauso [Y]."}
+{"index":3,"relation":"P37","template":"Oficiali [X] kalba yra [Y]."}
+{"index":14,"relation":"P1923","template":"[Y] dalyvavo [X]."}
+{"index":5,"relation":"P166","template":"[X] buvo apdovanotas [Y]."}
+{"index":24,"relation":"P1376","template":"[X] yra [Y] sostin\u0117."}
+{"index":23,"relation":"P178","template":"[X] suk\u016br\u0117 [Y]."}
+{"index":4,"relation":"P413","template":"[X] \u017eaid\u017eia [Y] pozicijoje."}
+{"index":17,"relation":"P102","template":"[X] yra [Y] politin\u0117s partijos narys."}
+{"index":44,"relation":"P740","template":"[X] buvo \u012fkurta [Y]."}
+{"index":21,"relation":"P407","template":"[X] buvo para\u0161ytas [Y]."}
+{"index":13,"relation":"P101","template":"[X] dirba srityje [Y]."}

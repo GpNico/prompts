@@ -1,0 +1,39 @@
+{"index":1,"relation":"P20","template":"[X] morreu en [Y]."}
+{"index":22,"relation":"P30","template":"[X] est\u00e1 situado en [Y]."}
+{"index":16,"relation":"P527","template":"[X] est\u00e1 composto por [Y]."}
+{"index":14,"relation":"P1923","template":"[Y] participou no [X]."}
+{"index":27,"relation":"P108","template":"[X] funciona para [Y]."}
+{"index":12,"relation":"P463","template":"[X] \u00e9 membro de [Y]."}
+{"index":39,"relation":"P1001","template":"[X] \u00e9 un termo legal en [Y]."}
+{"index":34,"relation":"P140","template":"[X] est\u00e1 afiliado \u00e1 relixi\u00f3n [Y]."}
+{"index":33,"relation":"P937","template":"[X] usado para traballar en [Y]."}
+{"index":41,"relation":"P495","template":"[X] creouse en [Y]."}
+{"index":24,"relation":"P1376","template":"[X] \u00e9 a capital de [Y]."}
+{"index":30,"relation":"P39","template":"[X] ten a posici\u00f3n de [Y]."}
+{"index":37,"relation":"P103","template":"A lingua nativa de [X] \u00e9 [Y]."}
+{"index":42,"relation":"P159","template":"A sede de [X] est\u00e1 en [Y]."}
+{"index":13,"relation":"P101","template":"[X] funciona no campo de [Y]."}
+{"index":8,"relation":"P47","template":"[X] comparte fronteira con [Y]."}
+{"index":28,"relation":"P136","template":"[X] toca m\u00fasica [Y]."}
+{"index":32,"relation":"P276","template":"[X] est\u00e1 situado en [Y]."}
+{"index":23,"relation":"P178","template":"[X] est\u00e1 desenvolvido por [Y]."}
+{"index":38,"relation":"P190","template":"[X] e [Y] son \u200b\u200bcidades xemelgas."}
+{"index":47,"relation":"place_of_birth","template":"[X] naceu en [Y]."}
+{"index":3,"relation":"P37","template":"O idioma oficial de [X] \u00e9 [Y]."}
+{"index":35,"relation":"P1303","template":"[X] xoga [Y]."}
+{"index":19,"relation":"P176","template":"[X] \u00e9 producido por [Y]."}
+{"index":31,"relation":"P264","template":"[X] est\u00e1 representado polo selo musical [Y]."}
+{"index":20,"relation":"P27","template":"[X] \u00e9 [Y] cidad\u00e1n."}
+{"index":43,"relation":"P36","template":"A capital de [X] \u00e9 [Y]."}
+{"index":40,"relation":"P31","template":"[X] \u00e9 un [Y]."}
+{"index":11,"relation":"P54","template":"[X] xoga con [Y]."}
+{"index":7,"relation":"P69","template":"[X] foi educado na Universidade de [Y]."}
+{"index":29,"relation":"P17","template":"[X] est\u00e1 situado en [Y]."}
+{"index":45,"relation":"P361","template":"[X] forma parte de [Y]."}
+{"index":6,"relation":"P449","template":"[X] foi publicado orixinalmente en [Y]."}
+{"index":10,"relation":"P364","template":"O idioma orixinal de [X] \u00e9 [Y]."}
+{"index":9,"relation":"P138","template":"[X] recibe o nome de [Y]."}
+{"index":2,"relation":"P279","template":"[X] \u00e9 unha subclase de [Y]."}
+{"index":21,"relation":"P407","template":"[X] escribiuse en [Y]."}
+{"index":26,"relation":"P1412","template":"[X] usado para comunicarse en [Y]."}
+{"index":17,"relation":"P102","template":"[X] \u00e9 membro do partido pol\u00edtico [Y]."}

@@ -1,0 +1,10 @@
+{"index":45,"relation":"P361","template":"[X] er en del af [Y]."}
+{"index":29,"relation":"P17","template":"[X] er placeret i [Y]."}
+{"index":25,"relation":"P131","template":"[X] er placeret i [Y]."}
+{"index":32,"relation":"P276","template":"[X] er placeret i [Y]."}
+{"index":31,"relation":"P264","template":"[X] er repr\u00e6senteret ved musiketiket [Y]."}
+{"index":33,"relation":"P937","template":"[X] arbejdede tidligere i [Y]."}
+{"index":40,"relation":"P31","template":"[X] er en [Y]."}
+{"index":7,"relation":"P69","template":"[X] blev uddannet ved University of [Y]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (f\u00f8dt [Y])."}
+{"index":6,"relation":"P449","template":"[X] blev oprindeligt sendt p\u00e5 [Y]."}

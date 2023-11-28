@@ -1,0 +1,39 @@
+{"index":5,"relation":"P166","template":"[X] tika pie\u0161\u0137irta [Y]."}
+{"index":28,"relation":"P136","template":"[X] atska\u0146o [Y] m\u016bziku."}
+{"index":20,"relation":"P27","template":"[X] ir [Y] pilsonis."}
+{"index":18,"relation":"P530","template":"[X] uztur diplom\u0101tisk\u0101s attiec\u012bbas ar [Y]."}
+{"index":37,"relation":"P103","template":"[X] dzimt\u0101 valoda ir [Y]."}
+{"index":15,"relation":"P106","template":"[X] ir [Y] p\u0113c profesijas."}
+{"index":31,"relation":"P264","template":"[X] att\u0113lo m\u016bzikas eti\u0137ete [Y]."}
+{"index":47,"relation":"place_of_birth","template":"[X] dzimis [Y]."}
+{"index":7,"relation":"P69","template":"[X] ieguva izgl\u012bt\u012bbu [Y] universit\u0101t\u0113."}
+{"index":48,"relation":"place_of_death","template":"[X] nomira [Y]."}
+{"index":10,"relation":"P364","template":"[X] ori\u0123in\u0101lvaloda ir [Y]."}
+{"index":44,"relation":"P740","template":"[X] tika dibin\u0101ts [Y]."}
+{"index":27,"relation":"P108","template":"[X] darbojas [Y]."}
+{"index":11,"relation":"P54","template":"[X] sp\u0113l\u0113 ar [Y]."}
+{"index":39,"relation":"P1001","template":"[X] ir juridisks termins valod\u0101 [Y]."}
+{"index":43,"relation":"P36","template":"[X] galvaspils\u0113ta ir [Y]."}
+{"index":29,"relation":"P17","template":"[X] atrodas [Y]."}
+{"index":2,"relation":"P279","template":"[X] ir [Y] apak\u0161klase."}
+{"index":22,"relation":"P30","template":"[X] atrodas [Y]."}
+{"index":21,"relation":"P407","template":"[X] tika rakst\u012bts [Y]."}
+{"index":8,"relation":"P47","template":"[X] dal\u0101s ar robe\u017eu ar [Y]."}
+{"index":30,"relation":"P39","template":"[X] ir [Y]."}
+{"index":33,"relation":"P937","template":"[X] k\u0101dreiz str\u0101d\u0101ja [Y]."}
+{"index":19,"relation":"P176","template":"[X] ra\u017eo [Y]."}
+{"index":6,"relation":"P449","template":"S\u0101kotn\u0113ji [X] tika r\u0101d\u012bts kan\u0101l\u0101 [Y]."}
+{"index":40,"relation":"P31","template":"[X] ir [Y]."}
+{"index":0,"relation":"P19","template":"[X] dzimis [Y]."}
+{"index":38,"relation":"P190","template":"[X] un [Y] ir sadraudz\u012bbas pils\u0113tas."}
+{"index":42,"relation":"P159","template":"[X] galven\u0101 m\u012btne atrodas [Y]."}
+{"index":3,"relation":"P37","template":"[X] ofici\u0101l\u0101 valoda ir [Y]."}
+{"index":23,"relation":"P178","template":"[X] izstr\u0101d\u0101jis [Y]."}
+{"index":13,"relation":"P101","template":"[X] darbojas lauk\u0101 [Y]."}
+{"index":34,"relation":"P140","template":"[X] ir saist\u012bts ar [Y] reli\u0123iju."}
+{"index":32,"relation":"P276","template":"[X] atrodas [Y]."}
+{"index":17,"relation":"P102","template":"[X] ir [Y] politisk\u0101s partijas biedrs."}
+{"index":46,"relation":"date_of_birth","template":"[X] (dzimis [Y])."}
+{"index":26,"relation":"P1412","template":"[X] izmanto, lai sazin\u0101tos ar [Y]."}
+{"index":45,"relation":"P361","template":"[X] ir da\u013ca no [Y]."}
+{"index":36,"relation":"P127","template":"[X] pieder uz\u0146\u0113mumam [Y]."}

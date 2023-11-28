@@ -1,0 +1,10 @@
+{"index":32,"relation":"P276","template":"Mae [X] wedi'i leoli yn [Y]."}
+{"index":3,"relation":"P37","template":"Iaith swyddogol [X] yw [Y]."}
+{"index":23,"relation":"P178","template":"Datblygir [X] gan [Y]."}
+{"index":19,"relation":"P176","template":"Cynhyrchir [X] gan [Y]."}
+{"index":10,"relation":"P364","template":"Iaith wreiddiol [X] yw [Y]."}
+{"index":7,"relation":"P69","template":"Addysgwyd [X] ym Mhrifysgol [Y]."}
+{"index":4,"relation":"P413","template":"Mae [X] yn chwarae yn safle [Y]."}
+{"index":16,"relation":"P527","template":"Mae [X] yn cynnwys [Y]."}
+{"index":34,"relation":"P140","template":"Mae [X] yn gysylltiedig \u00e2'r grefydd [Y]."}
+{"index":47,"relation":"place_of_birth","template":"Ganwyd [X] yn [Y]."}

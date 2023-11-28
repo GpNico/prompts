@@ -1,0 +1,10 @@
+{"index":12,"relation":"P463","template":"[X] adalah ahli [Y]."}
+{"index":24,"relation":"P1376","template":"[X] adalah ibu kota [Y]."}
+{"index":9,"relation":"P138","template":"[X] dinamakan [Y]."}
+{"index":4,"relation":"P413","template":"[X] bermain dalam kedudukan [Y]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (lahir [Y])."}
+{"index":25,"relation":"P131","template":"[X] terletak di [Y]."}
+{"index":3,"relation":"P37","template":"Bahasa rasmi [X] ialah [Y]."}
+{"index":21,"relation":"P407","template":"[X] ditulis dalam [Y]."}
+{"index":43,"relation":"P36","template":"Modal [X] ialah [Y]."}
+{"index":0,"relation":"P19","template":"[X] dilahirkan di [Y]."}

@@ -1,0 +1,39 @@
+{"index":44,"relation":"P740","template":"[X] blev grundlagt i [Y]."}
+{"index":8,"relation":"P47","template":"[X] deler gr\u00e6nsen til [Y]."}
+{"index":12,"relation":"P463","template":"[X] er medlem af [Y]."}
+{"index":28,"relation":"P136","template":"[X] spiller [Y] musik."}
+{"index":0,"relation":"P19","template":"[X] blev f\u00f8dt i [Y]."}
+{"index":18,"relation":"P530","template":"[X] opretholder diplomatiske forbindelser med [Y]."}
+{"index":9,"relation":"P138","template":"[X] er opkaldt efter [Y]."}
+{"index":1,"relation":"P20","template":"[X] d\u00f8de i [Y]."}
+{"index":34,"relation":"P140","template":"[X] er tilknyttet [Y] -religionen."}
+{"index":30,"relation":"P39","template":"[X] har positionen [Y]."}
+{"index":21,"relation":"P407","template":"[X] blev skrevet i [Y]."}
+{"index":2,"relation":"P279","template":"[X] er en underklasse p\u00e5 [Y]."}
+{"index":3,"relation":"P37","template":"Det officielle sprog for [X] er [Y]."}
+{"index":10,"relation":"P364","template":"Originalsproget p\u00e5 [X] er [Y]."}
+{"index":26,"relation":"P1412","template":"[X] bruges til at kommunikere i [Y]."}
+{"index":48,"relation":"place_of_death","template":"[X] d\u00f8de i [Y]."}
+{"index":11,"relation":"P54","template":"[X] spiller med [Y]."}
+{"index":19,"relation":"P176","template":"[X] er produceret af [Y]."}
+{"index":13,"relation":"P101","template":"[X] arbejder inden for [Y]."}
+{"index":16,"relation":"P527","template":"[X] best\u00e5r af [Y]."}
+{"index":20,"relation":"P27","template":"[X] er [Y] borger."}
+{"index":22,"relation":"P30","template":"[X] er placeret i [Y]."}
+{"index":14,"relation":"P1923","template":"[Y] deltog i [X]."}
+{"index":42,"relation":"P159","template":"Hovedkvarteret for [X] er i [Y]."}
+{"index":37,"relation":"P103","template":"M\u00f8desproget til [X] er [Y]."}
+{"index":5,"relation":"P166","template":"[X] blev tildelt [Y]."}
+{"index":27,"relation":"P108","template":"[X] fungerer for [Y]."}
+{"index":24,"relation":"P1376","template":"[X] er hovedstaden i [Y]."}
+{"index":15,"relation":"P106","template":"[X] er en [Y] af erhverv."}
+{"index":43,"relation":"P36","template":"Hovedstaden i [X] er [Y]."}
+{"index":35,"relation":"P1303","template":"[X] spiller [Y]."}
+{"index":39,"relation":"P1001","template":"[X] er en juridisk betegnelse i [Y]."}
+{"index":47,"relation":"place_of_birth","template":"[X] blev f\u00f8dt i [Y]."}
+{"index":17,"relation":"P102","template":"[X] er medlem af [Y] politiske parti."}
+{"index":23,"relation":"P178","template":"[X] er udviklet af [Y]."}
+{"index":4,"relation":"P413","template":"[X] spiller i [Y] position."}
+{"index":41,"relation":"P495","template":"[X] blev oprettet i [Y]."}
+{"index":36,"relation":"P127","template":"[X] ejes af [Y]."}
+{"index":38,"relation":"P190","template":"[X] og [Y] er tvillingebyer."}

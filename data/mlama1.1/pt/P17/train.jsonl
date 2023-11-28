@@ -1,0 +1,358 @@
+{"index":295,"sub_uri":"Q167541","obj_uri":"Q55","obj_label":"Pa\u00edses Baixos","sub_label":"Eredivisie","lineid":614,"uuid":"b2d4e882-8ed4-4a34-8db2-49430472fdd9"}
+{"index":322,"sub_uri":"Q123871","obj_uri":"Q408","obj_label":"Austr\u00e1lia","sub_label":"Cabo Sudeste da Tasm\u00e2nia","lineid":661,"uuid":"a87f79d9-ae80-4cd0-afc4-6e098ee15119"}
+{"index":97,"sub_uri":"Q654993","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Breege","lineid":201,"uuid":"72fa5963-2d62-4a4b-97eb-a6bec3d56ca9"}
+{"index":400,"sub_uri":"Q696787","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Cervejaria Warsteiner","lineid":822,"uuid":"b983c7f1-8aaa-43f8-8f66-0d85d11f355e"}
+{"index":296,"sub_uri":"Q34106","obj_uri":"Q16","obj_label":"Canad\u00e1","sub_label":"Sarnia","lineid":616,"uuid":"28d55af0-4d94-478d-904f-f0fc875fd95a"}
+{"index":3,"sub_uri":"Q924020","obj_uri":"Q31","obj_label":"B\u00e9lgica","sub_label":"elei\u00e7\u00f5es gerais na B\u00e9lgica em 2010","lineid":8,"uuid":"13a4babd-b568-4794-b6ea-f606234ea5ee"}
+{"index":365,"sub_uri":"Q494125","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Chaville","lineid":749,"uuid":"43d8fdcf-f8f5-4900-a4ce-0c3ec2736eed"}
+{"index":315,"sub_uri":"Q2445461","obj_uri":"Q668","obj_label":"\u00cdndia","sub_label":"Junnar","lineid":644,"uuid":"f12dac6d-1463-4504-bbd7-1e5dd79f9adc"}
+{"index":222,"sub_uri":"Q651808","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Sardent","lineid":457,"uuid":"7c040817-75b1-40cf-a699-636e69e9a801"}
+{"index":391,"sub_uri":"Q291012","obj_uri":"Q948","obj_label":"Tun\u00edsia","sub_label":"El Jem","lineid":801,"uuid":"7c512f25-1ad4-4a3e-97cc-d1385ff900e0"}
+{"index":361,"sub_uri":"Q1638648","obj_uri":"Q55","obj_label":"Pa\u00edses Baixos","sub_label":"Governo Mark Rutte II","lineid":740,"uuid":"e68bc9dd-341c-4879-a2d1-dd8dba249b8a"}
+{"index":447,"sub_uri":"Q23117","obj_uri":"Q334","obj_label":"Singapura","sub_label":"Media Development Authority","lineid":929,"uuid":"151b262a-ba98-4779-ad68-0a08a656cff3"}
+{"index":190,"sub_uri":"Q1249783","obj_uri":"Q843","obj_label":"Paquist\u00e3o","sub_label":"Lodhran","lineid":379,"uuid":"1c1e28ce-37e4-40d1-9213-6126431b6894"}
+{"index":170,"sub_uri":"Q6319533","obj_uri":"Q419","obj_label":"Peru","sub_label":"Huachocolpa","lineid":338,"uuid":"56271191-3b27-47ef-94e3-d0e13685840a"}
+{"index":436,"sub_uri":"Q865146","obj_uri":"Q837","obj_label":"Nepal","sub_label":"Birendranagar","lineid":905,"uuid":"92c53fa9-a03d-4bff-aa2d-51f08fb1e68f"}
+{"index":51,"sub_uri":"Q752091","obj_uri":"Q668","obj_label":"\u00cdndia","sub_label":"Templo do Sol em Konarak","lineid":111,"uuid":"f917122b-df39-4912-b2bc-dd645a6b397e"}
+{"index":154,"sub_uri":"Q553570","obj_uri":"Q36","obj_label":"Pol\u00f3nia","sub_label":"Comuna de Olsztyn","lineid":301,"uuid":"6e2aa9e2-7878-4d15-bb94-acea8b0453d6"}
+{"index":41,"sub_uri":"Q1143970","obj_uri":"Q17","obj_label":"Jap\u00e3o","sub_label":"Distrito de Kamikita","lineid":89,"uuid":"f94db471-a770-42f7-9a3c-37644b9b8929"}
+{"index":47,"sub_uri":"Q217659","obj_uri":"Q32","obj_label":"Luxemburgo","sub_label":"Eurostat","lineid":96,"uuid":"70fc07b8-8642-4218-bf5a-987ca8998fa1"}
+{"index":396,"sub_uri":"Q2973","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Darmstadt","lineid":809,"uuid":"8f535508-ec34-4c6a-b6e7-b00b1a24cd5d"}
+{"index":256,"sub_uri":"Q1388437","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Vaujany","lineid":538,"uuid":"ae763a4d-1075-48e4-975c-529938721534"}
+{"index":93,"sub_uri":"Q863273","obj_uri":"Q34","obj_label":"Su\u00e9cia","sub_label":"Landskrona BoIS","lineid":195,"uuid":"824df3f3-10cb-41f2-a3f6-7d4878c83ff9"}
+{"index":67,"sub_uri":"Q12779","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Tarn-et-Garonne","lineid":143,"uuid":"4bb81967-5e90-4cfe-a923-e040e15ef1d1"}
+{"index":266,"sub_uri":"Q488384","obj_uri":"Q20","obj_label":"Noruega","sub_label":"Hattfjelldal","lineid":559,"uuid":"e05bd7df-f7c7-4bee-9cc5-35df637f70a0"}
+{"index":326,"sub_uri":"Q392564","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Mesquita de Paris","lineid":666,"uuid":"ac5e1837-58d4-424d-a693-9c36df899a64"}
+{"index":109,"sub_uri":"Q724389","obj_uri":"Q31","obj_label":"B\u00e9lgica","sub_label":"Grobbendonk","lineid":221,"uuid":"830db00c-c03d-4c58-b741-232aab91db6e"}
+{"index":82,"sub_uri":"Q2128862","obj_uri":"Q217","obj_label":"Mold\u00e1via","sub_label":"Criuleni (condado)","lineid":168,"uuid":"57e455a0-a46f-4f2f-80fc-1894b83f003c"}
+{"index":76,"sub_uri":"Q1165296","obj_uri":"Q805","obj_label":"I\u00e9men","sub_label":"Aeroporto Internacional El Rahaba","lineid":162,"uuid":"224bc312-e219-47e0-a1d0-cc3a4385e20f"}
+{"index":21,"sub_uri":"Q164819","obj_uri":"Q217","obj_label":"Mold\u00e1via","sub_label":"Gaga\u00fazia","lineid":50,"uuid":"dffa0ba5-2b0b-4a67-b891-3c43c1f88295"}
+{"index":239,"sub_uri":"Q634742","obj_uri":"Q963","obj_label":"Botsuana","sub_label":"Associa\u00e7\u00e3o de Futebol de Botsuana","lineid":495,"uuid":"b1daa087-37fc-4a28-b4f3-ff45a9ce518f"}
+{"index":258,"sub_uri":"Q1422517","obj_uri":"Q114","obj_label":"Qu\u00e9nia","sub_label":"Uni\u00e3o Nacional Africana do Qu\u00e9nia","lineid":541,"uuid":"965f8a47-8c64-471a-aefe-5a4132ece5fd"}
+{"index":339,"sub_uri":"Q235727","obj_uri":"Q262","obj_label":"Arg\u00e9lia","sub_label":"Guelma","lineid":701,"uuid":"3eb4abb3-bfe1-4031-9ac7-e06c3488dffd"}
+{"index":367,"sub_uri":"Q203923","obj_uri":"Q41","obj_label":"Gr\u00e9cia","sub_label":"Rio Aqueloo","lineid":751,"uuid":"bdb5611d-08c8-4b8f-ba9d-c6b57679b65e"}
+{"index":427,"sub_uri":"Q17443556","obj_uri":"Q1016","obj_label":"L\u00edbia","sub_label":"C\u00e2mara dos Representantes da L\u00edbia","lineid":881,"uuid":"6a9cf7af-b81a-4502-82e6-7e523badf681"}
+{"index":175,"sub_uri":"Q1255269","obj_uri":"Q948","obj_label":"Tun\u00edsia","sub_label":"Grande Mesquita de Cairu\u00e3o","lineid":348,"uuid":"b0a6fd37-14c1-459d-9acd-45e89ad60d4d"}
+{"index":371,"sub_uri":"Q263509","obj_uri":"Q774","obj_label":"Guatemala","sub_label":"Iximch\u00e9","lineid":755,"uuid":"95651076-f82a-459e-ad29-76f5d135147b"}
+{"index":414,"sub_uri":"Q192918","obj_uri":"Q1016","obj_label":"L\u00edbia","sub_label":"Sabratha","lineid":848,"uuid":"d97f1062-788b-4a63-806a-81ae01415181"}
+{"index":207,"sub_uri":"Q252061","obj_uri":"Q218","obj_label":"Rom\u00e9nia","sub_label":"Valea lui Mihai","lineid":425,"uuid":"0c1449f0-0f67-46a4-bbd8-ce22bccc578a"}
+{"index":83,"sub_uri":"Q1266729","obj_uri":"Q184","obj_label":"Bielorr\u00fassia","sub_label":"FC Gorodeya","lineid":170,"uuid":"995e1ab6-67cf-43d1-8863-14bff9dff747"}
+{"index":415,"sub_uri":"Q1350694","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Toulouges","lineid":850,"uuid":"1d3f5da5-473b-48a9-891d-2e219e01ce3e"}
+{"index":45,"sub_uri":"Q588957","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Allersberg","lineid":94,"uuid":"cfa622e9-d81e-46ed-b7d9-3c77b0bee573"}
+{"index":131,"sub_uri":"Q936285","obj_uri":"Q28","obj_label":"Hungria","sub_label":"Abadia de Pannonhalma","lineid":261,"uuid":"5a2c7f7d-ad4d-4cc0-b6c3-875bc89835b9"}
+{"index":215,"sub_uri":"Q1388791","obj_uri":"Q265","obj_label":"Uzbequist\u00e3o","sub_label":"FC Andijon","lineid":441,"uuid":"647858c9-1b79-4ab1-86da-9965e4a41621"}
+{"index":317,"sub_uri":"Q735133","obj_uri":"Q33","obj_label":"Finl\u00e2ndia","sub_label":"Ikaalinen","lineid":646,"uuid":"5643ea9e-4058-4d0e-955c-6cedf3ad5d36"}
+{"index":176,"sub_uri":"Q181882","obj_uri":"Q27","obj_label":"Rep\u00fablica da Irlanda","sub_label":"Condado de Carlow","lineid":350,"uuid":"60e7afab-cc0a-4ca1-a314-412bca4a0d30"}
+{"index":144,"sub_uri":"Q25277","obj_uri":"Q790","obj_label":"Haiti","sub_label":"Ilha de S\u00e3o Domingos","lineid":282,"uuid":"948439b3-c77b-4e48-9480-591e1eb4413c"}
+{"index":442,"sub_uri":"Q1428488","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Santo Spirito in Sassia","lineid":918,"uuid":"0fcf50ee-a676-4a70-9302-4d6b577bd4ee"}
+{"index":407,"sub_uri":"Q503295","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Illertissen","lineid":832,"uuid":"4948cf18-ef72-443c-b591-95e37981cfa9"}
+{"index":439,"sub_uri":"Q16335075","obj_uri":"Q212","obj_label":"Ucr\u00e2nia","sub_label":"Rebeli\u00e3o pr\u00f3-russa na Ucr\u00e2nia","lineid":910,"uuid":"5e1dc142-3447-4aa9-8141-241f8956558b"}
+{"index":374,"sub_uri":"Q83069","obj_uri":"Q43","obj_label":"Turquia","sub_label":"Sakarya","lineid":760,"uuid":"a19ec6ae-2823-4455-88ae-4a5912ab2554"}
+{"index":89,"sub_uri":"Q15238661","obj_uri":"Q55","obj_label":"Pa\u00edses Baixos","sub_label":"CNH Industrial","lineid":187,"uuid":"41e955d5-9cd8-4551-b694-8104df350560"}
+{"index":211,"sub_uri":"Q131694","obj_uri":"Q805","obj_label":"I\u00e9men","sub_label":"\u00c1den","lineid":431,"uuid":"7ca0469d-fa2b-4026-ad11-9f8373f39ce8"}
+{"index":338,"sub_uri":"Q528066","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Teatro Comunale di Firenze","lineid":699,"uuid":"dd87dd3c-7807-4cc2-a76b-6ee7f0424424"}
+{"index":7,"sub_uri":"Q335023","obj_uri":"Q801","obj_label":"Israel","sub_label":"Abu Ghosh","lineid":19,"uuid":"1bf07be0-984a-43f4-a236-f419ba7e0308"}
+{"index":293,"sub_uri":"Q194103","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Aventino","lineid":611,"uuid":"5b6b8e49-1962-4f20-8c94-868440871805"}
+{"index":199,"sub_uri":"Q211867","obj_uri":"Q16","obj_label":"Canad\u00e1","sub_label":"Oshawa","lineid":406,"uuid":"1bafc697-f712-448a-af06-30f62aa5ab58"}
+{"index":358,"sub_uri":"Q388980","obj_uri":"Q227","obj_label":"Azerbaij\u00e3o","sub_label":"Tovuz","lineid":734,"uuid":"ab991094-ef8d-4f7f-8fb6-77deaf5d6b16"}
+{"index":186,"sub_uri":"Q1142895","obj_uri":"Q717","obj_label":"Venezuela","sub_label":"Cubagua","lineid":371,"uuid":"5666338d-6802-417e-84a2-b7ec0615fce9"}
+{"index":118,"sub_uri":"Q564813","obj_uri":"Q45","obj_label":"Portugal","sub_label":"Santa Maria da Feira","lineid":232,"uuid":"9a131635-0a21-4104-8103-cdccf322966a"}
+{"index":244,"sub_uri":"Q702704","obj_uri":"Q32","obj_label":"Luxemburgo","sub_label":"Abadia de Echternach","lineid":507,"uuid":"20f8bca4-1864-447e-97dc-1567faf88f0a"}
+{"index":324,"sub_uri":"Q688626","obj_uri":"Q227","obj_label":"Azerbaij\u00e3o","sub_label":"Lerik","lineid":664,"uuid":"575a5291-64e8-48e4-9f1e-f23d0837bb4a"}
+{"index":404,"sub_uri":"Q20028","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Entracque","lineid":827,"uuid":"0d41b332-0297-4452-8461-3b9e233d4c41"}
+{"index":278,"sub_uri":"Q22953","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Annweiler am Trifels","lineid":580,"uuid":"b56c183f-0f2d-472a-8f53-6006491b54cc"}
+{"index":19,"sub_uri":"Q3307610","obj_uri":"Q29","obj_label":"Espanha","sub_label":"Serra da Coroa","lineid":46,"uuid":"10bc3e38-fde0-4e11-a7c8-ebb58200ed7e"}
+{"index":54,"sub_uri":"Q676154","obj_uri":"Q928","obj_label":"Filipinas","sub_label":"Ba\u00eda de Manila","lineid":117,"uuid":"9c337a15-1ae2-459b-a918-61fcaa86c912"}
+{"index":446,"sub_uri":"Q584279","obj_uri":"Q1028","obj_label":"Marrocos","sub_label":"Alto Atlas","lineid":927,"uuid":"a28d66d3-aeab-437d-a2d1-49aea8eac0b9"}
+{"index":240,"sub_uri":"Q4957110","obj_uri":"Q16","obj_label":"Canad\u00e1","sub_label":"Universidade de Brandon","lineid":498,"uuid":"8a00fa01-1b15-4ed9-9ca1-b032dcfd00b2"}
+{"index":428,"sub_uri":"Q1249801","obj_uri":"Q843","obj_label":"Paquist\u00e3o","sub_label":"Pakpattan","lineid":882,"uuid":"26ac44c9-dae4-41ca-8d31-ded9b6569b77"}
+{"index":206,"sub_uri":"Q663202","obj_uri":"Q40","obj_label":"\u00c1ustria","sub_label":"Nauders","lineid":422,"uuid":"39189f3f-f201-4ceb-a3b2-021bb6a5a34c"}
+{"index":251,"sub_uri":"Q43269","obj_uri":"Q717","obj_label":"Venezuela","sub_label":"Zulia","lineid":528,"uuid":"816e1acb-11a2-47da-898e-ef2dde7d175a"}
+{"index":304,"sub_uri":"Q695360","obj_uri":"Q159","obj_label":"R\u00fassia","sub_label":"Palana","lineid":626,"uuid":"4e0d5a16-b96a-4fbf-81ec-5e5e8abe9659"}
+{"index":440,"sub_uri":"Q2986304","obj_uri":"Q403","obj_label":"S\u00e9rvia","sub_label":"Pinosava","lineid":915,"uuid":"b9841ed8-9f82-4acb-a707-4c018817b8d5"}
+{"index":289,"sub_uri":"Q731350","obj_uri":"Q241","obj_label":"Cuba","sub_label":"peso convert\u00edvel","lineid":605,"uuid":"69c1bb56-bbae-44d4-a89c-280abfb0b696"}
+{"index":18,"sub_uri":"Q103985","obj_uri":"Q159","obj_label":"R\u00fassia","sub_label":"Arsk","lineid":45,"uuid":"4ecc3191-2a77-4048-ba0a-a3d0ca86cd02"}
+{"index":246,"sub_uri":"Q3300448","obj_uri":"Q96","obj_label":"M\u00e9xico","sub_label":"Ozumba","lineid":510,"uuid":"5a2d6d86-4086-4d6f-b64c-e9fe3afdd355"}
+{"index":310,"sub_uri":"Q331455","obj_uri":"Q717","obj_label":"Venezuela","sub_label":"Canal do Cassiquiare","lineid":635,"uuid":"7f488738-d192-42e0-a561-9644d54982d3"}
+{"index":86,"sub_uri":"Q206933","obj_uri":"Q45","obj_label":"Portugal","sub_label":"Leiria","lineid":179,"uuid":"6e4f215d-93a3-4943-958e-c4ccec4ce948"}
+{"index":145,"sub_uri":"Q457","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Poissy","lineid":283,"uuid":"51da607b-ace6-46fe-b71f-e85274d1649a"}
+{"index":81,"sub_uri":"Q1288","obj_uri":"Q40","obj_label":"\u00c1ustria","sub_label":"C\u00e1rpatos","lineid":167,"uuid":"19ace324-4042-4e60-a32a-45bb1d104792"}
+{"index":173,"sub_uri":"Q511956","obj_uri":"Q36","obj_label":"Pol\u00f3nia","sub_label":"Bobolice","lineid":343,"uuid":"c03606c9-f1bf-4b36-821c-220c9b6a641b"}
+{"index":150,"sub_uri":"Q187890","obj_uri":"Q159","obj_label":"R\u00fassia","sub_label":"Estreito de Kerch","lineid":294,"uuid":"bd768ff1-1543-4580-82f9-e3b0a2306a58"}
+{"index":386,"sub_uri":"Q83251","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Issenheim","lineid":790,"uuid":"c4af9655-a61b-4d94-bf4d-719195a9a52f"}
+{"index":316,"sub_uri":"Q59819","obj_uri":"Q408","obj_label":"Austr\u00e1lia","sub_label":"Mudgee","lineid":645,"uuid":"49a4135b-1f09-45ce-a88b-44750d19823b"}
+{"index":0,"sub_uri":"Q57881","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Eibenstock","lineid":0,"uuid":"75e6e7c3-9697-4ad1-b805-5f79f52e8255"}
+{"index":217,"sub_uri":"Q8692","obj_uri":"Q29","obj_label":"Espanha","sub_label":"Bilbau","lineid":452,"uuid":"b757483b-a4e2-4440-b0c9-9531decbcf14"}
+{"index":31,"sub_uri":"Q553982","obj_uri":"Q36","obj_label":"Pol\u00f3nia","sub_label":"Comuna de Kleczew","lineid":72,"uuid":"fead62cc-22c2-48f1-add5-15c2b4f4d717"}
+{"index":366,"sub_uri":"Q2720540","obj_uri":"Q155","obj_label":"Brasil","sub_label":"Regi\u00e3o Metropolitana do Rio de Janeiro","lineid":750,"uuid":"c47e6994-79ff-4199-b32d-584f84cdb228"}
+{"index":138,"sub_uri":"Q15986","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Naumburg","lineid":271,"uuid":"3dea5093-6e07-4373-b2be-a12e0b5ca2ed"}
+{"index":164,"sub_uri":"Q7050992","obj_uri":"Q408","obj_label":"Austr\u00e1lia","sub_label":"Norfolk Air","lineid":325,"uuid":"45155df6-7457-496d-873f-27ef9d81e301"}
+{"index":73,"sub_uri":"Q1191132","obj_uri":"Q17","obj_label":"Jap\u00e3o","sub_label":"Universidade de Nagoya","lineid":157,"uuid":"61bd5b13-856f-4471-b08e-1cd680175e26"}
+{"index":433,"sub_uri":"Q1848697","obj_uri":"Q34","obj_label":"Su\u00e9cia","sub_label":"Instituto Mittag-Leffler","lineid":899,"uuid":"0c62c424-0d7c-4501-b700-8075c39d1d91"}
+{"index":63,"sub_uri":"Q2021907","obj_uri":"Q31","obj_label":"B\u00e9lgica","sub_label":"Circuito das Ardenas (aut\u00f3dromo)","lineid":133,"uuid":"532d3a9b-fd8b-4882-b7ee-1414b4b467ab"}
+{"index":42,"sub_uri":"Q117186","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Pontecorvo","lineid":91,"uuid":"cef6912c-d34a-49c6-8c0c-c4777a71b8e1"}
+{"index":434,"sub_uri":"Q31113","obj_uri":"Q865","obj_label":"Taiwan","sub_label":"Kuomintang","lineid":900,"uuid":"42a45f42-a6c8-4cd4-bed9-f9e97d281787"}
+{"index":53,"sub_uri":"Q721408","obj_uri":"Q298","obj_label":"Chile","sub_label":"Llanquihue","lineid":114,"uuid":"fef540da-c22a-436d-9ac0-0a3823e89843"}
+{"index":362,"sub_uri":"Q2711611","obj_uri":"Q298","obj_label":"Chile","sub_label":"Rio Tinguiririca","lineid":741,"uuid":"26a0ffb4-2722-45e2-8f2c-028c3dd6c276"}
+{"index":335,"sub_uri":"Q541435","obj_uri":"Q419","obj_label":"Peru","sub_label":"Puerto Maldonado","lineid":693,"uuid":"a44d2405-2202-4eb3-b6d8-c10f9c929a99"}
+{"index":388,"sub_uri":"Q174257","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Beauvais","lineid":794,"uuid":"b96bfc3d-166d-4fe8-9893-20e12330adab"}
+{"index":212,"sub_uri":"Q670250","obj_uri":"Q16","obj_label":"Canad\u00e1","sub_label":"Galeria de Arte de Ont\u00e1rio","lineid":433,"uuid":"fef03415-71fb-441c-b965-c4d27599a8c1"}
+{"index":46,"sub_uri":"Q1032248","obj_uri":"Q16","obj_label":"Canad\u00e1","sub_label":"Habitat 67","lineid":95,"uuid":"4722024d-06e8-4be1-ac3b-d8b3943a726c"}
+{"index":133,"sub_uri":"Q956524","obj_uri":"Q29","obj_label":"Espanha","sub_label":"Maella","lineid":265,"uuid":"6f61dfe7-f07e-44ca-b23e-a94879fea332"}
+{"index":379,"sub_uri":"Q309008","obj_uri":"Q36","obj_label":"Pol\u00f3nia","sub_label":"Associa\u00e7\u00e3o Polonesa de Futebol","lineid":774,"uuid":"7f2e4899-7729-4763-91d9-dacef59dbf59"}
+{"index":242,"sub_uri":"Q4179041","obj_uri":"Q45","obj_label":"Portugal","sub_label":"Instituto Pedro Nunes","lineid":501,"uuid":"59830a32-6585-41fb-a1ad-4380c151beb8"}
+{"index":169,"sub_uri":"Q634057","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Plougonven","lineid":333,"uuid":"77d71fbd-d658-4c14-8217-70ae15387756"}
+{"index":418,"sub_uri":"Q12618","obj_uri":"Q29","obj_label":"Espanha","sub_label":"Olot","lineid":856,"uuid":"f78ffdcf-3ffc-49b3-a519-4308b22f756d"}
+{"index":9,"sub_uri":"Q1103761","obj_uri":"Q31","obj_label":"B\u00e9lgica","sub_label":"Casa do Povo","lineid":23,"uuid":"c68f9cc8-bf63-4586-a778-c5a3ee0e49dc"}
+{"index":69,"sub_uri":"Q511182","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Passo Agnel","lineid":149,"uuid":"f7605a4d-ea45-48ff-9dad-9ae4bd18ec21"}
+{"index":50,"sub_uri":"Q861255","obj_uri":"Q17","obj_label":"Jap\u00e3o","sub_label":"Higashikagawa","lineid":107,"uuid":"3097ec1f-3b9b-41b1-8e9f-8e42ffc3ed8a"}
+{"index":103,"sub_uri":"Q494110","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Helmbrechts","lineid":211,"uuid":"daf82f92-302b-4304-bbcc-f6762db092f1"}
+{"index":184,"sub_uri":"Q1048284","obj_uri":"Q298","obj_label":"Chile","sub_label":"Ilha Wellington","lineid":363,"uuid":"88ee000b-7757-44cd-a7ac-5a27e3c7e4a8"}
+{"index":152,"sub_uri":"Q15373","obj_uri":"Q668","obj_label":"\u00cdndia","sub_label":"Karimnagar","lineid":298,"uuid":"1e0f901b-d25a-4f59-a28b-14f29b1fa6aa"}
+{"index":348,"sub_uri":"Q610371","obj_uri":"Q39","obj_label":"Su\u00ed\u00e7a","sub_label":"Augusta Raurica","lineid":716,"uuid":"c0185abe-0d0c-4f19-93af-ba64e8fb69bb"}
+{"index":234,"sub_uri":"Q11086","obj_uri":"Q252","obj_label":"Indon\u00e9sia","sub_label":"Lamongan","lineid":483,"uuid":"85a0cb0e-617c-45e0-af43-c700bd9b2b3f"}
+{"index":155,"sub_uri":"Q1202628","obj_uri":"Q17","obj_label":"Jap\u00e3o","sub_label":"Victor Entertainment","lineid":302,"uuid":"64bfbd1b-ac7c-4177-b61d-ac16a5c59958"}
+{"index":283,"sub_uri":"Q1888276","obj_uri":"Q924","obj_label":"Tanz\u00e2nia","sub_label":"Bunda","lineid":592,"uuid":"d0592815-9005-4e61-ba6c-3cab9f757a71"}
+{"index":24,"sub_uri":"Q1053917","obj_uri":"Q31","obj_label":"B\u00e9lgica","sub_label":"K.S.V. Roeselare","lineid":54,"uuid":"eca6971f-3537-46ff-a110-57ba7ac2b5ad"}
+{"index":347,"sub_uri":"Q4396","obj_uri":"Q212","obj_label":"Ucr\u00e2nia","sub_label":"Svoboda","lineid":712,"uuid":"f9bdbc76-6578-48f6-8846-0fe65ff48bd7"}
+{"index":104,"sub_uri":"Q159452","obj_uri":"Q155","obj_label":"Brasil","sub_label":"capoeira","lineid":216,"uuid":"8609d272-0a5d-4272-a59a-454d0620f7c2"}
+{"index":204,"sub_uri":"Q2927433","obj_uri":"Q16","obj_label":"Canad\u00e1","sub_label":"Buchans","lineid":418,"uuid":"1b2c6d0c-9008-4a95-81cd-c36f47d4d930"}
+{"index":165,"sub_uri":"Q232734","obj_uri":"Q43","obj_label":"Turquia","sub_label":"Pamukkale","lineid":326,"uuid":"dbbeb0be-e2d6-4b80-9ed6-08b59e39554c"}
+{"index":323,"sub_uri":"Q644008","obj_uri":"Q265","obj_label":"Uzbequist\u00e3o","sub_label":"Qarshi","lineid":663,"uuid":"c41a85b0-4406-4934-9682-758548d3b695"}
+{"index":369,"sub_uri":"Q3365701","obj_uri":"Q790","obj_label":"Haiti","sub_label":"Hotel Oloffson","lineid":753,"uuid":"ad757797-a51f-44e7-b674-46f113a5fe6b"}
+{"index":402,"sub_uri":"Q6178","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Oder-Spree","lineid":824,"uuid":"55892031-3b2f-4b1e-b835-8ce687cecd9e"}
+{"index":179,"sub_uri":"Q9815","obj_uri":"Q55","obj_label":"Pa\u00edses Baixos","sub_label":"Bernheze","lineid":355,"uuid":"25b12ffb-3ef0-488c-9866-d857640890fa"}
+{"index":280,"sub_uri":"Q703248","obj_uri":"Q865","obj_label":"Taiwan","sub_label":"Sanlih E-Television","lineid":585,"uuid":"e2d99a0c-31d7-40b7-a5a1-601cdaf337d6"}
+{"index":252,"sub_uri":"Q213224","obj_uri":"Q31","obj_label":"B\u00e9lgica","sub_label":"Menen","lineid":532,"uuid":"31d58601-208a-498b-829f-a44b9702e6ca"}
+{"index":6,"sub_uri":"Q130754","obj_uri":"Q252","obj_label":"Indon\u00e9sia","sub_label":"Sismo e tsunami do Oceano \u00cdndico de 2004","lineid":17,"uuid":"7da680b0-df25-45ea-9189-aeda9d5046da"}
+{"index":320,"sub_uri":"Q1349735","obj_uri":"Q34","obj_label":"Su\u00e9cia","sub_label":"Facit","lineid":652,"uuid":"e62f5491-806b-4360-a5cf-260022db6fab"}
+{"index":307,"sub_uri":"Q5693","obj_uri":"Q33","obj_label":"Finl\u00e2ndia","sub_label":"Sav\u00f4nia do Sul","lineid":632,"uuid":"bee6eebc-7cb0-4636-b311-739d90924395"}
+{"index":257,"sub_uri":"Q172470","obj_uri":"Q159","obj_label":"R\u00fassia","sub_label":"Neryungri","lineid":540,"uuid":"36a2c0ff-aef8-4215-95d9-5db29880eb44"}
+{"index":48,"sub_uri":"Q821275","obj_uri":"Q668","obj_label":"\u00cdndia","sub_label":"Aeroporto Internacional Indira Gandhi","lineid":100,"uuid":"917e7260-3dea-4d51-9e36-8025a6134f8e"}
+{"index":39,"sub_uri":"Q879471","obj_uri":"Q34","obj_label":"Su\u00e9cia","sub_label":"Bjurholm","lineid":85,"uuid":"76a81784-9bd3-4fdd-91e9-5bef0726c2d3"}
+{"index":196,"sub_uri":"Q1674067","obj_uri":"Q414","obj_label":"Argentina","sub_label":"Ilha Grande da Terra do Fogo","lineid":403,"uuid":"fd34373f-8f82-4537-9ffa-77e054f1de18"}
+{"index":328,"sub_uri":"Q77202","obj_uri":"Q159","obj_label":"R\u00fassia","sub_label":"1C Company","lineid":678,"uuid":"082c8070-db82-4ae4-a89e-f84abfe441c8"}
+{"index":308,"sub_uri":"Q1142327","obj_uri":"Q16","obj_label":"Canad\u00e1","sub_label":"Global Television Network","lineid":633,"uuid":"d7c55d44-6c43-477f-9b51-410c1e901b91"}
+{"index":432,"sub_uri":"Q4680814","obj_uri":"Q27","obj_label":"Rep\u00fablica da Irlanda","sub_label":"Adare Manor","lineid":892,"uuid":"890abbc9-d5dc-4a01-b97c-7b939eb1dd42"}
+{"index":123,"sub_uri":"Q559689","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Beckingen","lineid":244,"uuid":"6cfabf1e-1762-40a7-a9d8-385455a776ad"}
+{"index":126,"sub_uri":"Q80987","obj_uri":"Q155","obj_label":"Brasil","sub_label":"Fluminense Football Club","lineid":249,"uuid":"6fc44ead-d2d6-4388-9c0f-165b2fd4f8fd"}
+{"index":8,"sub_uri":"Q891559","obj_uri":"Q96","obj_label":"M\u00e9xico","sub_label":"Bolsa Mexicana de Valores","lineid":21,"uuid":"11b28bb7-1b09-495e-aa64-8f943384b998"}
+{"index":408,"sub_uri":"Q696772","obj_uri":"Q17","obj_label":"Jap\u00e3o","sub_label":"Hitachinaka","lineid":833,"uuid":"0c1da565-1350-4444-b6b2-ad6f453eb3f1"}
+{"index":421,"sub_uri":"Q287129","obj_uri":"Q155","obj_label":"Brasil","sub_label":"ABC Futebol Clube","lineid":868,"uuid":"228d4e42-8440-41d4-a83c-4c764b483b17"}
+{"index":185,"sub_uri":"Q891109","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"European Physical Society","lineid":367,"uuid":"aea38e26-8609-406b-bce6-ff561dfb067b"}
+{"index":229,"sub_uri":"Q450472","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Bliesgau","lineid":469,"uuid":"6b761f0d-8bf0-4638-9600-47d8185f847c"}
+{"index":292,"sub_uri":"Q193478","obj_uri":"Q28","obj_label":"Hungria","sub_label":"Buda","lineid":608,"uuid":"a6126512-6571-42a0-95f0-0f158d8446d7"}
+{"index":346,"sub_uri":"Q551435","obj_uri":"Q36","obj_label":"Pol\u00f3nia","sub_label":"Comuna de Konarzyny","lineid":711,"uuid":"769f855c-33a3-4fab-b32d-cf27635386b8"}
+{"index":314,"sub_uri":"Q204956","obj_uri":"Q27","obj_label":"Rep\u00fablica da Irlanda","sub_label":"Dundalk","lineid":640,"uuid":"cfee7126-d5ab-42f1-8496-5097affd2f70"}
+{"index":363,"sub_uri":"Q430035","obj_uri":"Q34","obj_label":"Su\u00e9cia","sub_label":"Pr\u00e9mio Memorial Astrid Lindgren","lineid":746,"uuid":"9291cb85-7526-4bcc-a4cb-86f768fc2334"}
+{"index":114,"sub_uri":"Q17798","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Cocconato","lineid":228,"uuid":"ef61e5d9-06a1-425a-9d0e-7f4889cc59e8"}
+{"index":120,"sub_uri":"Q2657799","obj_uri":"Q41","obj_label":"Gr\u00e9cia","sub_label":"Pol\u00edcia da Gr\u00e9cia","lineid":234,"uuid":"d1b7bb04-2c16-406c-9617-bdfb14a11dc1"}
+{"index":264,"sub_uri":"Q1422037","obj_uri":"Q79","obj_label":"Egito","sub_label":"M\u00e9dio Egito","lineid":552,"uuid":"e1245ba1-88cc-4947-a189-cd9d59fe024f"}
+{"index":58,"sub_uri":"Q3088872","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Palais de l'Industrie","lineid":122,"uuid":"9e166b6c-d1fd-44b0-bd45-724a575795d1"}
+{"index":1,"sub_uri":"Q11304","obj_uri":"Q29","obj_label":"Espanha","sub_label":"L'Escala","lineid":5,"uuid":"2056e923-e17c-461f-b2ad-38a8e0a3512d"}
+{"index":174,"sub_uri":"Q1610078","obj_uri":"Q29","obj_label":"Espanha","sub_label":"Montiel","lineid":345,"uuid":"6f5197ce-20ef-4e11-afe0-a0a156512b4f"}
+{"index":265,"sub_uri":"Q127925","obj_uri":"Q750","obj_label":"Bol\u00edvia","sub_label":"Club Aurora","lineid":556,"uuid":"b0c2ee12-120f-44ef-ac78-59a2f007eb41"}
+{"index":197,"sub_uri":"Q428570","obj_uri":"Q79","obj_label":"Egito","sub_label":"O\u00e1sis de Kharga","lineid":404,"uuid":"29357677-9f40-43ff-9fd9-7e784e8defa2"}
+{"index":43,"sub_uri":"Q233914","obj_uri":"Q858","obj_label":"S\u00edria","sub_label":"Al-Hasakah","lineid":92,"uuid":"31ecac67-6239-4682-99d4-baa570ae0738"}
+{"index":298,"sub_uri":"Q502642","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Windischeschenbach","lineid":619,"uuid":"836b1c23-942a-485b-8d41-d225f247b2ee"}
+{"index":405,"sub_uri":"Q1962777","obj_uri":"Q96","obj_label":"M\u00e9xico","sub_label":"Papantla","lineid":829,"uuid":"4985afef-574a-487a-abf3-7489858b2fdf"}
+{"index":284,"sub_uri":"Q208270","obj_uri":"Q843","obj_label":"Paquist\u00e3o","sub_label":"Territ\u00f3rio Federal das \u00c1reas Tribais","lineid":595,"uuid":"43c224c5-d842-472a-a5bc-25ea624b7c40"}
+{"index":182,"sub_uri":"Q162111","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Alte Nationalgalerie","lineid":361,"uuid":"c96e119d-73d9-4f57-a66c-1b7c1b19132b"}
+{"index":61,"sub_uri":"Q193055","obj_uri":"Q218","obj_label":"Rom\u00e9nia","sub_label":"Giurgiu","lineid":128,"uuid":"1df6aa31-5420-4623-84f2-9d520946e159"}
+{"index":443,"sub_uri":"Q171219","obj_uri":"Q40","obj_label":"\u00c1ustria","sub_label":"Dornbirn","lineid":921,"uuid":"5086f0c2-673c-407e-9b1b-9d6967b28198"}
+{"index":277,"sub_uri":"Q487921","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Calw","lineid":576,"uuid":"5cc71492-e717-466e-9eb5-cb25b31148b7"}
+{"index":122,"sub_uri":"Q1131315","obj_uri":"Q17","obj_label":"Jap\u00e3o","sub_label":"Distrito de Uda","lineid":243,"uuid":"192213ef-aff2-4bfc-96c0-f06019cd6797"}
+{"index":313,"sub_uri":"Q456550","obj_uri":"Q31","obj_label":"B\u00e9lgica","sub_label":"Tienen","lineid":638,"uuid":"598db038-4acf-4052-9e20-3ffb106ef2eb"}
+{"index":90,"sub_uri":"Q285551","obj_uri":"Q155","obj_label":"Brasil","sub_label":"Rio Quente","lineid":188,"uuid":"c13175aa-c476-4984-a89a-d00126e301d5"}
+{"index":208,"sub_uri":"Q1862947","obj_uri":"Q96","obj_label":"M\u00e9xico","sub_label":"Acolman","lineid":426,"uuid":"cbfcf382-1080-4987-88bc-9212eaabb25d"}
+{"index":227,"sub_uri":"Q1552742","obj_uri":"Q29","obj_label":"Espanha","sub_label":"Ribera Baixa","lineid":464,"uuid":"8b028883-138b-424d-a0ec-3c9e5ff65598"}
+{"index":249,"sub_uri":"Q2545016","obj_uri":"Q668","obj_label":"\u00cdndia","sub_label":"Risod","lineid":520,"uuid":"2c7bd966-8ab8-4646-bb29-3264e7bec6bb"}
+{"index":271,"sub_uri":"Q270050","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Borghetto di Vara","lineid":567,"uuid":"6a99370b-c28a-431d-a72b-921fc5557f46"}
+{"index":135,"sub_uri":"Q656640","obj_uri":"Q36","obj_label":"Pol\u00f3nia","sub_label":"Rio Bzura","lineid":267,"uuid":"bb1d5c82-eca2-4f0f-bce7-ee3f7d801bfa"}
+{"index":372,"sub_uri":"Q249852","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Bourg-la-Reine","lineid":756,"uuid":"5443f351-a140-49ae-86cc-95429d58aa7d"}
+{"index":223,"sub_uri":"Q255105","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Enghien-les-Bains","lineid":458,"uuid":"77f4f13c-e735-4d17-9f84-625f171ce398"}
+{"index":162,"sub_uri":"Q239333","obj_uri":"Q55","obj_label":"Pa\u00edses Baixos","sub_label":"Partido Popular para a Liberdade e Democracia","lineid":314,"uuid":"79313acc-bd53-4d7b-9e2d-fba349585f8b"}
+{"index":201,"sub_uri":"Q746052","obj_uri":"Q17","obj_label":"Jap\u00e3o","sub_label":"Ginza","lineid":415,"uuid":"9b67ec74-8ff0-4209-a716-c947e6d91864"}
+{"index":171,"sub_uri":"Q1726","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Munique","lineid":340,"uuid":"9a8aabee-5280-4364-997e-7c95288078e9"}
+{"index":325,"sub_uri":"Q504922","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Emscher","lineid":665,"uuid":"16bbee4e-0f6c-4339-8504-2586ab6f7660"}
+{"index":198,"sub_uri":"Q1512876","obj_uri":"Q1246","obj_label":"Kosovo","sub_label":"Ulpiana","lineid":405,"uuid":"81f5d69a-a1ef-4b56-8c1e-45acf07f9e66"}
+{"index":262,"sub_uri":"Q813934","obj_uri":"Q408","obj_label":"Austr\u00e1lia","sub_label":"Bedourie","lineid":546,"uuid":"5e9d443b-2a72-41c6-a353-2cfec7cdb1aa"}
+{"index":5,"sub_uri":"Q932648","obj_uri":"Q41","obj_label":"Gr\u00e9cia","sub_label":"Didymoteicho","lineid":16,"uuid":"1806d4b5-b8e2-470a-9f2e-75bc864b768b"}
+{"index":68,"sub_uri":"Q1000099","obj_uri":"Q45","obj_label":"Portugal","sub_label":"Pampilhosa da Serra","lineid":144,"uuid":"da4a3dff-dc9e-4715-be9f-a34da7c8d1bb"}
+{"index":306,"sub_uri":"Q5705","obj_uri":"Q29","obj_label":"Espanha","sub_label":"Catalunha","lineid":630,"uuid":"091703e4-61a9-4ce4-93b0-b72a4ff113c5"}
+{"index":309,"sub_uri":"Q1865480","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Bastilha","lineid":634,"uuid":"6b9188c4-3d51-4d18-91b5-9bc7385a4650"}
+{"index":382,"sub_uri":"Q1131568","obj_uri":"Q17","obj_label":"Jap\u00e3o","sub_label":"Distrito de Kume","lineid":777,"uuid":"93098b6a-7576-4eb4-af69-153359a59d8a"}
+{"index":213,"sub_uri":"Q17629","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Ovada","lineid":439,"uuid":"4f03d611-717b-4ffb-9a09-7c750a681b22"}
+{"index":384,"sub_uri":"Q2869328","obj_uri":"Q29","obj_label":"Espanha","sub_label":"Ateneo de Madrid","lineid":784,"uuid":"c82c0067-8df8-4bda-81b1-bfa60e1a9ed1"}
+{"index":342,"sub_uri":"Q707981","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Cole\u00e7\u00f5es Estatais de Antig\u00fcidades","lineid":704,"uuid":"908d7f48-c3a5-4b10-b75c-5c0398ee04a3"}
+{"index":105,"sub_uri":"Q40966","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Opel","lineid":217,"uuid":"620ac626-c444-4e46-9ecc-bec14a1a094a"}
+{"index":232,"sub_uri":"Q870332","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Umarex","lineid":473,"uuid":"cb98996a-b348-41b6-82d5-b7e180aa9276"}
+{"index":127,"sub_uri":"Q1064107","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Capdenac","lineid":251,"uuid":"447145be-2d8c-47ae-9241-242734353e38"}
+{"index":218,"sub_uri":"Q2546870","obj_uri":"Q668","obj_label":"\u00cdndia","sub_label":"Morshi","lineid":453,"uuid":"a312c633-bb86-48cc-a455-be99477d423e"}
+{"index":226,"sub_uri":"Q967776","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Observat\u00f3rio do Ves\u00favio","lineid":463,"uuid":"cbee6620-dd68-4766-b366-f5d9f3915610"}
+{"index":416,"sub_uri":"Q5050839","obj_uri":"Q419","obj_label":"Peru","sub_label":"Castrovirreyna (distrito)","lineid":852,"uuid":"facac4d9-2935-4a7f-ac0e-9c04da136315"}
+{"index":119,"sub_uri":"Q2561180","obj_uri":"Q783","obj_label":"Honduras","sub_label":"Yoro","lineid":233,"uuid":"3e9aa1eb-c243-4722-8451-8173ad7018bc"}
+{"index":350,"sub_uri":"Q122574","obj_uri":"Q33","obj_label":"Finl\u00e2ndia","sub_label":"Golfo de B\u00f3tnia","lineid":720,"uuid":"20acb588-1ee6-4898-be2a-9df44b6e0825"}
+{"index":344,"sub_uri":"Q28911","obj_uri":"Q33","obj_label":"Finl\u00e2ndia","sub_label":"Lahti","lineid":709,"uuid":"6e771a52-1fcc-42e5-9c70-54114e23b41f"}
+{"index":337,"sub_uri":"Q1449946","obj_uri":"Q1033","obj_label":"Nig\u00e9ria","sub_label":"Rodovia Argel \u2013 Lagos","lineid":696,"uuid":"68c10030-d9f0-471c-9b7f-2e3beff50137"}
+{"index":377,"sub_uri":"Q646290","obj_uri":"Q252","obj_label":"Indon\u00e9sia","sub_label":"Pen\u00ednsula da Cabe\u00e7a de P\u00e1ssaro","lineid":769,"uuid":"5e8e938b-3d0b-4cfc-ac44-9f843eb72b2c"}
+{"index":235,"sub_uri":"Q2483929","obj_uri":"Q668","obj_label":"\u00cdndia","sub_label":"Simdega","lineid":485,"uuid":"15736953-6f45-4b0d-848a-1d0e21fdd8db"}
+{"index":397,"sub_uri":"Q517670","obj_uri":"Q232","obj_label":"Cazaquist\u00e3o","sub_label":"Rio Emba","lineid":810,"uuid":"b79e92ef-4ea4-498d-b13f-959a161c7aac"}
+{"index":146,"sub_uri":"Q8415","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Jogos Ol\u00edmpicos de Ver\u00e3o de 1960","lineid":286,"uuid":"5563c075-839b-462e-a589-14ddbb23c46f"}
+{"index":79,"sub_uri":"Q95123","obj_uri":"Q31","obj_label":"B\u00e9lgica","sub_label":"Les Bons Villers","lineid":165,"uuid":"676f99f5-3af0-4bc8-a87d-4ae6fc67db48"}
+{"index":172,"sub_uri":"Q1110973","obj_uri":"Q408","obj_label":"Austr\u00e1lia","sub_label":"Kununurra","lineid":341,"uuid":"f8c4e1c8-6194-424e-a3a2-f63ac74b5c7e"}
+{"index":181,"sub_uri":"Q228655","obj_uri":"Q55","obj_label":"Pa\u00edses Baixos","sub_label":"Golfo Zuiderzee","lineid":359,"uuid":"75ae0326-d4b0-4ced-a40b-f637e01996dd"}
+{"index":66,"sub_uri":"Q1707151","obj_uri":"Q668","obj_label":"\u00cdndia","sub_label":"Ghatanji","lineid":139,"uuid":"7b4465a5-0598-4005-ad38-0fd4c752db03"}
+{"index":188,"sub_uri":"Q1542478","obj_uri":"Q962","obj_label":"Benim","sub_label":"Grand-Popo","lineid":376,"uuid":"3d091dcf-a60b-4702-bc4e-bf3a7d7a9858"}
+{"index":36,"sub_uri":"Q588826","obj_uri":"Q668","obj_label":"\u00cdndia","sub_label":"Amarkantak","lineid":79,"uuid":"e494f4df-eee0-425b-aa4c-b8f1ba05797a"}
+{"index":148,"sub_uri":"Q1656624","obj_uri":"Q229","obj_label":"Chipre","sub_label":"Idalium","lineid":291,"uuid":"68060104-9bdf-4b7a-93e9-dd80da5afffd"}
+{"index":352,"sub_uri":"Q700102","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Casa de Hohenlohe-Langemburgo","lineid":722,"uuid":"432348ea-2ffd-48f6-9b8e-a25b560fc28d"}
+{"index":189,"sub_uri":"Q1235705","obj_uri":"Q1033","obj_label":"Nig\u00e9ria","sub_label":"Tiv","lineid":377,"uuid":"64a3e23f-160e-42ae-a4cc-db7f6edda4e0"}
+{"index":78,"sub_uri":"Q310786","obj_uri":"Q846","obj_label":"Catar","sub_label":"Al Daayen","lineid":164,"uuid":"ae34de30-a9a3-4cdb-b995-f856aa2a5cbe"}
+{"index":15,"sub_uri":"Q633663","obj_uri":"Q191","obj_label":"Est\u00f3nia","sub_label":"Palupera","lineid":38,"uuid":"660a41db-b147-4313-9882-e56947b4a05c"}
+{"index":32,"sub_uri":"Q666813","obj_uri":"Q31","obj_label":"B\u00e9lgica","sub_label":"Frasnes-lez-Anvaing","lineid":73,"uuid":"fa799820-3c68-491e-bc4b-d653212da317"}
+{"index":300,"sub_uri":"Q338082","obj_uri":"Q43","obj_label":"Turquia","sub_label":"Transportes p\u00fablicos de Istambul","lineid":621,"uuid":"9e3c3d64-8ad2-4cf7-b88b-91bc8963ac66"}
+{"index":294,"sub_uri":"Q949699","obj_uri":"Q155","obj_label":"Brasil","sub_label":"Congresso Nacional do Brasil","lineid":613,"uuid":"bdf34cc7-fdaf-495d-9562-7390431355d4"}
+{"index":259,"sub_uri":"Q502865","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Hersbruck","lineid":542,"uuid":"cf8849d7-89ff-41bb-8861-3dd6545d0e27"}
+{"index":329,"sub_uri":"Q102771","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Gazzola","lineid":679,"uuid":"bee18ddc-2b13-4a63-b12c-56b43e99ce6b"}
+{"index":429,"sub_uri":"Q120730","obj_uri":"Q17","obj_label":"Jap\u00e3o","sub_label":"Quioto","lineid":884,"uuid":"c25005ef-e369-434b-b931-8acde62adbb1"}
+{"index":57,"sub_uri":"Q745859","obj_uri":"Q813","obj_label":"Quirguist\u00e3o","sub_label":"Rio Talas","lineid":121,"uuid":"0f2c6bd9-870d-4062-96d1-10a0c32f2ce9"}
+{"index":101,"sub_uri":"Q1156579","obj_uri":"Q796","obj_label":"Iraque","sub_label":"Erbil SC","lineid":208,"uuid":"9f5b4429-0d79-468b-b1e3-3ec678082913"}
+{"index":98,"sub_uri":"Q1155694","obj_uri":"Q17","obj_label":"Jap\u00e3o","sub_label":"Distrito de Minamiakita","lineid":202,"uuid":"a528d432-14d0-4249-8060-545742f43856"}
+{"index":112,"sub_uri":"Q18973","obj_uri":"Q227","obj_label":"Azerbaij\u00e3o","sub_label":"Georgianos","lineid":225,"uuid":"00fa8ab1-499b-46dd-9dec-78f875eaab48"}
+{"index":281,"sub_uri":"Q13413","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Frosinone","lineid":590,"uuid":"a0353dbb-a424-49be-bcfa-e5e374d1fb76"}
+{"index":233,"sub_uri":"Q767541","obj_uri":"Q31","obj_label":"B\u00e9lgica","sub_label":"Volleybalclub Noliko Maaseik","lineid":478,"uuid":"51b873bb-173e-4f70-98de-f50cc31ff9ae"}
+{"index":56,"sub_uri":"Q406556","obj_uri":"Q34","obj_label":"Su\u00e9cia","sub_label":"Marstrand","lineid":119,"uuid":"25c9c1ee-97f4-4082-aaa6-14f1ba686fd5"}
+{"index":368,"sub_uri":"Q2717716","obj_uri":"Q774","obj_label":"Guatemala","sub_label":"Chajul","lineid":752,"uuid":"937edf0a-8356-4b5b-a960-d43bdc714873"}
+{"index":224,"sub_uri":"Q1364522","obj_uri":"Q16","obj_label":"Canad\u00e1","sub_label":"Arquidiocese de Gatineau","lineid":459,"uuid":"b5f83dd5-7e22-4a63-99c9-03a99721784d"}
+{"index":143,"sub_uri":"Q1141461","obj_uri":"Q31","obj_label":"B\u00e9lgica","sub_label":"Campeonato Mundial de Corta-Mato de 2004","lineid":279,"uuid":"3181a322-be49-4853-b83d-d7528133ddfb"}
+{"index":297,"sub_uri":"Q29400","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Taranto Sport","lineid":617,"uuid":"c07c0600-ed6c-4243-a694-e203c9f8a293"}
+{"index":74,"sub_uri":"Q3840","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Velbert","lineid":159,"uuid":"8fa10629-ecdd-4409-aad8-aafc2f0a9a1b"}
+{"index":340,"sub_uri":"Q637792","obj_uri":"Q668","obj_label":"\u00cdndia","sub_label":"Bangarapet","lineid":702,"uuid":"c226cdfa-d872-4c07-a624-93ad4dda1f6b"}
+{"index":183,"sub_uri":"Q218939","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Piazza al Serchio","lineid":362,"uuid":"b9a84276-587c-45f2-a3af-b8a700dd2714"}
+{"index":274,"sub_uri":"Q633819","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Rio Arve","lineid":572,"uuid":"94f49c76-13e2-4da5-8b26-ba0f94bed954"}
+{"index":360,"sub_uri":"Q1798539","obj_uri":"Q16","obj_label":"Canad\u00e1","sub_label":"Parque Nacional La Mauricie","lineid":736,"uuid":"ad74920b-17ea-4976-accd-57e119c911b3"}
+{"index":23,"sub_uri":"Q522541","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Bad Schwalbach","lineid":52,"uuid":"be1e51f6-f2f1-43b0-af9a-fa39ac6c8dd7"}
+{"index":168,"sub_uri":"Q3845986","obj_uri":"Q16","obj_label":"Canad\u00e1","sub_label":"Vermilion","lineid":331,"uuid":"b585410f-0110-4655-9b91-c17c94410838"}
+{"index":34,"sub_uri":"Q1798084","obj_uri":"Q155","obj_label":"Brasil","sub_label":"Registro","lineid":75,"uuid":"6f2c2b4f-87b2-4eea-bcd3-30d12854994f"}
+{"index":250,"sub_uri":"Q659080","obj_uri":"Q39","obj_label":"Su\u00ed\u00e7a","sub_label":"Universidade de Berna","lineid":523,"uuid":"324b8724-d55b-4eb5-889b-10b847f66e37"}
+{"index":401,"sub_uri":"Q35989","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Maybach","lineid":823,"uuid":"9416ec49-8872-4a5b-a85e-51f6890f99a9"}
+{"index":49,"sub_uri":"Q170415","obj_uri":"Q219","obj_label":"Bulg\u00e1ria","sub_label":"Stara Zagora","lineid":103,"uuid":"ac78da5d-70cd-49e3-94fc-be720e21fae3"}
+{"index":430,"sub_uri":"Q1025019","obj_uri":"Q117","obj_label":"Gana","sub_label":"Nkawkaw","lineid":889,"uuid":"25609a98-0e00-4f71-9774-84226343dd2f"}
+{"index":286,"sub_uri":"Q3661908","obj_uri":"Q43","obj_label":"Turquia","sub_label":"Aeroporto de Istambul","lineid":602,"uuid":"11f6b6ba-846c-43e1-b548-4642d46aa72a"}
+{"index":75,"sub_uri":"Q1384656","obj_uri":"Q16","obj_label":"Canad\u00e1","sub_label":"Expo 86","lineid":160,"uuid":"3ed762d9-d8b1-4e1f-a3a2-c033d5277d6e"}
+{"index":275,"sub_uri":"Q737814","obj_uri":"Q833","obj_label":"Mal\u00e1sia","sub_label":"Sebatik","lineid":574,"uuid":"ee00a938-9f24-40c7-ad3f-4e7dbdc90480"}
+{"index":77,"sub_uri":"Q558512","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Bad Camberg","lineid":163,"uuid":"d3cfd02e-6916-4dec-b5c3-0c648d96025a"}
+{"index":318,"sub_uri":"Q206686","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Hohenwestedt","lineid":648,"uuid":"2be56eaf-77e2-43b1-80f5-a23637c72f56"}
+{"index":247,"sub_uri":"Q457460","obj_uri":"Q40","obj_label":"\u00c1ustria","sub_label":"SV Ried","lineid":511,"uuid":"e7ca95a1-42bb-40a7-ae00-3721524adca4"}
+{"index":357,"sub_uri":"Q2262149","obj_uri":"Q55","obj_label":"Pa\u00edses Baixos","sub_label":"Waalhaven","lineid":732,"uuid":"bd3d528d-b39b-494a-8243-2acb11f42a78"}
+{"index":398,"sub_uri":"Q69111","obj_uri":"Q39","obj_label":"Su\u00ed\u00e7a","sub_label":"Schleitheim","lineid":816,"uuid":"e506d56b-e1ba-4f14-9112-e467a9e2c305"}
+{"index":419,"sub_uri":"Q8223","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Biberach","lineid":865,"uuid":"7b1639ea-dc3e-4f45-ae56-d588f2899891"}
+{"index":142,"sub_uri":"Q824000","obj_uri":"Q17","obj_label":"Jap\u00e3o","sub_label":"Minami-arupusu","lineid":277,"uuid":"2089e9c6-83fb-43c7-80c9-d51ad1d80066"}
+{"index":390,"sub_uri":"Q3632682","obj_uri":"Q668","obj_label":"\u00cdndia","sub_label":"Faculdade de Engenharia, Pune","lineid":800,"uuid":"689fe8a3-a71f-4dcb-96f9-236b607a683d"}
+{"index":137,"sub_uri":"Q1537446","obj_uri":"Q29","obj_label":"Espanha","sub_label":"Pra\u00e7a de Cibeles","lineid":269,"uuid":"9d01b94d-13a8-4cc2-9d03-20305fba93c3"}
+{"index":231,"sub_uri":"Q5614269","obj_uri":"Q774","obj_label":"Guatemala","sub_label":"Revolu\u00e7\u00e3o Guatemalteca","lineid":471,"uuid":"9913e406-8a88-414c-9662-bb31a02d237e"}
+{"index":392,"sub_uri":"Q49831","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Noyon","lineid":802,"uuid":"03c9d9d7-aecb-4c02-b1f1-c285ac1f7e09"}
+{"index":35,"sub_uri":"Q77120","obj_uri":"Q212","obj_label":"Ucr\u00e2nia","sub_label":"Estepe Euroasi\u00e1tica","lineid":78,"uuid":"c29e5cf3-7fd8-4a27-a450-43116c132156"}
+{"index":147,"sub_uri":"Q1163278","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Le Fuilet","lineid":288,"uuid":"93b1a693-b2c2-4b7f-b5cd-515d0bf0c108"}
+{"index":195,"sub_uri":"Q2038168","obj_uri":"Q55","obj_label":"Pa\u00edses Baixos","sub_label":"TROS","lineid":398,"uuid":"5abdc8dd-1c90-485e-827f-65a4a6c634e5"}
+{"index":332,"sub_uri":"Q1073046","obj_uri":"Q17","obj_label":"Jap\u00e3o","sub_label":"Linha Ginza","lineid":689,"uuid":"866abd14-c608-4de0-ba4f-cf56075fe743"}
+{"index":341,"sub_uri":"Q156237","obj_uri":"Q184","obj_label":"Bielorr\u00fassia","sub_label":"Rio Bug Ocidental","lineid":703,"uuid":"5b95d6fc-6af9-4ea3-9fab-fef4ec581fff"}
+{"index":444,"sub_uri":"Q251435","obj_uri":"Q36","obj_label":"Pol\u00f3nia","sub_label":"Comuna de Warlubie","lineid":922,"uuid":"e2d018ff-c203-477a-9aac-bc2466290a4a"}
+{"index":327,"sub_uri":"Q505018","obj_uri":"Q34","obj_label":"Su\u00e9cia","sub_label":"comuna da Lund","lineid":669,"uuid":"f3a943b3-f906-4369-94f2-3a59cb95b31d"}
+{"index":72,"sub_uri":"Q12697","obj_uri":"Q39","obj_label":"Su\u00ed\u00e7a","sub_label":"Schaffhausen","lineid":153,"uuid":"adfd3b2d-3a8e-46a8-9c6f-f16f433be7de"}
+{"index":141,"sub_uri":"Q4351267","obj_uri":"Q837","obj_label":"Nepal","sub_label":"Parque Nacional Langtang","lineid":275,"uuid":"3377617e-5ccb-44e3-b3d5-660dfdc3099e"}
+{"index":287,"sub_uri":"Q806916","obj_uri":"Q843","obj_label":"Paquist\u00e3o","sub_label":"Bannu","lineid":603,"uuid":"a85369c0-d0a8-4e7f-991d-ad4265de8d3e"}
+{"index":2,"sub_uri":"Q7030","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Wismar","lineid":6,"uuid":"4ea68dca-599f-43f7-ab8e-98b862c90d04"}
+{"index":160,"sub_uri":"Q1051505","obj_uri":"Q1020","obj_label":"Malawi","sub_label":"Nkhata Bay","lineid":308,"uuid":"f43850cb-3a7c-4485-ac95-2fed96829462"}
+{"index":380,"sub_uri":"Q8518","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Hohenlohekreis","lineid":775,"uuid":"966d73b7-77a6-4508-9ddd-6d93da6ae82e"}
+{"index":158,"sub_uri":"Q179199","obj_uri":"Q29","obj_label":"Espanha","sub_label":"Museu Guggenheim Bilbao","lineid":306,"uuid":"41668b19-aab8-4766-a5da-dfd62901ecc4"}
+{"index":194,"sub_uri":"Q253326","obj_uri":"Q55","obj_label":"Pa\u00edses Baixos","sub_label":"katastralgemeinde","lineid":394,"uuid":"faff4912-9a74-43a0-84f4-27349d271af3"}
+{"index":70,"sub_uri":"Q1072070","obj_uri":"Q17","obj_label":"Jap\u00e3o","sub_label":"Montanhas de Hida","lineid":150,"uuid":"abeb66d4-fc29-4878-8d73-8f5e5365c4d8"}
+{"index":167,"sub_uri":"Q264172","obj_uri":"Q36","obj_label":"Pol\u00f3nia","sub_label":"Lewin Brzeski","lineid":330,"uuid":"0cf6c45a-0d58-4b45-8c3b-e3dd554c19ce"}
+{"index":111,"sub_uri":"Q329060","obj_uri":"Q1016","obj_label":"L\u00edbia","sub_label":"Al Jifarah","lineid":223,"uuid":"83fd6e7c-5449-49ba-9c33-81c6699d019a"}
+{"index":410,"sub_uri":"Q592241","obj_uri":"Q41","obj_label":"Gr\u00e9cia","sub_label":"Iraklis","lineid":839,"uuid":"505b68cb-0544-4995-a8c7-2aec89f8c75b"}
+{"index":270,"sub_uri":"Q22438","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Entzheim","lineid":565,"uuid":"b8e6110d-9815-49c1-b927-f89fca407e97"}
+{"index":253,"sub_uri":"Q1480985","obj_uri":"Q96","obj_label":"M\u00e9xico","sub_label":"Club Atl\u00e9tico Morelia","lineid":533,"uuid":"83e67bd5-23b9-404f-8c91-fbaab10c9bda"}
+{"index":282,"sub_uri":"Q46277","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Romano d'Ezzelino","lineid":591,"uuid":"78139ec9-4828-4387-8522-0770aee750c0"}
+{"index":121,"sub_uri":"Q3064579","obj_uri":"Q739","obj_label":"Col\u00f4mbia","sub_label":"Rock al Parque","lineid":239,"uuid":"9652623f-3ac3-44e4-a76a-7ad780d77505"}
+{"index":438,"sub_uri":"Q1132194","obj_uri":"Q17","obj_label":"Jap\u00e3o","sub_label":"Distrito de Nishi Matsuura","lineid":909,"uuid":"478368c7-ffa3-4d80-b187-6989e13f4af5"}
+{"index":92,"sub_uri":"Q2118285","obj_uri":"Q16","obj_label":"Canad\u00e1","sub_label":"Lago Timiskaming","lineid":194,"uuid":"5769c0bb-7047-4c6f-860a-2f2487798e7e"}
+{"index":302,"sub_uri":"Q591243","obj_uri":"Q668","obj_label":"\u00cdndia","sub_label":"Ausa","lineid":623,"uuid":"0f45bdde-64b8-4633-90e3-c7bfdbf4a6a3"}
+{"index":245,"sub_uri":"Q490520","obj_uri":"Q17","obj_label":"Jap\u00e3o","sub_label":"Ikuno-ku","lineid":509,"uuid":"b40b7553-7fd7-4a00-9f5b-c2ce216a69da"}
+{"index":431,"sub_uri":"Q860290","obj_uri":"Q17","obj_label":"Jap\u00e3o","sub_label":"prov\u00edncia do Jap\u00e3o","lineid":890,"uuid":"f84230d4-3265-4028-9658-cf7cc96f39f9"}
+{"index":159,"sub_uri":"Q157837","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Porto Azzurro","lineid":307,"uuid":"760f1695-445d-48f9-a216-ed02a52544ba"}
+{"index":13,"sub_uri":"Q911","obj_uri":"Q159","obj_label":"R\u00fassia","sub_label":"Ufa","lineid":35,"uuid":"cab8b749-a720-4467-b40b-5bb9cdec36f0"}
+{"index":228,"sub_uri":"Q167086","obj_uri":"Q55","obj_label":"Pa\u00edses Baixos","sub_label":"Instituto Central de Estat\u00edstica","lineid":467,"uuid":"3ba8ae5e-67b6-4c7f-9ea0-b41d9043166b"}
+{"index":193,"sub_uri":"Q731913","obj_uri":"Q233","obj_label":"Malta","sub_label":"Servi\u00e7os p\u00fablicos de radiodifus\u00e3o","lineid":393,"uuid":"c100d18a-82d3-4469-b03e-615edb06c5d9"}
+{"index":395,"sub_uri":"Q7348","obj_uri":"Q668","obj_label":"\u00cdndia","sub_label":"Rio Indo","lineid":806,"uuid":"5243f73b-eb3c-4a3a-bfb6-dd8bf5aaea02"}
+{"index":94,"sub_uri":"Q4581375","obj_uri":"Q20","obj_label":"Noruega","sub_label":"Nesodden IF","lineid":196,"uuid":"3155dec3-d98f-46ff-8cf5-bdf48af2ddeb"}
+{"index":426,"sub_uri":"Q924257","obj_uri":"Q837","obj_label":"Nepal","sub_label":"Mahalangur Himal","lineid":880,"uuid":"b4a8cef4-4ab3-411d-a816-df3ca4ce759c"}
+{"index":84,"sub_uri":"Q52337","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Tursi","lineid":175,"uuid":"709f23a2-2082-4cfd-a15a-d13eeb6f3018"}
+{"index":254,"sub_uri":"Q68210","obj_uri":"Q39","obj_label":"Su\u00ed\u00e7a","sub_label":"Adliswil","lineid":534,"uuid":"148f32ac-64f5-452a-b83d-ac2d01cb3966"}
+{"index":230,"sub_uri":"Q782455","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Mugello Circuit","lineid":470,"uuid":"6bb53492-6518-4c0f-ae82-92755e1427c2"}
+{"index":409,"sub_uri":"Q53140","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"San Canzian d'Isonzo","lineid":837,"uuid":"3f7a0493-3ba1-4a06-9da1-72be16d49d62"}
+{"index":263,"sub_uri":"Q846331","obj_uri":"Q1049","obj_label":"Sud\u00e3o","sub_label":"Darfur Ocidental","lineid":551,"uuid":"c75354c2-3917-4fa7-8d41-851bc506822c"}
+{"index":27,"sub_uri":"Q1207391","obj_uri":"Q1036","obj_label":"Uganda","sub_label":"Distrito de Kayunga","lineid":59,"uuid":"2ad84fb4-f6ab-4964-b922-b6e995db8127"}
+{"index":221,"sub_uri":"Q581438","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Bouygues Telecom","lineid":456,"uuid":"6dd819ac-a1a0-4918-968a-e46e6ba0393e"}
+{"index":220,"sub_uri":"Q604681","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Mediolanum Forum","lineid":455,"uuid":"8a0735e6-5700-48bd-8a9c-505b7d65440a"}
+{"index":387,"sub_uri":"Q553996","obj_uri":"Q36","obj_label":"Pol\u00f3nia","sub_label":"Comuna de Sorkwity","lineid":792,"uuid":"351e1d23-fc1d-4981-8706-e6e01553ba77"}
+{"index":156,"sub_uri":"Q554619","obj_uri":"Q36","obj_label":"Pol\u00f3nia","sub_label":"Comuna de Morawica","lineid":304,"uuid":"d99a5d4f-3b76-43ed-bb6a-ddc29812f1ee"}
+{"index":59,"sub_uri":"Q1028029","obj_uri":"Q45","obj_label":"Portugal","sub_label":"Camarate","lineid":124,"uuid":"c2b7aa51-16fc-4616-93c2-712c37f556f9"}
+{"index":88,"sub_uri":"Q159321","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Comunidade de Aglomera\u00e7\u00e3o","lineid":185,"uuid":"cb2a90fe-2674-4e5a-9f77-a0dca918998f"}
+{"index":255,"sub_uri":"Q7163363","obj_uri":"Q668","obj_label":"\u00cdndia","sub_label":"Penna Ahobilam","lineid":535,"uuid":"5c4bdda7-883a-4b98-8db3-6b5428e623cd"}
+{"index":354,"sub_uri":"Q217480","obj_uri":"Q55","obj_label":"Pa\u00edses Baixos","sub_label":"Obras do Projeto Delta","lineid":726,"uuid":"ef273168-5cfa-43b4-babb-ac40c2dbf6e1"}
+{"index":353,"sub_uri":"Q569307","obj_uri":"Q211","obj_label":"Let\u00f3nia","sub_label":"Madona","lineid":725,"uuid":"0410ac21-a94b-4b6d-bd87-71cfbd67778c"}
+{"index":161,"sub_uri":"Q2541093","obj_uri":"Q668","obj_label":"\u00cdndia","sub_label":"Thiruvattaru","lineid":309,"uuid":"75b03d5b-4a57-4fac-96e6-fa16eb9508ad"}
+{"index":291,"sub_uri":"Q69682","obj_uri":"Q39","obj_label":"Su\u00ed\u00e7a","sub_label":"Ostermundigen","lineid":607,"uuid":"3aed820b-0a0a-469a-ba12-bcfb7ec75262"}
+{"index":192,"sub_uri":"Q645851","obj_uri":"Q36","obj_label":"Pol\u00f3nia","sub_label":"Condado de Legnica","lineid":389,"uuid":"6b687a09-9afc-43b5-be74-b4cbc2e63213"}
+{"index":373,"sub_uri":"Q838576","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Colleville-Montgomery","lineid":759,"uuid":"2989133e-46cd-4d96-b938-2a7d9d942516"}
+{"index":140,"sub_uri":"Q2129487","obj_uri":"Q36","obj_label":"Pol\u00f3nia","sub_label":"Comuna de Leszno","lineid":273,"uuid":"f588bf95-c721-46f2-b54a-e2101834f3ae"}
+{"index":356,"sub_uri":"Q512002","obj_uri":"Q34","obj_label":"Su\u00e9cia","sub_label":"Hultsfred","lineid":731,"uuid":"bcb6d7b7-f9bd-4fc6-bc8e-92d959f6e4fa"}
+{"index":437,"sub_uri":"Q719744","obj_uri":"Q668","obj_label":"\u00cdndia","sub_label":"Kottarakkara","lineid":906,"uuid":"25c7415a-5687-4f7e-9f6e-33931673f8b5"}
+{"index":394,"sub_uri":"Q83575","obj_uri":"Q252","obj_label":"Indon\u00e9sia","sub_label":"Persegres Gresik United","lineid":805,"uuid":"66ee3c8b-f988-4998-9293-04a74eef66df"}
+{"index":417,"sub_uri":"Q253068","obj_uri":"Q40","obj_label":"\u00c1ustria","sub_label":"Scheibbs","lineid":853,"uuid":"318f615e-ef06-4d56-8c6b-44c9802a3c45"}
+{"index":343,"sub_uri":"Q974642","obj_uri":"Q155","obj_label":"Brasil","sub_label":"Pindamonhangaba","lineid":705,"uuid":"4f7e967b-c437-41e0-8c2a-681b6a664e2f"}
+{"index":399,"sub_uri":"Q13318","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Imp\u00e9ria","lineid":818,"uuid":"7086337a-0828-45be-9d27-33ceb9117534"}
+{"index":351,"sub_uri":"Q505433","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Waldshut-Tiengen","lineid":721,"uuid":"65f4b346-6856-417f-8068-4ddc1780deb8"}
+{"index":321,"sub_uri":"Q8093","obj_uri":"Q17","obj_label":"Jap\u00e3o","sub_label":"Nintendo","lineid":653,"uuid":"870c0810-9094-46c5-bc72-11e3072f0b65"}
+{"index":12,"sub_uri":"Q13879","obj_uri":"Q928","obj_label":"Filipinas","sub_label":"Siquijor","lineid":34,"uuid":"530263dc-199b-4ce3-bd1b-f63861297b15"}
+{"index":33,"sub_uri":"Q4165607","obj_uri":"Q928","obj_label":"Filipinas","sub_label":"Mass Rapid Transit Manila","lineid":74,"uuid":"5f8bfe93-8070-4be5-8b9b-d448133f00ae"}
+{"index":383,"sub_uri":"Q383402","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Lannemezan","lineid":781,"uuid":"e208b146-ae58-47d1-a263-61d16a24b560"}
+{"index":149,"sub_uri":"Q68801","obj_uri":"Q39","obj_label":"Su\u00ed\u00e7a","sub_label":"Besazio","lineid":292,"uuid":"3522603a-939a-403c-aa50-5c6f8252081c"}
+{"index":303,"sub_uri":"Q494627","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Ruhla","lineid":624,"uuid":"e0d5f28d-76ed-40f9-b291-f8e2bac17239"}
+{"index":269,"sub_uri":"Q2901492","obj_uri":"Q419","obj_label":"Peru","sub_label":"Biblioteca Nacional do Peru","lineid":563,"uuid":"f6df1baf-d7cc-44da-87ad-82829878334a"}
+{"index":336,"sub_uri":"Q624955","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Flieden","lineid":695,"uuid":"4f5277b6-ace6-4369-a7e5-2aa95d3e15f1"}
+{"index":288,"sub_uri":"Q552354","obj_uri":"Q817","obj_label":"Kuwait","sub_label":"Al Ahmadi (prov\u00edncia)","lineid":604,"uuid":"b754ab08-2596-4112-a702-0df9883945a9"}
+{"index":411,"sub_uri":"Q999317","obj_uri":"Q34","obj_label":"Su\u00e9cia","sub_label":"Valdemarsvik","lineid":840,"uuid":"325d0ac9-6242-4bc5-b25b-1ad8fcdeddfb"}
+{"index":333,"sub_uri":"Q66411","obj_uri":"Q39","obj_label":"Su\u00ed\u00e7a","sub_label":"Niederweningen","lineid":690,"uuid":"9cbb4115-dafd-46ba-8b9b-88c369f7118b"}
+{"index":30,"sub_uri":"Q797437","obj_uri":"Q668","obj_label":"\u00cdndia","sub_label":"Bhinmal","lineid":70,"uuid":"80e90c8f-1073-4081-874a-bbf616085197"}
+{"index":124,"sub_uri":"Q675018","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"C\u00edrculo de Goseck","lineid":246,"uuid":"281831b0-7e4c-4a1f-97ea-cb8426e6a5e2"}
+{"index":38,"sub_uri":"Q239121","obj_uri":"Q869","obj_label":"Tail\u00e2ndia","sub_label":"Kanchanaburi","lineid":84,"uuid":"374239d8-9518-4411-978d-ec61fe4b4b13"}
+{"index":376,"sub_uri":"Q910967","obj_uri":"Q846","obj_label":"Catar","sub_label":"WTA de Doha","lineid":766,"uuid":"d4b57317-ea9d-482c-918f-cd28cec71b1f"}
+{"index":65,"sub_uri":"Q23310","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Cossogno","lineid":138,"uuid":"bdeb12ec-4759-4c5c-83f8-b190b3577cba"}
+{"index":375,"sub_uri":"Q1969043","obj_uri":"Q1014","obj_label":"Lib\u00e9ria","sub_label":"Parque Nacional de Sapo","lineid":764,"uuid":"c479427c-6144-401c-9b85-5c964e23aef3"}
+{"index":153,"sub_uri":"Q12724796","obj_uri":"Q218","obj_label":"Rom\u00e9nia","sub_label":"Geaca","lineid":300,"uuid":"1fd09653-3414-4808-b2a4-6294ce7dc6a5"}
+{"index":268,"sub_uri":"Q3376","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Trento","lineid":562,"uuid":"a1590c3b-5988-4b81-9b54-a342e869e21d"}
+{"index":272,"sub_uri":"Q174002","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Colombes","lineid":568,"uuid":"2b9508cc-d911-4c18-99a8-56bf1cb4bf10"}
+{"index":134,"sub_uri":"Q591296","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Abadia de Pontigny","lineid":266,"uuid":"f0a4f636-957e-4d46-8b5a-5efa79e6c139"}
+{"index":4,"sub_uri":"Q267032","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Santo Stefano d'Aveto","lineid":12,"uuid":"bcbdba13-6281-46fe-ad20-812ccc49ac40"}
+{"index":22,"sub_uri":"Q1347504","obj_uri":"Q17","obj_label":"Jap\u00e3o","sub_label":"Tatsuno","lineid":51,"uuid":"89d7fc48-e14e-45c6-b028-f15e5a31de79"}
+{"index":85,"sub_uri":"Q941020","obj_uri":"Q31","obj_label":"B\u00e9lgica","sub_label":"KBC Bank","lineid":176,"uuid":"dfe74fcf-03da-4e59-9e18-59510e3e7d02"}
+{"index":96,"sub_uri":"Q647711","obj_uri":"Q183","obj_label":"Alemanha","sub_label":"Wallmerod","lineid":200,"uuid":"3edc3c5f-5a70-42d9-ae35-84fd4eabdd0a"}
+{"index":102,"sub_uri":"Q1198126","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Moscato d'Asti","lineid":210,"uuid":"d95e6cb5-8833-4a66-8d3a-0f6991c0c0b6"}
+{"index":17,"sub_uri":"Q10645506","obj_uri":"Q778","obj_label":"Bahamas","sub_label":"Lugares em CocoCay","lineid":43,"uuid":"259f7e2e-ec97-408b-b70a-0bd956f5fb4e"}
+{"index":359,"sub_uri":"Q468563","obj_uri":"Q155","obj_label":"Brasil","sub_label":"Nova Friburgo","lineid":735,"uuid":"1bcc90b3-4aa3-4fca-b72d-7b6004025438"}
+{"index":91,"sub_uri":"Q636797","obj_uri":"Q712","obj_label":"Fiji","sub_label":"Ba Football Club","lineid":193,"uuid":"d25e5151-5843-48aa-b356-ab35085b1c0c"}
+{"index":202,"sub_uri":"Q728152","obj_uri":"Q36","obj_label":"Pol\u00f3nia","sub_label":"Comuna de Pokrzywnica","lineid":416,"uuid":"7e7eabe1-fc5e-43db-970e-d61188e75f1c"}
+{"index":107,"sub_uri":"Q147756","obj_uri":"Q159","obj_label":"R\u00fassia","sub_label":"Khasavyurt","lineid":219,"uuid":"1bd4f483-2c64-4bec-ae4f-1f5059855a10"}
+{"index":132,"sub_uri":"Q3226092","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Le Puy Foot 43 Auvergne","lineid":264,"uuid":"7ea5518f-784c-468b-a398-718ac76698c7"}
+{"index":100,"sub_uri":"Q326991","obj_uri":"Q29","obj_label":"Espanha","sub_label":"For\u00e7as Armadas da Espanha","lineid":207,"uuid":"9709688f-6c1d-4905-9168-36126ccb6f0a"}
+{"index":412,"sub_uri":"Q48848","obj_uri":"Q20","obj_label":"Noruega","sub_label":"Loppa","lineid":841,"uuid":"91790c50-77de-4f37-b751-0f9a120de6e2"}
+{"index":225,"sub_uri":"Q46763","obj_uri":"Q43","obj_label":"Turquia","sub_label":"Bilecik","lineid":460,"uuid":"47bd9872-6ae4-46a8-a6c9-f98abffa32fe"}
+{"index":20,"sub_uri":"Q53203","obj_uri":"Q38","obj_label":"It\u00e1lia","sub_label":"Valvasone","lineid":47,"uuid":"b1e28611-6e55-4f3b-b46f-6473f7dd2979"}
+{"index":290,"sub_uri":"Q12117155","obj_uri":"Q218","obj_label":"Rom\u00e9nia","sub_label":"Laslea","lineid":606,"uuid":"b9d3a561-f364-479f-a47f-d899ea5154f1"}
+{"index":241,"sub_uri":"Q990104","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Guillaumes","lineid":499,"uuid":"00f6904f-69ab-483f-a5ee-f1cbc13e582a"}
+{"index":117,"sub_uri":"Q1024720","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Cayeux-sur-Mer","lineid":231,"uuid":"23bfd203-a79f-4df4-a23d-f7cd91d75a59"}
+{"index":406,"sub_uri":"Q336734","obj_uri":"Q917","obj_label":"But\u00e3o","sub_label":"Drukpol Football Club","lineid":831,"uuid":"ad0468a6-ddff-4f3d-a921-b9715f41cc89"}
+{"index":305,"sub_uri":"Q202560","obj_uri":"Q142","obj_label":"Fran\u00e7a","sub_label":"Carpentras","lineid":628,"uuid":"e72d1ece-8530-4544-a14d-14548ea031ef"}

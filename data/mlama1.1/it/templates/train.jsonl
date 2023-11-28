@@ -1,0 +1,39 @@
+{"index":43,"relation":"P36","template":"La capitale di [X] \u00e8 [Y]."}
+{"index":16,"relation":"P527","template":"[X] \u00e8 costituito da [Y]."}
+{"index":40,"relation":"P31","template":"[X] \u00e8 una [Y]."}
+{"index":1,"relation":"P20","template":"[X] \u00e8 morto in [Y]."}
+{"index":4,"relation":"P413","template":"[X] viene riprodotto in posizione [Y]."}
+{"index":44,"relation":"P740","template":"[X] \u00e8 stata fondata a [Y]."}
+{"index":8,"relation":"P47","template":"[X] condivide il bordo con [Y]."}
+{"index":45,"relation":"P361","template":"[X] fa parte di [Y]."}
+{"index":25,"relation":"P131","template":"[X] si trova in [Y]."}
+{"index":24,"relation":"P1376","template":"[X] \u00e8 la capitale di [Y]."}
+{"index":6,"relation":"P449","template":"[X] \u00e8 stato originariamente trasmesso su [Y]."}
+{"index":2,"relation":"P279","template":"[X] \u00e8 una sottoclasse di [Y]."}
+{"index":30,"relation":"P39","template":"[X] ha la posizione di [Y]."}
+{"index":3,"relation":"P37","template":"La lingua ufficiale di [X] \u00e8 [Y]."}
+{"index":22,"relation":"P30","template":"[X] si trova in [Y]."}
+{"index":10,"relation":"P364","template":"La lingua originale di [X] \u00e8 [Y]."}
+{"index":26,"relation":"P1412","template":"[X] utilizzato per comunicare in [Y]."}
+{"index":35,"relation":"P1303","template":"[X] riproduce [Y]."}
+{"index":18,"relation":"P530","template":"[X] intrattiene relazioni diplomatiche con [Y]."}
+{"index":29,"relation":"P17","template":"[X] si trova in [Y]."}
+{"index":5,"relation":"P166","template":"[X] \u00e8 stato assegnato il [Y]."}
+{"index":48,"relation":"place_of_death","template":"[X] \u00e8 morto a [Y]."}
+{"index":47,"relation":"place_of_birth","template":"[X] \u00e8 nato a [Y]."}
+{"index":32,"relation":"P276","template":"[X] si trova in [Y]."}
+{"index":13,"relation":"P101","template":"[X] funziona nel campo di [Y]."}
+{"index":7,"relation":"P69","template":"[X] \u00e8 stato educato all'Universit\u00e0 di [Y]."}
+{"index":14,"relation":"P1923","template":"[Y] ha partecipato a [X]."}
+{"index":11,"relation":"P54","template":"[X] gioca con [Y]."}
+{"index":27,"relation":"P108","template":"[X] funziona per [Y]."}
+{"index":31,"relation":"P264","template":"[X] \u00e8 rappresentato dall'etichetta musicale [Y]."}
+{"index":9,"relation":"P138","template":"[X] prende il nome da [Y]."}
+{"index":23,"relation":"P178","template":"[X] \u00e8 sviluppato da [Y]."}
+{"index":19,"relation":"P176","template":"[X] \u00e8 prodotto da [Y]."}
+{"index":0,"relation":"P19","template":"[X] \u00e8 nato a [Y]."}
+{"index":37,"relation":"P103","template":"La lingua madre di [X] \u00e8 [Y]."}
+{"index":12,"relation":"P463","template":"[X] \u00e8 un membro di [Y]."}
+{"index":38,"relation":"P190","template":"[X] e [Y] sono citt\u00e0 gemellate."}
+{"index":28,"relation":"P136","template":"[X] riproduce la musica [Y]."}
+{"index":33,"relation":"P937","template":"[X] lavorava in [Y]."}

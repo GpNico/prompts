@@ -1,0 +1,39 @@
+{"index":2,"relation":"P279","template":"[X] es una subclase de [Y]."}
+{"index":22,"relation":"P30","template":"[X] se encuentra en [Y]."}
+{"index":28,"relation":"P136","template":"[X] reproduce m\u00fasica [Y]."}
+{"index":24,"relation":"P1376","template":"[X] es la capital de [Y]."}
+{"index":6,"relation":"P449","template":"[X] se emiti\u00f3 originalmente en [Y]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (nacido [Y])."}
+{"index":35,"relation":"P1303","template":"[X] reproduce [Y]."}
+{"index":41,"relation":"P495","template":"[X] se cre\u00f3 en [Y]."}
+{"index":31,"relation":"P264","template":"[X] est\u00e1 representado por el sello musical [Y]."}
+{"index":10,"relation":"P364","template":"El idioma original de [X] es [Y]."}
+{"index":29,"relation":"P17","template":"[X] se encuentra en [Y]."}
+{"index":37,"relation":"P103","template":"El idioma nativo de [X] es [Y]."}
+{"index":13,"relation":"P101","template":"[X] trabaja en el campo de [Y]."}
+{"index":36,"relation":"P127","template":"[X] es propiedad de [Y]."}
+{"index":42,"relation":"P159","template":"La sede de [X] est\u00e1 en [Y]."}
+{"index":34,"relation":"P140","template":"[X] est\u00e1 afiliado a la religi\u00f3n [Y]."}
+{"index":47,"relation":"place_of_birth","template":"[X] naci\u00f3 en [Y]."}
+{"index":30,"relation":"P39","template":"[X] tiene la posici\u00f3n de [Y]."}
+{"index":27,"relation":"P108","template":"[X] funciona para [Y]."}
+{"index":12,"relation":"P463","template":"[X] es miembro de [Y]."}
+{"index":8,"relation":"P47","template":"[X] comparte frontera con [Y]."}
+{"index":38,"relation":"P190","template":"[X] e [Y] son \u200b\u200bciudades gemelas."}
+{"index":40,"relation":"P31","template":"[X] es una [Y]."}
+{"index":33,"relation":"P937","template":"[X] sol\u00eda trabajar en [Y]."}
+{"index":44,"relation":"P740","template":"[X] fue fundada en [Y]."}
+{"index":11,"relation":"P54","template":"[X] juega con [Y]."}
+{"index":15,"relation":"P106","template":"[X] es una [Y] de profesi\u00f3n."}
+{"index":9,"relation":"P138","template":"[X] lleva el nombre de [Y]."}
+{"index":21,"relation":"P407","template":"[X] fue escrito en [Y]."}
+{"index":19,"relation":"P176","template":"[X] es producido por [Y]."}
+{"index":0,"relation":"P19","template":"[X] naci\u00f3 en [Y]."}
+{"index":16,"relation":"P527","template":"[X] consiste en [Y]."}
+{"index":4,"relation":"P413","template":"[X] juega en la posici\u00f3n [Y]."}
+{"index":17,"relation":"P102","template":"[X] es miembro del partido pol\u00edtico [Y]."}
+{"index":20,"relation":"P27","template":"[X] es [Y] ciudadano."}
+{"index":39,"relation":"P1001","template":"[X] es un t\u00e9rmino legal en [Y]."}
+{"index":1,"relation":"P20","template":"[X] muri\u00f3 en [Y]."}
+{"index":7,"relation":"P69","template":"[X] fue educado en la Universidad de [Y]."}
+{"index":23,"relation":"P178","template":"[X] es desarrollado por [Y]."}

@@ -1,0 +1,39 @@
+{"index":4,"relation":"P413","template":"[X] spielt in der Position [Y]."}
+{"index":48,"relation":"place_of_death","template":"[X] starb in [Y]."}
+{"index":18,"relation":"P530","template":"[X] unterh\u00e4lt diplomatische Beziehungen zu [Y]."}
+{"index":27,"relation":"P108","template":"[X] funktioniert f\u00fcr [Y]."}
+{"index":34,"relation":"P140","template":"[X] ist mit der [Y] Religion verbunden."}
+{"index":3,"relation":"P37","template":"Die offizielle Sprache von [X] ist [Y]."}
+{"index":46,"relation":"date_of_birth","template":"[X] (geboren [Y])."}
+{"index":16,"relation":"P527","template":"[X] besteht aus [Y]."}
+{"index":47,"relation":"place_of_birth","template":"[X] wurde in [Y] geboren."}
+{"index":9,"relation":"P138","template":"[X] ist nach [Y] benannt."}
+{"index":38,"relation":"P190","template":"[X] und [Y] sind Partnerst\u00e4dte."}
+{"index":28,"relation":"P136","template":"[X] spielt [Y] Musik."}
+{"index":12,"relation":"P463","template":"[X] ist Mitglied von [Y]."}
+{"index":40,"relation":"P31","template":"[X] ist ein [Y]."}
+{"index":1,"relation":"P20","template":"[X] starb in [Y]."}
+{"index":43,"relation":"P36","template":"Die Hauptstadt von [X] ist [Y]."}
+{"index":15,"relation":"P106","template":"[X] ist von Beruf ein [Y]."}
+{"index":6,"relation":"P449","template":"[X] wurde urspr\u00fcnglich auf [Y] ausgestrahlt."}
+{"index":42,"relation":"P159","template":"Der Hauptsitz von [X] befindet sich in [Y]."}
+{"index":39,"relation":"P1001","template":"[X] ist ein juristischer Begriff in [Y]."}
+{"index":19,"relation":"P176","template":"[X] wird von [Y] erzeugt."}
+{"index":44,"relation":"P740","template":"[X] wurde in [Y] gegr\u00fcndet."}
+{"index":41,"relation":"P495","template":"[X] wurde in [Y] erstellt."}
+{"index":29,"relation":"P17","template":"[X] befindet sich in [Y]."}
+{"index":33,"relation":"P937","template":"[X] arbeitete fr\u00fcher in [Y]."}
+{"index":23,"relation":"P178","template":"[X] wird von [Y] entwickelt."}
+{"index":36,"relation":"P127","template":"[X] geh\u00f6rt [Y]."}
+{"index":24,"relation":"P1376","template":"[X] ist die Hauptstadt von [Y]."}
+{"index":25,"relation":"P131","template":"[X] befindet sich in [Y]."}
+{"index":17,"relation":"P102","template":"[X] ist Mitglied der politischen Partei [Y]."}
+{"index":2,"relation":"P279","template":"[X] ist eine Unterklasse von [Y]."}
+{"index":45,"relation":"P361","template":"[X] ist Teil von [Y]."}
+{"index":32,"relation":"P276","template":"[X] befindet sich in [Y]."}
+{"index":35,"relation":"P1303","template":"[X] spielt [Y]."}
+{"index":7,"relation":"P69","template":"[X] wurde an der Universit\u00e4t von [Y] ausgebildet."}
+{"index":5,"relation":"P166","template":"[X] wurde mit dem [Y] ausgezeichnet."}
+{"index":30,"relation":"P39","template":"[X] hat die Position [Y]."}
+{"index":8,"relation":"P47","template":"[X] teilt die Grenze mit [Y]."}
+{"index":22,"relation":"P30","template":"[X] befindet sich in [Y]."}

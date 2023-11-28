@@ -1,0 +1,194 @@
+{"index":892,"sub_uri":"Q19689","obj_uri":"Q649","obj_label":"Moskva","sub_label":"Tirana","lineid":918,"uuid":"e9aae55d-a73a-4cb6-9864-c0450ae37d6f"}
+{"index":504,"sub_uri":"Q2044","obj_uri":"Q1781","obj_label":"Budapest","sub_label":"Firenze","lineid":523,"uuid":"677d3ef6-2a7f-439d-a5da-bd88fdc61f66"}
+{"index":945,"sub_uri":"Q1770","obj_uri":"Q1707","obj_label":"Kiel","sub_label":"Tallinn","lineid":974,"uuid":"05ad1a6f-8e5e-4652-bc25-e5eb35505db4"}
+{"index":240,"sub_uri":"Q1486","obj_uri":"Q2887","obj_label":"Santiago","sub_label":"Buenos Aires","lineid":249,"uuid":"1f4fc9fa-d7d2-4b95-8d40-dfd829a2eee6"}
+{"index":485,"sub_uri":"Q1489","obj_uri":"Q1563","obj_label":"Havanna","sub_label":"M\u00e9xico","lineid":503,"uuid":"64ea4b02-a1c7-4954-9321-a371975c12d1"}
+{"index":871,"sub_uri":"Q6454","obj_uri":"Q179224","obj_label":"Dover","sub_label":"Calais","lineid":896,"uuid":"2fc13c24-d749-4d2b-94c6-2ba71d09e271"}
+{"index":903,"sub_uri":"Q1156","obj_uri":"Q84","obj_label":"London","sub_label":"Mumbai","lineid":929,"uuid":"d0b9c5f1-42c0-425f-bd00-d2e7e492e87e"}
+{"index":143,"sub_uri":"Q3616","obj_uri":"Q649","obj_label":"Moskva","sub_label":"Teheran","lineid":147,"uuid":"59520e1b-c6b6-4043-b837-c6eac61e2d0d"}
+{"index":111,"sub_uri":"Q8660","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Karachi","lineid":113,"uuid":"e53ffa5c-9545-4752-8152-00d1c89368b3"}
+{"index":271,"sub_uri":"Q597","obj_uri":"Q14773","obj_label":"Macau","sub_label":"Lissabon","lineid":280,"uuid":"9d3111c2-ce8c-4ae8-a0ed-16c785700962"}
+{"index":191,"sub_uri":"Q1055","obj_uri":"Q23482","obj_label":"Marseille","sub_label":"Hamburg","lineid":198,"uuid":"4d0b51e3-622e-4a40-9e73-f76f99a33942"}
+{"index":766,"sub_uri":"Q656","obj_uri":"Q1055","obj_label":"Hamburg","sub_label":"Peterburi","lineid":789,"uuid":"2e8c875b-4564-4656-9cb3-c19a4c242d71"}
+{"index":361,"sub_uri":"Q216","obj_uri":"Q36036","obj_label":"Lviv","sub_label":"Vilnius","lineid":374,"uuid":"535be398-9fc2-462d-bc7d-f8e6ba9f3d1c"}
+{"index":934,"sub_uri":"Q1524","obj_uri":"Q406","obj_label":"\u0130stanbul","sub_label":"Ateena","lineid":963,"uuid":"94e6c233-9372-4139-a253-accc036e05b1"}
+{"index":824,"sub_uri":"Q34647","obj_uri":"Q220","obj_label":"Rooma","sub_label":"Johannesburg","lineid":847,"uuid":"3f679fb8-4b72-47cb-ab6a-e9d086d5d430"}
+{"index":563,"sub_uri":"Q216","obj_uri":"Q1085","obj_label":"Praha","sub_label":"Vilnius","lineid":582,"uuid":"5399c5e3-e397-48bd-8aa6-125be2949787"}
+{"index":949,"sub_uri":"Q8660","obj_uri":"Q1354","obj_label":"Dhaka","sub_label":"Karachi","lineid":978,"uuid":"7963efda-c6d4-41f4-8f71-ee57b6578eb2"}
+{"index":552,"sub_uri":"Q11953","obj_uri":"Q9022","obj_label":"Guadalajara","sub_label":"Guadalajara","lineid":571,"uuid":"9553485e-8c2f-48b9-9136-14a26dd9fee4"}
+{"index":455,"sub_uri":"Q23564","obj_uri":"Q19689","obj_label":"Tirana","sub_label":"Podgorica","lineid":469,"uuid":"9b13f5fb-6750-4248-a75d-6c393ad29627"}
+{"index":931,"sub_uri":"Q84","obj_uri":"Q1353","obj_label":"Delhi","sub_label":"London","lineid":960,"uuid":"ebd9f674-f9b7-4ee9-8428-deab3f3f2d0b"}
+{"index":112,"sub_uri":"Q23556","obj_uri":"Q1524","obj_label":"Ateena","sub_label":"Atlanta","lineid":114,"uuid":"d31a5148-c902-459d-8952-fbab757d90de"}
+{"index":178,"sub_uri":"Q11974","obj_uri":"Q34370","obj_label":"Rotterdam","sub_label":"Las Palmas de Gran Canaria","lineid":184,"uuid":"a17a9695-34c2-43f8-b8d6-a796f141595a"}
+{"index":833,"sub_uri":"Q437","obj_uri":"Q1780","obj_label":"Bratislava","sub_label":"Ljubljana","lineid":856,"uuid":"a44b617e-0192-41de-9ee3-1155380c0fe5"}
+{"index":168,"sub_uri":"Q216","obj_uri":"Q1773","obj_label":"Riia","sub_label":"Vilnius","lineid":174,"uuid":"dcb0dbc7-9a21-46ab-bb6b-d6300cafd477"}
+{"index":831,"sub_uri":"Q60","obj_uri":"Q1490","obj_label":"T\u014dky\u014d prefektuur","sub_label":"New York","lineid":854,"uuid":"80710f69-cc27-443a-af4d-b9a0b3f33841"}
+{"index":636,"sub_uri":"Q3561","obj_uri":"Q956","obj_label":"Peking","sub_label":"Al\u017eiir","lineid":656,"uuid":"35e9fe11-67a7-4ad3-bf3e-f0192a6b7dcc"}
+{"index":94,"sub_uri":"Q11462","obj_uri":"Q16572","obj_label":"Guangzhou","sub_label":"Surabaya","lineid":96,"uuid":"442e80a9-fb3a-48f0-93ac-006c1cd20253"}
+{"index":888,"sub_uri":"Q1781","obj_uri":"Q64","obj_label":"Berliin","sub_label":"Budapest","lineid":914,"uuid":"75df72ce-de8e-4be9-9eb8-2250a8e2bad0"}
+{"index":450,"sub_uri":"Q2256","obj_uri":"Q1794","obj_label":"Frankfurt","sub_label":"Birmingham","lineid":464,"uuid":"516aaf73-c41c-4082-b5c5-642e72723724"}
+{"index":709,"sub_uri":"Q19689","obj_uri":"Q19660","obj_label":"Bukarest","sub_label":"Tirana","lineid":731,"uuid":"7354fab9-6b6f-4b6d-b759-709a49946a27"}
+{"index":383,"sub_uri":"Q6576","obj_uri":"Q216","obj_label":"Vilnius","sub_label":"Irkutsk","lineid":396,"uuid":"afddee29-18b8-4397-a016-4f54b672f590"}
+{"index":98,"sub_uri":"Q8673","obj_uri":"Q994","obj_label":"Thbilisi","sub_label":"Lagos","lineid":100,"uuid":"a1ac3c3f-05f5-4251-b116-8498005766b8"}
+{"index":863,"sub_uri":"Q37333","obj_uri":"Q36036","obj_label":"Lviv","sub_label":"Lublin","lineid":888,"uuid":"4905f5c3-ec95-4345-9323-351eb4adad7a"}
+{"index":117,"sub_uri":"Q1461","obj_uri":"Q649","obj_label":"Moskva","sub_label":"Manila","lineid":120,"uuid":"8effca37-62eb-4ad7-8a0a-5844c49fcde4"}
+{"index":311,"sub_uri":"Q3572","obj_uri":"Q1754","obj_label":"Stockholm","sub_label":"Tunis","lineid":323,"uuid":"7bc74829-dc83-4869-acd5-2f51401fef97"}
+{"index":129,"sub_uri":"Q2807","obj_uri":"Q1533","obj_label":"Caracas","sub_label":"Madrid","lineid":132,"uuid":"8e052cda-82ce-4682-a005-32feef310b69"}
+{"index":752,"sub_uri":"Q23436","obj_uri":"Q24639","obj_label":"Vancouver","sub_label":"Edinburgh","lineid":775,"uuid":"c97d4d06-53b1-4921-9987-d2d3cd3c9492"}
+{"index":208,"sub_uri":"Q1479","obj_uri":"Q7903","obj_label":"Casablanca","sub_label":"Bordeaux","lineid":216,"uuid":"b172dfd9-b969-4321-8600-2da24701663a"}
+{"index":838,"sub_uri":"Q34820","obj_uri":"Q2887","obj_label":"Santiago","sub_label":"Santo Domingo","lineid":861,"uuid":"27a9a1a1-f82d-4be3-8505-548993af38a5"}
+{"index":503,"sub_uri":"Q1492","obj_uri":"Q1524","obj_label":"Ateena","sub_label":"Barcelona","lineid":522,"uuid":"18aaf0c9-550c-48bd-a98c-5b7c5b4befbb"}
+{"index":445,"sub_uri":"Q1486","obj_uri":"Q956","obj_label":"Peking","sub_label":"Buenos Aires","lineid":458,"uuid":"646c8d40-422e-4925-9102-ff28401754ac"}
+{"index":555,"sub_uri":"Q8686","obj_uri":"Q1492","obj_label":"Barcelona","sub_label":"Shanghai","lineid":574,"uuid":"25a6bcd4-d4c1-4e7f-9441-a266920ac9b8"}
+{"index":623,"sub_uri":"Q2028","obj_uri":"Q1726","obj_label":"M\u00fcnchen","sub_label":"Verona","lineid":643,"uuid":"07eb3a76-8b22-4e9b-97bf-567a22bdb7b0"}
+{"index":940,"sub_uri":"Q1773","obj_uri":"Q2044","obj_label":"Firenze","sub_label":"Riia","lineid":969,"uuid":"bcfca4ee-32e7-40a7-a4a9-fc7d47110b2b"}
+{"index":283,"sub_uri":"Q1435","obj_uri":"Q270","obj_label":"Varssavi","sub_label":"Zagreb","lineid":293,"uuid":"86bb1c5b-a1b6-4a7b-90e2-56bf97ac744c"}
+{"index":436,"sub_uri":"Q490","obj_uri":"Q3130","obj_label":"Sydney","sub_label":"Milano","lineid":449,"uuid":"52415e1e-b31d-44c0-8133-635f308662a4"}
+{"index":36,"sub_uri":"Q1055","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Hamburg","lineid":36,"uuid":"0e8c086e-0893-4e3a-9aa1-5fdd9eb2adc0"}
+{"index":618,"sub_uri":"Q5465","obj_uri":"Q34647","obj_label":"Johannesburg","sub_label":"Kaplinn","lineid":638,"uuid":"90816ab9-9536-499d-a3ce-e50616ede80d"}
+{"index":663,"sub_uri":"Q1297","obj_uri":"Q172","obj_label":"Toronto","sub_label":"Chicago","lineid":683,"uuid":"e4671539-5e31-47f9-b946-27aeb70f4c55"}
+{"index":418,"sub_uri":"Q18125","obj_uri":"Q727","obj_label":"Amsterdam","sub_label":"Manchester","lineid":431,"uuid":"5da926e0-700c-4830-9256-d8da9fa8ca4b"}
+{"index":306,"sub_uri":"Q192155","obj_uri":"Q1770","obj_label":"Tallinn","sub_label":"Kotka linn","lineid":318,"uuid":"c7125cdd-4387-4b2a-a370-43149de52d91"}
+{"index":757,"sub_uri":"Q84","obj_uri":"Q585","obj_label":"Oslo","sub_label":"London","lineid":780,"uuid":"1d012193-4a65-467b-b8b9-6ad92946df91"}
+{"index":366,"sub_uri":"Q14773","obj_uri":"Q36433","obj_label":"Porto","sub_label":"Macau","lineid":379,"uuid":"14ebe8cc-8ac2-4af5-afbd-108fbf2e7c64"}
+{"index":610,"sub_uri":"Q16572","obj_uri":"Q1861","obj_label":"Bangkok","sub_label":"Guangzhou","lineid":630,"uuid":"1ad95467-7869-4379-b6fb-fc36f96106e1"}
+{"index":71,"sub_uri":"Q1867","obj_uri":"Q270","obj_label":"Varssavi","sub_label":"Taipei","lineid":73,"uuid":"044bd817-3ffe-448e-af2a-a194c63e4fe0"}
+{"index":358,"sub_uri":"Q656","obj_uri":"Q1861","obj_label":"Bangkok","sub_label":"Peterburi","lineid":371,"uuid":"a1bdb432-8627-43d9-a132-7950cd54790b"}
+{"index":551,"sub_uri":"Q406","obj_uri":"Q3820","obj_label":"Beirut","sub_label":"\u0130stanbul","lineid":570,"uuid":"472762d7-8f06-4706-a116-64c0a122bfcc"}
+{"index":533,"sub_uri":"Q11194","obj_uri":"Q1781","obj_label":"Budapest","sub_label":"Sarajevo","lineid":552,"uuid":"27f6dee5-e252-4122-9425-39c4864ca7d4"}
+{"index":166,"sub_uri":"Q1486","obj_uri":"Q406","obj_label":"\u0130stanbul","sub_label":"Buenos Aires","lineid":172,"uuid":"4aa5fbf3-3856-47d3-b697-09affd6590a3"}
+{"index":189,"sub_uri":"Q1085","obj_uri":"Q2090","obj_label":"N\u00fcrnberg","sub_label":"Praha","lineid":196,"uuid":"174250fd-758b-4384-a143-802f953b26da"}
+{"index":6,"sub_uri":"Q3561","obj_uri":"Q1533","obj_label":"Caracas","sub_label":"Al\u017eiir","lineid":6,"uuid":"beea2e0b-2ae4-42ba-be71-44bf5565e9bd"}
+{"index":388,"sub_uri":"Q1899","obj_uri":"Q2280","obj_label":"Minsk","sub_label":"Kiiev","lineid":401,"uuid":"9641ebb7-a185-4d19-b6b3-782720da56fd"}
+{"index":539,"sub_uri":"Q1867","obj_uri":"Q16635","obj_label":"Guam","sub_label":"Taipei","lineid":558,"uuid":"7cd92949-32e0-44c3-a587-8a94b40b3ca5"}
+{"index":340,"sub_uri":"Q2145","obj_uri":"Q36312","obj_label":"Calgary","sub_label":"Qu\u00e9bec","lineid":352,"uuid":"e1783e87-379a-4c4e-8aaa-6fa4e0a803df"}
+{"index":783,"sub_uri":"Q2044","obj_uri":"Q1731","obj_label":"Dresden","sub_label":"Firenze","lineid":806,"uuid":"0bebb45a-09a9-43ee-9d4b-a2cc9dafc1b0"}
+{"index":66,"sub_uri":"Q994","obj_uri":"Q1899","obj_label":"Kiiev","sub_label":"Thbilisi","lineid":68,"uuid":"15e171ab-18c1-4f88-a8e4-e3f7221d7358"}
+{"index":624,"sub_uri":"Q1781","obj_uri":"Q1435","obj_label":"Zagreb","sub_label":"Budapest","lineid":644,"uuid":"26f5c4a0-f34d-4bc9-834c-c9263d873335"}
+{"index":414,"sub_uri":"Q1297","obj_uri":"Q8660","obj_label":"Karachi","sub_label":"Chicago","lineid":427,"uuid":"89f49e5d-b54c-40d5-92d4-7bbc1836eff3"}
+{"index":839,"sub_uri":"Q8686","obj_uri":"Q406","obj_label":"\u0130stanbul","sub_label":"Shanghai","lineid":862,"uuid":"96bf068b-9198-405b-ad79-7218c4b6b178"}
+{"index":278,"sub_uri":"Q2807","obj_uri":"Q1563","obj_label":"Havanna","sub_label":"Madrid","lineid":288,"uuid":"cc491377-1629-419b-b94a-c5a952ac28bd"}
+{"index":739,"sub_uri":"Q42448","obj_uri":"Q1342","obj_label":"Pittsburgh","sub_label":"Sheffield","lineid":761,"uuid":"6b4888d7-2b41-4146-8cbc-c13a7d670336"}
+{"index":188,"sub_uri":"Q3551","obj_uri":"Q8717","obj_label":"Sevilla","sub_label":"Rabat","lineid":195,"uuid":"5ae60686-eb7d-410a-9e9d-0ce5f5611d65"}
+{"index":948,"sub_uri":"Q8684","obj_uri":"Q3616","obj_label":"Teheran","sub_label":"S\u014ful","lineid":977,"uuid":"31a8524b-baa8-4e23-9a91-b6d7e7ce17d5"}
+{"index":102,"sub_uri":"Q3306","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"Panam\u00e1","lineid":104,"uuid":"8442ddd5-330d-44fe-a87b-2af627a75fcb"}
+{"index":608,"sub_uri":"Q8686","obj_uri":"Q340","obj_label":"Montr\u00e9al","sub_label":"Shanghai","lineid":628,"uuid":"f3580c7d-30c3-4884-8508-4e74c98930bd"}
+{"index":689,"sub_uri":"Q956","obj_uri":"Q1861","obj_label":"Bangkok","sub_label":"Peking","lineid":711,"uuid":"bafcb7ec-8e61-436a-9083-02170fcd76b5"}
+{"index":300,"sub_uri":"Q987","obj_uri":"Q1490","obj_label":"T\u014dky\u014d prefektuur","sub_label":"New Delhi","lineid":311,"uuid":"5580ecec-2ea1-4ef3-9eca-d305ad5561a2"}
+{"index":558,"sub_uri":"Q3572","obj_uri":"Q3711","obj_label":"Belgrad","sub_label":"Tunis","lineid":577,"uuid":"82e35388-674b-4981-b5e3-b7bf3b76d892"}
+{"index":491,"sub_uri":"Q1520","obj_uri":"Q613","obj_label":"Dubai emiraat","sub_label":"Nur-Sultan","lineid":509,"uuid":"e5cdf65a-1635-4269-8adf-99b44ca188c0"}
+{"index":690,"sub_uri":"Q16555","obj_uri":"Q85","obj_label":"Kairo","sub_label":"Houston","lineid":712,"uuid":"cfb0eb18-fe0c-4ecf-b1d0-db9eceb49079"}
+{"index":425,"sub_uri":"Q8678","obj_uri":"Q71","obj_label":"Genf","sub_label":"Rio de Janeiro","lineid":438,"uuid":"08f2c5c1-e7a5-4e4c-8992-a6b15bd6302f"}
+{"index":368,"sub_uri":"Q1461","obj_uri":"Q3616","obj_label":"Teheran","sub_label":"Manila","lineid":381,"uuid":"88e31963-ae8a-4de1-baf1-74a520f73f27"}
+{"index":292,"sub_uri":"Q1490","obj_uri":"Q3630","obj_label":"Jakarta","sub_label":"T\u014dky\u014d prefektuur","lineid":302,"uuid":"95a324a3-01ad-4510-bf2a-679600f1ca86"}
+{"index":177,"sub_uri":"Q641","obj_uri":"Q33959","obj_label":"Nice","sub_label":"Veneetsia","lineid":183,"uuid":"76fde150-a629-4ee5-a636-661045842abe"}
+{"index":74,"sub_uri":"Q1757","obj_uri":"Q1899","obj_label":"Kiiev","sub_label":"Helsingi","lineid":76,"uuid":"72c0b6e3-94e8-4422-8948-83753cd216c1"}
+{"index":545,"sub_uri":"Q19689","obj_uri":"Q1899","obj_label":"Kiiev","sub_label":"Tirana","lineid":564,"uuid":"1c7d3c52-1503-4092-9140-b3ccb6cdca8a"}
+{"index":885,"sub_uri":"Q1899","obj_uri":"Q994","obj_label":"Thbilisi","sub_label":"Kiiev","lineid":911,"uuid":"fa661924-1a6c-446c-84b6-59215e58fcec"}
+{"index":151,"sub_uri":"Q727","obj_uri":"Q1524","obj_label":"Ateena","sub_label":"Amsterdam","lineid":155,"uuid":"a48513e0-103e-4df1-8ca4-73cd5328d627"}
+{"index":217,"sub_uri":"Q1425428","obj_uri":"Q23556","obj_label":"Atlanta","sub_label":"Newcastle upon Tyne","lineid":225,"uuid":"9fb02fa8-8837-477c-933b-5980e4473735"}
+{"index":828,"sub_uri":"Q3761","obj_uri":"Q34647","obj_label":"Johannesburg","sub_label":"Accra","lineid":851,"uuid":"941da7f9-5a79-46c5-b188-4d33dd2aa672"}
+{"index":303,"sub_uri":"Q1520","obj_uri":"Q900","obj_label":"Kaasan","sub_label":"Nur-Sultan","lineid":314,"uuid":"74bd7f6f-63fa-4635-a83f-048613db5870"}
+{"index":592,"sub_uri":"Q656","obj_uri":"Q472","obj_label":"Sofia","sub_label":"Peterburi","lineid":612,"uuid":"50f8a576-1a4c-47bf-89fc-1c9013225b18"}
+{"index":479,"sub_uri":"Q4065","obj_uri":"Q1707","obj_label":"Kiel","sub_label":"Stralsund","lineid":496,"uuid":"88bf9c22-fa8d-4f32-98cd-9eded5264219"}
+{"index":856,"sub_uri":"Q649","obj_uri":"Q19689","obj_label":"Tirana","sub_label":"Moskva","lineid":880,"uuid":"b134a3bc-d8a2-46d1-8161-4d087e0dec15"}
+{"index":550,"sub_uri":"Q35493","obj_uri":"Q1773","obj_label":"Riia","sub_label":"Almat\u00f5","lineid":569,"uuid":"977a1368-d00f-4102-b364-98fc999381f9"}
+{"index":442,"sub_uri":"Q1861","obj_uri":"Q1781","obj_label":"Budapest","sub_label":"Bangkok","lineid":455,"uuid":"6eed9d7b-47c9-484a-8fee-c0843fcf673a"}
+{"index":956,"sub_uri":"Q8678","obj_uri":"Q1533","obj_label":"Caracas","sub_label":"Rio de Janeiro","lineid":985,"uuid":"57e59806-b539-4b16-afa7-65037840dfda"}
+{"index":923,"sub_uri":"Q406","obj_uri":"Q9248","obj_label":"Bakuu","sub_label":"\u0130stanbul","lineid":950,"uuid":"93028173-8326-4168-be8c-e3fe87502f47"}
+{"index":396,"sub_uri":"Q3889","obj_uri":"Q8673","obj_label":"Lagos","sub_label":"Maputo","lineid":409,"uuid":"cb912863-0b41-4419-9763-aef43ba0a404"}
+{"index":85,"sub_uri":"Q1022","obj_uri":"Q1156","obj_label":"Mumbai","sub_label":"Stuttgart","lineid":87,"uuid":"39c389be-ef1f-4e08-ba84-05ffcdd0788d"}
+{"index":169,"sub_uri":"Q1524","obj_uri":"Q1492","obj_label":"Barcelona","sub_label":"Ateena","lineid":175,"uuid":"31bdb241-3974-4096-a93f-6bba68f83068"}
+{"index":571,"sub_uri":"Q1491","obj_uri":"Q649","obj_label":"Moskva","sub_label":"La Paz","lineid":590,"uuid":"06c6433f-7ce1-4133-9d95-f2476d5559aa"}
+{"index":595,"sub_uri":"Q3110","obj_uri":"Q1533","obj_label":"Caracas","sub_label":"San Salvador","lineid":615,"uuid":"99378c1a-6a43-45ed-955b-1f50b9966452"}
+{"index":382,"sub_uri":"Q1435","obj_uri":"Q8686","obj_label":"Shanghai","sub_label":"Zagreb","lineid":395,"uuid":"c9f8e97d-840d-4d68-926b-d1c7dbe483f1"}
+{"index":323,"sub_uri":"Q34370","obj_uri":"Q1780","obj_label":"Bratislava","sub_label":"Rotterdam","lineid":335,"uuid":"1d386f94-4411-4dd4-b4a5-9dca708eec87"}
+{"index":58,"sub_uri":"Q34370","obj_uri":"Q495","obj_label":"Torino","sub_label":"Rotterdam","lineid":58,"uuid":"232c0e4d-a994-4895-8edd-b1e918a31154"}
+{"index":906,"sub_uri":"Q8678","obj_uri":"Q1524","obj_label":"Ateena","sub_label":"Rio de Janeiro","lineid":932,"uuid":"15a44d10-c41a-4d27-bf16-5d3a476dbcca"}
+{"index":289,"sub_uri":"Q1297","obj_uri":"Q1085","obj_label":"Praha","sub_label":"Chicago","lineid":299,"uuid":"131f0f9b-19d5-438f-9c74-58a729f218d5"}
+{"index":736,"sub_uri":"Q1754","obj_uri":"Q1899","obj_label":"Kiiev","sub_label":"Stockholm","lineid":758,"uuid":"541c7c9d-6623-4e24-81a4-1a072e5f3d2c"}
+{"index":39,"sub_uri":"Q437","obj_uri":"Q994","obj_label":"Thbilisi","sub_label":"Ljubljana","lineid":39,"uuid":"fc320d4f-8b67-4223-8254-6609a144abf2"}
+{"index":754,"sub_uri":"Q656","obj_uri":"Q994","obj_label":"Thbilisi","sub_label":"Peterburi","lineid":777,"uuid":"c9b82c73-f42d-4abd-8db1-075503dff7ef"}
+{"index":285,"sub_uri":"Q1741","obj_uri":"Q406","obj_label":"\u0130stanbul","sub_label":"Viin","lineid":295,"uuid":"7dfe363b-ece6-41c6-9715-631bba7d290a"}
+{"index":671,"sub_uri":"Q11725","obj_uri":"Q5083","obj_label":"Seattle","sub_label":"Chongqing Shi","lineid":692,"uuid":"36c44b70-7570-4ae0-94dc-9976f02e9ef0"}
+{"index":741,"sub_uri":"Q1520","obj_uri":"Q3640","obj_label":"Ankara","sub_label":"Nur-Sultan","lineid":763,"uuid":"d88cc12c-aa9d-40b1-a28c-8c5937cc0aae"}
+{"index":339,"sub_uri":"Q472","obj_uri":"Q490","obj_label":"Milano","sub_label":"Sofia","lineid":351,"uuid":"94d18d1c-63e8-4b60-bdbe-58416638db3f"}
+{"index":702,"sub_uri":"Q656","obj_uri":"Q1770","obj_label":"Tallinn","sub_label":"Peterburi","lineid":724,"uuid":"738d4855-689b-4ea3-b8e3-dfdb8b559f21"}
+{"index":357,"sub_uri":"Q406","obj_uri":"Q216","obj_label":"Vilnius","sub_label":"\u0130stanbul","lineid":370,"uuid":"c93e964c-586f-44b4-9210-fcab45db3a79"}
+{"index":506,"sub_uri":"Q48344","obj_uri":"Q727","obj_label":"Amsterdam","sub_label":"Recife","lineid":525,"uuid":"5c3e7a6d-4903-4f79-8d73-3d5b993ca665"}
+{"index":591,"sub_uri":"Q8684","obj_uri":"Q3640","obj_label":"Ankara","sub_label":"S\u014ful","lineid":611,"uuid":"33312b36-6940-449d-851b-92cf47904b47"}
+{"index":835,"sub_uri":"Q6506","obj_uri":"Q1492","obj_label":"Barcelona","sub_label":"Varna","lineid":858,"uuid":"a24b45f6-1a43-4079-af99-2a45fa0e2cbd"}
+{"index":904,"sub_uri":"Q987","obj_uri":"Q3130","obj_label":"Sydney","sub_label":"New Delhi","lineid":930,"uuid":"853a366e-f4c8-42ea-a1dc-bc0895fd3332"}
+{"index":815,"sub_uri":"Q34647","obj_uri":"Q84","obj_label":"London","sub_label":"Johannesburg","lineid":838,"uuid":"d7649b70-be38-45e5-b066-87f03f3eb657"}
+{"index":735,"sub_uri":"Q3897","obj_uri":"Q36433","obj_label":"Porto","sub_label":"Luanda","lineid":757,"uuid":"1339311f-b623-4036-8171-396b084d447b"}
+{"index":466,"sub_uri":"Q1492","obj_uri":"Q1761","obj_label":"Dublin","sub_label":"Barcelona","lineid":480,"uuid":"d82bc5b5-5f5d-4a24-a5c2-f94a323bffa0"}
+{"index":34,"sub_uri":"Q1297","obj_uri":"Q3711","obj_label":"Belgrad","sub_label":"Chicago","lineid":34,"uuid":"19bfdf67-fbe2-4cbe-993f-c85711806b31"}
+{"index":673,"sub_uri":"Q3766","obj_uri":"Q1781","obj_label":"Budapest","sub_label":"Damaskus","lineid":694,"uuid":"5f6025cb-09f7-499f-bf5e-f01cad9f20e0"}
+{"index":250,"sub_uri":"Q5764","obj_uri":"Q11739","obj_label":"Lahore","sub_label":"Buxoro","lineid":259,"uuid":"c20a9f31-3b3c-452c-9a74-e7c3916ab352"}
+{"index":465,"sub_uri":"Q84","obj_uri":"Q3561","obj_label":"Al\u017eiir","sub_label":"London","lineid":479,"uuid":"a3723181-71e9-4e10-8a10-88b1323af45f"}
+{"index":773,"sub_uri":"Q3624","obj_uri":"Q1754","obj_label":"Stockholm","sub_label":"Addis Abeba","lineid":796,"uuid":"8ffbf5a9-063d-4c5b-8d54-3118e3e6948b"}
+{"index":834,"sub_uri":"Q8673","obj_uri":"Q19660","obj_label":"Bukarest","sub_label":"Lagos","lineid":857,"uuid":"a8265761-eafc-4044-b274-f930383a3f8e"}
+{"index":677,"sub_uri":"Q1489","obj_uri":"Q11751","obj_label":"Nagoya","sub_label":"M\u00e9xico","lineid":699,"uuid":"26658c5f-7470-446d-a863-251eaae67c0c"}
+{"index":135,"sub_uri":"Q129610","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Galway","lineid":138,"uuid":"97fd66db-9e8d-4d57-884e-d3af7f00678a"}
+{"index":259,"sub_uri":"Q133123","obj_uri":"Q3519","obj_label":"Bari","sub_label":"P\u00e1tra","lineid":268,"uuid":"0716d7af-416d-461c-b262-dccf13829bf1"}
+{"index":935,"sub_uri":"Q959","obj_uri":"Q8686","obj_label":"Shanghai","sub_label":"Vladivostok","lineid":964,"uuid":"df7ee60f-1d4e-4e24-8c87-cff6b84f4f05"}
+{"index":14,"sub_uri":"Q3935","obj_uri":"Q1563","obj_label":"Havanna","sub_label":"Windhoek","lineid":14,"uuid":"6a12ff5c-e123-40af-b907-c61c36874af8"}
+{"index":652,"sub_uri":"Q1486","obj_uri":"Q8652","obj_label":"Miami","sub_label":"Buenos Aires","lineid":672,"uuid":"49ca3d45-ae47-467b-9ec0-9c1c57e68efe"}
+{"index":88,"sub_uri":"Q16520","obj_uri":"Q8686","obj_label":"Shanghai","sub_label":"Pusan","lineid":90,"uuid":"f40180c1-c954-43a4-ace4-a4855e26a42e"}
+{"index":520,"sub_uri":"Q3130","obj_uri":"Q8684","obj_label":"S\u014ful","sub_label":"Sydney","lineid":539,"uuid":"7b4db24c-3aee-4492-8dcb-8107cc84756b"}
+{"index":347,"sub_uri":"Q2256","obj_uri":"Q1297","obj_label":"Chicago","sub_label":"Birmingham","lineid":360,"uuid":"22f48a60-1060-4ecd-8806-cd38b88af289"}
+{"index":290,"sub_uri":"Q1519","obj_uri":"Q3630","obj_label":"Jakarta","sub_label":"Abu Dhabi","lineid":300,"uuid":"a06c050c-bdde-4281-8237-3f443ac0fcc3"}
+{"index":909,"sub_uri":"Q17151","obj_uri":"Q3141","obj_label":"Melbourne","sub_label":"Thessalon\u00edki","lineid":935,"uuid":"1e6e7fa3-8548-4a42-9d70-913ab47b8196"}
+{"index":262,"sub_uri":"Q1754","obj_uri":"Q406","obj_label":"\u0130stanbul","sub_label":"Stockholm","lineid":271,"uuid":"c566c3d4-9ca2-4dfe-9bae-93c6e4f5e249"}
+{"index":536,"sub_uri":"Q1435","obj_uri":"Q11194","obj_label":"Sarajevo","sub_label":"Zagreb","lineid":555,"uuid":"d7a2fa09-96ea-4a45-959e-74501426e54b"}
+{"index":483,"sub_uri":"Q216","obj_uri":"Q649","obj_label":"Moskva","sub_label":"Vilnius","lineid":500,"uuid":"dd50477b-a21a-418c-b206-4bc2f4c839fe"}
+{"index":947,"sub_uri":"Q16555","obj_uri":"Q36405","obj_label":"Aberdeen","sub_label":"Houston","lineid":976,"uuid":"00d0b841-feef-487e-bb73-39be662ff382"}
+{"index":560,"sub_uri":"Q1489","obj_uri":"Q1533","obj_label":"Caracas","sub_label":"M\u00e9xico","lineid":579,"uuid":"3006c022-f27e-435b-b901-e31a65de0cb3"}
+{"index":391,"sub_uri":"Q1492","obj_uri":"Q85","obj_label":"Kairo","sub_label":"Barcelona","lineid":404,"uuid":"533f7b0c-fd60-4994-9250-d4f3bba19150"}
+{"index":405,"sub_uri":"Q1085","obj_uri":"Q1794","obj_label":"Frankfurt","sub_label":"Praha","lineid":418,"uuid":"a5b51f54-a92f-47bd-aa88-313a7ca37d29"}
+{"index":390,"sub_uri":"Q3751","obj_uri":"Q14773","obj_label":"Macau","sub_label":"Praia","lineid":403,"uuid":"40f670e4-2b47-460d-a637-388449cfb67d"}
+{"index":114,"sub_uri":"Q3630","obj_uri":"Q649","obj_label":"Moskva","sub_label":"Jakarta","lineid":116,"uuid":"dbf18bb9-2a45-4ee3-9ca7-1268e8abfb6f"}
+{"index":559,"sub_uri":"Q3711","obj_uri":"Q956","obj_label":"Peking","sub_label":"Belgrad","lineid":578,"uuid":"9363b135-78b6-42f5-99df-a618ab7effce"}
+{"index":653,"sub_uri":"Q35581","obj_uri":"Q1951","obj_label":"Alberta","sub_label":"Hokkaid\u014d","lineid":673,"uuid":"221ab0a7-7626-458f-8ed1-6a6863b517ce"}
+{"index":387,"sub_uri":"Q40738","obj_uri":"Q11194","obj_label":"Sarajevo","sub_label":"Bursa","lineid":400,"uuid":"57f74a21-f31e-40ef-88b3-2008d5a51bd2"}
+{"index":211,"sub_uri":"Q656","obj_uri":"Q1492","obj_label":"Barcelona","sub_label":"Peterburi","lineid":219,"uuid":"5a17068f-ca85-4e52-b30a-2536c8c8f794"}
+{"index":928,"sub_uri":"Q3114","obj_uri":"Q956","obj_label":"Peking","sub_label":"Canberra","lineid":956,"uuid":"2bcbad55-246b-4ded-a29d-5a8ff0981ead"}
+{"index":719,"sub_uri":"Q656","obj_uri":"Q1773","obj_label":"Riia","sub_label":"Peterburi","lineid":741,"uuid":"63f47500-ffb3-4389-b017-2fb8120fabe1"}
+{"index":345,"sub_uri":"Q3616","obj_uri":"Q956","obj_label":"Peking","sub_label":"Teheran","lineid":357,"uuid":"0184a328-d1b5-4442-b914-f6924362e901"}
+{"index":747,"sub_uri":"Q1486","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"Buenos Aires","lineid":769,"uuid":"2fc3ad71-04ab-4960-8808-dd97db49f9fc"}
+{"index":84,"sub_uri":"Q2807","obj_uri":"Q1479","obj_label":"Bordeaux","sub_label":"Madrid","lineid":86,"uuid":"8d3e6351-5590-481b-9d6c-346c2745413f"}
+{"index":155,"sub_uri":"Q11194","obj_uri":"Q19689","obj_label":"Tirana","sub_label":"Sarajevo","lineid":160,"uuid":"32d4fbc7-7d48-4959-90a1-ecf227c2dcae"}
+{"index":376,"sub_uri":"Q1085","obj_uri":"Q64","obj_label":"Berliin","sub_label":"Praha","lineid":389,"uuid":"39507cd1-8dce-44e3-a32a-1fb35044b4cd"}
+{"index":65,"sub_uri":"Q2044","obj_uri":"Q1524","obj_label":"Ateena","sub_label":"Firenze","lineid":67,"uuid":"d1920a11-d091-4087-8ba4-e0a3f35b2bb7"}
+{"index":363,"sub_uri":"Q1773","obj_uri":"Q2887","obj_label":"Santiago","sub_label":"Riia","lineid":376,"uuid":"4bcb4311-539f-4af7-89c1-465378178e78"}
+{"index":924,"sub_uri":"Q956","obj_uri":"Q2280","obj_label":"Minsk","sub_label":"Peking","lineid":951,"uuid":"198ca45c-b2cb-497e-9dd5-84e19fcc0988"}
+{"index":614,"sub_uri":"Q1461","obj_uri":"Q956","obj_label":"Peking","sub_label":"Manila","lineid":634,"uuid":"bbbb53fb-21b0-4a65-8c81-45393b50b40c"}
+{"index":604,"sub_uri":"Q61","obj_uri":"Q8684","obj_label":"S\u014ful","sub_label":"Washington","lineid":624,"uuid":"7fb5b0af-f10d-4e16-abe1-230aa787e28b"}
+{"index":195,"sub_uri":"Q956","obj_uri":"Q34647","obj_label":"Johannesburg","sub_label":"Peking","lineid":202,"uuid":"7baba99d-8123-4aa0-83c7-b1f9c557a3e0"}
+{"index":130,"sub_uri":"Q597","obj_uri":"Q1335","obj_label":"Montevideo","sub_label":"Lissabon","lineid":133,"uuid":"1515fc17-bebd-405b-9e8f-0e61e1714149"}
+{"index":327,"sub_uri":"Q19660","obj_uri":"Q472","obj_label":"Sofia","sub_label":"Bukarest","lineid":339,"uuid":"da9e1d8d-6979-4ccf-ab50-9bcb51accff2"}
+{"index":809,"sub_uri":"Q270","obj_uri":"Q8684","obj_label":"S\u014ful","sub_label":"Varssavi","lineid":832,"uuid":"721518fa-5e50-4dcd-a34d-a67bedd1a5f8"}
+{"index":777,"sub_uri":"Q23482","obj_uri":"Q1748","obj_label":"Kopenhaagen","sub_label":"Marseille","lineid":800,"uuid":"b6ea1867-12ab-4e01-836b-6dde03f484af"}
+{"index":937,"sub_uri":"Q216","obj_uri":"Q437","obj_label":"Ljubljana","sub_label":"Vilnius","lineid":966,"uuid":"11f2abcd-7b6e-4b8c-bae6-7ba2f223f5ef"}
+{"index":159,"sub_uri":"Q1461","obj_uri":"Q340","obj_label":"Montr\u00e9al","sub_label":"Manila","lineid":164,"uuid":"682822e9-49ea-4f45-9186-a0b20ad41fe2"}
+{"index":115,"sub_uri":"Q17151","obj_uri":"Q1891","obj_label":"Bologna","sub_label":"Thessalon\u00edki","lineid":117,"uuid":"a218c836-1992-49e1-a31e-5db6ec10e741"}
+{"index":605,"sub_uri":"Q384","obj_uri":"Q1435","obj_label":"Zagreb","sub_label":"Skopje","lineid":625,"uuid":"77c8dab4-405a-4532-ac99-390dc480d910"}
+{"index":105,"sub_uri":"Q2256","obj_uri":"Q2079","obj_label":"Leipzig","sub_label":"Birmingham","lineid":107,"uuid":"a3fe40cf-b4ac-4c50-81ee-549448ca55be"}
+{"index":335,"sub_uri":"Q62","obj_uri":"Q8686","obj_label":"Shanghai","sub_label":"San Francisco","lineid":347,"uuid":"0e80118e-ea7e-4674-9919-673c44d3121d"}
+{"index":872,"sub_uri":"Q8660","obj_uri":"Q3820","obj_label":"Beirut","sub_label":"Karachi","lineid":898,"uuid":"580a2aaf-a262-40d7-8b6a-45997a70cd9f"}
+{"index":199,"sub_uri":"Q6487","obj_uri":"Q900","obj_label":"Kaasan","sub_label":"Antalya","lineid":207,"uuid":"757dd2dd-ca32-46ef-a10b-6ebc045ea657"}
+{"index":70,"sub_uri":"Q3766","obj_uri":"Q85","obj_label":"Kairo","sub_label":"Damaskus","lineid":72,"uuid":"8739f333-4572-4461-9bc9-707d32dd507f"}
+{"index":847,"sub_uri":"Q2044","obj_uri":"Q23436","obj_label":"Edinburgh","sub_label":"Firenze","lineid":870,"uuid":"cc446a1b-89e7-467e-9564-9308c2bdd2d0"}
+{"index":470,"sub_uri":"Q472","obj_uri":"Q1085","obj_label":"Praha","sub_label":"Sofia","lineid":486,"uuid":"1e042c64-1cc2-429b-b9bc-124d4cfb24e4"}
+{"index":534,"sub_uri":"Q1754","obj_uri":"Q19689","obj_label":"Tirana","sub_label":"Stockholm","lineid":553,"uuid":"6398196f-caa3-408b-b418-5d55d9e5c7a8"}
+{"index":508,"sub_uri":"Q2079","obj_uri":"Q1899","obj_label":"Kiiev","sub_label":"Leipzig","lineid":527,"uuid":"51044718-1fc9-46ce-ac78-0e8e82871fee"}
+{"index":61,"sub_uri":"Q1524","obj_uri":"Q1563","obj_label":"Havanna","sub_label":"Ateena","lineid":61,"uuid":"62fe8111-4ff5-4259-9592-c7b0df3d8f64"}
+{"index":326,"sub_uri":"Q2683","obj_uri":"Q437","obj_label":"Ljubljana","sub_label":"Parma","lineid":338,"uuid":"7ab94168-460d-4c70-bbec-99c4b0e40c1e"}
+{"index":755,"sub_uri":"Q1085","obj_uri":"Q1867","obj_label":"Taipei","sub_label":"Praha","lineid":778,"uuid":"77453bbf-172b-45a7-a06d-64c1826bc430"}
+{"index":936,"sub_uri":"Q35381","obj_uri":"Q8686","obj_label":"Shanghai","sub_label":"Colombo","lineid":965,"uuid":"f240ea72-10cb-4d83-aa24-bf7590ba2bcb"}
+{"index":631,"sub_uri":"Q1754","obj_uri":"Q1770","obj_label":"Tallinn","sub_label":"Stockholm","lineid":651,"uuid":"47f873c2-b66b-4bea-bbe9-fb84857f54d7"}
+{"index":328,"sub_uri":"Q35178","obj_uri":"Q3616","obj_label":"Teheran","sub_label":"Al-Kuwayt","lineid":340,"uuid":"781c9a6a-463f-4818-a8f4-e780ec67aad8"}
+{"index":530,"sub_uri":"Q1770","obj_uri":"Q1754","obj_label":"Stockholm","sub_label":"Tallinn","lineid":549,"uuid":"b6dad093-53d1-48a7-ac18-b065842d6901"}
+{"index":621,"sub_uri":"Q84","obj_uri":"Q9248","obj_label":"Bakuu","sub_label":"London","lineid":641,"uuid":"51bec064-06ce-423f-8dac-e776466c5a6d"}
+{"index":153,"sub_uri":"Q216","obj_uri":"Q1899","obj_label":"Kiiev","sub_label":"Vilnius","lineid":157,"uuid":"05c03a8c-6f54-4b1b-a4f8-20dbc1357af3"}
+{"index":413,"sub_uri":"Q8686","obj_uri":"Q35381","obj_label":"Colombo","sub_label":"Shanghai","lineid":426,"uuid":"d5802cf8-e526-47e3-bca5-2cb9e68ea9d2"}

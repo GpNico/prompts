@@ -1,0 +1,39 @@
+{"index":16,"relation":"P527","template":"[X] bao g\u1ed3m [Y]."}
+{"index":17,"relation":"P102","template":"[X] l\u00e0 th\u00e0nh vi\u00ean c\u1ee7a \u0111\u1ea3ng ch\u00ednh tr\u1ecb [Y]."}
+{"index":5,"relation":"P166","template":"[X] \u0111\u00e3 \u0111\u01b0\u1ee3c trao gi\u1ea3i [Y]."}
+{"index":8,"relation":"P47","template":"[X] chia s\u1ebb \u0111\u01b0\u1eddng vi\u1ec1n v\u1edbi [Y]."}
+{"index":20,"relation":"P27","template":"[X] l\u00e0 [Y] c\u00f4ng d\u00e2n."}
+{"index":33,"relation":"P937","template":"[X] \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng \u0111\u1ec3 l\u00e0m vi\u1ec7c trong [Y]."}
+{"index":22,"relation":"P30","template":"[X] n\u1eb1m trong [Y]."}
+{"index":29,"relation":"P17","template":"[X] n\u1eb1m trong [Y]."}
+{"index":28,"relation":"P136","template":"[X] ph\u00e1t nh\u1ea1c [Y]."}
+{"index":13,"relation":"P101","template":"[X] ho\u1ea1t \u0111\u1ed9ng trong l\u0129nh v\u1ef1c [Y]."}
+{"index":14,"relation":"P1923","template":"[Y] \u0111\u00e3 tham gia [X]."}
+{"index":2,"relation":"P279","template":"[X] l\u00e0 m\u1ed9t l\u1edbp con c\u1ee7a [Y]."}
+{"index":48,"relation":"place_of_death","template":"[X] ch\u1ebft trong [Y]."}
+{"index":35,"relation":"P1303","template":"[X] \u0111\u00f3ng [Y]."}
+{"index":6,"relation":"P449","template":"[X] ban \u0111\u1ea7u \u0111\u01b0\u1ee3c ph\u00e1t s\u00f3ng tr\u00ean [Y]."}
+{"index":1,"relation":"P20","template":"[X] ch\u1ebft trong [Y]."}
+{"index":21,"relation":"P407","template":"[X] \u0111\u00e3 \u0111\u01b0\u1ee3c vi\u1ebft b\u1eb1ng [Y]."}
+{"index":15,"relation":"P106","template":"[X] l\u00e0 m\u1ed9t [Y] theo ngh\u1ec1."}
+{"index":38,"relation":"P190","template":"[X] v\u00e0 [Y] l\u00e0 hai th\u00e0nh ph\u1ed1 sinh \u0111\u00f4i."}
+{"index":30,"relation":"P39","template":"[X] c\u00f3 v\u1ecb tr\u00ed c\u1ee7a [Y]."}
+{"index":37,"relation":"P103","template":"Ng\u00f4n ng\u1eef b\u1ea3n \u0111\u1ecba c\u1ee7a [X] l\u00e0 [Y]."}
+{"index":45,"relation":"P361","template":"[X] l\u00e0 m\u1ed9t ph\u1ea7n c\u1ee7a [Y]."}
+{"index":0,"relation":"P19","template":"[X] \u0111\u01b0\u1ee3c sinh ra trong [Y]."}
+{"index":40,"relation":"P31","template":"[X] l\u00e0 m\u1ed9t [Y]."}
+{"index":7,"relation":"P69","template":"[X] \u0111\u01b0\u1ee3c \u0111\u00e0o t\u1ea1o t\u1ea1i \u0110\u1ea1i h\u1ecdc [Y]."}
+{"index":3,"relation":"P37","template":"Ng\u00f4n ng\u1eef ch\u00ednh th\u1ee9c c\u1ee7a [X] l\u00e0 [Y]."}
+{"index":24,"relation":"P1376","template":"[X] l\u00e0 th\u1ee7 \u0111\u00f4 c\u1ee7a [Y]."}
+{"index":10,"relation":"P364","template":"Ng\u00f4n ng\u1eef g\u1ed1c c\u1ee7a [X] l\u00e0 [Y]."}
+{"index":34,"relation":"P140","template":"[X] \u0111\u01b0\u1ee3c li\u00ean k\u1ebft v\u1edbi t\u00f4n gi\u00e1o [Y]."}
+{"index":39,"relation":"P1001","template":"[X] l\u00e0 m\u1ed9t thu\u1eadt ng\u1eef ph\u00e1p l\u00fd trong [Y]."}
+{"index":4,"relation":"P413","template":"[X] ch\u01a1i \u1edf v\u1ecb tr\u00ed [Y]."}
+{"index":9,"relation":"P138","template":"[X] \u0111\u01b0\u1ee3c \u0111\u1eb7t t\u00ean theo [Y]."}
+{"index":12,"relation":"P463","template":"[X] l\u00e0 th\u00e0nh vi\u00ean c\u1ee7a [Y]."}
+{"index":18,"relation":"P530","template":"[X] duy tr\u00ec quan h\u1ec7 ngo\u1ea1i giao v\u1edbi [Y]."}
+{"index":23,"relation":"P178","template":"[X] \u0111\u01b0\u1ee3c ph\u00e1t tri\u1ec3n b\u1edfi [Y]."}
+{"index":27,"relation":"P108","template":"[X] ho\u1ea1t \u0111\u1ed9ng cho [Y]."}
+{"index":41,"relation":"P495","template":"[X] \u0111\u00e3 \u0111\u01b0\u1ee3c t\u1ea1o trong [Y]."}
+{"index":25,"relation":"P131","template":"[X] n\u1eb1m trong [Y]."}
+{"index":11,"relation":"P54","template":"[X] ch\u01a1i v\u1edbi [Y]."}

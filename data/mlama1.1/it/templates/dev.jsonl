@@ -1,0 +1,10 @@
+{"index":36,"relation":"P127","template":"[X] \u00e8 di propriet\u00e0 di [Y]."}
+{"index":42,"relation":"P159","template":"Il quartier generale di [X] \u00e8 in [Y]."}
+{"index":21,"relation":"P407","template":"[X] \u00e8 stato scritto in [Y]."}
+{"index":34,"relation":"P140","template":"[X] \u00e8 affiliato con la religione [Y]."}
+{"index":39,"relation":"P1001","template":"[X] \u00e8 un termine legale in [Y]."}
+{"index":20,"relation":"P27","template":"[X] \u00e8 [Y] cittadino."}
+{"index":17,"relation":"P102","template":"[X] \u00e8 un membro del partito politico [Y]."}
+{"index":41,"relation":"P495","template":"[X] \u00e8 stato creato in [Y]."}
+{"index":15,"relation":"P106","template":"[X] \u00e8 una [Y] di professione."}
+{"index":46,"relation":"date_of_birth","template":"[X] (nato [Y])."}

@@ -1,0 +1,89 @@
+{"index":246,"sub_uri":"Q1370","obj_uri":"Q43421","obj_label":"Richmond","sub_label":"Virginia","lineid":393,"uuid":"210fa4bf-1e11-40e6-ac85-5c550df3a240"}
+{"index":204,"sub_uri":"Q188399","obj_uri":"Q1085","obj_label":"Prag","sub_label":"Centralb\u00f8hmen","lineid":318,"uuid":"311a0a69-0b15-4542-ab2d-4dd0ebe2db57"}
+{"index":230,"sub_uri":"Q173500","obj_uri":"Q1761","obj_label":"Dublin","sub_label":"County Dublin","lineid":364,"uuid":"6c00f0f0-a338-465f-b7a3-ec8f6ecf4380"}
+{"index":188,"sub_uri":"Q1261","obj_uri":"Q16554","obj_label":"Denver","sub_label":"Colorado","lineid":300,"uuid":"dee75c5a-9283-4298-9594-17e150dc0484"}
+{"index":164,"sub_uri":"Q55102","obj_uri":"Q235","obj_label":"Monaco","sub_label":"La Colle","lineid":260,"uuid":"4ddf0023-1cb1-4cec-a7dc-fbafd993e10c"}
+{"index":222,"sub_uri":"Q29","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"Spanien","lineid":348,"uuid":"84432391-0a6e-47c0-b74f-04997e55097d"}
+{"index":74,"sub_uri":"Q2088324","obj_uri":"Q36947","obj_label":"Salvador","sub_label":"Kolonien Brasilien","lineid":115,"uuid":"d406cc41-915f-4c90-87c6-c7db9711fc4d"}
+{"index":391,"sub_uri":"Q179876","obj_uri":"Q84","obj_label":"London","sub_label":"Kongeriget England","lineid":614,"uuid":"381b9c02-419a-434f-91ef-bb973b5c485c"}
+{"index":192,"sub_uri":"Q55","obj_uri":"Q727","obj_label":"Amsterdam","sub_label":"Holland","lineid":304,"uuid":"4ee31f55-e29a-4c2e-9e45-442ddc25a107"}
+{"index":146,"sub_uri":"Q77","obj_uri":"Q1335","obj_label":"Montevideo","sub_label":"Uruguay","lineid":236,"uuid":"5b1c97a5-3854-42b2-9e14-472bd756eb5c"}
+{"index":404,"sub_uri":"Q165154","obj_uri":"Q495","obj_label":"Torino","sub_label":"Konged\u00f8mmet Sardinien","lineid":631,"uuid":"75f7a8a0-7401-462d-b5d1-5c70b8466e86"}
+{"index":172,"sub_uri":"Q1204","obj_uri":"Q28515","obj_label":"Springfield","sub_label":"Illinois","lineid":272,"uuid":"6839f290-ac98-4e53-ac34-dd899e62b88f"}
+{"index":227,"sub_uri":"Q173822","obj_uri":"Q140147","obj_label":"Brest","sub_label":"Brest oblast","lineid":356,"uuid":"f6b85e8b-8839-41b7-9bbb-24bf234c9b81"}
+{"index":86,"sub_uri":"Q1185","obj_uri":"Q1355","obj_label":"Bangalore","sub_label":"Karnataka","lineid":140,"uuid":"554c9a0f-74d4-497a-8e17-2a0cb373497a"}
+{"index":226,"sub_uri":"Q5481","obj_uri":"Q900","obj_label":"Kasan","sub_label":"Tatarstan","lineid":355,"uuid":"b6dde5f1-6c15-430c-8798-e4b6feb38428"}
+{"index":297,"sub_uri":"Q133356","obj_uri":"Q1899","obj_label":"Kijev","sub_label":"Ukrainske Socialistiske Sovjetrepublik","lineid":469,"uuid":"7ccffda9-c105-488a-8f1d-ce1e6c13c9fe"}
+{"index":245,"sub_uri":"Q2131","obj_uri":"Q2887","obj_label":"Santiago de Chile","sub_label":"Santiago Hovedstadsregionen","lineid":392,"uuid":"00ce4a48-3c67-4997-a712-6381713ceccb"}
+{"index":195,"sub_uri":"Q191077","obj_uri":"Q3711","obj_label":"Beograd","sub_label":"Kongeriget Jugoslavien","lineid":307,"uuid":"b2582129-5362-4861-94b2-52f9321edfcb"}
+{"index":103,"sub_uri":"Q30805","obj_uri":"Q85","obj_label":"Kairo","sub_label":"Al Qahirah","lineid":167,"uuid":"2d081b94-ced9-4300-9528-2ac0fea8b9f3"}
+{"index":400,"sub_uri":"Q83286","obj_uri":"Q3711","obj_label":"Beograd","sub_label":"SFR Jugoslavien","lineid":626,"uuid":"da83301e-b283-499e-a86f-bbd377c87520"}
+{"index":129,"sub_uri":"Q1210","obj_uri":"Q490","obj_label":"Milano","sub_label":"Lombardiet","lineid":203,"uuid":"fd4747c1-d4d2-44c6-b97e-de6f6d6f05b0"}
+{"index":378,"sub_uri":"Q160420","obj_uri":"Q209766","obj_label":"Saga","sub_label":"Saga Prefecture","lineid":595,"uuid":"bbe6a6f2-726b-40fd-9a3f-5d39ab7bf602"}
+{"index":290,"sub_uri":"Q7318","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Nazi-Tyskland","lineid":460,"uuid":"b3664ea2-fe56-444c-a875-8d0e036c51af"}
+{"index":296,"sub_uri":"Q1214","obj_uri":"Q39042","obj_label":"Cheyenne","sub_label":"Wyoming","lineid":468,"uuid":"0436ea87-a62f-4159-bd3f-32ed65350ed1"}
+{"index":365,"sub_uri":"Q5720","obj_uri":"Q8818","obj_label":"Valencia","sub_label":"Valencia","lineid":572,"uuid":"1f2b2f65-1d01-407a-ba0d-c4c8ab55c995"}
+{"index":99,"sub_uri":"Q2277","obj_uri":"Q16869","obj_label":"Konstantinopel","sub_label":"Romerriget","lineid":158,"uuid":"b3deac49-9a98-4ca2-a576-9bdcbddcbc4a"}
+{"index":368,"sub_uri":"Q192232","obj_uri":"Q1218","obj_label":"Jerusalem","sub_label":"Jerusalem-distriktet","lineid":575,"uuid":"509df8ee-9ede-45ba-bb93-c70cafd7f470"}
+{"index":155,"sub_uri":"Q854","obj_uri":"Q35381","obj_label":"Colombo","sub_label":"Sri Lanka","lineid":249,"uuid":"93dd6a19-dc17-4af9-a84e-ad1e87f873ca"}
+{"index":318,"sub_uri":"Q269864","obj_uri":"Q3711","obj_label":"Beograd","sub_label":"Socialistiske Republik Serbien","lineid":495,"uuid":"6ed73964-16f8-4dfc-ac6a-3c0facaa1c8e"}
+{"index":418,"sub_uri":"Q114","obj_uri":"Q3870","obj_label":"Nairobi","sub_label":"Kenya","lineid":657,"uuid":"773be355-d808-4a77-bdf0-e9a72752f8bb"}
+{"index":91,"sub_uri":"Q153136","obj_uri":"Q1741","obj_label":"Wien","sub_label":"Det habsburgske monarki","lineid":147,"uuid":"5b8dfaaf-2dd4-46dd-90fb-367b28501197"}
+{"index":46,"sub_uri":"Q726917","obj_uri":"Q37100","obj_label":"Auckland","sub_label":"Auckland Region","lineid":75,"uuid":"0df90e06-cb29-4f2f-97c8-27a3891cd014"}
+{"index":435,"sub_uri":"Q17167","obj_uri":"Q220","obj_label":"Rom","sub_label":"Romerske republik","lineid":688,"uuid":"dad8bd2c-5124-45f0-a84f-96cf9dfd8f50"}
+{"index":166,"sub_uri":"Q225","obj_uri":"Q11194","obj_label":"Sarajevo","sub_label":"Bosnien-Hercegovina","lineid":262,"uuid":"51edf9cc-ff45-4a6f-a9e5-6e7bbd1c4aeb"}
+{"index":109,"sub_uri":"Q43325","obj_uri":"Q34713","obj_label":"Salzburg","sub_label":"Salzburg","lineid":177,"uuid":"82df8f2a-a45a-4e08-8b44-b964346d0b72"}
+{"index":205,"sub_uri":"Q142","obj_uri":"Q90","obj_label":"Paris","sub_label":"Frankrig","lineid":319,"uuid":"054ba9b2-5448-4d98-a91c-71be1a28873a"}
+{"index":440,"sub_uri":"Q8828","obj_uri":"Q8826","obj_label":"Palma de Mallorca","sub_label":"Mallorca","lineid":696,"uuid":"82a46e59-ec25-490e-814e-ac92d09ad701"}
+{"index":173,"sub_uri":"Q23090","obj_uri":"Q180057","obj_label":"Lincoln","sub_label":"Lincolnshire","lineid":273,"uuid":"2a86c673-1d59-4bd0-8e6f-063fe0912275"}
+{"index":310,"sub_uri":"Q130637","obj_uri":"Q4093","obj_label":"Glasgow","sub_label":"Glasgow Kommune","lineid":485,"uuid":"3655bfb2-eec8-4e0e-a1b8-f963a203b588"}
+{"index":27,"sub_uri":"Q12556","obj_uri":"Q288","obj_label":"Tours","sub_label":"Indre-et-Loire","lineid":48,"uuid":"a79e1291-895f-4def-bf7f-fb7bb3ec6994"}
+{"index":131,"sub_uri":"Q215443","obj_uri":"Q1754","obj_label":"Stockholm","sub_label":"Den svenske stormagtstid","lineid":206,"uuid":"cdd86d57-43aa-47cc-8c0f-0c00ff7a4188"}
+{"index":70,"sub_uri":"Q80434","obj_uri":"Q11751","obj_label":"Nagoya","sub_label":"Aichi-pr\u00e6fekturet","lineid":109,"uuid":"d79f5817-8eee-42a0-8da1-3bab27ca0a66"}
+{"index":175,"sub_uri":"Q80702","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"Spanske imperium","lineid":275,"uuid":"56396538-2b56-4643-9880-4b09393639bf"}
+{"index":275,"sub_uri":"Q211091","obj_uri":"Q211870","obj_label":"Paisley","sub_label":"Renfrewshire","lineid":436,"uuid":"071c9d88-8850-4050-8d7b-5cea1e715ea9"}
+{"index":325,"sub_uri":"Q2277","obj_uri":"Q220","obj_label":"Rom","sub_label":"Romerriget","lineid":512,"uuid":"3f21d7e7-c437-450b-bf74-5836afb3e9eb"}
+{"index":147,"sub_uri":"Q389688","obj_uri":"Q5684","obj_label":"Babylon","sub_label":"Achaemenidiske imperium","lineid":237,"uuid":"0288be7b-4b79-42f8-ab3d-74fb9f3132dc"}
+{"index":322,"sub_uri":"Q105313","obj_uri":"Q172157","obj_label":"Winchester","sub_label":"Wessex","lineid":506,"uuid":"8a63f77a-5be6-444e-a7ea-9f2610a608f3"}
+{"index":240,"sub_uri":"Q1498","obj_uri":"Q47916","obj_label":"Lucknow","sub_label":"Uttar Pradesh","lineid":381,"uuid":"06ba14af-9870-4f29-bf7c-ba1e47ab2b77"}
+{"index":438,"sub_uri":"Q298","obj_uri":"Q2887","obj_label":"Santiago de Chile","sub_label":"Chile","lineid":693,"uuid":"ee10fdc1-8a9a-43c0-b271-4867251f0243"}
+{"index":426,"sub_uri":"Q1194","obj_uri":"Q1707","obj_label":"Kiel","sub_label":"Slesvig-Holsten","lineid":670,"uuid":"81edd07f-1ed8-4b3e-94a2-beb7ff999337"}
+{"index":141,"sub_uri":"Q1989","obj_uri":"Q2123","obj_label":"Regina","sub_label":"Saskatchewan","lineid":220,"uuid":"2a735d72-5172-4f50-ac6a-8242b991029d"}
+{"index":38,"sub_uri":"Q205662","obj_uri":"Q215646","obj_label":"Edo","sub_label":"Tokugawa-shogunatet","lineid":64,"uuid":"a931aed4-7829-44d7-b3e7-4ddebacd7e99"}
+{"index":442,"sub_uri":"Q54939","obj_uri":"Q8818","obj_label":"Valencia","sub_label":"Valencia","lineid":699,"uuid":"96cc5442-8a1b-4a56-9bde-fc0b973553b0"}
+{"index":180,"sub_uri":"Q215530","obj_uri":"Q1761","obj_label":"Dublin","sub_label":"Kongeriget Irland","lineid":282,"uuid":"d75ae4dc-f3c3-4337-9456-0e2f6ddcd55e"}
+{"index":433,"sub_uri":"Q15175","obj_uri":"Q16572","obj_label":"Guangzhou","sub_label":"Guangdong","lineid":686,"uuid":"3ec7b5da-852f-4b33-8bb3-c30c4660a3c3"}
+{"index":417,"sub_uri":"Q1371","obj_uri":"Q44564","obj_label":"Charleston","sub_label":"West Virginia","lineid":656,"uuid":"22d6b190-31d3-44ec-801b-8191cb2c98f1"}
+{"index":229,"sub_uri":"Q191670","obj_uri":"Q19660","obj_label":"Bukarest","sub_label":"Ilfov","lineid":360,"uuid":"857dcc93-25ba-4ad2-8032-142148144fc4"}
+{"index":252,"sub_uri":"Q209065","obj_uri":"Q1524","obj_label":"Athen","sub_label":"Kongeriget Gr\u00e6kenland","lineid":400,"uuid":"5814e2f0-b65a-4983-9ccd-275bd4bd92e2"}
+{"index":217,"sub_uri":"Q489369","obj_uri":"Q593141","obj_label":"Philip","sub_label":"Haakon County","lineid":339,"uuid":"146c6268-b78c-4cdc-b3d8-420c9ab85037"}
+{"index":10,"sub_uri":"Q35715","obj_uri":"Q5112","obj_label":"Adelaide","sub_label":"South Australia","lineid":16,"uuid":"9180a17d-1d35-4065-8397-2043009c3d6a"}
+{"index":199,"sub_uri":"Q403","obj_uri":"Q3711","obj_label":"Beograd","sub_label":"Serbien","lineid":312,"uuid":"830019b8-cbd9-4358-bf2b-8e8d63e70716"}
+{"index":31,"sub_uri":"Q1114","obj_uri":"Q1296","obj_label":"Gent","sub_label":"\u00d8stflandern","lineid":54,"uuid":"412b8748-0d98-43b5-a3aa-b1d5369d041c"}
+{"index":0,"sub_uri":"Q227","obj_uri":"Q9248","obj_label":"Baku","sub_label":"Aserbajdsjan","lineid":0,"uuid":"cb7007d9-673f-4fa5-8308-ddf2ae28b8c2"}
+{"index":101,"sub_uri":"Q22","obj_uri":"Q23436","obj_label":"Edinburgh","sub_label":"Skotland","lineid":162,"uuid":"8e839b14-3d8c-470b-afc1-d439515910c3"}
+{"index":126,"sub_uri":"Q717","obj_uri":"Q1533","obj_label":"Caracas","sub_label":"Venezuela","lineid":200,"uuid":"82a06336-ddf8-4a45-a30d-45e2201e84b7"}
+{"index":181,"sub_uri":"Q207162","obj_uri":"Q90","obj_label":"Paris","sub_label":"Restaurationen i Frankrig","lineid":287,"uuid":"dfa191ac-e374-4938-8f57-49aa4626b18b"}
+{"index":267,"sub_uri":"Q1211","obj_uri":"Q40747","obj_label":"Pierre","sub_label":"South Dakota","lineid":426,"uuid":"4fb1a53b-a896-4582-9d9a-aeb909ad4d5e"}
+{"index":150,"sub_uri":"Q188612","obj_uri":"Q1781","obj_label":"Budapest","sub_label":"Pest","lineid":242,"uuid":"15780981-8de5-421e-9acb-8d5b587a5f94"}
+{"index":220,"sub_uri":"Q221457","obj_uri":"Q270","obj_label":"Warszawa","sub_label":"Kongrespolen","lineid":344,"uuid":"5417be18-f634-48a7-bb7e-4d1148721c8c"}
+{"index":320,"sub_uri":"Q16310","obj_uri":"Q641","obj_label":"Venedig","sub_label":"Venedig","lineid":501,"uuid":"2c8fbfa6-ab45-410c-806a-64c8a3acb32c"}
+{"index":143,"sub_uri":"Q1263","obj_uri":"Q1891","obj_label":"Bologna","sub_label":"Emilia-Romagna","lineid":223,"uuid":"4117c8a0-413d-4b7b-a1dd-78d21e5606ef"}
+{"index":370,"sub_uri":"Q1256","obj_uri":"Q1449","obj_label":"Genova","sub_label":"Liguria","lineid":578,"uuid":"e75d8299-9f49-4c22-952b-011fa87648ac"}
+{"index":36,"sub_uri":"Q12490507","obj_uri":"Q35484","obj_label":"Medina","sub_label":"Rashidun-kalifatet","lineid":61,"uuid":"bb2918d1-10f3-458e-9ac9-432fe72044c9"}
+{"index":323,"sub_uri":"Q95088","obj_uri":"Q8717","obj_label":"Sevilla","sub_label":"Sevilla","lineid":509,"uuid":"536c1d40-b618-46fc-b6d7-f8b6537f6e4c"}
+{"index":403,"sub_uri":"Q49683","obj_uri":"Q216","obj_label":"Vilnius","sub_label":"Storfyrstend\u00f8mmet Litauen","lineid":630,"uuid":"cce5636c-d2d1-45c6-bd20-96ebdfe582a5"}
+{"index":194,"sub_uri":"Q38","obj_uri":"Q220","obj_label":"Rom","sub_label":"Italien","lineid":306,"uuid":"11a1b37e-dab9-4913-8ecb-c116b0af0e09"}
+{"index":332,"sub_uri":"Q42585","obj_uri":"Q1085","obj_label":"Prag","sub_label":"Kongeriget B\u00f6hmen","lineid":523,"uuid":"669632a7-16d3-4168-b1da-1af84e791e57"}
+{"index":253,"sub_uri":"Q884","obj_uri":"Q8684","obj_label":"Seoul","sub_label":"Sydkorea","lineid":402,"uuid":"65297ee8-0306-406f-965d-6be5cface055"}
+{"index":383,"sub_uri":"Q856010","obj_uri":"Q23661","obj_label":"Wellington","sub_label":"Wellington Region","lineid":603,"uuid":"7abc24e9-48ef-4aaa-a548-85f623ba4796"}
+{"index":413,"sub_uri":"Q2415901","obj_uri":"Q64","obj_label":"Berlin","sub_label":"Bes\u00e6ttelseszoner i Tyskland efter 2. verdenskrig","lineid":645,"uuid":"ba026660-3cbc-48c6-ae73-9ea55d5a6edf"}
+{"index":278,"sub_uri":"Q214","obj_uri":"Q1780","obj_label":"Bratislava","sub_label":"Slovakiet","lineid":440,"uuid":"60dbf7e2-05cd-4c6d-a5db-9ac2de20840d"}
+{"index":235,"sub_uri":"Q23165","obj_uri":"Q170497","obj_label":"Gloucester","sub_label":"Gloucestershire","lineid":372,"uuid":"d03a46e8-ccf8-4f8f-90d4-f1d25884393f"}
+{"index":95,"sub_uri":"Q241","obj_uri":"Q1563","obj_label":"Havana","sub_label":"Cuba","lineid":151,"uuid":"f2f54ed4-1c4a-4302-b9b5-61f1dd5e7042"}
+{"index":380,"sub_uri":"Q178038","obj_uri":"Q2807","obj_label":"Madrid","sub_label":"Anden spanske republik","lineid":597,"uuid":"cad04199-2b3f-4b54-91c5-daf458e837ac"}
+{"index":306,"sub_uri":"Q20","obj_uri":"Q585","obj_label":"Oslo","sub_label":"Norge","lineid":481,"uuid":"cc1967a4-7f88-4ab4-8647-359a7ab19d4b"}
+{"index":381,"sub_uri":"Q218272","obj_uri":"Q3561","obj_label":"Algier","sub_label":"Fransk Algeriet","lineid":598,"uuid":"cdf391dd-0a27-414f-8332-0a7e7d4ed59d"}
+{"index":85,"sub_uri":"Q1191","obj_uri":"Q1156","obj_label":"Mumbai","sub_label":"Maharashtra","lineid":139,"uuid":"90e41233-fba9-4c03-a293-e82ec79b42ea"}
+{"index":207,"sub_uri":"Q23156","obj_uri":"Q134672","obj_label":"Exeter","sub_label":"Devon","lineid":322,"uuid":"d5701986-ce16-473f-bb67-3a85c057b8fc"}
+{"index":379,"sub_uri":"Q34","obj_uri":"Q1754","obj_label":"Stockholm","sub_label":"Sverige","lineid":596,"uuid":"a0106aa1-36c9-4a57-ac58-43c22b36938f"}

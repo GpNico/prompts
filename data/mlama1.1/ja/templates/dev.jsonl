@@ -1,0 +1,10 @@
+{"index":16,"relation":"P527","template":"[X]\u306f[Y]\u3067\u69cb\u6210\u3055\u308c\u307e\u3059\u3002"}
+{"index":46,"relation":"date_of_birth","template":"[X]\uff08\u751f\u307e\u308c[Y]\uff09\u3002"}
+{"index":44,"relation":"P740","template":"[X]\u306f[Y]\u306b\u8a2d\u7acb\u3055\u308c\u307e\u3057\u305f\u3002"}
+{"index":43,"relation":"P36","template":"[X]\u306e\u5927\u6587\u5b57\u306f[Y]\u3067\u3059\u3002"}
+{"index":29,"relation":"P17","template":"[X]\u306f[Y]\u306b\u3042\u308a\u307e\u3059\u3002"}
+{"index":0,"relation":"P19","template":"[X]\u306f[Y]\u306b\u751f\u307e\u308c\u307e\u3057\u305f\u3002"}
+{"index":1,"relation":"P20","template":"[X]\u306f[Y]\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f\u3002"}
+{"index":48,"relation":"place_of_death","template":"[X]\u306f[Y]\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f\u3002"}
+{"index":26,"relation":"P1412","template":"[X]\u306f[Y]\u3067\u306e\u901a\u4fe1\u306b\u4f7f\u7528\u3055\u308c\u3066\u3044\u307e\u3057\u305f\u3002"}
+{"index":45,"relation":"P361","template":"[X]\u306f[Y]\u306e\u4e00\u90e8\u3067\u3059\u3002"}
