@@ -3,46 +3,370 @@ import numpy as np
 import pandas as pd
 from scipy.stats import pearsonr
 from sklearn.decomposition import PCA
+from sklearn.manifold import MDS
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics.cluster import completeness_score, homogeneity_score
 from sklearn.cluster import SpectralClustering, KMeans
 import torch
 import tqdm
+from transformers import PreTrainedTokenizer
+from typing import Tuple
 
-from src.utils import get_template_from_lama
-
+from src.embedder import Embedder
+import src.utils as utils
+from src.models import ModelWrapper
+from src.tokenizer import TokenizerWrapper
 
 class MetricsWrapper:
     
-    def __init__(self, model, tokenizer, device):
+    def __init__(self, model: ModelWrapper, 
+                       tokenizer: PreTrainedTokenizer, 
+                       device: str) -> None:
         # need to rework the model type thing in every method
         self.model = model
-        self.tokenizer = tokenizer
+        self.tokenizer = TokenizerWrapper(tokenizer)
         self.device = device 
-        
-        # Useful
-        self.token2id = {} # The idea is that when tokenizing ##s for example (which is a token)
-                    # the tokenizr will treat it as # - # - s which is unfortunate...
-        for id in range(self.tokenizer.vocab_size):
-            token = self.tokenizer.decode(id)
-            self.token2id[token] = id
     
-    def compute_nll_perplexity(self,
-                               df: pd.core.frame.DataFrame = None, 
-                               method: int = 2,
-                               **kwargs):
+    ### MAIN METHODS ###
+    
+    def compute_nlls_perplexities(self,
+                                  datasets: dict, 
+                                  **kwargs) -> dict:
         """
-            Compute NLL and Perplexity of the dataset df.
-        
-            Method 1: [CLS] is located in [SEP]
-            Method 2: Avg. on [CLS] Paris is located in [SEP]
-            Method 3: Avg. on [CLS] Paris is located in [MASK] [SEP]
-            Method 4: Avg. on [CLS] Paris is located in France [SEP]
-
+            Compute NLL and Perplexity for all datasets.
 
             Note:
             We give the model the whole sentence but as [X] can be 
             multiple tokens we only keep the nll of the prompt!
+            This behavior might change.
+            
+            Returns:
+                res_dict (dict) keys: 'nlls'         values: (dict) keys: (str) relas from LAMA  values: (dict) keys: (str) dataset name  values: (Tensor) 
+                                      'perplexities'         (dict) keys: (str) relas from LAMA  values: (dict) keys: (str) dataset name  values: (Tensor)
+                                      'tokens'                  
+        """
+        
+        print("Computing NLLs & Perplexities...")
+        
+        nlls = {}
+        perplexities = {}
+        tokens = {}
+        
+        # Get relation_ids
+        relations_ids = list(set(datasets[list(datasets.keys())[0]]['predicate_id']))
+        
+        # Get LAMA name
+        for name in datasets.keys():
+            if 'lama' in name:
+                lama_name = name
+        
+        # Start looping over relations
+        for rela in tqdm.tqdm(relations_ids):
+            
+            rela_nlls = {}
+            rela_perplexities = {}
+            rela_tokens = {}
+            
+            # LAMA
+            try:
+                lama_res = self._compute_nlls_perplexities_one_rela(
+                                        df = datasets[lama_name][datasets[lama_name]['predicate_id'] == rela], 
+                                        token_sequence = False, 
+                                        method = kwargs['method'],
+                                        batch_size = kwargs['batch_size']
+                                        )
+                rela_nlls[lama_name] = lama_res['nll']
+                rela_perplexities[lama_name] = lama_res['perplexity']
+                rela_tokens[lama_name] = lama_res['tokens']
+            except:
+                pass
+            
+            # AutoPrompt
+            for seed in kwargs['seeds']:
+                try:
+                    autoprompt_res = self._compute_nlls_perplexities_one_rela(
+                                                df = datasets[f'autoprompt_seed{seed}'][datasets[f'autoprompt_seed{seed}']['predicate_id'] == rela], 
+                                                token_sequence = True, 
+                                                method = kwargs['method'],
+                                                batch_size = kwargs['batch_size']
+                                                )
+                    rela_nlls[f'autoprompt_seed{seed}'] = autoprompt_res['nll']
+                    rela_perplexities[f'autoprompt_seed{seed}'] = autoprompt_res['perplexity']
+                    rela_tokens[f'autoprompt_seed{seed}'] = autoprompt_res['tokens']
+                except:
+                    pass
+
+            # Random
+            try:
+                random_res = self._compute_nlls_perplexities_one_rela(
+                                            df = datasets['random'][datasets['random']['predicate_id'] == rela], 
+                                            token_sequence = True, 
+                                            method = kwargs['method'],
+                                            batch_size = kwargs['batch_size']
+                                            )
+                rela_nlls['random'] = random_res['nll']
+                rela_perplexities['random'] = random_res['perplexity']
+                rela_tokens['random'] = random_res['tokens']
+            except:
+                pass
+            
+            # store
+            nlls[rela] = rela_nlls
+            perplexities[rela] = rela_perplexities
+            tokens[rela] = rela_tokens
+            
+        return {'nlls': nlls,
+                'perplexities': perplexities,
+                'tokens': tokens}
+        
+    def compute_lama_scores(self, 
+                            datasets: dict, 
+                            **kwargs) -> dict:
+        """
+            Compute precision at rank k (P@k) of human, machine and random prompts
+            on the T-Rex subpart of the LAMA dataset.
+
+            Note:
+            Here LAMA is to be taken in a large sense as it can (and will) be mLAMA
+            and/or ParaReL.
+            
+            Returns:
+                res_dict (dict) key: (str) 'lama', 'autoprompt', 'random'    value: (dict) key: (str) 'scores', 'scores_by_rela'  value: (dict)                 
+        """
+    
+        print("Computing LAMA score...")
+                
+        # LAMA
+        lama_scores_lama, scores_by_rela_lama = self._compute_lama_scores(
+                                    df = datasets[kwargs['lama_name']],
+                                    num_eval = -1,
+                                    token_sequence = False,
+                                    batch_size = kwargs['batch_size'],
+                                    )
+        
+        # AutoPrompt
+        lama_scores_autoprompt = {}
+        scores_by_rela_autoprompt = {}
+        for seed in kwargs['seeds']:
+            lama_scores_autoprompt[seed], scores_by_rela_autoprompt[seed] = self._compute_lama_scores(
+                                                                df = datasets[f'autoprompt_seed{seed}'],
+                                                                num_eval = -1,
+                                                                token_sequence = True,
+                                                                batch_size = kwargs['batch_size'],
+                                                                )
+                
+        # Random
+        lama_scores_random, scores_by_rela_random = self._compute_lama_scores(
+                                        df = datasets['random'],
+                                        num_eval = -1,
+                                        token_sequence = True,
+                                        batch_size = kwargs['batch_size'],
+                                        )
+        
+        
+        return {kwargs['lama_name']: {'scores': lama_scores_lama,
+                                      'scores_by_rela': scores_by_rela_lama},
+                'autoprompt': {'scores': lama_scores_autoprompt,
+                               'scores_by_rela': scores_by_rela_autoprompt},
+                'random': {'scores': lama_scores_random,
+                           'scores_by_rela': scores_by_rela_random},}
+        
+        
+    def compute_embeddings_analysis(self,
+                                    datasets: dict,
+                                    **kwargs) -> dict:
+        """
+        """
+        
+        print("Compute Embeddings Anlysis...")
+        
+        data_names = [kwargs["lama_name"]] + \
+                     [f'autoprompt_seed{seed}' for seed in kwargs['seeds']] + \
+                     ['random'] # Not that clean because we should use the data_to_load param but you know..
+        
+        # First we need to compute said embeddings
+        
+        embedder = Embedder(
+                    model=self.model,
+                    tokenizer=self.tokenizer
+                    )
+        
+        if kwargs['pooling'] == 'mask':
+            assert kwargs['method'] == 3
+        
+        embedds = {}
+        
+        embedds[kwargs['lama_name']] = embedder.embed(
+                                    df = datasets[kwargs['lama_name']],
+                                    method = kwargs['method'],
+                                    pooling=kwargs['pooling'],
+                                    output_hidden_states=kwargs['hidden_states'],
+                                    batch_size = kwargs['batch_size'],
+                                    token_sequence = False
+                                    )
+        
+        for seed in kwargs['seeds']:
+            embedds[f'autoprompt_seed{seed}'] = embedder.embed(
+                                    df = datasets[f'autoprompt_seed{seed}'],
+                                    method = kwargs['method'],
+                                    pooling=kwargs['pooling'],
+                                    output_hidden_states=kwargs['hidden_states'],
+                                    batch_size = kwargs['batch_size'],
+                                    token_sequence = True
+                                    )
+        
+            
+        embedds['random'] = embedder.embed(
+                                    df = datasets['random'],
+                                    method = kwargs['method'],
+                                    pooling=kwargs['pooling'],
+                                    output_hidden_states=kwargs['hidden_states'],
+                                    batch_size = kwargs['batch_size'],
+                                    token_sequence = True
+                                    )
+        
+        # Select a subset of embeddings as treating it entirely is too much.
+        
+        if kwargs['hidden_states']:
+            subset_dim = 1
+        else:
+            subset_dim = 0
+            
+        for name in data_names:
+            embedds[name] = utils.select_subset(
+                                    t = embedds[name],
+                                    size = kwargs['subset_size'],
+                                    dim = subset_dim
+                                    )
+            
+        # Then Compute the Analysis
+        
+        res_dict = {}
+        if kwargs['hidden_states']:
+            for i in range(len(data_names)):
+                for j in range(i+1, len(data_names)):
+                    print(f"{data_names[i]} vs {data_names[j]}")
+                    _res_dict_layers = {}
+                    _res_dict_layers['label1'] = data_names[i]
+                    _res_dict_layers['label2'] = data_names[j]
+                    _res_dict_layers['num_layers'] = embedds[data_names[i]].shape[0]
+                    for l in range(embedds[data_names[i]].shape[0]): # Num Layers
+                        print(f"\t### Layer {l} ###")
+                        _res_dict = self._compute_embeddings_analysis(embedds[data_names[i]][l], embedds[data_names[j]][l])
+                        _res_dict = {k + f' layer{l}':v for k,v in _res_dict.items()}
+                        _res_dict_layers.update(_res_dict)
+                    res_dict[f'{data_names[i]}-{data_names[j]}'] = _res_dict_layers
+        else:                        
+            for i in range(len(data_names)):
+                for j in range(i+1, len(data_names)):
+                    print(f"{data_names[i]} vs {data_names[j]}")
+                    _res_dict = self._compute_embeddings_analysis(embedds[data_names[i]], embedds[data_names[j]])
+                    _res_dict['label1'] = data_names[i]
+                    _res_dict['label2'] = data_names[j]
+                    res_dict[f'{data_names[i]}-{data_names[j]}'] = _res_dict
+        
+        return res_dict
+    
+    
+    def compute_curvatures(self,
+                           datasets: dict,
+                           **kwargs) -> dict:
+        """
+        
+        Compute curvatures of embeddings for each layers of the model.
+        We use this paper as ref: 
+        Large language models implicitly learn to straighten neural sentence trajectories to construct a predictive representation of natural language
+        
+        Returns:
+            res_dict (dict) keys: dataset names values: (tensor) shape [Dataset Size, Num Layers]
+        
+        """
+        
+        print("Compute Curvatures...")
+        
+        # First we need to compute said embeddings
+        
+        print("\tComputing Embeddings...")
+        
+        embedder = Embedder(
+                    model=self.model,
+                    tokenizer=self.tokenizer
+                    )
+        
+        embedds = {}
+        
+        embedds[kwargs['lama_name']] = embedder.embed(
+                                    df = datasets[kwargs['lama_name']],
+                                    method = 4, # We need [X] and [Y] 
+                                    pooling = None, # We need the full embeddings
+                                    output_hidden_states=True, # We want obviously
+                                    batch_size = kwargs['batch_size'],
+                                    token_sequence = False
+                                    ) # Shape [Dataset Size, Num Layers, L, Dim]
+        
+        for seed in kwargs['seeds']:
+            embedds[f'autoprompt_seed{seed}'] = embedder.embed(
+                                    df = datasets[f'autoprompt_seed{seed}'],
+                                    method = 4,
+                                    pooling= None,
+                                    output_hidden_states = True,
+                                    batch_size = kwargs['batch_size'],
+                                    token_sequence = True
+                                    )
+        
+            
+        embedds['random'] = embedder.embed(
+                                    df = datasets['random'],
+                                    method = 4,
+                                    pooling=None,
+                                    output_hidden_states=True,
+                                    batch_size = kwargs['batch_size'],
+                                    token_sequence = True
+                                    )
+        
+        # Then compute curvatures
+        
+        print("\tComputing Curvatures...")
+        res_dict = {}
+        
+        res_dict[kwargs['lama_name']] = self._compute_curvatures_from_embeddings(embedds[kwargs['lama_name']])
+        
+        for seed in kwargs['seeds']:
+            res_dict[f'autoprompt_seed{seed}'] = self._compute_curvatures_from_embeddings(embedds[f'autoprompt_seed{seed}'])
+        
+        res_dict['random'] = self._compute_curvatures_from_embeddings(embedds['random'])
+        
+        return res_dict
+    
+    
+    ### WHERE THE COMPUTATIONS ARE HIDDEN ####
+    
+    def _compute_nlls_perplexities_one_rela(self,
+                                            df: pd.DataFrame, 
+                                            method: int = 2,
+                                            **kwargs) -> dict:
+        """
+            Compute NLL and Perplexity of the dataset df.
+            
+            We compute it left to right.
+        
+            Here df contains elements for only one relation.
+            The loop over relations is taken care of in the 
+            main.py currently.
+            
+            /!\ TBD: remove loop over relations from main.py
+                     and put it here
+
+            Note:
+            We give the model the whole sentence but as [X] can be 
+            multiple tokens we only keep the nll of the prompt!
+            
+            Returns:
+                res_dict (dict) keys: 'nll'        values: (Tensor) shape [len(df), L]
+                                      'perplexity'         (Tensor) shape [len(df), L]
+                                      'tokens'             (dict) keys: 'tokens'  values: (List[str])
+                                                                        'pos_x'           (int)
+                                                                        'pos_y'           (int)
         """
 
         # The loop
@@ -55,22 +379,22 @@ class MetricsWrapper:
             sub_surfaces = elems['sub_surface'].tolist() # [X]
             obj_surfaces = elems['obj_surface'].tolist() # [Y]
             templates = elems['template'].tolist()
-            rela = elems['predicate_id']
 
-            # 
-            input_ids, attention_mask = self.get_encodings(
+            # Tokenize
+            input_ids, attention_mask = self.tokenizer.tokenize(
                                                 templates = templates,
                                                 sub_surfaces = sub_surfaces,
                                                 obj_surfaces = obj_surfaces,
-                                                autoprompt = kwargs['autoprompt'],
-                                                method = method
+                                                token_sequence = kwargs['token_sequence'],
+                                                method = method,
+                                                prompt_attention_mask = True, # attention mask only focus on prompt's tokens
+                                                remove_dot=True
                                                 )
             
             mask_left_to_right = torch.zeros_like(input_ids).to(self.device)
-            
             input_ids = input_ids.to(self.device)
             
-            # Forward passes and NLL
+            # Forward passes
             nlls = []
             perplexities = []
             for k in range(input_ids.size(1)):
@@ -88,21 +412,17 @@ class MetricsWrapper:
                 nlls.append(-torch.log(ps).cpu())
                 
                 perplexities.append(
-                            self.compute_perplexity(probs[:,k]).cpu() # will change when we'll do the batch-wise computation
+                            utils.compute_perplexity(probs[:,k]).cpu() # will change when we'll do the batch-wise computation
                             )
                 
             nlls = torch.vstack(nlls).t() # (BS, L) (L = input_ids.shape[1])   
             perplexities = torch.vstack(perplexities).t()                                 
 
+            # Retrieve only prompt's tokens NLLs & Perplexities
             if method > 1:
-                # Here nlls size depend on the number of token of [X]
-                # So we need to cut it out!
-                
-                full_nlls.append( nlls[(nlls * attention_mask) != 0].view(attention_mask.any(axis = 1).sum().item() ,-1) ) # if method 3 or 4 shape of 
-                                                                                                                           # nll is prompt_size + 1
-                                                                                                                           # because of [MASK] or obj
-                                                                                                                           
-                                                                                                                           # (Not-zero BS, prompt length)
+                # Here nlls size depend on the number of token of [X] so we need to cut it out!
+                full_nlls.append( nlls[(nlls * attention_mask) != 0].view(attention_mask.any(axis = 1).sum().item() ,-1) ) # if method 3 or 4 shape of nll is prompt_size + 1
+                                                                                                                           # because of [MASK] or obj (Not-zero BS, prompt length)
                 full_perplexities.append(  perplexities[(perplexities * attention_mask) != 0].view(attention_mask.any(axis = 1).sum().item() ,-1) )
             else:
                 
@@ -111,6 +431,7 @@ class MetricsWrapper:
                 full_perplexities.append( perplexities[(perplexities * attention_mask) != 0].view(attention_mask.any(axis = 1).sum().item() ,-1)[0] )
                 break
             
+        # Stack lists of tensors into a big tensor
         if method > 1:
             full_nlls = torch.cat(full_nlls, axis = 0)
             full_perplexities = torch.cat(full_perplexities, axis = 0)
@@ -118,102 +439,32 @@ class MetricsWrapper:
             full_nlls = torch.stack(full_nlls)
             full_perplexities = torch.stack(full_perplexities)       
 
-        ### Need to deal with tokens properly ###
-        # for lama prompts [X] and [Y] are not necesseraly in first and last position
-        if kwargs['autoprompt']:
-            template_tokenized = [self.token2id[token] for token in templates[0].replace('[X] ', '').replace(' [Y]', '').replace(' .', '').split(' ')]
-            tokens = [self.tokenizer.decode(tok) for tok in template_tokenized]
-            pos_x = 0
-            pos_y = len(tokens) + 1
-            if method != 3:
-                tokens = ['[X]'] + [self.tokenizer.decode(tok) for tok in template_tokenized] + ['[Y]']
-            else:
-                tokens = ['[X]'] + [self.tokenizer.decode(tok) for tok in template_tokenized] + ['[MASK]']
-        else:
-            template_tokenized = self.tokenizer(templates[0].replace('[X]', '[MASK]').replace('[Y]', '[UNK]').replace(' .', ''), return_tensors = 'pt').input_ids[0,1:-1]
-            pos_x = torch.where( template_tokenized == self.tokenizer.mask_token_id )[0].item()
-            pos_y = torch.where( template_tokenized == self.tokenizer.unk_token_id )[0].item()
-            tokens = [self.tokenizer.decode(tok) for tok in template_tokenized]
-            tokens[pos_x] = '[X]'
-            if method != 3:
-                tokens[pos_y] = '[Y]'
-            else:
-                tokens[pos_y] = '[MASK]'
+        # Retrieve tokens from the template
+        tokens, pos_x, pos_y = self.tokenizer.get_tokens_list(template = templates[0],
+                                                              token_sequence = kwargs['token_sequence'])
 
-        return {'nll': full_nlls, # [Dataset Length, L]
+        return {'nll': full_nlls,
                 'perplexity': full_perplexities, 
                 'tokens': {'pos_x': pos_x,
                            'pos_y': pos_y,
                            'tokens': tokens}}
         
-    def compute_embeddings(self,
-                           df: pd.core.frame.DataFrame = None,
-                           prompt_list: list = None,
-                           pooling: str = 'avg',
-                           **kwargs):
+    def _compute_lama_scores(self, 
+                             df: pd.DataFrame, 
+                             **kwargs) -> Tuple[dict[str, float], dict[str, dict[str, float]]]: # need to rework the model type thing in every method
         """
-            Compute embeddings of prompts from df.
+            Compute LAMA scores for one set of prompts (e.g. machine).
             
-            rk: for now always remove instantiation of [X] and [Y].
+            It returns two quantities: the average P@k over the whole dataset and
+            the average P@k rela by rela.
+            
+            Returns:
+                scores (dict) keys: 'P@k'  value: (float) the computed P@k 
+                                     k in {1,5,20,100}
+                                     
+                scores_by_rela (dict) key: (str) rela id (e.g. 'P276') value: (dict) key: (str) 'P@k' value: (float) P@k for the rela
         
         """
-        
-        if prompt_list is not None:
-            sentences = prompt_list
-        else:
-            templates = get_template_from_lama(df = df)
-            sentences = list(templates.values())
-        
-        if kwargs['autoprompt']:
-            # Tokenize
-            input_ids = [
-                        torch.tensor(
-                            [self.token2id['[CLS]']] + [self.token2id[token] for token in sentence.split(' ')] + [self.token2id['[SEP]']] \
-                            )
-                        for sentence in sentences
-                        ]
-            input_ids = torch.vstack(input_ids)
-            attention_mask = torch.ones_like(input_ids)
-            inputs = {'input_ids': input_ids,
-                    'attention_mask': attention_mask}
-        else:
-            inputs = self.tokenizer(sentences,
-                            return_tensors = 'pt',
-                            padding = True)
-
-        print("Inputs shape: ", inputs['input_ids'].shape)
-        with torch.no_grad():
-            outputs = self.model.embedding(
-                                input_ids = inputs['input_ids'].to(self.device),
-                                attention_mask = inputs['attention_mask'].to(self.device)
-                                )
-        _embeds = outputs.last_hidden_state.cpu() * inputs['attention_mask'][:,:,None]
-        # Keeping [CLS] & [SEP]
-
-        if pooling == 'avg':
-            embeds = _embeds.mean(axis = 1)
-        elif pooling == 'sum':
-            embeds = _embeds.sum(axis = 1)
-        else:
-            raise Exception('Check pooling.')
-        
-        print("Embeddings shape ", embeds.shape)
-        # rela to embedding dict can be useful
-        
-        if prompt_list is not None:
-            rela2embed = None
-        else:
-            rela2embed = {k: v for k, v in zip(templates.keys(), embeds)}
-        
-        return embeds, rela2embed
-        
-            
-    
-    def evaluate_on_lama(self, 
-                         dataset, 
-                         **kwargs): # need to rework the model type thing in every method
-
-        print("Evaulate LAMA score...")
         
         scores = {'P@1': 0,
                   'P@5': 0,
@@ -227,56 +478,30 @@ class MetricsWrapper:
                             'P@20': [],
                             'P@100': []}
 
-        num_eval = kwargs['num_eval'] if kwargs['num_eval'] != -1 else len(dataset)
+        num_eval = kwargs['num_eval'] if kwargs['num_eval'] != -1 else len(df)
 
         total_eval = 0
+        
         for k in tqdm.tqdm(range(0, num_eval, kwargs['batch_size'])): # We'll do it by hand
+        
             # Retrieve elem
-            elems = dataset.iloc[k:k + kwargs['batch_size']]
+            elems = df.iloc[k:k + kwargs['batch_size']]
             sub_surfaces = elems['sub_surface'] # [X]
             obj_surfaces = elems['obj_surface'] # [Y]
             templates = elems['template']
             relas = elems['predicate_id']
-            
-            # /!\ Removing the dot leads to a huge drop in perf /!\
-            templates = [
-                            self.shuffle_template(
-                                            template = template,
-                                            shuffle = kwargs['shuffle']
-                            ) \
-                            for template in templates
-                        ]
 
             # Create and tokenize template
- 
-            if not(kwargs['autoprompt']):
-                sentences = [
-                        template.replace('[X]', sub_surface).replace('[Y]', self.tokenizer.mask_token) \
-                        for template, sub_surface in zip(templates, sub_surfaces)
-                        ]
-                encodings = self.tokenizer(sentences, padding = True, return_tensors = 'pt')
-                input_ids = encodings.input_ids
-                attention_mask = encodings.attention_mask
-            else:
-                # This is tricky because we need to tokenize the sub_surfaces first
-                sentences = [
-                        template.replace('[X]', ' '.join(self.tokenizer.decode(id) for id in self.tokenizer(sub_surface).input_ids[1:-1])).replace('[Y]', self.tokenizer.mask_token) \
-                        for template, sub_surface in zip(templates, sub_surfaces)
-                        ]
-
-                input_ids = [
-                                torch.tensor(
-                                    [self.token2id['[CLS]']] + [self.token2id[token] for token in sentence.split(' ')] + [self.token2id['[SEP]']] \
-                                 ) 
-                                for sentence in sentences
-                                
-                            ]
-                attention_mask = [ torch.ones(len(t)) for t in input_ids]
+            
+            input_ids, attention_mask = self.tokenizer.tokenize(
+                                                templates = templates,
+                                                sub_surfaces = sub_surfaces,
+                                                obj_surfaces = obj_surfaces,
+                                                token_sequence = kwargs['token_sequence'],
+                                                method = 3
+                                                )
                 
-                input_ids = torch.nn.utils.rnn.pad_sequence(input_ids, batch_first = True)
-                attention_mask = torch.nn.utils.rnn.pad_sequence(attention_mask, batch_first = True)
-                
-            mask_pos_i, mask_pos_j = torch.where(input_ids == self.tokenizer.mask_token_id)
+            mask_pos_i, mask_pos_j = torch.where(input_ids == self.tokenizer.tokenizer.mask_token_id)
 
             # forward pass
             with torch.no_grad():
@@ -295,7 +520,9 @@ class MetricsWrapper:
             # (4) if one get True then True ( any(axis = 1) )
             # (5) filter using filter multiplication
             # sum
-            labels = self.tokenizer(obj_surfaces.tolist(), padding = True, return_tensors = 'pt')
+            labels = self.tokenizer.tokenizer(obj_surfaces.tolist(), 
+                                              padding = True, 
+                                              return_tensors = 'pt')
             labels_ids = labels.input_ids
             filter = torch.logical_not((labels.attention_mask.sum(axis = 1) > 3)) # True if tokenized in 1, (3 because [cls] and [sep])
 
@@ -319,13 +546,15 @@ class MetricsWrapper:
 
         print(f"Total Number of Evaluations: {total_eval} (dropped {num_eval - total_eval})")
         
-        return {k: v/total_eval for k,v in scores.items()}, self.compute_lama_scores_by_rela(relas_and_scores)
+        return ({k: v/total_eval for k,v in scores.items()}, 
+                utils.compute_lama_scores_by_rela(relas_and_scores))
     
     
-    def compute_embeddings_analysis(self, 
-                                    embeds1: torch.Tensor, 
-                                    embeds2: torch.Tensor,
-                                    embeds3: torch.Tensor = None) -> dict:
+    
+    def _compute_embeddings_analysis(self, 
+                                     embeds1: torch.Tensor, 
+                                     embeds2: torch.Tensor,
+                                     embeds3: torch.Tensor = None) -> dict:
         """
             Compute several metrics on embeds1 and embeds2 and return
             them in a dict.
@@ -356,7 +585,7 @@ class MetricsWrapper:
         results['cosim avg'] = sims.mean().item()
         results['cosim max'] = sims.max().item()
         
-        print(f"\tCosine Sim - avg: {np.round(results['cosim avg'],3)}; max: {np.round(results['cosim max'],3)}")
+        print(f"\t\tCosine Sim - avg: {np.round(results['cosim avg'],3)}; max: {np.round(results['cosim max'],3)}")
         
         
         ### PCA ###
@@ -384,29 +613,65 @@ class MetricsWrapper:
         # Clustering
         true_labels = np.array([0]*embeds1.shape[0] + [1]*embeds2.shape[0])
         
-        kmeans = KMeans(n_clusters = 2).fit(embeds_pca)
-        kmeans_completeness = completeness_score(true_labels, kmeans.labels_)
-        kmeans_homogeneity = homogeneity_score(true_labels, kmeans.labels_)
+        pca_kmeans = KMeans(n_clusters = 2, n_init='auto').fit(embeds_pca)
+        pca_kmeans_completeness = completeness_score(true_labels, pca_kmeans.labels_)
+        pca_kmeans_homogeneity = homogeneity_score(true_labels, pca_kmeans.labels_)
         
-        spectral = SpectralClustering(n_clusters=2, assign_labels='discretize').fit(embeds_pca)
-        spectral_completeness = completeness_score(true_labels, kmeans.labels_)
-        spectral_homogeneity = homogeneity_score(true_labels, kmeans.labels_)
+        pca_spectral = SpectralClustering(n_clusters=2, assign_labels='discretize').fit(embeds_pca)
+        pca_spectral_completeness = completeness_score(true_labels, pca_spectral.labels_)
+        pca_spectral_homogeneity = homogeneity_score(true_labels, pca_spectral.labels_)
+        
+        
+        ### MDS ###
+        
+        if embeds3 is not None:
+            pass
+        else:
+            full_embeds = np.concatenate(
+                                    (embeds1.numpy(), 
+                                    embeds2.numpy()), 
+                                    axis = 0
+                                    )
+        
+        mds = MDS(n_components=2, normalized_stress='auto')
+        embeds_mds = mds.fit_transform(full_embeds.astype(np.float64)) # Shape [2*(N prompts), 2]
+        
+        # Clustering
+        mds_kmeans = KMeans(n_clusters = 2, n_init='auto').fit(embeds_mds)
+        mds_kmeans_completeness = completeness_score(true_labels, mds_kmeans.labels_)
+        mds_kmeans_homogeneity = homogeneity_score(true_labels, mds_kmeans.labels_)
+        
+        mds_spectral = SpectralClustering(n_clusters=2, assign_labels='discretize').fit(embeds_mds)
+        mds_spectral_completeness = completeness_score(true_labels, mds_spectral.labels_)
+        mds_spectral_homogeneity = homogeneity_score(true_labels, mds_spectral.labels_)
         
         # Store Results
         results['pca R2'] = reg_score
         results['pca 1-corr'] = (pearson.statistic, pearson.pvalue)
-        results['pca kmeans completeness'] = kmeans_completeness
-        results['pca kmeans homogeneity'] = kmeans_homogeneity
-        results['pca spectral completeness'] = spectral_completeness
-        results['pca spectral homogeneity'] = spectral_homogeneity
+        
+        results['pca kmeans completeness'] = pca_kmeans_completeness
+        results['pca kmeans homogeneity'] = pca_kmeans_homogeneity
+        results['pca spectral completeness'] = pca_spectral_completeness
+        results['pca spectral homogeneity'] = pca_spectral_homogeneity
+        
         results['pca embeds1'] = embeds_pca[:embeds1.shape[0]]
         results['pca embeds2'] = embeds_pca[embeds1.shape[0]:]
         
+        
+        results['mds kmeans completeness'] = mds_kmeans_completeness
+        results['mds kmeans homogeneity'] = mds_kmeans_homogeneity
+        results['mds spectral completeness'] = mds_spectral_completeness
+        results['mds spectral homogeneity'] = mds_spectral_homogeneity
+        
+        results['mds embeds1'] = embeds_pca[:embeds1.shape[0]]
+        results['mds embeds2'] = embeds_pca[embeds1.shape[0]:]
+        
+        
         # Print
-        print(f"\tPCA - R²: {np.round(results['pca R2'],3)}; 1-corr: {np.round(results['pca 1-corr'][0])} (p = {np.round(results['pca 1-corr'][1])})")
-        print(f"\tPCA Clustering\
-                \n\t\tKMeans - completeness: {np.round(results['pca kmeans completeness'],3)}; homogeneity {np.round(results['pca kmeans homogeneity'],3)}\
-                \n\t\tSpectral - completeness: {np.round(results['pca spectral completeness'],3)}; homogeneity {np.round(results['pca spectral homogeneity'],3)}")
+        print(f"\t\tPCA - R²: {np.round(results['pca R2'],3)}; 1-corr: {np.round(results['pca 1-corr'][0])} (p = {np.round(results['pca 1-corr'][1])})")
+        print(f"\t\tPCA Clustering\
+                \n\t\t\tKMeans - completeness: {np.round(results['pca kmeans completeness'],3)}; homogeneity {np.round(results['pca kmeans homogeneity'],3)}\
+                \n\t\t\tSpectral - completeness: {np.round(results['pca spectral completeness'],3)}; homogeneity {np.round(results['pca spectral homogeneity'],3)}")
         
         ### Representational Similarities Analysis ###
         # TBD
@@ -427,175 +692,59 @@ class MetricsWrapper:
         
         return results
     
-            
-    def compute_perplexity(self, probs: torch.Tensor) -> torch.Tensor:
+    def _compute_curvatures_from_embeddings(self, embeddings: torch.Tensor) -> torch.Tensor:
         """
-            Here perplexity means according to us.
-            
-            Args:
-                probs (tensor) shape (BS, vocab_size)
-            
+        
+        Args:
+            embeddings (Tensor) shape [Num Layers, Dataset Size, Length, Hidden Dim]
+         
+        Returns:
+            curvatures (Tensor) shape [Dataset Size, Num Layers]
         """
-        H = - (probs * torch.log(probs)).sum(axis = 1) # entropy base e
-        return torch.exp(H) # shape BS
-    
-    def get_encodings(self, 
-                      templates: list,
-                      sub_surfaces: list = None,
-                      obj_surfaces: list = None,
-                      autoprompt: bool = False,
-                      method: int = 1):
         
-        ##### DEAL with ' .' ? 
-        # Removing ' .' hurts a lot the model performances
-        # Might need a flag to remove or not the ' .'
-        # For perplexity computation it doesn't matters as we reveal
-        # context from left to right...
-        templates = [template.replace(' .', '') for template in templates]
+        # First let's transpose the embeddings to [Dataset Size, Num Layers, Length, Hidden Dim]
+        embeddings = embeddings.transpose(0,1) 
         
-        # Masks
-        if autoprompt:
-            attention_mask = [ [self.token2id['[CLS]']] + [self.token2id[tok] for tok in template.replace('[X]', '[MASK]').replace('[Y]', '[UNK]').split(' ')] + [self.token2id['[SEP]']]\
-                              for template in templates]
-        else:
-            attention_mask = [self.tokenizer(template.replace('[X]', '[MASK]').replace('[Y]', '[UNK]')).input_ids for template in templates] # to id [X] and [Y] after tokenization
-            
-        # Create and tokenize template according to method
-        if method == 1:
-            sentences = [template.replace('[X] ', '').replace(' [Y]', '') for template in templates] # Method 1 is not to be used here as we do a pass on each
-                                                                                                     # line of the relation, and with method 1 each sentence 
-                                                                                                     # is the same!
-            attention_mask = [self.mask_helper(mask) for mask in attention_mask]  
-        elif method == 2:
-            
-            if autoprompt:
-                sentences = [
-                            template.replace('[X]', ' '.join(self.tokenizer.decode(id) for id in self.tokenizer(sub_surface).input_ids[1:-1])).replace(' [Y]', '') \
-                            for template, sub_surface in zip(templates, sub_surfaces)
-                            ]
-            else:
-                sentences = [template.replace('[X]', sub_surface).replace(' [Y]', '') for template, sub_surface in zip(templates, sub_surfaces)]
-                
-            attention_mask = [self.mask_helper(mask, word1 = sub_surface) for mask, sub_surface in zip(attention_mask, sub_surfaces)] 
+        # We'll do a loop on each elem of the dataset because otherwise it's too complicated
+        # to get rid of the 0s from padding (and we don't want to compute the curvatures to 0)
+        curvatures = []
+        for k in tqdm.tqdm(range(embeddings.shape[0])):
+            activations = embeddings[k] # Shape [Num Layers, Length, Hidden Dim]
+            # Here we want to get rid of the padded 0: let's assume that an embedding value is never 0!
+            try:
+                pad_idx = torch.where(activations == 0)[1][0].item()
+                activations = activations[:,:pad_idx,:]
+            except:
+                pass # Some tensors were not padded
+            # store curvature layer by layer
+            layersAvgCurvatures = []
+            for layerActivation in activations:
+                layersAvgCurvatures.append(self.avgCurvature(layerActivation))
+            curvatures.append(layersAvgCurvatures)
+        
+        return torch.tensor(curvatures)
+        
+        
+    @staticmethod
+    def computeSeg(arr: torch.Tensor) -> torch.Tensor:
+        """
+            From an array of N points (ie. shape (N, d))
+            returns N-1 segments:
+            v_k = x_{k+1} - x_k
+        """
+        return arr[1:,:] - arr[:-1,:]
 
-        elif method == 3:
-            
-            if autoprompt:
-                sentences = [
-                            template.replace('[X]', ' '.join(self.tokenizer.decode(id) for id in self.tokenizer(sub_surface).input_ids[1:-1])).replace('[Y]', self.tokenizer.mask_token) \
-                            for template, sub_surface in zip(templates, sub_surfaces)
-                            ]
-            else:
-                sentences = [template.replace('[X]', sub_surface).replace('[Y]', '[MASK]') for template, sub_surface in zip(templates, sub_surfaces)]
-                
-            attention_mask = [self.mask_helper(mask, word1 = sub_surface, word2 = self.tokenizer.mask_token) for mask, sub_surface in zip(attention_mask, sub_surfaces)]
+    @staticmethod
+    def curvature(arr: torch.Tensor) -> torch.Tensor:
+        """
+            Compute curvature betweens vectors contained
+            in arr (of shape (N, d)) as:
+            c_k = arccos( <v_{k+1},v_k>/||v_{k+1}||.||v_k||) 
+        """
+        return torch.arccos(torch.sum(arr[1:,:] * arr[:-1,:], dim = 1)/(torch.norm(arr[1:, :], dim = 1) * torch.norm(arr[:-1,:], dim = 1)))
 
-        elif method == 4:
-            
-            if autoprompt:
-                sentences = [
-                            template.replace('[X]', ' '.join(self.tokenizer.decode(id) for id in self.tokenizer(sub_surface).input_ids[1:-1])).replace('[Y]', ' '.join(self.tokenizer.decode(id) for id in self.tokenizer(obj_surface).input_ids[1:-1])) \
-                            for template, sub_surface, obj_surface in zip(templates, sub_surfaces, obj_surfaces)
-                            ]
-            else:
-                sentences = [template.replace('[X]', sub_surface).replace('[Y]', obj_surface) for template, sub_surface, obj_surface in zip(templates, sub_surfaces, obj_surfaces)]
-                
-            attention_mask = [self.mask_helper(mask, word1 = sub_surface, word2 = obj_surface) for mask, sub_surface, obj_surface in zip(attention_mask, sub_surfaces, obj_surfaces)]
-            
-        if autoprompt:
-            #print(sentences)
-            input_ids = [
-                            torch.tensor(
-                                [self.token2id['[CLS]']] + [self.token2id[token] for token in sentence.split(' ')] + [self.token2id['[SEP]']] \
-                                ) 
-                            for sentence in sentences        
-                        ]
-            #attention_mask = [ torch.ones(len(t)) for t in input_ids]
-            input_ids = torch.nn.utils.rnn.pad_sequence(input_ids, batch_first = True)
-        else:
-            encodings = self.tokenizer(sentences, padding = True, return_tensors = 'pt')
-            input_ids = encodings.input_ids
-          
-        attention_mask = torch.nn.utils.rnn.pad_sequence(attention_mask, batch_first = True)
-        
-        input_ids = input_ids[:, :attention_mask.shape[1]] # beacause as we return a mask of [0] for sentences where len(word2) > 1 the padding doesn't take them into account
-        
-        return input_ids, attention_mask
-    
-    def mask_helper(self, 
-                    mask: list, 
-                    word1: str = None, 
-                    word2: str = None):
-        """
-            Basically the mask is 1 when the token 
-            belongs to the prompt and zero evrywhere else. 
-        """
-        h = []
-        for e in mask:
-            if e == self.tokenizer.mask_token_id:
-                if word1 is not None:
-                    h += [0]*len(self.tokenizer(word1).input_ids[1:-1]) 
-            elif e == self.tokenizer.unk_token_id:
-                if word2 is not None:
-                    word2_ids = self.tokenizer(word2).input_ids[1:-1]
-                    if len(word2_ids) > 1:
-                        return torch.tensor([0]) # if the label is tokenized in more than one, skip!
-                    h += [1]
-            elif e == self.tokenizer.sep_token_id:
-                h.append(0)
-            else:
-                h.append(1)
-        h[0] = 0
-        return torch.tensor(h)
-    
-    def compute_lama_scores_by_rela(self,
-                                    raw_relas_and_scores: dict) -> dict:
-        """
-        
-        """
-        
-        relas = list(set(raw_relas_and_scores['rela']))
-        
-        scores = {}
-        for rela in relas:
-            _scores = {}
-            df = raw_relas_and_scores[(raw_relas_and_scores['rela'] == rela) & (raw_relas_and_scores['filter'] == 1) ]
-            _scores['P@1'] = df['P@1'].sum()/len(df)
-            _scores['P@5'] = df['P@5'].sum()/len(df)
-            _scores['P@20'] = df['P@20'].sum()/len(df)
-            _scores['P@100'] = df['P@100'].sum()/len(df)
-            scores[rela] = _scores
-        
-        return scores
-    
-    def shuffle_template(self, 
-                         template: str, 
-                         shuffle: bool = False,
-                         method: int = 2) -> str:
-        """
-            Args:
-                template (str) str of the form "tok ... tok [X] tok tok ... tok [Y] tok ... tok".
-                               We could try different method:
-                                (i) shuffle everything
-                                (ii) keep [X] and [Y] in place
-                                /!\ [Y] is not always last...
-                shuffle (bool) whether or not we apply a shuffling operation.         
-        """
-        if shuffle:
-            words = template.split(' ')[:-1]
-            if method == 1:
-                # Let's only focus on (i) for now
-                np.random.shuffle(words)
-                return ' '.join(words) + ' .'
-            elif method == 2:
-                x_pos = words.index('[X]')
-                y_pos = words.index('[Y]')
-                words.remove('[X]')
-                words.remove('[Y]')
-                np.random.shuffle(words)
-                words.insert(x_pos, '[X]')
-                words.insert(y_pos, '[Y]')
-                return ' '.join(words) + ' .'
-        else:
-            return template
-        
+    @staticmethod
+    def avgCurvature(arr: torch.Tensor) -> torch.Tensor:
+        vs = MetricsWrapper.computeSeg(arr)
+        curvs = MetricsWrapper.curvature(vs)
+        return curvs.mean().item()

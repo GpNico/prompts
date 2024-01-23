@@ -7,11 +7,12 @@ import tqdm
 from transformers import AutoTokenizer
 
 from src.classifier import PromptClassifier
-from src.data import load_data_wrapper
+from src.data import load_data_wrapper, load_pararel_by_uuid
 from src.metrics import MetricsWrapper
 from src.models import ModelWrapper
-from src.plots import plot_lama_scores, plot_rela_nll_perplexity, plot_embeddings_dim_red
-
+from src.knowledge_neurons import KnowledgeNeurons
+from src.plots import plot_lama_scores, plot_rela_nll_perplexity, plot_embeddings_dim_red, plot_clustering, plot_R_sq, plot_curvatures, plot_kns_surgery
+from src.utils import process_data_to_classify
 
 if __name__ == '__main__':
     
@@ -48,43 +49,80 @@ if __name__ == '__main__':
                         help="Num tokens in the random prompts.")
     parser.add_argument('--batch_size', 
                         type=int, 
-                        default=16)
+                        default=128)
     parser.add_argument('--prompt_method', 
                         type=int, 
                         default=1,
                         help="How the prompt will be presented to the model to compute its NLL.")
-    parser.add_argument('--cls', 
+    parser.add_argument('--hidden_states',
+                        action="store_true",
+                        help="Compute embeddings of all layers.")
+    parser.add_argument('--pooling', 
                         type=str, 
-                        default='last_nll',
-                        help="Classifier to use.")
-    parser.add_argument('--cls_what', 
-                        type=str, 
-                        default='prompt-random',
-                        help="What to distinguish.")
+                        default='avg',
+                        help="Pooling method to use when computing embeddings: 'avg' or 'sum'")
+    parser.add_argument('--kns_compute',
+                        action="store_true",
+                        help="Compute knowledge neurons.")
+    parser.add_argument('--kns_eval',
+                        action="store_true",
+                        help="Compute knowledge neurons surgery.")
+    parser.add_argument('--kns_unmatch',
+                        action="store_true",
+                        help="If set to True use KNs computed on the other dataset for kns_eval.")
+    parser.add_argument('--kns_overlap',
+                        action="store_true",
+                        help="Compute knowledge neurons overlap between ParaRel & Autoprompt.")
+    
+    
+    ## ANALYSIS ##
     parser.add_argument('--lama_scores', 
                         action='store_true',
                         help="Compute LAMA scores.")
-    parser.add_argument('--shuffle', 
-                        action='store_true',
-                        help="Shuffle prompts.")
     parser.add_argument('--rela_nll', 
                         action='store_true',
                         help="Compute NLLs of each relation prompt.")
     parser.add_argument('--rela_perplexity', 
                         action='store_true',
                         help="Compute perplexity of each relation prompt.")
+    parser.add_argument('--embedds_analysis',
+                        action="store_true",
+                        help="Compute prompts embeddings and various metrics on them.")
+    parser.add_argument('--curvatures',
+                        action="store_true",
+                        help="Compute curvatures of prompts embeddings trajectory.")
+    parser.add_argument('--knowledge_neurons',
+                        action="store_true",
+                        help="Deal with knowledge neurons.")
+    
+    
+    ## CLASSIFICATION ##
     parser.add_argument('--prompt_cls', 
                         action='store_true',
                         help="Compute proportion of prompts in model vocab.")
-    parser.add_argument('--embeds_analysis',
-                        action="store_true",
-                        help="Compute prompts embeddings and various metrics on them.")
+    parser.add_argument('--cls', 
+                    type=str, 
+                    default='last_nll',
+                    help="Classifier to use.")
+    parser.add_argument('--data_to_classify', 
+                        type=str, 
+                        default='prompt-random',
+                        help="What to distinguish.")
+    
+    # TEMP FLAG: used to debug (!) code by loading partially datasets
+    parser.add_argument('--debug',
+                        action="store_true")
     args = parser.parse_args()
     
     
     if not('bert' in args.model_name):
         raise Exception('Be careful mate, there is a lot of mask_token, sep_token references \
                         which will be a pain to solve!')
+        
+    if args.knowledge_neurons:
+        print("WARNING: You are computing Knowledge Neurons hence only this will be done.")
+        print("         If you want to compute other metrics please set knowledge_neurons")
+        print("         to False.")
     
     ### Device, Model, Tokenizer ###
     
@@ -95,7 +133,8 @@ if __name__ == '__main__':
     model = ModelWrapper(
                     model_type = args.model_type,
                     model_name = args.model_name,
-                    device = device
+                    device = device,
+                    output_hidden_states = not(args.knowledge_neurons)
                     )
     
     ### Load Dataset(s) ###
@@ -105,29 +144,76 @@ if __name__ == '__main__':
         lama_name = 'lama'
     elif 'mlama' in datasets_to_load:
         lama_name = 'mlama'
+    elif 'pararel' in datasets_to_load:
+        lama_name = 'pararel'
     
     langs_to_load = args.langs_to_load.split('-')
     if langs_to_load == ['']:
         langs_to_load = []
-    
-    # under the assumption that we load autoprompts, useless otherwise
-    
-    seeds = [int(seed) for seed in args.seeds.split('-')]
-    
-    autoprompt_paths = [os.path.join(
-                            "data",
-                            f"{args.model_name}_en_seed_{seed}.csv"
-                            ) for seed in seeds]
         
-    datasets = load_data_wrapper(
-                            datasets_to_load = datasets_to_load,
-                            autoprompt_paths = autoprompt_paths,
+    if not(args.knowledge_neurons):
+        # under the assumption that we load autoprompts, useless otherwise
+        seeds = [int(seed) for seed in args.seeds.split('-')]
+        autoprompt_paths = [os.path.join(
+                                "data",
+                                f"{args.model_name}_en_seed_{seed}.csv"
+                                ) for seed in seeds]
+            
+        datasets = load_data_wrapper(
+                                datasets_to_load = datasets_to_load,
+                                autoprompt_paths = autoprompt_paths,
+                                tokenizer = tokenizer,
+                                n_tokens = args.n_tokens,
+                                n_random_prompts = args.n_random_prompts,
+                                seeds = seeds,
+                                langs_to_load = langs_to_load,
+                                model_type = args.model_type,
+                                debug_flag = args.debug,
+                                )
+        
+    ### Knowledge Neurons ###
+    
+    if args.knowledge_neurons:
+        
+        assert len(datasets_to_load) == 1
+        assert datasets_to_load[0] in ['autoprompt', 'pararel']
+        
+        # Load data
+        dataset = load_pararel_by_uuid(
                             tokenizer = tokenizer,
-                            n_tokens = args.n_tokens,
-                            n_random_prompts = args.n_random_prompts,
-                            seeds = seeds,
-                            langs_to_load = langs_to_load
+                            remove_multiple_tokens = True,
+                            autoprompt = (datasets_to_load[0] == 'autoprompt'),
+                            lower = True
                             )
+        
+        kns_path = os.path.join('results', 'knowledge_neurons', args.model_name)
+        if datasets_to_load[0] == 'pararel':
+            kns_path = os.path.join(kns_path, 'pararel')
+        elif datasets_to_load[0] == 'autoprompt':
+            kns_path = os.path.join(kns_path, 'autoprompt')
+        os.makedirs(kns_path, exist_ok=True)
+        
+        kn = KnowledgeNeurons(
+            model = model.model,
+            tokenizer = tokenizer,
+            data = dataset,
+            device = device,
+            kns_path = kns_path
+        )
+        
+        if args.kns_compute:
+            kn.compute_knowledge_neurons()
+        
+        if args.kns_eval:
+            relative_probs = kn.knowledge_neurons_surgery(kns_match = not(args.kns_unmatch))
+            
+            plot_kns_surgery(relative_probs, kns_path, kns_match = not(args.kns_unmatch))
+            
+        if args.kns_overlap:
+            kn.compute_overlap()
+            
+        
+        
     
     ### Compute Metrics ###
     
@@ -139,223 +225,105 @@ if __name__ == '__main__':
     
     if args.lama_scores:
         
-        print("Compute LAMA score...")
-                
-        lama_scores_lama, scores_by_rela_lama = metrics.evaluate_on_lama(
-                                    dataset = datasets[lama_name],
-                                    num_eval = -1,
-                                    autoprompt = False,
-                                    batch_size = args.batch_size,
-                                    shuffle = args.shuffle
-                                    )
+        lama_scores_res_dict = metrics.compute_lama_scores(
+                                            datasets = datasets,
+                                            lama_name = lama_name,
+                                            seeds = seeds,
+                                            batch_size = args.batch_size
+                                            )
         
-        lama_scores_autoprompt = {}
-        scores_by_rela_autoprompt = {}
-        if 'autoprompt' in datasets_to_load:
-            for seed in seeds:
-                lama_scores_autoprompt[seed], scores_by_rela_autoprompt[seed] = metrics.evaluate_on_lama(
-                                                                    dataset = datasets[f'autoprompt_seed{seed}'],
-                                                                    num_eval = -1,
-                                                                    autoprompt = True,
-                                                                    batch_size = args.batch_size,
-                                                                    shuffle = args.shuffle
-                                                                    )
-                
-        lama_scores_random, scores_by_rela_random = metrics.evaluate_on_lama(
-                                        dataset = datasets['random'],
-                                        num_eval = -1,
-                                        autoprompt = True,
-                                        batch_size = args.batch_size,
-                                        shuffle = args.shuffle
+        
+    if args.embedds_analysis:
+        
+        embedds_analysis_res_dict = metrics.compute_embeddings_analysis(
+                                            datasets=datasets,
+                                            lama_name = lama_name,
+                                            seeds = seeds,
+                                            method = args.prompt_method,
+                                            batch_size = args.batch_size,
+                                            pooling = args.pooling,
+                                            hidden_states = args.hidden_states,
+                                            subset_size = 1000
                                         )
         
+    if args.curvatures:
         
-    if args.embeds_analysis or ('cluster' in args.cls):
-        
-        print("Compute Embeddings Anlysis...")
-        
-        embeds_lama, rela2embeds_lama = metrics.compute_embeddings(
-                                    df = datasets[lama_name],
-                                    autoprompt = False
-                                    )
-        
-        embeds_autoprompt = {}
-        rela2embeds_autoprompt = {}
-        if 'autoprompt' in datasets_to_load:
-            for seed in seeds:
-                embeds_autoprompt[seed], rela2embeds_autoprompt[seed] = metrics.compute_embeddings(
-                                    df = datasets[f'autoprompt_seed{seed}'],
-                                    autoprompt = True
-                                    )
-                
-        embeds_random, rela2embeds_random = metrics.compute_embeddings(
-                                    prompt_list = datasets['random_raw'],  # Random Prompt do not require DataFrame
-                                    autoprompt = True
-                                    )
-                
-        print("Human vs AutoPrompt (seed 0)")
-        embeds_analysis_lama_autoprompt0 = metrics.compute_embeddings_analysis(embeds_lama, embeds_autoprompt[0])
-        embeds_analysis_lama_autoprompt0['label1'] = 'LAMA'
-        embeds_analysis_lama_autoprompt0['label2'] = 'AutoPrompt (seed 0)'
-        print("Human vs AutoPrompt (seed 1)")
-        _ = metrics.compute_embeddings_analysis(embeds_lama, embeds_autoprompt[1])
-        print("Human vs Random (Baseline)")
-        embeds_analysis_lama_random = metrics.compute_embeddings_analysis(embeds_lama, embeds_random)
-        embeds_analysis_lama_random['label1'] = 'LAMA'
-        embeds_analysis_lama_random['label2'] = 'Random'
-        print("AutoPrompt (seed 1) vs AutoPrompt (seed 0)")
-        _ = metrics.compute_embeddings_analysis(embeds_autoprompt[0], embeds_autoprompt[1])
-        print("Random vs AutoPrompt (seed 0)")
-        embeds_analysis_autoprompt0_random = metrics.compute_embeddings_analysis(embeds_autoprompt[0], embeds_random)
-        embeds_analysis_autoprompt0_random['label1'] = 'AutoPrompt (seed 0)'
-        embeds_analysis_autoprompt0_random['label2'] = 'Random'
+        curvatures_res_dict = metrics.compute_curvatures(
+                                            datasets=datasets,
+                                            lama_name = lama_name,
+                                            seeds = seeds,
+                                            batch_size = args.batch_size,
+                                        )
         
     
     
     if args.rela_nll or args.rela_perplexity:
         
-        print("Compute NLL & Perplexity score...")
-        
-        relations_ids = list(set(datasets[lama_name]['predicate_id']))
-        
-        nlls = {}
-        perplexities = {}
-        tokens = {}
-        
-        for rela in tqdm.tqdm(relations_ids):
-            
-            rela_nlls = {}
-            rela_perplexities = {}
-            rela_tokens = {}
-            
-            # LAMA
-            lama_res = metrics.compute_nll_perplexity(
-                                    df = datasets[lama_name][datasets[lama_name]['predicate_id'] == rela], 
-                                    autoprompt = False, 
-                                    method = args.prompt_method,
-                                    batch_size = args.batch_size
-                                    )
-            rela_nlls[lama_name] = lama_res['nll']
-            rela_perplexities[lama_name] = lama_res['perplexity']
-            rela_tokens[lama_name] = lama_res['tokens']
-            
-            # AutoPrompt
-            for seed in seeds:
-                autoprompt_res = metrics.compute_nll_perplexity(
-                                            df = datasets[f'autoprompt_seed{seed}'][datasets[f'autoprompt_seed{seed}']['predicate_id'] == rela], 
-                                            autoprompt = True, 
+        nlls_perplexities_res_dict = metrics.compute_nlls_perplexities(
+                                            datasets = datasets,
+                                            seeds = seeds,
                                             method = args.prompt_method,
                                             batch_size = args.batch_size
                                             )
-                rela_nlls[f'autoprompt_seed{seed}'] = autoprompt_res['nll']
-                rela_perplexities[f'autoprompt_seed{seed}'] = autoprompt_res['perplexity']
-                rela_tokens[f'autoprompt_seed{seed}'] = autoprompt_res['tokens']
-
-            # Random
-            random_res = metrics.compute_nll_perplexity(
-                                        df = datasets['random'][datasets['random']['predicate_id'] == rela], 
-                                        autoprompt = True, 
-                                        method = args.prompt_method,
-                                        batch_size = args.batch_size
-                                        )
-            rela_nlls['random'] = random_res['nll']
-            rela_perplexities['random'] = random_res['perplexity']
-            rela_tokens['random'] = random_res['tokens']
-            
-            # store
-            nlls[rela] = rela_nlls
-            perplexities[rela] = rela_perplexities
-            tokens[rela] = rela_tokens
             
     if args.prompt_cls:
-        
+             
         # Init Classifier
         cls = PromptClassifier(
                             model = model,
                             model_name = args.model_name,
                             tokenizer = tokenizer,
+                            metrics = metrics, 
                             device = device,
                             cls = args.cls,
-                            cls_what = args.cls_what,
-                            batch_size = args.batch_size
-                        )
+                            data_to_classify = process_data_to_classify(args.data_to_classify, seeds, lama_name),
+                            batch_size = args.batch_size,
+                            seeds = seeds,
+                            prompt_method = args.prompt_method,
+                            pooling = args.pooling
+                            ) 
         
-        # Compute NLLs
-        cls_what = args.cls_what.split('-')
-        assert len(cls_what) == 2 # TEMP
-        tok_list = {}
-        if 'random' in cls_what:
-            random_prompts_list = datasets['random_raw']
-            tok_list['random'] = cls.tokenize(random_prompts_list, 
-                                              autoprompt=True)
-        if 'prompt' in cls_what:
-            autoprompt_list = datasets['autoprompt_raw']
-            tok_list['prompt'] = cls.tokenize(autoprompt_list,
-                                              autoprompt=True)
-        if 'human' in cls_what:
-            lama_list = datasets['lama_raw']
-            tok_list['human'] = cls.tokenize(lama_list)
-            
+        # Preprocess
+        train_dataset = cls.preprocess(datasets)
         
-        if args.cls in ['last_nll', 'last_perplexity', 'logistic_reg', 'last_nll_reg']:
-            # So dataset 0 is supposed to be random in the pairs human-random & prompt-random
-            # and is supposed to be prompt in the pairs human-prompt
-            if 'random' in cls_what:
-                other_name = 'human' if 'human' in cls_what else 'prompt'
-                dataset = {'0': tok_list['random'],
-                           '1': tok_list[other_name]}
-            else:
-                dataset = {'0': tok_list['prompt'],
-                           '1': tok_list['human']}
-            cls.train(dataset = dataset)
-            cls.chose_best_threshold(dataset = dataset)  
-        elif args.cls in ['cluster-pca']:
-            pass 
+        # Train
+        cls.train(train_dataset)
         
-        if cls_what == ['prompt', 'random'] or cls_what == ['random', 'prompt']:
-            cls.compute_prompt_proportion(
-                n_tokens = args.n_tokens,
-                n_eval = 2000
-                )
-    
+        # Compute Optimal Threshold
+        cls.chose_best_threshold(train_dataset)
+        
+        
     ### Plot & Save Results ###
     
     if args.lama_scores:
         
         os.makedirs(os.path.join('results', "lama_scores"), exist_ok=True)
         
-        if args.shuffle:
-            scores_name_lama = f'{args.model_name}_{lama_name}_scores_{lama_name}_shuffled.pickle'
-            scores_by_rela_name_lama = f'{args.model_name}_{lama_name}_scores_by_rela_{lama_name}_shuffled.pickle'
-            scores_name_autoprompt = args.model_name + f'_{lama_name}' + '_scores_autoprompt_seed{}_shuffled.pickle'
-            scores_by_rela_name_autoprompt = args.model_name + f'_{lama_name}' + '_scores_by_rela_autoprompt_seed{}_shuffled.pickle'
-        else:
-            scores_name_lama = f'{args.model_name}_{lama_name}_scores_{lama_name}.pickle'
-            scores_by_rela_name_lama = f'{args.model_name}_{lama_name}_scores_by_rela_{lama_name}.pickle'
-            scores_name_autoprompt = args.model_name + f'_{lama_name}' + '_scores_autoprompt_seed{}.pickle'
-            scores_by_rela_name_autoprompt = args.model_name + f'_{lama_name}' + '_scores_by_rela_autoprompt_seed{}.pickle'
+        scores_name_lama = f'{args.model_name}_{lama_name}_scores_{lama_name}.pickle'
+        scores_by_rela_name_lama = f'{args.model_name}_{lama_name}_scores_by_rela_{lama_name}.pickle'
+        scores_name_autoprompt = args.model_name + f'_{lama_name}' + '_scores_autoprompt_seed{}.pickle'
+        scores_by_rela_name_autoprompt = args.model_name + f'_{lama_name}' + '_scores_by_rela_autoprompt_seed{}.pickle'
         
         with open(os.path.join('results', 'lama_scores', scores_name_lama), 'wb') as f:
-            pickle.dump(lama_scores_lama, f)
+            pickle.dump(lama_scores_res_dict[lama_name]['scores'], f)
         
         with open(os.path.join('results', 'lama_scores', scores_by_rela_name_lama), 'wb') as f:
-            pickle.dump(scores_by_rela_lama, f)
+            pickle.dump(lama_scores_res_dict[lama_name]['scores_by_rela'], f)
             
         if 'autoprompt' in datasets_to_load:
             for seed in seeds:
                 with open(os.path.join('results', 'lama_scores', scores_name_autoprompt.format(seed) ), 'wb') as f:
-                    pickle.dump(lama_scores_autoprompt[seed], f)
+                    pickle.dump(lama_scores_res_dict['autoprompt']['scores'][seed], f)
                     
                 with open(os.path.join('results', 'lama_scores', scores_by_rela_name_autoprompt.format(seed)), 'wb') as f:
-                    pickle.dump(scores_by_rela_autoprompt[seed], f)
+                    pickle.dump(lama_scores_res_dict['autoprompt']['scores_by_rela'][seed], f)
         
         plot_lama_scores(
-            lama_scores_lama = lama_scores_lama,
-            lama_scores_autoprompt = lama_scores_autoprompt,
-            lama_scores_random = lama_scores_random,
+            lama_scores_lama = lama_scores_res_dict[lama_name]['scores'],
+            lama_scores_autoprompt = lama_scores_res_dict['autoprompt']['scores'],
+            lama_scores_random = lama_scores_res_dict['random']['scores'],
             model_name = args.model_name,
             seeds = seeds,
-            shuffle = args.shuffle,
             lama_name = lama_name
         )
         
@@ -364,15 +332,17 @@ if __name__ == '__main__':
         os.makedirs(os.path.join('results', "nll", f"method_{args.prompt_method}"), exist_ok=True)
         
         with open(os.path.join('results', "nll", f"method_{args.prompt_method}", f'{args.model_name}_nlls_method_{args.prompt_method}.pickle'), 'wb') as f:
-            pickle.dump(nlls, f)
+            pickle.dump(nlls_perplexities_res_dict['nlls'], f)
         with open(os.path.join('results', "nll", f"method_{args.prompt_method}", f'{args.model_name}_tokens_method_{args.prompt_method}.pickle'), 'wb') as f:
-            pickle.dump(tokens, f)
+            pickle.dump(nlls_perplexities_res_dict['tokens'], f)
+            
+        relations_ids = list(set(datasets[lama_name]['predicate_id']))
         
         for seed in seeds:
             for rela in relations_ids:
                 plot_rela_nll_perplexity(
-                    nlls[rela],
-                    tokens[rela],
+                    nlls_perplexities_res_dict['nlls'][rela],
+                    nlls_perplexities_res_dict['tokens'][rela],
                     method = args.prompt_method,
                     model_name = args.model_name,
                     rela = rela,
@@ -385,15 +355,15 @@ if __name__ == '__main__':
         os.makedirs(os.path.join('results', "perplexity", f"method_{args.prompt_method}"), exist_ok=True)
         
         with open(os.path.join('results', "perplexity", f"method_{args.prompt_method}", f'{args.model_name}_perplexities_method_{args.prompt_method}.pickle'), 'wb') as f:
-            pickle.dump(perplexities, f)
+            pickle.dump(nlls_perplexities_res_dict['perplexities'], f)
         with open(os.path.join('results', "perplexity", f"method_{args.prompt_method}", f'{args.model_name}_tokens_method_{args.prompt_method}.pickle'), 'wb') as f:
-            pickle.dump(tokens, f)
+            pickle.dump(nlls_perplexities_res_dict['tokens'], f)
         
         for seed in seeds:
             for rela in relations_ids:
                 plot_rela_nll_perplexity(
-                    perplexities[rela],
-                    tokens[rela],
+                    nlls_perplexities_res_dict['perplexities'][rela],
+                    nlls_perplexities_res_dict['tokens'][rela],
                     method = args.prompt_method,
                     model_name = args.model_name,
                     rela = rela,
@@ -401,51 +371,107 @@ if __name__ == '__main__':
                     perplexity = True
                 )
                 
-    if args.embeds_analysis:
+    if args.curvatures:
         
-        os.makedirs(os.path.join('results', "embeddings_analysis", "PCA"), exist_ok=True)
-        os.makedirs(os.path.join('results', "embeddings_analysis", "MDS"), exist_ok=True)
+        curvatures_path = os.path.join('results', "curvatures")
+        os.makedirs(curvatures_path, exist_ok=True)
         
+        plot_curvatures(
+            curvatures_res_dict,
+            model_name = args.model_name,
+            dir_path = curvatures_path
+            )
+                
+    if args.embedds_analysis:
         
-        plot_embeddings_dim_red(
-                        embeds1 = embeds_analysis_lama_autoprompt0['pca embeds1'],
-                        embeds2 = embeds_analysis_lama_autoprompt0['pca embeds2'],
-                        embeds3 = None,
-                        label1 = embeds_analysis_lama_autoprompt0['label1'],
-                        label2 = embeds_analysis_lama_autoprompt0['label2'],
-                        label3 = None,
-                        annots1 = list(rela2embeds_lama.keys()),
-                        annots2 = list(rela2embeds_lama.keys()),
-                        annots3 = None,
-                        dim_red_name = 'PCA',
-                        model_name = args.model_name
-                        )
+        pca_path = os.path.join('results', "embeddings_analysis", "PCA", f"{args.model_name}-{args.prompt_method}-{args.pooling}")
+        mds_path = os.path.join('results', "embeddings_analysis", "MDS", f"{args.model_name}-{args.prompt_method}-{args.pooling}")
+        os.makedirs(pca_path, exist_ok=True)
+        os.makedirs(mds_path, exist_ok=True)
         
-        # Remark: Not neccessary to have as many random as lama
-        plot_embeddings_dim_red(
-                        embeds1 = embeds_analysis_lama_random['pca embeds1'],
-                        embeds2 = embeds_analysis_lama_random['pca embeds2'],
-                        embeds3 = None,
-                        label1 = embeds_analysis_lama_random['label1'],
-                        label2 = embeds_analysis_lama_random['label2'],
-                        label3 = None,
-                        annots1 = list(rela2embeds_lama.keys()),
-                        annots2 = [],
-                        annots3 = None,
-                        dim_red_name = 'PCA',
-                        model_name = args.model_name
-                        )
+        data_names = [lama_name] + \
+                     [f'autoprompt_seed{seed}' for seed in seeds] + \
+                     ['random'] # Not that clean because we should use the data_to_load param but you know..
         
-        plot_embeddings_dim_red(
-                        embeds1 = embeds_analysis_autoprompt0_random['pca embeds1'],
-                        embeds2 = embeds_analysis_autoprompt0_random['pca embeds2'],
-                        embeds3 = None,
-                        label1 = embeds_analysis_autoprompt0_random['label1'],
-                        label2 = embeds_analysis_autoprompt0_random['label2'],
-                        label3 = None,
-                        annots1 = list(rela2embeds_lama.keys()),
-                        annots2 = [],
-                        annots3 = None,
-                        dim_red_name = 'PCA',
-                        model_name = args.model_name
-                        )
+        # Save PCA
+        
+        if args.hidden_states:
+            for l in range(embedds_analysis_res_dict[f'{data_names[0]}-{data_names[1]}']['num_layers']):
+                for i in range(len(data_names)):
+                    for j in range(i+1, len(data_names)):
+                        plot_embeddings_dim_red(
+                                        embeds1 = embedds_analysis_res_dict[f'{data_names[i]}-{data_names[j]}'][f'pca embeds1 layer{l}'],
+                                        embeds2 = embedds_analysis_res_dict[f'{data_names[i]}-{data_names[j]}'][f'pca embeds2 layer{l}'],
+                                        embeds3 = None,
+                                        label1 = embedds_analysis_res_dict[f'{data_names[i]}-{data_names[j]}']['label1'],
+                                        label2 = embedds_analysis_res_dict[f'{data_names[i]}-{data_names[j]}']['label2'],
+                                        label3 = None,
+                                        annots1 = [], # Supposed to be relations ids but it's hard for nothing big so anyway
+                                        annots2 = [], # Same
+                                        annots3 = None,
+                                        dim_red_name = 'PCA',
+                                        dir_path = pca_path,
+                                        layer_num=l
+                                        )
+                        plot_embeddings_dim_red(
+                                        embeds1 = embedds_analysis_res_dict[f'{data_names[i]}-{data_names[j]}'][f'mds embeds1 layer{l}'],
+                                        embeds2 = embedds_analysis_res_dict[f'{data_names[i]}-{data_names[j]}'][f'mds embeds2 layer{l}'],
+                                        embeds3 = None,
+                                        label1 = embedds_analysis_res_dict[f'{data_names[i]}-{data_names[j]}']['label1'],
+                                        label2 = embedds_analysis_res_dict[f'{data_names[i]}-{data_names[j]}']['label2'],
+                                        label3 = None,
+                                        annots1 = [], # Supposed to be relations ids but it's hard for nothing big so anyway
+                                        annots2 = [], # Same
+                                        annots3 = None,
+                                        dim_red_name = 'MDS',
+                                        dir_path = mds_path,
+                                        layer_num=l
+                                        )
+                        
+            for i in range(len(data_names)):
+                    for j in range(i+1, len(data_names)):
+                        plot_clustering(
+                            res_dict = embedds_analysis_res_dict[f'{data_names[i]}-{data_names[j]}'], 
+                            dir_path = pca_path,
+                            dim_red_name = 'pca'
+                            )
+                        plot_R_sq(
+                            res_dict = embedds_analysis_res_dict[f'{data_names[i]}-{data_names[j]}'], 
+                            dir_path = pca_path,
+                            dim_red_name = 'pca'
+                            )
+                        plot_clustering(
+                            res_dict = embedds_analysis_res_dict[f'{data_names[i]}-{data_names[j]}'], 
+                            dir_path = mds_path,
+                            dim_red_name = 'mds'
+                            )
+                        
+        else:
+            for i in range(len(data_names)):
+                for j in range(i+1, len(data_names)):
+                    plot_embeddings_dim_red(
+                                    embeds1 = embedds_analysis_res_dict[f'{data_names[i]}-{data_names[j]}']['pca embeds1'],
+                                    embeds2 = embedds_analysis_res_dict[f'{data_names[i]}-{data_names[j]}']['pca embeds2'],
+                                    embeds3 = None,
+                                    label1 = embedds_analysis_res_dict[f'{data_names[i]}-{data_names[j]}']['label1'],
+                                    label2 = embedds_analysis_res_dict[f'{data_names[i]}-{data_names[j]}']['label2'],
+                                    label3 = None,
+                                    annots1 = [], # Supposed to be relations ids but it's hard for nothing big so anyway
+                                    annots2 = [], # Same
+                                    annots3 = None,
+                                    dim_red_name = 'PCA',
+                                    dir_path = pca_path,
+                                    )
+                    plot_embeddings_dim_red(
+                                    embeds1 = embedds_analysis_res_dict[f'{data_names[i]}-{data_names[j]}']['mds embeds1'],
+                                    embeds2 = embedds_analysis_res_dict[f'{data_names[i]}-{data_names[j]}']['mds embeds2'],
+                                    embeds3 = None,
+                                    label1 = embedds_analysis_res_dict[f'{data_names[i]}-{data_names[j]}']['label1'],
+                                    label2 = embedds_analysis_res_dict[f'{data_names[i]}-{data_names[j]}']['label2'],
+                                    label3 = None,
+                                    annots1 = [], # Supposed to be relations ids but it's hard for nothing big so anyway
+                                    annots2 = [], # Same
+                                    annots3 = None,
+                                    dim_red_name = 'MDS',
+                                    dir_path = mds_path,
+                                    )

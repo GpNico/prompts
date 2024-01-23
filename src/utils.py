@@ -1,158 +1,226 @@
 
 
+import numpy as np
 import pandas as pd
+import torch
+from torch.nn.functional import pad
+from typing import List, Tuple, Dict
 
 
 def get_template_from_lama(df: pd.core.frame.DataFrame) -> dict:
-        """
-            Retrieve templats from a LAMA type dataframe.
-            
-            Rk: remove [X] and [Y]. Could be interesting to replace it by instantaiations.
-        """
-        templates = {}
-        for k in range(len(df)):
-            elem = df.iloc[k]
-            rela = elem['predicate_id']
-            if rela in templates.keys():
-                continue
-            templates[rela] = elem['template'].replace('[X] ', '').replace(' [Y]', '').replace(' .', '')
-        return templates
-    
-class Embedder():
     """
-    Wrapper class that deals with all the specificity of each
-    embeddings. It will be one ugly function but at least everything
-    is centralized here.
+        Retrieve templats from a LAMA type dataframe.
+        
+        Rk: remove [X] and [Y]. Could be interesting to replace it by instantaiations.
+    """
+    templates = {}
+    for k in range(len(df)):
+        elem = df.iloc[k]
+        rela = elem['predicate_id']
+        if rela in templates.keys():
+            continue
+        templates[rela] = elem['template'].replace('[X] ', '').replace(' [Y]', '').replace(' .', '')
+    return templates
     
-    
-    Different methods illustrated with:
-    
-        (1) [CLS] is located in [SEP]
-            
-            Here [X] and [Y] are removed and not instantiated.
-            The issue would be that therefore the sentence becomes ungrammatical
-            for english of course (even more when [X] or [Y] are not on the sentence 
-            boundary) but even (pehaps) for machine prompts.
-            In this case the model only have to evaluate only one prompt. 
-        
-        (2) [CLS] Paris is located in [SEP]
-        
-            Here only [X] has been instantiated. The advantage is that every prompts 
-            that end with [Y] would be grammatical up to where it has been cut. However
-            in a MaskedLM the [SEP] token would provide ungrammatical signal. Moreover
-            for prompts where [Y] is in the middle (eg. '[X] and [Y] are twin cities') it
-            is again ungrammatical.
-            In this case the model needs to evaluate each row from the dataset.
-        
-        (3) [CLS] Paris is located in [MASK] [SEP]
-        
-            Here [X] has been instantiated and [Y] has been replaced by [MASK]. It would
-            need to be changed for other models than BERT. The advantage is that it is
-            the cloze form needed to solve LAMA. Hence the [MASK] embedding is supposed
-            to encode what is needed to predict [Y]. Moreover the sentence is now
-            grammatical. It's only working with one-token [Y]. 
-            In this case the model needs to evaluate each row from the dataset.
-        
-        (4) [CLS] Paris is located in France [SEP]
-        
-            Here [X] and [Y] are instantiated. 
-            Perfect to evaluate embeddings. It raises a question regarding
-            perplexity or NLL. 
-            /!\ Need to look the difference between [Y] embedding here
-                and [MASK] embedding, or perplexity /!\
-            In this case the model needs to evaluate each row from the dataset.
-            
-            
-    On top of that attention_mask could be different things:
-        
-        (i) For embedding analysis for example attention mask should be the whole
-            sentence (and 0s would be the padding).
-            
-        (ii) For NLL computation 1s would design only the prompt's tokens.
+def compute_lama_scores_by_rela(raw_relas_and_scores: pd.core.frame.DataFrame) -> dict:
+    """
+
+        Compute LAMA scores but present the results rela by rela.
+
+        Args:
+            raw_relas_and_scores (pd Dataframe) columns: ['rela', 'filter', 'P@k']
+                                                Contains the score for each row of the dataset.
+                                                'rela' column stores the rela id of the row
+                                                'filter' states whether (1) or not (0) [Y] was one token.
+        Returns:
+            scores (dict) key: (str) rela id (e.g. 'P276') value: (dict) key: (str) 'P@k' value: (float) P@k for the rela
+
     """
     
-    def __init__(self,
-                 tokenizer):
-        self.tokenizer = tokenizer
-        self.token2id = {} # The idea is that when tokenizing ##s for example (which is a token)
-                           # the tokenizer will treat it as # - # - s which is unfortunate...
-        for id in range(self.tokenizer.vocab_size):
-            token = self.tokenizer.decode(id)
-            self.token2id[token] = id
+    relas = list(set(raw_relas_and_scores['rela']))
+    
+    scores = {}
+    for rela in relas:
+        _scores = {}
+        df = raw_relas_and_scores[(raw_relas_and_scores['rela'] == rela) & (raw_relas_and_scores['filter'] == 1) ]
+        _scores['P@1'] = df['P@1'].sum()/len(df)
+        _scores['P@5'] = df['P@5'].sum()/len(df)
+        _scores['P@20'] = df['P@20'].sum()/len(df)
+        _scores['P@100'] = df['P@100'].sum()/len(df)
+        scores[rela] = _scores
+    
+    return scores
+
+def compute_perplexity(probs: torch.Tensor) -> torch.Tensor:
+    """
+        Here perplexity means according to us.
         
-    def embed(self,):
-        ##### DEAL with ' .' ? 
-        # Removing ' .' hurts a lot the model performances
-        # Might need a flag to remove or not the ' .'
-        # For perplexity computation it doesn't matters as we reveal
-        # context from left to right...
-        templates = [template.replace(' .', '') for template in templates]
+        Args:
+            probs (tensor) shape (BS, vocab_size)
         
-        # Masks
-        if autoprompt:
-            attention_mask = [ [self.token2id['[CLS]']] + [self.token2id[tok] for tok in template.replace('[X]', '[MASK]').replace('[Y]', '[UNK]').split(' ')] + [self.token2id['[SEP]']]\
-                                for template in templates]
+    """
+    H = - (probs * torch.log(probs)).sum(axis = 1) # entropy base e
+    return torch.exp(H) # shape BS
+
+def select_subset(t: torch.Tensor, size: int, dim: int = 0) -> torch.Tensor:
+    """
+        Given a tensor of shape [BS, *] or [Num Layer, BS, *].
+        Chose randomly a subset of size size according to dim.
+    
+    """
+    assert dim in [0,1]
+    
+    if size > t.shape[dim]:
+        return t
+    
+    idx = np.random.choice(t.shape[dim],
+                           size,
+                           replace=False)
+    if dim == 0:
+        return t[idx]
+    elif dim == 1:
+        return t[:,idx]
+
+
+def process_data_to_classify(data_to_classify: str,
+                             seeds: List[int],
+                             lama_name: str) -> List[str]:
+    """
+        Small function that transforms 'lama-autoprompt' in [lama_name, f'autoprompt_seed{seed[0]}']
+        for instance.
+    
+        Args:
+            data_to_classify (str) e.g. 'lama-autoprompt'
+            seeds (List of int) usually [0,1]
+            lama_name (str)
+        Returns:
+            data_to_classify (List of str)
+    """
+    
+    # Retrieve data to classify
+    data_to_classify = data_to_classify.split('-')
+    assert len(data_to_classify) == 2
+    count_autoprompt = 0
+    for k in range(2):
+        if data_to_classify[k] == 'lama':
+            data_to_classify[k] = lama_name
+        elif data_to_classify[k] == 'autoprompt':
+            data_to_classify[k] = f'autoprompt_seed{seeds[count_autoprompt]}'
+            count_autoprompt += 1
+    return data_to_classify
+
+def token_sequence_or_not(data_to_clasify: List[str]) -> List[bool]:
+    token_sequence_bools = {}
+    for d in data_to_clasify:
+        if 'lama' in d:
+            # Only dataset that is not a Token sequence (for now) is LAMA derivatives
+            token_sequence_bools[d] = False
         else:
-            attention_mask = [self.tokenizer(template.replace('[X]', '[MASK]').replace('[Y]', '[UNK]')).input_ids for template in templates] # to id [X] and [Y] after tokenization
-            
-        # Create and tokenize template according to method
+            token_sequence_bools[d] = True
+    return token_sequence_bools
+
+def collapse_metrics_nlls_perplexities(res_dict: dict, 
+                                       dataset_names: List[str]) -> dict:
+    """
+    
+    Stack everytensor of a res_dict from metrics.compute_nlls_perplexities.
+    
+    Args:
+        res_dict (dict) keys: 'nlls'         values: (dict) keys: (str) relas from LAMA  values: (dict) keys: (str) dataset name  values: (Tensor) 
+                              'perplexities'         (dict) keys: (str) relas from LAMA  values: (dict) keys: (str) dataset name  values: (Tensor)
+                              'tokens'
+        dataset_names (list of str)
+                              
+    Returns:
+        collapsed_res (dict) keys: dataset_name        values: (tuple of tensor) (nlls, perplexities)  
+    
+    """
+    
+    nlls = {d:[] for d in dataset_names}
+    perplexities = {d:[] for d in dataset_names}
+    for rela in res_dict['nlls'].keys():
+        for d in dataset_names:
+            nlls[d].append(res_dict['nlls'][rela][d])
+            perplexities[d].append(res_dict['perplexities'][rela][d])
+    maxLength = max([max([e.shape[1] for e in nlls[d]]) for d in dataset_names])
+    for d in dataset_names:
+        for k in range(len(nlls[d])):
+            nlls[d][k] = pad(nlls[d][k], (0, maxLength - nlls[d][k].shape[1] + 1)) # The + 1 is intended to pad every tensor by at least 1 tensor
+            perplexities[d][k] = pad(perplexities[d][k], (0, maxLength - perplexities[d][k].shape[1] + 1)) # The + 1 is intended to pad every tensor by at least 1 tensor
+    
+    return {d: (torch.cat(nlls[d]), torch.cat(perplexities[d])) for d in dataset_names}
+    
+    
+
+### It was used to see if shuffling prompts resulted in a drop in perf. I removed it
+#   for readability but if I need it one day it's here. And results are still there as well. ###
+
+def shuffle_template(template: str, 
+                     shuffle: bool = False,
+                     method: int = 2) -> str:
+    """
+        Args:
+            template (str) str of the form "tok ... tok [X] tok tok ... tok [Y] tok ... tok".
+                            We could try different method:
+                            (i) shuffle everything
+                            (ii) keep [X] and [Y] in place
+                            /!\ [Y] is not always last...
+            shuffle (bool) whether or not we apply a shuffling operation.         
+    """
+    if shuffle:
+        words = template.split(' ')[:-1]
         if method == 1:
-            sentences = [template.replace('[X] ', '').replace(' [Y]', '') for template in templates] # Method 1 is not to be used here as we do a pass on each
-                                                                                                        # line of the relation, and with method 1 each sentence 
-                                                                                                        # is the same!
-            attention_mask = [self.mask_helper(mask) for mask in attention_mask]  
+            # Let's only focus on (i) for now
+            np.random.shuffle(words)
+            return ' '.join(words) + ' .'
         elif method == 2:
-            
-            if autoprompt:
-                sentences = [
-                            template.replace('[X]', ' '.join(self.tokenizer.decode(id) for id in self.tokenizer(sub_surface).input_ids[1:-1])).replace(' [Y]', '') \
-                            for template, sub_surface in zip(templates, sub_surfaces)
-                            ]
-            else:
-                sentences = [template.replace('[X]', sub_surface).replace(' [Y]', '') for template, sub_surface in zip(templates, sub_surfaces)]
-                
-            attention_mask = [self.mask_helper(mask, word1 = sub_surface) for mask, sub_surface in zip(attention_mask, sub_surfaces)] 
+            x_pos = words.index('[X]')
+            y_pos = words.index('[Y]')
+            words.remove('[X]')
+            words.remove('[Y]')
+            np.random.shuffle(words)
+            words.insert(x_pos, '[X]')
+            words.insert(y_pos, '[Y]')
+            return ' '.join(words) + ' .'
+    else:
+        return template
+    
 
-        elif method == 3:
-            
-            if autoprompt:
-                sentences = [
-                            template.replace('[X]', ' '.join(self.tokenizer.decode(id) for id in self.tokenizer(sub_surface).input_ids[1:-1])).replace('[Y]', self.tokenizer.mask_token) \
-                            for template, sub_surface in zip(templates, sub_surfaces)
-                            ]
-            else:
-                sentences = [template.replace('[X]', sub_surface).replace('[Y]', '[MASK]') for template, sub_surface in zip(templates, sub_surfaces)]
-                
-            attention_mask = [self.mask_helper(mask, word1 = sub_surface, word2 = self.tokenizer.mask_token) for mask, sub_surface in zip(attention_mask, sub_surfaces)]
+"""  
+def average_rela_results(
+                scores_by_uuid: Dict[str, Dict[str, float]], 
+                probs_by_uuid: Dict[str, List[float]]
+                ) -> Tuple[ Dict[str, float] ]:
+    # Scores
+    scores = {'P@1': 0,
+              'P@5': 0,
+              'P@20': 0,
+              'P@100': 0}
+    for uuid in scores_by_uuid.keys():
+        for k, v in scores_by_uuid[uuid].items():
+            scores[k] += v
+    scores = {k: v/len(scores_by_uuid) for k,v in scores.items()}
 
-        elif method == 4:
-            
-            if autoprompt:
-                sentences = [
-                            template.replace('[X]', ' '.join(self.tokenizer.decode(id) for id in self.tokenizer(sub_surface).input_ids[1:-1])).replace('[Y]', ' '.join(self.tokenizer.decode(id) for id in self.tokenizer(obj_surface).input_ids[1:-1])) \
-                            for template, sub_surface, obj_surface in zip(templates, sub_surfaces, obj_surfaces)
-                            ]
-            else:
-                sentences = [template.replace('[X]', sub_surface).replace('[Y]', obj_surface) for template, sub_surface, obj_surface in zip(templates, sub_surfaces, obj_surfaces)]
-                
-            attention_mask = [self.mask_helper(mask, word1 = sub_surface, word2 = obj_surface) for mask, sub_surface, obj_surface in zip(attention_mask, sub_surfaces, obj_surfaces)]
-            
-        if autoprompt:
-            #print(sentences)
-            input_ids = [
-                            torch.tensor(
-                                [self.token2id['[CLS]']] + [self.token2id[token] for token in sentence.split(' ')] + [self.token2id['[SEP]']] \
-                                ) 
-                            for sentence in sentences        
-                        ]
-            #attention_mask = [ torch.ones(len(t)) for t in input_ids]
-            input_ids = torch.nn.utils.rnn.pad_sequence(input_ids, batch_first = True)
-        else:
-            encodings = self.tokenizer(sentences, padding = True, return_tensors = 'pt')
-            input_ids = encodings.input_ids
-            
-        attention_mask = torch.nn.utils.rnn.pad_sequence(attention_mask, batch_first = True)
-        
-        input_ids = input_ids[:, :attention_mask.shape[1]] # beacause as we return a mask of [0] for sentences where len(word2) > 1 the padding doesn't take them into account
-        
-        return input_ids, attention_mask
+    # Probs
+    prob = 0.
+    for v in probs_by_uuid.values():
+        prob += sum(v)/len(v)
+    prob /= len(probs_by_uuid)
+
+    return scores, prob
+"""
+    
+def compute_variation(
+                probs_before: list, 
+                probs_after: list
+                ) -> float:
+  # Scores
+  prob_changes = []
+  for uuid in probs_before.keys():
+    _prob_changes_uuid = []
+    for k in range(len(probs_before[uuid])):
+      prob_change = (probs_after[uuid][k] - probs_before[uuid][k]) / probs_before[uuid][k]
+      _prob_changes_uuid.append(prob_change)
+    prob_changes.append( sum(_prob_changes_uuid)/len(_prob_changes_uuid) )
+
+  return sum(prob_changes)/len(prob_changes)
