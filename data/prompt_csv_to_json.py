@@ -11,16 +11,23 @@ if __name__ == '__main__':
     parser.add_argument('--model_name', 
                         type=str, 
                         default='bert-base-uncased')
+    parser.add_argument('--path', 
+                        type=str,
+                        default = "vanilla")
     args = parser.parse_args()
     
+    # get path
+    full_path = os.path.join('data', 'autoprompt', args.path)
+    
+    
     # Get autoprompt files
-    autoprompt_files = [n for n in os.listdir('.') if ('.csv' in n) and (args.model_name in n)]
+    autoprompt_files = [n for n in os.listdir(full_path) if ('.csv' in n) and (args.model_name in n)]
     
     # Read prompt files and get autoprompts
     rela2prompts = {}
     for file_name in autoprompt_files:
         seed = file_name.split('_')[-1][:-4]
-        df = pd.read_csv(file_name)
+        df = pd.read_csv(os.path.join(full_path, file_name))
         for k in range(len(df)):
             elem = df.iloc[k]
             rela, prompt = elem['id'], elem['prompt']
@@ -33,7 +40,7 @@ if __name__ == '__main__':
                                        "seed": seed}]
     
     # Write in jsonl files
-    folder_name = 'autoprompt_jsonl'
+    folder_name = os.path.join('data', 'autoprompt_jsonl', args.path)
     os.makedirs(folder_name, exist_ok=True)
     for rela in rela2prompts.keys():
         with open(os.path.join(folder_name, f'{rela}.jsonl'), 'w') as jsonl_file:

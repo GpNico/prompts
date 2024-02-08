@@ -135,41 +135,24 @@ class MetricsWrapper:
         """
     
         print("Computing LAMA score...")
-                
-        # LAMA
-        lama_scores_lama, scores_by_rela_lama = self._compute_lama_scores(
-                                    df = datasets[kwargs['lama_name']],
+        
+        res = {}
+        for dataset_name in datasets.keys():
+            if 'autoprompt' or 'random' in dataset_name:
+                token_sequence = True
+            else:
+                token_sequence = False
+            
+            scores, scores_by_rela = self._compute_lama_scores(
+                                    df = datasets[dataset_name],
                                     num_eval = -1,
-                                    token_sequence = False,
+                                    token_sequence = token_sequence,
                                     batch_size = kwargs['batch_size'],
                                     )
+
+            res[dataset_name] = {'scores': scores, 'scores_by_rela': scores_by_rela}
         
-        # AutoPrompt
-        lama_scores_autoprompt = {}
-        scores_by_rela_autoprompt = {}
-        for seed in kwargs['seeds']:
-            lama_scores_autoprompt[seed], scores_by_rela_autoprompt[seed] = self._compute_lama_scores(
-                                                                df = datasets[f'autoprompt_seed{seed}'],
-                                                                num_eval = -1,
-                                                                token_sequence = True,
-                                                                batch_size = kwargs['batch_size'],
-                                                                )
-                
-        # Random
-        lama_scores_random, scores_by_rela_random = self._compute_lama_scores(
-                                        df = datasets['random'],
-                                        num_eval = -1,
-                                        token_sequence = True,
-                                        batch_size = kwargs['batch_size'],
-                                        )
-        
-        
-        return {kwargs['lama_name']: {'scores': lama_scores_lama,
-                                      'scores_by_rela': scores_by_rela_lama},
-                'autoprompt': {'scores': lama_scores_autoprompt,
-                               'scores_by_rela': scores_by_rela_autoprompt},
-                'random': {'scores': lama_scores_random,
-                           'scores_by_rela': scores_by_rela_random},}
+        return res
         
         
     def compute_embeddings_analysis(self,

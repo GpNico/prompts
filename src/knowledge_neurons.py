@@ -141,7 +141,7 @@ class KnowledgeNeurons:
                     
         return relative_probs
     
-    def compute_overlap(self) -> None:
+    def compute_overlap(self) -> Tuple[Dict[str, int], Dict[str, int], Dict[str, int]]:
         
         # Result path
         res_path = Path(self.kns_path).parent.absolute()
@@ -180,12 +180,17 @@ class KnowledgeNeurons:
             # Compute rela overlap
             overlap_by_rela[rela] = KnowledgeNeurons._overlap_metrics(pararel_rela_kns, 
                                                                       autoprompt_rela_kns)
+                
+            # Print Overlap
             print(f"\t{rela}: {np.round(overlap_by_rela[rela]['overlap'], 2)}  (on {np.round(overlap_by_rela[rela]['num_kns_1'] ,2)} ParaRel KNs & {np.round(overlap_by_rela[rela]['num_kns_2'] ,2)} Autoprompt KNs)")
             
         # Global overlap
         global_overlap = KnowledgeNeurons._overlap_metrics(pararel_kns, 
                                                            autoprompt_kns)
+        
         print(f"Total Overlap: {np.round(global_overlap['overlap'], 2)}  (on {np.round(global_overlap['num_kns_1'] ,2)} ParaRel KNs & {np.round(global_overlap['num_kns_2'] ,2)} Autoprompt KNs)")
+        
+        return global_overlap['layer_kns_1'], global_overlap['layer_kns_2'], global_overlap['layer_overlap_kns']
             
                             
     def compute_knowledge_neurons_by_uuid(
@@ -553,7 +558,7 @@ class KnowledgeNeurons:
     
     @staticmethod
     def _overlap_metrics(kns_dict_1: Dict[str, List[ Tuple[float, float]]],
-                         kns_dict_2: Dict[str, List[ Tuple[float, float]]]) -> Dict[str, float]:
+                         kns_dict_2: Dict[str, List[ Tuple[float, float]]]) -> Dict[str, Union[float, Dict[str, float]]]:
         """
             For each uuid get its KNs and compute the overlap.
             
@@ -562,6 +567,10 @@ class KnowledgeNeurons:
         """
         overlap = 0.
         prop_overlap = 0. # TBD
+        layer_kns_1, layer_kns_2 = {}, {}
+        seen_kns_1, seen_kns_2 = set(), set()
+        seen_overlap_kns = set()
+        layer_overlap_kns = {}
         num_kns_1 = 0.
         num_kns_2 = 0.
         for uuid in kns_dict_1.keys():
@@ -571,11 +580,39 @@ class KnowledgeNeurons:
             kns1 = [(e[0], e[1]) for e in kns1]
             kns2 = [(e[0], e[1]) for e in kns2]
             
+            # Get layer
+            for kn in kns1:
+                layer,_=kn
+                if kn not in seen_kns_1:
+                    if layer in layer_kns_1.keys():
+                        layer_kns_1[layer] += 1
+                    else:
+                        layer_kns_1[layer] = 1
+                seen_kns_1.add(kn)
+            for kn in kns2:
+                layer,_=kn
+                if kn not in seen_kns_2:
+                    if layer in layer_kns_2.keys():
+                        layer_kns_2[layer] += 1
+                    else:
+                        layer_kns_2[layer] = 1
+                seen_kns_2.add(kn)
+            
             # num kns
             num_kns_1 += len(kns1)
             num_kns_2 += len(kns2)
             # overlap
             kns_overlap = set(kns1).intersection(set(kns2))
+            
+            # Overlap KNs layer
+            for kn in kns_overlap:
+                layer, _ = kn
+                if kn not in seen_overlap_kns: # don't count the same kn twice 
+                    if layer in layer_overlap_kns.keys():
+                        layer_overlap_kns[layer] += 1
+                    else:
+                        layer_overlap_kns[layer] = 1
+                seen_overlap_kns.add(kn)
             
             # Here we compute the size of the overlap
             # We could also compute the proportion of KNs shared
@@ -583,4 +620,7 @@ class KnowledgeNeurons:
             
         return {'overlap': overlap/len(kns_dict_1),
                 'num_kns_1': num_kns_1/len(kns_dict_1),
-                'num_kns_2': num_kns_2/len(kns_dict_2)}
+                'num_kns_2': num_kns_2/len(kns_dict_2),
+                'layer_kns_1': layer_kns_1,
+                'layer_kns_2': layer_kns_2,
+                'layer_overlap_kns': layer_overlap_kns}

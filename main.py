@@ -11,7 +11,7 @@ from src.data import load_data_wrapper, load_pararel_by_uuid
 from src.metrics import MetricsWrapper
 from src.models import ModelWrapper
 from src.knowledge_neurons import KnowledgeNeurons
-from src.plots import plot_lama_scores, plot_rela_nll_perplexity, plot_embeddings_dim_red, plot_clustering, plot_R_sq, plot_curvatures, plot_kns_surgery
+from src.plots import plot_lama_scores, plot_rela_nll_perplexity, plot_embeddings_dim_red, plot_clustering, plot_R_sq, plot_curvatures, plot_kns_surgery, plot_KNs_layer_distribution
 from src.utils import process_data_to_classify
 
 if __name__ == '__main__':
@@ -146,6 +146,8 @@ if __name__ == '__main__':
         lama_name = 'mlama'
     elif 'pararel' in datasets_to_load:
         lama_name = 'pararel'
+    else:
+        lama_name = None
     
     langs_to_load = args.langs_to_load.split('-')
     if langs_to_load == ['']:
@@ -154,14 +156,9 @@ if __name__ == '__main__':
     if not(args.knowledge_neurons):
         # under the assumption that we load autoprompts, useless otherwise
         seeds = [int(seed) for seed in args.seeds.split('-')]
-        autoprompt_paths = [os.path.join(
-                                "data",
-                                f"{args.model_name}_en_seed_{seed}.csv"
-                                ) for seed in seeds]
             
         datasets = load_data_wrapper(
                                 datasets_to_load = datasets_to_load,
-                                autoprompt_paths = autoprompt_paths,
                                 tokenizer = tokenizer,
                                 n_tokens = args.n_tokens,
                                 n_random_prompts = args.n_random_prompts,
@@ -186,11 +183,11 @@ if __name__ == '__main__':
                             lower = True
                             )
         
-        kns_path = os.path.join('results', 'knowledge_neurons', args.model_name)
+        kns_path_raw = os.path.join('results', 'knowledge_neurons', args.model_name)
         if datasets_to_load[0] == 'pararel':
-            kns_path = os.path.join(kns_path, 'pararel')
+            kns_path = os.path.join(kns_path_raw, 'pararel')
         elif datasets_to_load[0] == 'autoprompt':
-            kns_path = os.path.join(kns_path, 'autoprompt')
+            kns_path = os.path.join(kns_path_raw, 'autoprompt')
         os.makedirs(kns_path, exist_ok=True)
         
         kn = KnowledgeNeurons(
@@ -210,9 +207,29 @@ if __name__ == '__main__':
             plot_kns_surgery(relative_probs, kns_path, kns_match = not(args.kns_unmatch))
             
         if args.kns_overlap:
-            kn.compute_overlap()
+            layer_kns_pararel, layer_kns_autoprompt, layer_overlap_kns = kn.compute_overlap()
             
-        
+            plot_KNs_layer_distribution(
+                                layer_kns_pararel, 
+                                num_layers = model.model.config.num_hidden_layers,
+                                dataset = 'pararel',
+                                overlap = False,
+                                kns_path = kns_path_raw
+                                )
+            plot_KNs_layer_distribution(
+                                layer_kns_autoprompt, 
+                                num_layers = model.model.config.num_hidden_layers,
+                                dataset = 'autoprompt',
+                                overlap = False,
+                                kns_path = kns_path_raw
+                                )
+            
+            plot_KNs_layer_distribution(
+                                layer_overlap_kns, 
+                                num_layers = model.model.config.num_hidden_layers,
+                                overlap = True,
+                                kns_path = kns_path_raw
+                                )
         
     
     ### Compute Metrics ###
@@ -299,29 +316,17 @@ if __name__ == '__main__':
         
         os.makedirs(os.path.join('results', "lama_scores"), exist_ok=True)
         
-        scores_name_lama = f'{args.model_name}_{lama_name}_scores_{lama_name}.pickle'
-        scores_by_rela_name_lama = f'{args.model_name}_{lama_name}_scores_by_rela_{lama_name}.pickle'
-        scores_name_autoprompt = args.model_name + f'_{lama_name}' + '_scores_autoprompt_seed{}.pickle'
-        scores_by_rela_name_autoprompt = args.model_name + f'_{lama_name}' + '_scores_by_rela_autoprompt_seed{}.pickle'
+        scores_name = f'{args.model_name}_scores_'+ '{}.pickle'
+        scores_by_rela_name = f'{args.model_name}_scores_by_rela_' +'{}.pickle'
+        for dataset_name in lama_scores_res_dict.keys():
+            with open(os.path.join('results', 'lama_scores', scores_name.format(dataset_name)), 'wb') as f:
+                pickle.dump(lama_scores_res_dict[dataset_name]['scores'], f)
+            with open(os.path.join('results', 'lama_scores', scores_by_rela_name.format(dataset_name)), 'wb') as f:
+                pickle.dump(lama_scores_res_dict[dataset_name]['scores_by_rela'], f)
         
-        with open(os.path.join('results', 'lama_scores', scores_name_lama), 'wb') as f:
-            pickle.dump(lama_scores_res_dict[lama_name]['scores'], f)
-        
-        with open(os.path.join('results', 'lama_scores', scores_by_rela_name_lama), 'wb') as f:
-            pickle.dump(lama_scores_res_dict[lama_name]['scores_by_rela'], f)
-            
-        if 'autoprompt' in datasets_to_load:
-            for seed in seeds:
-                with open(os.path.join('results', 'lama_scores', scores_name_autoprompt.format(seed) ), 'wb') as f:
-                    pickle.dump(lama_scores_res_dict['autoprompt']['scores'][seed], f)
-                    
-                with open(os.path.join('results', 'lama_scores', scores_by_rela_name_autoprompt.format(seed)), 'wb') as f:
-                    pickle.dump(lama_scores_res_dict['autoprompt']['scores_by_rela'][seed], f)
         
         plot_lama_scores(
-            lama_scores_lama = lama_scores_res_dict[lama_name]['scores'],
-            lama_scores_autoprompt = lama_scores_res_dict['autoprompt']['scores'],
-            lama_scores_random = lama_scores_res_dict['random']['scores'],
+            lama_scores = lama_scores_res_dict,
             model_name = args.model_name,
             seeds = seeds,
             lama_name = lama_name

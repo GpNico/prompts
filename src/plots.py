@@ -9,35 +9,21 @@ from typing import Tuple, Dict, List
 
 
 
-def plot_lama_scores(lama_scores_lama: dict,
-                     lama_scores_autoprompt: dict,
-                     lama_scores_random: dict,
+def plot_lama_scores(lama_scores: dict,
                      **kwargs) -> None:
     """
         Args:
-            lama_scores_lama (dict) {'P@1': 0.26,
-                                     'P@5': 0.45,
-                                     'P@20': 0.62,
-                                     'P@100': 0.79}
-            lama_scores_autoprompt (dict of dict) dict of autoprompts scores (values)
-                                                  for different seeds (keys)
+            lama_scores (dict) keys: dataset_name values: dict    keys: scores, _   values: {'P@1': 0.26,
+                                                                                            'P@5': 0.45,
+                                                                                            'P@20': 0.62,
+                                                                                            'P@100': 0.79}
     """
     fig, ax = plt.subplots(1,1,figsize = (8, 4)) 
-
-    xs = [int(k[2:]) for k in lama_scores_lama.keys()]
-
-    ax.plot(xs, lama_scores_lama.values(), linestyle = '--', marker = 'x', label = 'LAMA')
     
-    if len(lama_scores_autoprompt) > 0: 
-        for seed in kwargs['seeds']:
-            ax.plot(xs, 
-                    lama_scores_autoprompt[seed].values(), 
-                    linestyle = '--', 
-                    marker = 'x', 
-                    label = f'AutoPrompt (seed {seed})')
-            
-    ax.plot(xs, lama_scores_random.values(), linestyle = '--', marker = 'x', label = 'random')
-
+    
+    for dataset_name in lama_scores.keys():
+        xs = [int(k[2:]) for k in lama_scores[dataset_name]['scores'].keys()]
+        ax.plot(xs, lama_scores[dataset_name]['scores'].values(), linestyle = '--', marker = 'x', label = dataset_name)
 
     ax.set_ylim([0,1])
     ax.legend()
@@ -49,7 +35,10 @@ def plot_lama_scores(lama_scores_lama: dict,
     ax.set_ylabel('P@k')
     ax.set_title(f"{kwargs['model_name']} P@k for LAMA & AutoPrompt")
     
-    fig_name = f"{kwargs['model_name']}_{kwargs['lama_name']}_scores.png"
+    fig_name = f"{kwargs['model_name']}_"
+    for dataset_name in lama_scores.keys():
+        fig_name += dataset_name + '_'
+    fig_name += "scores.png"
 
     plt.savefig(
         os.path.join(
@@ -438,7 +427,7 @@ def plot_kns_surgery(relative_probs: Dict[str, Dict[str, float]],
 
     plt.hlines(0, xmin=0, xmax=n_relas, color='black')
     plt.xlim((0,n_relas))
-    plt.ylim((-5,5))
+    #plt.ylim((-5,5))
     plt.xticks(np.arange(n_relas) + 0.5, rela_names)
 
     # Legend
@@ -462,4 +451,36 @@ def plot_kns_surgery(relative_probs: Dict[str, Dict[str, float]],
             )
         )
     plt.show()
+    plt.close()
+    
+    
+def plot_KNs_layer_distribution(layer_kns: Dict[str,int], **kwargs) -> None:
+
+    num_neurons = 3072
+    layer_scores = [0]*kwargs['num_layers']
+    for layer, count in layer_kns.items():
+        layer_scores[layer] += count
+
+    layer_scores = [s*100/num_neurons for s in layer_scores]
+
+    plt.bar(np.arange(len(layer_scores)), layer_scores)
+    plt.xlabel('Layer')
+    plt.ylabel('Percentage')
+    if kwargs['overlap']:
+        plt.title(f'Knowledge Neurons Overlap Layer Distribution')
+        plt.savefig(
+            os.path.join(
+                kwargs['kns_path'],
+                f"kns_overlap_layer_distrib.png"
+            )
+        )
+    else:
+        plt.title(f'Knowledge Neurons Layer Distribution ({kwargs["dataset"]})')
+        plt.savefig(
+            os.path.join(
+                kwargs['kns_path'],
+                kwargs['dataset'],
+                f"kns_layer_distrib.png"
+            )
+        )
     plt.close()

@@ -37,7 +37,13 @@ def load_data_wrapper(datasets_to_load: list,
         datasets['mlama'] = load_mlama(kwargs['langs_to_load'])
         
     if 'autoprompt' in datasets_to_load:
-        for seed, path in zip(kwargs['seeds'], kwargs['autoprompt_paths']):
+        autoprompt_paths = [os.path.join(
+                            "data",
+                            "autoprompt",
+                            "vanilla",
+                            f"{kwargs['model_name']}_en_seed_{seed}.csv"
+                            ) for seed in kwargs['seeds']]
+        for seed, path in zip(kwargs['seeds'], autoprompt_paths):
             autoprompt = load_autoprompt(path = path)
             if 'lama' in datasets.keys():
                 datasets[f'autoprompt_seed{seed}'] = autoprompt_as_lama(
@@ -49,6 +55,17 @@ def load_data_wrapper(datasets_to_load: list,
                                                             lama = datasets['mlama'],
                                                             autoprompt = autoprompt
                                                             )
+    if 'autoprompt_shuffle_2':
+        df = load_pararel_by_uuid(
+                    tokenizer = kwargs['tokenizer'],
+                    remove_multiple_tokens = True,
+                    autoprompt = True,
+                    lower = True,
+                    pandas = True,
+                    min_n_prompts = 0,
+                    autoprompt_type = 'shuffle_2')
+        for seed in kwargs['seeds']:
+            datasets[f'autoprompt_shuffle_2_seed{seed}'] = df[df['prompt_id'] == seed]
 
     if 'random' in datasets_to_load:
         rd_prompts = create_random_prompts(
@@ -212,18 +229,15 @@ def random_prompts_as_lama(lama: pd.core.frame.DataFrame,
     # Second step: we can use the autoprompt function
     return autoprompt_as_lama(lama, rd_prompts_df)
 
-
-def load_pararel():
-    """
-        Load the ParaRel with the above framework. 
-    """
-    ...
     
 def load_pararel_by_uuid(
                     tokenizer: PreTrainedTokenizer = None,
                     remove_multiple_tokens: bool = True,
                     autoprompt: bool = False,
-                    lower: bool = False) -> Dict[str, Dict[str, Union[List[str], str]]]:
+                    lower: bool = False,
+                    pandas: bool = True,
+                    min_n_prompts: int = 4,
+                    autoprompt_type: str = 'vanilla') -> Dict[str, Dict[str, Union[List[str], str]]]:
     """
         Load each JSON from pararel folder, create sentences,
         replace [X] by sub_label, [Y] by [MASK] and stores obj_label
@@ -242,6 +256,14 @@ def load_pararel_by_uuid(
         
         This function is the exception of this file as it is to be called on its 
         own i.e. not through the load_data_wrapper.
+        
+        If pandas == True, convert dict to pandas dataframe to match others datasets
+        format.
+        
+        Keys: predicate_id
+        Values: Dict         Keys: uuid
+                             Values: Dict       Keys: sentences, Y, num_prompts
+                                                Values: List[str], str, str
     """
     
     assert tokenizer or not(remove_multiple_tokens)
@@ -279,13 +301,26 @@ def load_pararel_by_uuid(
                                     )
                         )
     
+    # Autoprompt particularity
+    if 'shuffle' in autoprompt_type:
+        shuffled_num = autoprompt_type[-1]
+        autoprompt_type = os.path.join('shuffle', shuffled_num)
+    
+    
     # Load Data
     dataset = {}
+    if pandas:
+            predicate_id_lst = []
+            uuid_lst = []
+            sub_surface_lst = []
+            obj_surface_lst = []
+            template_lst = []
+            prompt_id_lst = []
     for predicate_id in predicate_ids:
         # Load Prompts
         prompts = []
         if autoprompt:
-            with open(os.path.join('data', 'autoprompt_jsonl', f'{predicate_id}.jsonl'), 'r') as f:
+            with open(os.path.join('data', 'autoprompt_jsonl', autoprompt_type, f'{predicate_id}.jsonl'), 'r') as f:
                 for line in f:
                     data = json.loads(line)
                     prompts.append(data['pattern'])
@@ -297,27 +332,43 @@ def load_pararel_by_uuid(
 
         # Load Xs, Ys
         trex_vocab = []
-        with open(os.path.join('data', 'pararel', 'trex_lms_vocab', f'{predicate_id}.jsonl'), 'r') as f:
-            for line in f:
-                data = json.loads(line)
-                trex_vocab.append((data['sub_label'], data['obj_label'], data['uuid']))
+        if 'shuffle' in autoprompt_type:
+            # Need to load the appropriate LAMA dataset
+            with open(os.path.join('data', 'shuffled_trex', shuffled_num, f'{predicate_id}' , 'train.jsonl'), 'r') as f:
+                for line in f:
+                    data = json.loads(line)
+                    trex_vocab.append((data['sub_label'], data['obj_label'], data['uuid']))
+        else:
+            with open(os.path.join('data', 'pararel', 'trex_lms_vocab', f'{predicate_id}.jsonl'), 'r') as f:
+                for line in f:
+                    data = json.loads(line)
+                    trex_vocab.append((data['sub_label'], data['obj_label'], data['uuid']))
                 
         # Oraganize and Process Data
         num_prompts = len(prompts)
-        if num_prompts < 4:
+        if num_prompts < min_n_prompts:
             print(f"Relation {predicate_id} skipped. Not enough prompts.")
             continue
-
+        
         dataset_by_uuid = {}
+        
         for X, Y, uuid in trex_vocab:
             if remove_multiple_tokens:
                 input_ids = tokenizer(Y).input_ids[1:-1]
             if len(input_ids)>1:
                 continue
             if lower:
+                X = X.lower()
                 Y = Y.lower()
             dataset_by_uuid[uuid] = {"sentences": [], 'Y': Y, 'num_prompts': num_prompts}
-            for prompt in prompts:
+            for i, prompt in enumerate(prompts):
+                if pandas:
+                    uuid_lst.append(uuid)
+                    sub_surface_lst.append(X)
+                    obj_surface_lst.append(Y)
+                    template_lst.append(prompt)
+                    prompt_id_lst.append(i)
+                    predicate_id_lst.append(predicate_id)
                 if lower:
                     sentence = prompt.replace('[X]', X).lower()
                     sentence = sentence.replace('[y]', '[MASK]') # /!\
@@ -328,5 +379,17 @@ def load_pararel_by_uuid(
         # Store Data
         dataset[predicate_id] = dataset_by_uuid
         
-    return dataset
+    if pandas:
+
+        df = pd.DataFrame(
+                          data = {"predicate_id": predicate_id_lst,
+                                  "uuid": uuid_lst,
+                                  "sub_surface": sub_surface_lst,
+                                  "obj_surface": obj_surface_lst,
+                                  'template': template_lst,
+                                  "prompt_id": prompt_id_lst}
+                          )
+        return df
+    else:
+        return dataset
 
